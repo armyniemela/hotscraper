@@ -28,7 +28,7 @@ jobs:
     - name: Install all necessary packages
       run: pip install jupyter lxml pandas requests beautifulsoup4 html5lib
     - name: Scraping today's data
-      run: jupyter nbconvert --to notebook --execute "scraperoma.ipynb" --stdout
+      run: jupyter nbconvert --to notebook --execute "tablescrapewarm.ipynb" --stdout
     - name: Commit and push any changes
       run: |-
         git config user.name "Automated"
