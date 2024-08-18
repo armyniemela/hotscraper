@@ -1,5 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-K4A6,,47.0,K4A6 181315Z
+NJF  ORNI,Al Najaf International Airport,47.0,ORNI 181300Z
+AWZ  OIAW,Ahwaz Airport,47.0,OIAW 181330Z
 KQTZ,,46.0,KQTZ
 AKH  OEPS,Prince Sultan Air Base,46.0,OEPS 181255Z
 HOF  OEAH,Al Ahsa Airport,46.0,OEAH 181300Z
@@ -14,10 +15,10 @@ DMM  OEDF,King Fahd International Airport,44.0,OEDF 181300Z
 DWD  OEDM,King Salman Abdulaziz Airport,44.0,OEDM 181300Z
 RAE  OERR,Arar Domestic Airport,44.0,OERR 181300Z
 KIK  ORKK,Kirkuk Air Base,44.0,ORKK 181300Z
+RAK  GMMX,Menara Airport,44.0,GMMX 181330Z
 OKKK,,43.0,OKKK 181259Z
 TIN  DAOF,Tindouf Airport,43.0,DAOF 181300Z
 INZ  DAUI,In Salah Airport,43.0,DAUI 181300Z
-RAK  GMMX,Menara Airport,43.0,GMMX 181300Z
 ASW  HESN,Aswan International Airport,43.0,HESN 181300Z
 MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 181300Z
 OEMN,,43.0,OEMN 181300Z
@@ -43,4 +44,3 @@ ELG  DAUE,El Golea Airport,41.0,DAUE 181300Z
 ERH  GMFK,Moulay Ali Cherif Airport,41.0,GMFK 181300Z
 BHH  OEBH,Bisha Airport,41.0,OEBH 181300Z
 AJF  OESK,Al-Jawf Domestic Airport,41.0,OESK 181300Z
-KHD  OICK,Khoram Abad Airport,41.0,OICK 181300Z
