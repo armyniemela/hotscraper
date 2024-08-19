@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-FDR  KFDR,Frederick Regional Airport,41.0,KFDR 182353Z
-GAG  KGAG,Gage Airport,41.0,KGAG 182353Z
-FSI  KFSI,Henry Post Army Air Field (Fort Sill),41.0,KFSI 182355Z
-LTS  KLTS,Altus Air Force Base,41.0,KLTS 182355Z
-EED  KEED,Needles Airport,41.0,KEED 182356Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),41.0,KNJK 182356Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 182357Z
-KNOZ,,41.0,KNOZ
-K4A6,,41.0,K4A6 190035Z
-KF05,,41.0,KF05 190035Z
-HII  KHII,Lake Havasu City Airport,41.0,KHII 190035Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 182340Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,40.0,MMHO 182341Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,40.0,KTRM 182352Z
-CDS  KCDS,Childress Municipal Airport,40.0,KCDS 182353Z
-CSM  KCSM,Clinton Sherman Airport,40.0,KCSM 182353Z
-DRT  KDRT,Del Rio International Airport,40.0,KDRT 182353Z
-PSP  KPSP,Palm Springs International Airport,40.0,KPSP 182353Z
-LAS  KLAS,McCarran International Airport,40.0,KLAS 182356Z
-AXS  KAXS,Altus Quartz Mountain Regional Airport,40.0,KAXS 190035Z
-KIP  KCWC,Kickapoo Downtown Airport,40.0,KCWC 190035Z
-DUA  KDUA,Eaker Field,40.0,KDUA 190035Z
-DUC  KDUC,Halliburton Field,40.0,KDUC 190035Z
-KL08,,40.0,KL08 190035Z
-KOJA,Thomas P Stafford Airport,40.0,KOJA 190035Z
-KGPM,Grand Prairie Municipal Airport,39.0,KGPM 182350Z
-KHQZ,Mesquite Metro Airport,39.0,KHQZ
-ABI  KABI,Abilene Regional Airport,39.0,KABI 182352Z
-KDTO,Denton Municipal Airport,39.0,KDTO 182353Z
-KGKY,Arlington Municipal Airport,39.0,KGKY 182353Z
-MWL  KMWL,Mineral Wells Regional Airport,39.0,KMWL 182353Z
-VGT  KVGT,North Las Vegas Airport,39.0,KVGT 182353Z
-DYS  KDYS,Dyess Air Force Base,39.0,KDYS 182355Z
-KFWS,Fort Worth Spinks Airport,39.0,KFWS 182355Z
-KGXF,,39.0,KGXF 182355Z
-LSV  KLSV,Nellis Air Force Base,39.0,KLSV 182355Z
-SHV  KSHV,Shreveport Regional Airport,39.0,KSHV 182356Z
-DLF  KDLF,DLF Airport,39.0,KDLF 190000Z
-BKD  KBKD,Stephens County Airport,39.0,KBKD 190035Z
-KBVU,,39.0,KBVU 190035Z
-ADS  KADS,Addison Airport,39.0,KADS 190047Z
-DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 182350Z
-BGD  KBGD,Hutchinson County Airport,38.0,KBGD 182351Z
-ELP  KELP,El Paso International Airport,38.0,KELP 182351Z
-SAD  KSAD,Safford Regional Airport,38.0,KSAD 182351Z
+AWZ  OIAW,Ahwaz Airport,47.0,OIAW 191200Z
+NJF  ORNI,Al Najaf International Airport,47.0,ORNI 191200Z
+KQTZ,,46.0,KQTZ
+AKH  OEPS,Prince Sultan Air Base,46.0,OEPS 191155Z
+RUH  OERK,King Khaled International Airport,46.0,OERK 191200Z
+WAE  OEWD,Wadi Al Dawasir Airport,46.0,OEWD 191200Z
+AKW  OIAG,Aghajari Airport,46.0,OIAG 191200Z
+BGW  ORBI,Baghdad International Airport,46.0,ORBI 191200Z
+INZ  DAUI,In Salah Airport,45.0,DAUI 191200Z
+HOF  OEAH,Al Ahsa Airport,45.0,OEAH 191200Z
+OEKJ,,45.0,OEKJ 191200Z
+RAH  OERF,Rafha Domestic Airport,45.0,OERF 191200Z
+OKKK,,45.0,OKKK 191200Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,44.0,DAUA 191200Z
+TMX  DAUT,Timimoun Airport,44.0,DAUT 191200Z
+DWD  OEDM,King Salman Abdulaziz Airport,44.0,OEDM 191200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 191200Z
+RAE  OERR,Arar Domestic Airport,44.0,OERR 191200Z
+SHW  OESH,Sharurah Airport,44.0,OESH 191200Z
+KIK  ORKK,Kirkuk Air Base,44.0,ORKK 191200Z
+ELG  DAUE,El Golea Airport,43.0,DAUE 191200Z
+ETM  LLER,Ramon Airport,42.0,LLER 191150Z
+XJD  OTBH,Al Udeid Air Base,42.0,OTBH 191155Z
+HME  DAUH,Oued Irara Airport,42.0,DAUH 191200Z
+OGX  DAUU,Ain el Beida Airport,42.0,DAUU 191200Z
+IAM  DAUZ,In Aménas Airport,42.0,DAUZ
+OEAO,,42.0,OEAO 191200Z
+BHH  OEBH,Bisha Airport,42.0,OEBH 191200Z
+DMM  OEDF,King Fahd International Airport,42.0,OEDF 191200Z
+HAS  OEHL,Ha'il Airport,42.0,OEHL 191200Z
+AJF  OESK,Al-Jawf Domestic Airport,42.0,OESK 191200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 191200Z
+KKS  OIFK,Kashan Airport,42.0,OIFK 191200Z
+LRR  OISL,Lar Airport,42.0,OISL 191200Z
+LFM  OISR,Lamerd Airport,42.0,OISR 191200Z
+EBL  ORER,Erbil International Airport,42.0,ORER 191200Z
+GXF  OYSY,Sayun International Airport,42.0,OYSY 191200Z
+MQM  LTCR,Mardin Airport,41.0,LTCR 191150Z
+OEMN,,41.0,OEMN 191200Z
+EAM  OENG,Nejran Airport,41.0,OENG 191200Z
+TCX  OIMT,Tabas Airport,41.0,OIMT 191200Z
+FAZ  OISF,Fasa Airport,41.0,OISF 191200Z
+SYZ  OISS,Shiraz Shahid Dastghaib International Airport,41.0,OISS 191200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+AQJ  OJAQ,Aqaba King Hussein International Airport,41.0,OJAQ 191200Z
