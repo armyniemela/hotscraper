@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NJF  ORNI,Al Najaf International Airport,47.0,ORNI 181300Z
-AWZ  OIAW,Ahwaz Airport,47.0,OIAW 181330Z
-KQTZ,,46.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,46.0,OEPS 181255Z
-HOF  OEAH,Al Ahsa Airport,46.0,OEAH 181300Z
-ELQ  OEGS,Gassim Airport,46.0,OEGS 181300Z
-RAH  OERF,Rafha Domestic Airport,46.0,OERF 181300Z
-RUH  OERK,King Khaled International Airport,46.0,OERK 181300Z
-WAE  OEWD,Wadi Al Dawasir Airport,46.0,OEWD 181300Z
-ABD  OIAA,Abadan Airport,46.0,OIAA 181300Z
-BGW  ORBI,Baghdad International Airport,46.0,ORBI 181301Z
-TMX  DAUT,Timimoun Airport,44.0,DAUT 181300Z
-DMM  OEDF,King Fahd International Airport,44.0,OEDF 181300Z
-DWD  OEDM,King Salman Abdulaziz Airport,44.0,OEDM 181300Z
-RAE  OERR,Arar Domestic Airport,44.0,OERR 181300Z
-KIK  ORKK,Kirkuk Air Base,44.0,ORKK 181300Z
-RAK  GMMX,Menara Airport,44.0,GMMX 181330Z
-OKKK,,43.0,OKKK 181259Z
-TIN  DAOF,Tindouf Airport,43.0,DAOF 181300Z
-INZ  DAUI,In Salah Airport,43.0,DAUI 181300Z
-ASW  HESN,Aswan International Airport,43.0,HESN 181300Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 181300Z
-OEMN,,43.0,OEMN 181300Z
-AAN  OMAL,Al Ain International Airport,43.0,OMAL 181300Z
-EBL  ORER,Erbil International Airport,43.0,ORER 181300Z
-VVZ  DAAP,Illizi Takhamalt Airport,42.0,DAAP 181300Z
-IAM  DAUZ,In Aménas Airport,42.0,DAUZ
-OZG  GMAZ,Zagora Airport,42.0,GMAZ
-BEM  GMMD,Beni Mellal Airport,42.0,GMMD 181300Z
-ABS  HEBL,Abu Simbel Airport,42.0,HEBL 181300Z
-LXR  HELX,Luxor International Airport,42.0,HELX 181300Z
-OEAO,,42.0,OEAO 181300Z
-HAS  OEHL,Ha'il Airport,42.0,OEHL 181300Z
-SHW  OESH,Sharurah Airport,42.0,OESH 181300Z
-AKW  OIAG,Aghajari Airport,42.0,OIAG 181300Z
-AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 181300Z
-DWC  OMDW,Al Maktoum International Airport,42.0,OMDW 181300Z
-ISU  ORSU,Sulaymaniyah International Airport,42.0,ORSU 181300Z
-ETM  LLER,Ramon Airport,41.0,LLER 181250Z
-KQD3,,41.0,KQD3 181255Z
-KQRH,,41.0,KQRH 181255Z
-ELG  DAUE,El Golea Airport,41.0,DAUE 181300Z
-ERH  GMFK,Moulay Ali Cherif Airport,41.0,GMFK 181300Z
-BHH  OEBH,Bisha Airport,41.0,OEBH 181300Z
-AJF  OESK,Al-Jawf Domestic Airport,41.0,OESK 181300Z
+FDR  KFDR,Frederick Regional Airport,41.0,KFDR 182353Z
+GAG  KGAG,Gage Airport,41.0,KGAG 182353Z
+FSI  KFSI,Henry Post Army Air Field (Fort Sill),41.0,KFSI 182355Z
+LTS  KLTS,Altus Air Force Base,41.0,KLTS 182355Z
+EED  KEED,Needles Airport,41.0,KEED 182356Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),41.0,KNJK 182356Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 182357Z
+KNOZ,,41.0,KNOZ
+K4A6,,41.0,K4A6 190035Z
+KF05,,41.0,KF05 190035Z
+HII  KHII,Lake Havasu City Airport,41.0,KHII 190035Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 182340Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,40.0,MMHO 182341Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,40.0,KTRM 182352Z
+CDS  KCDS,Childress Municipal Airport,40.0,KCDS 182353Z
+CSM  KCSM,Clinton Sherman Airport,40.0,KCSM 182353Z
+DRT  KDRT,Del Rio International Airport,40.0,KDRT 182353Z
+PSP  KPSP,Palm Springs International Airport,40.0,KPSP 182353Z
+LAS  KLAS,McCarran International Airport,40.0,KLAS 182356Z
+AXS  KAXS,Altus Quartz Mountain Regional Airport,40.0,KAXS 190035Z
+KIP  KCWC,Kickapoo Downtown Airport,40.0,KCWC 190035Z
+DUA  KDUA,Eaker Field,40.0,KDUA 190035Z
+DUC  KDUC,Halliburton Field,40.0,KDUC 190035Z
+KL08,,40.0,KL08 190035Z
+KOJA,Thomas P Stafford Airport,40.0,KOJA 190035Z
+KGPM,Grand Prairie Municipal Airport,39.0,KGPM 182350Z
+KHQZ,Mesquite Metro Airport,39.0,KHQZ
+ABI  KABI,Abilene Regional Airport,39.0,KABI 182352Z
+KDTO,Denton Municipal Airport,39.0,KDTO 182353Z
+KGKY,Arlington Municipal Airport,39.0,KGKY 182353Z
+MWL  KMWL,Mineral Wells Regional Airport,39.0,KMWL 182353Z
+VGT  KVGT,North Las Vegas Airport,39.0,KVGT 182353Z
+DYS  KDYS,Dyess Air Force Base,39.0,KDYS 182355Z
+KFWS,Fort Worth Spinks Airport,39.0,KFWS 182355Z
+KGXF,,39.0,KGXF 182355Z
+LSV  KLSV,Nellis Air Force Base,39.0,KLSV 182355Z
+SHV  KSHV,Shreveport Regional Airport,39.0,KSHV 182356Z
+DLF  KDLF,DLF Airport,39.0,KDLF 190000Z
+BKD  KBKD,Stephens County Airport,39.0,KBKD 190035Z
+KBVU,,39.0,KBVU 190035Z
+ADS  KADS,Addison Airport,39.0,KADS 190047Z
+DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 182350Z
+BGD  KBGD,Hutchinson County Airport,38.0,KBGD 182351Z
+ELP  KELP,El Paso International Airport,38.0,KELP 182351Z
+SAD  KSAD,Safford Regional Airport,38.0,KSAD 182351Z
