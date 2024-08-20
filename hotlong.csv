@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AWZ  OIAW,Ahwaz Airport,47.0,OIAW 191200Z
-NJF  ORNI,Al Najaf International Airport,47.0,ORNI 191200Z
-KQTZ,,46.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,46.0,OEPS 191155Z
-RUH  OERK,King Khaled International Airport,46.0,OERK 191200Z
-WAE  OEWD,Wadi Al Dawasir Airport,46.0,OEWD 191200Z
-AKW  OIAG,Aghajari Airport,46.0,OIAG 191200Z
-BGW  ORBI,Baghdad International Airport,46.0,ORBI 191200Z
-INZ  DAUI,In Salah Airport,45.0,DAUI 191200Z
-HOF  OEAH,Al Ahsa Airport,45.0,OEAH 191200Z
-OEKJ,,45.0,OEKJ 191200Z
-RAH  OERF,Rafha Domestic Airport,45.0,OERF 191200Z
-OKKK,,45.0,OKKK 191200Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,44.0,DAUA 191200Z
-TMX  DAUT,Timimoun Airport,44.0,DAUT 191200Z
-DWD  OEDM,King Salman Abdulaziz Airport,44.0,OEDM 191200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 191200Z
-RAE  OERR,Arar Domestic Airport,44.0,OERR 191200Z
-SHW  OESH,Sharurah Airport,44.0,OESH 191200Z
-KIK  ORKK,Kirkuk Air Base,44.0,ORKK 191200Z
-ELG  DAUE,El Golea Airport,43.0,DAUE 191200Z
-ETM  LLER,Ramon Airport,42.0,LLER 191150Z
-XJD  OTBH,Al Udeid Air Base,42.0,OTBH 191155Z
-HME  DAUH,Oued Irara Airport,42.0,DAUH 191200Z
-OGX  DAUU,Ain el Beida Airport,42.0,DAUU 191200Z
-IAM  DAUZ,In Aménas Airport,42.0,DAUZ
-OEAO,,42.0,OEAO 191200Z
-BHH  OEBH,Bisha Airport,42.0,OEBH 191200Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 191200Z
-HAS  OEHL,Ha'il Airport,42.0,OEHL 191200Z
-AJF  OESK,Al-Jawf Domestic Airport,42.0,OESK 191200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 191200Z
-KKS  OIFK,Kashan Airport,42.0,OIFK 191200Z
-LRR  OISL,Lar Airport,42.0,OISL 191200Z
-LFM  OISR,Lamerd Airport,42.0,OISR 191200Z
-EBL  ORER,Erbil International Airport,42.0,ORER 191200Z
-GXF  OYSY,Sayun International Airport,42.0,OYSY 191200Z
-MQM  LTCR,Mardin Airport,41.0,LTCR 191150Z
-OEMN,,41.0,OEMN 191200Z
-EAM  OENG,Nejran Airport,41.0,OENG 191200Z
-TCX  OIMT,Tabas Airport,41.0,OIMT 191200Z
-FAZ  OISF,Fasa Airport,41.0,OISF 191200Z
-SYZ  OISS,Shiraz Shahid Dastghaib International Airport,41.0,OISS 191200Z
-IHR  OIZI,Iran Shahr Airport,41.0,OIZ
-AQJ  OJAQ,Aqaba King Hussein International Airport,41.0,OJAQ 191200Z
+BLH  KBLH,Blythe Airport,43.0,KBLH 192352Z
+EED  KEED,Needles Airport,43.0,KEED 192356Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,43.0,KNYL 192357Z
+KNOZ,,43.0,KNOZ
+KL08,,43.0,KL08 200035Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,42.0,KTRM 192352Z
+FDR  KFDR,Frederick Regional Airport,42.0,KFDR 192353Z
+LAW  KLAW,Lawton Fort Sill Regional Airport,42.0,KLAW 192353Z
+LAS  KLAS,McCarran International Airport,42.0,KLAS 192356Z
+BXK  KBXK,Buckeye Municipal Airport,42.0,KBXK 200035Z
+KCHD,Chandler Municipal Airport,42.0,KCHD 200047Z
+KGEU,Glendale Municipal Airport,42.0,KGEU 200047Z
+GYR  KGYR,Phoenix Goodyear Airport,42.0,KGYR 200047Z
+DAG  KDAG,Barstow Daggett Airport,41.0,KDAG 192350Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,41.0,KIWA 192350Z
+SPS  KSPS,Sheppard Air Force Base-Wichita Falls Municipal Airport,41.0,KSPS 192352Z
+KDTO,Denton Municipal Airport,41.0,KDTO 192353Z
+DVT  KDVT,Phoenix Deer Valley Airport,41.0,KDVT 192353Z
+HBR  KHBR,Hobart Regional Airport,41.0,KHBR 192353Z
+SCF  KSDL,Scottsdale Airport,41.0,KSDL 192353Z
+VGT  KVGT,North Las Vegas Airport,41.0,KVGT 192353Z
+MSC  KFFZ,Falcon Field,41.0,KFFZ
+CGZ  KCGZ,Casa Grande Municipal Airport,41.0,KCGZ
+KA39,,41.0,KA39 200035Z
+KIP  KCWC,Kickapoo Downtown Airport,41.0,KCWC 200035Z
+KF05,,41.0,KF05 200035Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,41.0,MMHO 200040Z
+KFWS,Fort Worth Spinks Airport,40.0,KFWS 192350Z
+FWH  KNFW,NAS Fort Worth JRB/Carswell Field,40.0,KNFW 192352Z
+AFW  KAFW,Fort Worth Alliance Airport,40.0,KAFW 192353Z
+CDS  KCDS,Childress Municipal Airport,40.0,KCDS 192353Z
+CSM  KCSM,Clinton Sherman Airport,40.0,KCSM 192353Z
+FTW  KFTW,Fort Worth Meacham International Airport,40.0,KFTW 192353Z
+KGKY,Arlington Municipal Airport,40.0,KGKY 192353Z
+MWL  KMWL,Mineral Wells Regional Airport,40.0,KMWL 192353Z
+HSH  KHND,Henderson Executive Airport,40.0,KHND 192356Z
+KNID,China Lake Naws (Armitage Field) Airport,40.0,KNID 192356Z
+KNXP,Twentynine Palms (Self) Airport,40.0,KNXP 192356Z
+KXBP,Bridgeport Municipal Airport,40.0,KXBP 200015Z
+AVW  KAVQ,Marana Regional Airport,40.0,KAVQ 200035Z
+AXS  KAXS,Altus Quartz Mountain Regional Airport,40.0,KAXS 200035Z
+KAZC,Colorado City Municipal Airport,40.0,KAZ
+KBVU,,40.0,KBVU 200035Z
+MZJ  KMZJ,Pinal Airpark,40.0,KMZ
+KP08,,40.0,KP08 200035Z
