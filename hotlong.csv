@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BLH  KBLH,Blythe Airport,43.0,KBLH 192352Z
-EED  KEED,Needles Airport,43.0,KEED 192356Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,43.0,KNYL 192357Z
-KNOZ,,43.0,KNOZ
-KL08,,43.0,KL08 200035Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,42.0,KTRM 192352Z
-FDR  KFDR,Frederick Regional Airport,42.0,KFDR 192353Z
-LAW  KLAW,Lawton Fort Sill Regional Airport,42.0,KLAW 192353Z
-LAS  KLAS,McCarran International Airport,42.0,KLAS 192356Z
-BXK  KBXK,Buckeye Municipal Airport,42.0,KBXK 200035Z
-KCHD,Chandler Municipal Airport,42.0,KCHD 200047Z
-KGEU,Glendale Municipal Airport,42.0,KGEU 200047Z
-GYR  KGYR,Phoenix Goodyear Airport,42.0,KGYR 200047Z
-DAG  KDAG,Barstow Daggett Airport,41.0,KDAG 192350Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,41.0,KIWA 192350Z
-SPS  KSPS,Sheppard Air Force Base-Wichita Falls Municipal Airport,41.0,KSPS 192352Z
-KDTO,Denton Municipal Airport,41.0,KDTO 192353Z
-DVT  KDVT,Phoenix Deer Valley Airport,41.0,KDVT 192353Z
-HBR  KHBR,Hobart Regional Airport,41.0,KHBR 192353Z
-SCF  KSDL,Scottsdale Airport,41.0,KSDL 192353Z
-VGT  KVGT,North Las Vegas Airport,41.0,KVGT 192353Z
-MSC  KFFZ,Falcon Field,41.0,KFFZ
-CGZ  KCGZ,Casa Grande Municipal Airport,41.0,KCGZ
-KA39,,41.0,KA39 200035Z
-KIP  KCWC,Kickapoo Downtown Airport,41.0,KCWC 200035Z
-KF05,,41.0,KF05 200035Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,41.0,MMHO 200040Z
-KFWS,Fort Worth Spinks Airport,40.0,KFWS 192350Z
-FWH  KNFW,NAS Fort Worth JRB/Carswell Field,40.0,KNFW 192352Z
-AFW  KAFW,Fort Worth Alliance Airport,40.0,KAFW 192353Z
-CDS  KCDS,Childress Municipal Airport,40.0,KCDS 192353Z
-CSM  KCSM,Clinton Sherman Airport,40.0,KCSM 192353Z
-FTW  KFTW,Fort Worth Meacham International Airport,40.0,KFTW 192353Z
-KGKY,Arlington Municipal Airport,40.0,KGKY 192353Z
-MWL  KMWL,Mineral Wells Regional Airport,40.0,KMWL 192353Z
-HSH  KHND,Henderson Executive Airport,40.0,KHND 192356Z
-KNID,China Lake Naws (Armitage Field) Airport,40.0,KNID 192356Z
-KNXP,Twentynine Palms (Self) Airport,40.0,KNXP 192356Z
-KXBP,Bridgeport Municipal Airport,40.0,KXBP 200015Z
-AVW  KAVQ,Marana Regional Airport,40.0,KAVQ 200035Z
-AXS  KAXS,Altus Quartz Mountain Regional Airport,40.0,KAXS 200035Z
-KAZC,Colorado City Municipal Airport,40.0,KAZ
-KBVU,,40.0,KBVU 200035Z
-MZJ  KMZJ,Pinal Airpark,40.0,KMZ
-KP08,,40.0,KP08 200035Z
+OKKK,,47.0,OKKK 201200Z
+KQTZ,,46.0,KQTZ
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,46.0,DAUA 201200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 201200Z
+OICM,,46.0,OICM 201200Z
+BGW  ORBI,Baghdad International Airport,46.0,ORBI 201200Z
+AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 201155Z
+ELQ  OEGS,Gassim Airport,45.0,OEGS 201200Z
+OEKJ,,45.0,OEKJ 201200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,45.0,OEYN 201200Z
+DWD  OEDM,King Salman Abdulaziz Airport,44.0,OEDM 201200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 201200Z
+RAH  OERF,Rafha Domestic Airport,44.0,OERF 201200Z
+RUH  OERK,King Khaled International Airport,44.0,OERK 201200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 201200Z
+EBL  ORER,Erbil International Airport,44.0,ORER 201200Z
+TIN  DAOF,Tindouf Airport,43.0,DAOF 201200Z
+HME  DAUH,Oued Irara Airport,43.0,DAUH 201200Z
+HOF  OEAH,Al Ahsa Airport,43.0,OEAH 201200Z
+OEAO,,43.0,OEAO 201200Z
+SXZ  LTCL,Siirt Airport,42.0,LTCL 201150Z
+ELG  DAUE,El Golea Airport,42.0,DAUE 201200Z
+OGX  DAUU,Ain el Beida Airport,42.0,DAUU 201200Z
+EBM  DTTR,El Borma Airport,42.0,DTTR 201200Z
+OEMN,,42.0,OEMN 201200Z
+RAE  OERR,Arar Domestic Airport,42.0,OERR 201200Z
+AJF  OESK,Al-Jawf Domestic Airport,42.0,OESK 201200Z
+GCH  OIAH,Gachsaran Airport,42.0,OIAH 201200Z
+ISU  ORSU,Sulaymaniyah International Airport,42.0,ORSU 201200Z
+KAC  OSKL,Qamishli Airport,42.0,OSKL 201200Z
+ETM  LLER,Ramon Airport,41.0,LLER 201150Z
+BAL  LTCJ,Batman Airport,41.0,LTCJ 201150Z
+NKT  LTCV,Şırnak Şerafettin Elçi Airport,41.0,LTCV 201150Z
+BHH  OEBH,Bisha Airport,41.0,OEBH 201200Z
+HAS  OEHL,Ha'il Airport,41.0,OEHL 201200Z
+SHW  OESH,Sharurah Airport,41.0,OESH 201200Z
+LFM  OISR,Lamerd Airport,41.0,OISR 201200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+AQJ  OJAQ,Aqaba King Hussein International Airport,41.0,OJAQ 201200Z
+AUH  OMAA,Abu Dhabi International Airport,41.0,OMAA 201200Z
+AZI  OMAD,Bateen Airport,41.0,OMAD 201200Z
+GXF  OYSY,Sayun International Airport,41.0,OYSY 201200Z
+DIY  LTCC,Diyarbakir Airport,40.0,LTCC 201150Z
+ADF  LTCP,Adıyaman Airport,40.0,LTCP 201150Z
+OZG  GMAZ,Zagora Airport,40.0,GMAZ
