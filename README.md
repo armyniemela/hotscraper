@@ -8,3 +8,4 @@
 4. Tein datawrapperilla taulukot, joiden tieto viedään raw-linkin kautta githubista.
 5. Index-verkkosivu, jonka koodiin lisätään datawrapper-koodi.
 6. Hostaan verkkosivua omassa githubissa.
+   https://armyniemela.github.io/hotscraper/
