@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-RAH  OERF,Rafha Domestic Airport,46.0,OERF 221200Z
-KIK  ORKK,Kirkuk Air Base,46.0,ORKK 221200Z
-BSR  ORMM,Basrah International Airport,46.0,ORMM 221200Z
-NJF  ORNI,Al Najaf International Airport,46.0,ORNI 221200Z
-AJF  OESK,Al-Jawf Domestic Airport,45.0,OESK 221200Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 221200Z
-RAE  OERR,Arar Domestic Airport,44.0,OERR 221200Z
-AWZ  OIAW,Ahwaz Airport,44.0,OIAW 221200Z
-TIN  DAOF,Tindouf Airport,43.0,DAOF 221200Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,43.0,DAUA 221200Z
-HOF  OEAH,Al Ahsa Airport,43.0,OEAH 221200Z
-DWD  OEDM,King Salman Abdulaziz Airport,43.0,OEDM 221200Z
-RUH  OERK,King Khaled International Airport,43.0,OERK 221200Z
-AKW  OIAG,Aghajari Airport,43.0,OIAG 221200Z
-EBL  ORER,Erbil International Airport,43.0,ORER 221200Z
-AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 221155Z
-INZ  DAUI,In Salah Airport,42.0,DAUI 221200Z
-TMX  DAUT,Timimoun Airport,42.0,DAUT 221200Z
-HAS  OEHL,Ha'il Airport,42.0,OEHL 221200Z
-OEKJ,,42.0,OEKJ 221200Z
-WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 221200Z
-ABD  OIAA,Abadan Airport,42.0,OIAA 221200Z
-SXZ  LTCL,Siirt Airport,41.0,LTCL 221150Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,41.0,LTCV 221150Z
-XJD  OTBH,Al Udeid Air Base,41.0,OTBH 221155Z
-ATR  GQPA,Atar International Airport,41.0,GQPA 221200Z
-DMM  OEDF,King Fahd International Airport,41.0,OEDF 221200Z
-URY  OEGT,Gurayat Domestic Airport,41.0,OEGT 221200Z
-TUI  OETR,Turaif Domestic Airport,41.0,OETR 221200Z
-OKKK,,41.0,OKKK 221200Z
-AAN  OMAL,Al Ain International Airport,41.0,OMAL 221200Z
-ISU  ORSU,Sulaymaniyah International Airport,41.0,ORSU 221200Z
-KAC  OSKL,Qamishli Airport,41.0,OSKL 221200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 221224Z
-DIY  LTCC,Diyarbakir Airport,40.0,LTCC 221150Z
-BAL  LTCJ,Batman Airport,40.0,LTCJ 221150Z
-MQM  LTCR,Mardin Airport,40.0,LTCR 221150Z
-SHW  OESH,Sharurah Airport,40.0,OESH 221200Z
-TUU  OETB,Tabuk Airport,40.0,OETB 221200Z
-KKS  OIFK,Kashan Airport,40.0,OIFK 221200Z
-IHR  OIZI,Iran Shahr Airport,40.0,OIZ
-AQJ  OJAQ,Aqaba King Hussein International Airport,40.0,OJAQ 221200Z
-ETM  LLER,Ramon Airport,39.0,LLER 221150Z
-MLX  LTAT,Malatya Erhaç Airport,39.0,LTAT 221150Z
-EZS  LTCA,Elazığ Airport,39.0,LTCA 221150Z
+GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 222347Z
+BLH  KBLH,Blythe Airport,41.0,KBLH 222352Z
+PSP  KPSP,Palm Springs International Airport,41.0,KPSP 222353Z
+DYS  KDYS,Dyess Air Force Base,41.0,KDYS 222355Z
+LGF  KLGF,Laguna Army Airfield,41.0,KLGF 222355Z
+KT70,,41.0,KT70 222355Z
+HII  KHII,Lake Havasu City Airport,41.0,KHII 230035Z
+SWW  KSWW,Avenger Field,41.0,KSWW 230035Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 222340Z
+NLD  MMNL,Quetzalcóatl International Airport,40.0,MMNL 222344Z
+KGEU,Glendale Municipal Airport,40.0,KGEU 222347Z
+K6R6,,40.0,K6R6 222351Z
+KHDO,South Texas Regional Airport at Hondo,40.0,KHDO 222351Z
+SAT  KSAT,San Antonio International Airport,40.0,KSAT 222351Z
+ABI  KABI,Abilene Regional Airport,40.0,KABI 222352Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,40.0,KTRM 222352Z
+AMA  KAMA,Rick Husband Amarillo International Airport,40.0,KAMA 222353Z
+COT  KCOT,Cotulla-La Salle County Airport,40.0,KCOT 222353Z
+INK  KINK,Winkler County Airport,40.0,KINK 222353Z
+SSF  KSSF,Stinson Municipal Airport,40.0,KSSF 222353Z
+LSV  KLSV,Nellis Air Force Base,40.0,KLSV 222355Z
+LUF  KLUF,Luke Air Force Base,40.0,KLUF 222355Z
+SKF  KSKF,Lackland Air Force Base,40.0,KSKF 222355Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,40.0,KNYL 222357Z
+CZT  KCZT,Dimmit County Airport,40.0,KCZ
+K5T9,,40.0,K5T9 230035Z
+KE01,,40.0,KE01 230035Z
+SNK  KSNK,Winston Field,40.0,KSNK 230035Z
+KT89,,40.0,KT89 230035Z
+PDS  MMPG,Piedras Negras International Airport,39.0,MMPG 222340Z
+KBAZ,New Braunfels Municipal Airport,39.0,KBAZ
+BGD  KBGD,Hutchinson County Airport,39.0,KBGD 222351Z
+CDS  KCDS,Childress Municipal Airport,39.0,KCDS 222353Z
+FST  KFST,Fort Stockton Pecos County Airport,39.0,KFST 222353Z
+LBB  KLBB,Lubbock Preston Smith International Airport,39.0,KLBB 222353Z
+MAF  KMAF,Midland International Airport,39.0,KMAF 222353Z
+MWL  KMWL,Mineral Wells Regional Airport,39.0,KMWL 222353Z
+KODO,Odessa Schlemeyer Field,39.0,KODO 222353Z
+VGT  KVGT,North Las Vegas Airport,39.0,KVGT 222353Z
+KFWS,Fort Worth Spinks Airport,39.0,KFWS 222355Z
+GRK  KGRK,Robert Gray Army Air Field Airport,39.0,KGRK 222355Z
+HLR  KHLR,Hood Army Air Field,39.0,KHLR 222355Z
+RND  KRND,Randolph Air Force Base,39.0,KRND 222355Z
+KSEQ,Randolph Air Force Base Auxiliary Airport,39.0,KSEQ 222355Z
+LRD  KLRD,Laredo International Airport,39.0,KLRD 222356Z
