@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ABD  OIAA,Abadan Airport,46.0,OIAA 231200Z
-BSR  ORMM,Basrah International Airport,46.0,ORMM 231200Z
-OKAS,Ali Al Salem Air Base,45.0,OKAS 231155Z
-HOF  OEAH,Al Ahsa Airport,45.0,OEAH 231200Z
-ELQ  OEGS,Gassim Airport,45.0,OEGS 231200Z
-RAE  OERR,Arar Domestic Airport,45.0,OERR 231200Z
-AWZ  OIAW,Ahwaz Airport,45.0,OIAW 231200Z
-KIK  ORKK,Kirkuk Air Base,45.0,ORKK 231200Z
-OEAO,,44.0,OEAO 231200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 231200Z
-RUH  OERK,King Khaled International Airport,44.0,OERK 231200Z
-AKW  OIAG,Aghajari Airport,44.0,OIAG 231200Z
-AKH  OEPS,Prince Sultan Air Base,43.0,OEPS 231155Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,43.0,DAUA 231200Z
-TMX  DAUT,Timimoun Airport,43.0,DAUT 231200Z
-OEKJ,,43.0,OEKJ 231200Z
-AJF  OESK,Al-Jawf Domestic Airport,43.0,OESK 231200Z
-WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 231200Z
-IHR  OIZI,Iran Shahr Airport,43.0,OIZ
-INZ  DAUI,In Salah Airport,42.0,DAUI 231200Z
-HAS  OEHL,Ha'il Airport,42.0,OEHL 231200Z
-TUU  OETB,Tabuk Airport,42.0,OETB 231200Z
-KKS  OIFK,Kashan Airport,42.0,OIFK 231200Z
-ISU  ORSU,Sulaymaniyah International Airport,42.0,ORSU 231200Z
-KAC  OSKL,Qamishli Airport,42.0,OSKL 231200Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,41.0,LTCV 231150Z
-DMM  OEDF,King Fahd International Airport,41.0,OEDF 231200Z
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 231200Z
-OEMN,,41.0,OEMN 231200Z
-SHW  OESH,Sharurah Airport,41.0,OESH 231200Z
-TCX  OIMT,Tabas Airport,41.0,OIMT 231200Z
-LFM  OISR,Lamerd Airport,41.0,OISR 231200Z
-ACZ  OIZB,Zabol Airport,41.0,OIZ
-OKKK,,41.0,OKKK 231200Z
-BAL  LTCJ,Batman Airport,40.0,LTCJ 231150Z
-SXZ  LTCL,Siirt Airport,40.0,LTCL 231150Z
-MQM  LTCR,Mardin Airport,40.0,LTCR 231150Z
-OOAD,,40.0,OOAD 231150Z
-XJD  OTBH,Al Udeid Air Base,40.0,OTBH 231155Z
-MRX  OIAM,Mahshahr Airport,40.0,OIAM 231200Z
-KHD  OICK,Khoram Abad Airport,40.0,OICK 231200Z
-IKA  OIIE,Imam Khomeini International Airport,40.0,OIIE 231200Z
-AQJ  OJAQ,Aqaba King Hussein International Airport,40.0,OJAQ 231200Z
-ETM  LLER,Ramon Airport,39.0,LLER 231150Z
-DIY  LTCC,Diyarbakir Airport,39.0,LTCC 231150Z
+GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 232347Z
+BLH  KBLH,Blythe Airport,41.0,KBLH 232352Z
+CSM  KCSM,Clinton Sherman Airport,41.0,KCSM 232353Z
+HBR  KHBR,Hobart Regional Airport,41.0,KHBR 232353Z
+LAW  KLAW,Lawton Fort Sill Regional Airport,41.0,KLAW 232353Z
+LGF  KLGF,Laguna Army Airfield,41.0,KLGF 232355Z
+LUF  KLUF,Luke Air Force Base,41.0,KLUF 232355Z
+EED  KEED,Needles Airport,41.0,KEED 232356Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 232357Z
+IFP  KIFP,Laughlin Bullhead International Airport,41.0,KIFP 240000Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 240021Z
+KGXF,,41.0,KGXF 240022Z
+HII  KHII,Lake Havasu City Airport,41.0,KHII 240035Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 232341Z
+PDS  MMPG,Piedras Negras International Airport,40.0,MMPG 232345Z
+SPS  KSPS,Sheppard Air Force Base-Wichita Falls Municipal Airport,40.0,KSPS 232352Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,40.0,KTRM 232352Z
+DRT  KDRT,Del Rio International Airport,40.0,KDRT 232353Z
+INK  KINK,Winkler County Airport,40.0,KINK 232353Z
+MSC  KFFZ,Falcon Field,40.0,KFFZ
+DLF  KDLF,DLF Airport,40.0,KDLF 232355Z
+KGEU,Glendale Municipal Airport,40.0,KGEU 240013Z
+KA39,,40.0,KA39 240035Z
+KCHD,Chandler Municipal Airport,40.0,KCHD 240047Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,39.0,MMHO 232340Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,39.0,KIWA 232349Z
+SCF  KSDL,Scottsdale Airport,39.0,KSDL 232353Z
+KT70,,39.0,KT70 232355Z
+K5T9,,39.0,K5T9 240035Z
+HCA  KBPG,Big Spring Mc Mahon-Wrinkle Airport,39.0,KBPG 240035Z
+BXK  KBXK,Buckeye Municipal Airport,39.0,KBXK 240035Z
+KIP  KCWC,Kickapoo Downtown Airport,39.0,KCWC 240035Z
+KE01,,39.0,KE01 240035Z
+PEQ  KPEQ,Pecos Municipal Airport,39.0,KPEQ 240035Z
+NLD  MMNL,Quetzalcóatl International Airport,38.0,MMNL 232340Z
+KGPM,Grand Prairie Municipal Airport,38.0,KGPM 232350Z
+ELP  KELP,El Paso International Airport,38.0,KELP 232351Z
+JCT  KJCT,Kimble County Airport,38.0,KJCT 232351Z
+AFW  KAFW,Fort Worth Alliance Airport,38.0,KAFW 232353Z
+CNM  KCNM,Cavern City Air Terminal,38.0,KCNM 232353Z
+COT  KCOT,Cotulla-La Salle County Airport,38.0,KCOT 232353Z
+DVT  KDVT,Phoenix Deer Valley Airport,38.0,KDVT 232353Z
+FST  KFST,Fort Stockton Pecos County Airport,38.0,KFST 232353Z
+GUY  KGUY,Guymon Municipal Airport,38.0,KGUY 232353Z
+LBB  KLBB,Lubbock Preston Smith International Airport,38.0,KLBB 232353Z
