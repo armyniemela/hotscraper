@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KNOZ,,39.0,KNOZ
-KCHD,Chandler Municipal Airport,39.0,KCHD 250047Z
-KGEU,Glendale Municipal Airport,39.0,KGEU 250047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,39.0,KPHX 250051Z
-KAVK,Alva Regional Airport,39.0,KAVK 250055Z
-BXK  KBXK,Buckeye Municipal Airport,39.0,KBXK 250055Z
-HII  KHII,Lake Havasu City Airport,39.0,KHII 250055Z
-IFP  KIFP,Laughlin Bullhead International Airport,39.0,KIFP 250055Z
-LUF  KLUF,Luke Air Force Base,39.0,KLUF 250055Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,38.0,MMHO 250040Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 250047Z
-BGD  KBGD,Hutchinson County Airport,38.0,KBGD 250051Z
-MSC  KFFZ,Falcon Field,38.0,KFFZ
-AXS  KAXS,Altus Quartz Mountain Regional Airport,38.0,KAXS 250055Z
-KF05,,38.0,KF05 250055Z
-KPRS,Presidio Lely International Airport,38.0,KPRS 250055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,38.0,KCGZ
-EED  KEED,Needles Airport,38.0,KEED 250056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 250056Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,37.0,KTRM 250052Z
-DRT  KDRT,Del Rio International Airport,37.0,KDRT 250053Z
-FDR  KFDR,Frederick Regional Airport,37.0,KFDR 250053Z
-HBR  KHBR,Hobart Regional Airport,37.0,KHBR 250053Z
-INK  KINK,Winkler County Airport,37.0,KINK 250053Z
-SCF  KSDL,Scottsdale Airport,37.0,KSDL 250053Z
-KA39,,37.0,KA39 250055Z
-CLK  KCLK,Clinton Regional Airport,37.0,KCLK 250055Z
-KE01,,37.0,KE01 250055Z
-KHHF,Hemphill County Airport,37.0,KHHF 250055Z
-LTS  KLTS,Altus Air Force Base,37.0,KLTS 250055Z
-KP08,,37.0,KP08 250055Z
-KULS,Ulysses Airport,37.0,KULS 250055Z
-INZ  DAUI,In Salah Airport,37.0,DAUI 250100Z
-LAP  MMLP,Manuel Márquez de León International Airport,36.0,MMLP 250040Z
-WDG  KWDG,Enid Woodring Regional Airport,36.0,KWDG 250045Z
-ELP  KELP,El Paso International Airport,36.0,KELP 250051Z
-ROW  KROW,Roswell Air Center Airport,36.0,KROW 250051Z
-SPS  KSPS,Sheppard Air Force Base-Wichita Falls Municipal Airport,36.0,KSPS 250052Z
-AMA  KAMA,Rick Husband Amarillo International Airport,36.0,KAMA 250053Z
-CNM  KCNM,Cavern City Air Terminal,36.0,KCNM 250053Z
-CSM  KCSM,Clinton Sherman Airport,36.0,KCSM 250053Z
-GAG  KGAG,Gage Airport,36.0,KGAG 250053Z
-LAW  KLAW,Lawton Fort Sill Regional Airport,36.0,KLAW 250053Z
-KODO,Odessa Schlemeyer Field,36.0,KODO 250053Z
-K36K,,36.0,K36K 250055Z
+HOF  OEAH,Al Ahsa Airport,46.0,OEAH 251200Z
+DMM  OEDF,King Fahd International Airport,46.0,OEDF 251200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 251200Z
+AWZ  OIAW,Ahwaz Airport,46.0,OIAW 251200Z
+OEKJ,,45.0,OEKJ 251200Z
+RUH  OERK,King Khaled International Airport,45.0,OERK 251200Z
+BGW  ORBI,Baghdad International Airport,45.0,ORBI 251200Z
+AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 251155Z
+XJD  OTBH,Al Udeid Air Base,44.0,OTBH 251155Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,44.0,DAUA 251200Z
+ELQ  OEGS,Gassim Airport,44.0,OEGS 251200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 251200Z
+AKW  OIAG,Aghajari Airport,44.0,OIAG 251200Z
+AAN  OMAL,Al Ain International Airport,44.0,OMAL 251200Z
+KIK  ORKK,Kirkuk Air Base,44.0,ORKK 251200Z
+DWD  OEDM,King Salman Abdulaziz Airport,43.0,OEDM 251200Z
+RAE  OERR,Arar Domestic Airport,43.0,OERR 251200Z
+ABD  OIAA,Abadan Airport,43.0,OIAA 251200Z
+LRR  OISL,Lar Airport,43.0,OISL 251200Z
+LFM  OISR,Lamerd Airport,43.0,OISR 251200Z
+IHR  OIZI,Iran Shahr Airport,43.0,OIZ
+OKKK,,43.0,OKKK 251200Z
+EBL  ORER,Erbil International Airport,43.0,ORER 251200Z
+ISU  ORSU,Sulaymaniyah International Airport,43.0,ORSU 251200Z
+INZ  DAUI,In Salah Airport,42.0,DAUI 251200Z
+TMX  DAUT,Timimoun Airport,42.0,DAUT 251200Z
+OEAO,,42.0,OEAO 251200Z
+DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 251200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 251200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 251200Z
+ACZ  OIZB,Zabol Airport,42.0,OIZ
+ASW  HESN,Aswan International Airport,41.0,HESN 251100Z
+KKS  OIFK,Kashan Airport,41.0,OIFK 251100Z
+ETM  LLER,Ramon Airport,41.0,LLER 251150Z
+OOAD,,41.0,OOAD 251150Z
+HME  DAUH,Oued Irara Airport,41.0,DAUH 251200Z
+OGX  DAUU,Ain el Beida Airport,41.0,DAUU 251200Z
+HAS  OEHL,Ha'il Airport,41.0,OEHL 251200Z
+AJF  OESK,Al-Jawf Domestic Airport,41.0,OESK 251200Z
+GXF  OYSY,Sayun International Airport,41.0,OYSY 251200Z
+LXR  HELX,Luxor International Airport,40.0,HELX 251100Z
+KHS  OOKB,Khasab Air Base,40.0,OOKB 251150Z
+TIN  DAOF,Tindouf Airport,40.0,DAOF 251200Z
+ELG  DAUE,El Golea Airport,40.0,DAUE 251200Z
+TGR  DAUK,Touggourt Sidi Madhi Airport,40.0,DAUK 251200Z
