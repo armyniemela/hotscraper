@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LUF  KLUF,Luke Air Force Base,41.0,KLUF 262355Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),41.0,KNJK 262356Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 262357Z
-KNOZ,,41.0,KNOZ
-KGEU,Glendale Municipal Airport,41.0,KGEU 270048Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 270051Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,40.0,KIWA 262352Z
-SCF  KSDL,Scottsdale Airport,40.0,KSDL 262353Z
-MSC  KFFZ,Falcon Field,40.0,KFFZ
-K4A6,,40.0,K4A6 270035Z
-BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 270035Z
-HII  KHII,Lake Havasu City Airport,40.0,KHII 270035Z
-KCHD,Chandler Municipal Airport,40.0,KCHD 270047Z
-BLH  KBLH,Blythe Airport,40.0,KBLH 270052Z
-CGZ  KCGZ,Casa Grande Municipal Airport,39.0,KCGZ
-EED  KEED,Needles Airport,39.0,KEED 262356Z
-OKKK,,39.0,OKKK 270000Z
-KA39,,39.0,KA39 270035Z
-KL08,,39.0,KL08 270035Z
-KP08,,39.0,KP08 270035Z
-IFP  KIFP,Laughlin Bullhead International Airport,39.0,KIFP 270050Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,38.0,DAUA 270000Z
-AVW  KAVQ,Marana Regional Airport,38.0,KAVQ 270035Z
-MZJ  KMZJ,Pinal Airpark,38.0,KMZ
-TRM  KTRM,Jacqueline Cochran Regional Airport,38.0,KTRM 270052Z
-DRT  KDRT,Del Rio International Airport,37.0,KDRT 262353Z
-KP28,,37.0,KP28 262356Z
-ABD  OIAA,Abadan Airport,37.0,OIAA 270000Z
-AWZ  OIAW,Ahwaz Airport,37.0,OIAW 270000Z
-KRYN,Ryan Field,37.0,KRYN 270045Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,36.0,KTUS 262353Z
-LNK  KLNK,Lincoln Airport,36.0,KLNK 262354Z
-WLD  KWLD,Strother Field,36.0,KWLD 262354Z
-DLF  KDLF,DLF Airport,36.0,KDLF 262355Z
-DMA  KDMA,Davis Monthan Air Force Base,36.0,KDMA 262355Z
-FRI  KFRI,Marshall Army Air Field,36.0,KFRI 262355Z
-OKAS,Ali Al Salem Air Base,36.0,OKAS 262355Z
-OEAO,,36.0,OEAO 270000Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,36.0,OEPA 270000Z
-BAH  OBBI,Bahrain International Airport,36.0,OBBI 270030Z
-KAVK,Alva Regional Airport,36.0,KAVK 270035Z
-ADM  KADM,Ardmore Municipal Airport,35.0,KADM 262350Z
-KHQZ,Mesquite Metro Airport,35.0,KHQZ
-BVO  KBVO,Bartlesville Municipal Airport,35.0,KBVO 262353Z
-KFNB,Brenner Field,35.0,KFNB 262353Z
+HOF  OEAH,Al Ahsa Airport,49.0,OEAH 271200Z
+BSR  ORMM,Basrah International Airport,49.0,ORMM 271200Z
+MRX  OIAM,Mahshahr Airport,48.0,OIAM 271200Z
+LFM  OISR,Lamerd Airport,47.0,OISR 271200Z
+XJD  OTBH,Al Udeid Air Base,46.0,OTBH 271155Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 271200Z
+AAN  OMAL,Al Ain International Airport,46.0,OMAL 271200Z
+NJF  ORNI,Al Najaf International Airport,46.0,ORNI 271200Z
+KQTZ,,45.0,KQTZ
+AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 271155Z
+DMM  OEDF,King Fahd International Airport,45.0,OEDF 271200Z
+ELQ  OEGS,Gassim Airport,45.0,OEGS 271200Z
+OEKJ,,45.0,OEKJ 271200Z
+RUH  OERK,King Khaled International Airport,45.0,OERK 271200Z
+ACZ  OIZB,Zabol Airport,45.0,OIZ
+OEAO,,44.0,OEAO 271200Z
+RAH  OERF,Rafha Domestic Airport,44.0,OERF 271200Z
+IHR  OIZI,Iran Shahr Airport,44.0,OIZ
+BGW  ORBI,Baghdad International Airport,44.0,ORBI 271200Z
+DHA  OEDR,King Abdulaziz Air Base,43.0,OEDR 271200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 271200Z
+WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 271200Z
+GCH  OIAH,Gachsaran Airport,43.0,OIAH 271200Z
+LRR  OISL,Lar Airport,43.0,OISL 271200Z
+ETM  LLER,Ramon Airport,42.0,LLER 271150Z
+BMW  DATM,Bordj Badji Mokhtar Airport,42.0,DATM 271200Z
+TMX  DAUT,Timimoun Airport,42.0,DAUT 271200Z
+RAE  OERR,Arar Domestic Airport,42.0,OERR 271200Z
+AQJ  OJAQ,Aqaba King Hussein International Airport,42.0,OJAQ 271200Z
+KIK  ORKK,Kirkuk Air Base,42.0,ORKK 271200Z
+OHS  OOSH,Sohar Airport,41.0,OOSH 271150Z
+KQRH,,41.0,KQRH 271155Z
+VVZ  DAAP,Illizi Takhamalt Airport,41.0,DAAP 271200Z
+HME  DAUH,Oued Irara Airport,41.0,DAUH 271200Z
+AJF  OESK,Al-Jawf Domestic Airport,41.0,OESK 271200Z
+KHD  OICK,Khoram Abad Airport,41.0,OICK 271200Z
+IKA  OIIE,Imam Khomeini International Airport,41.0,OIIE 271200Z
+RKT  OMRK,Ras Al Khaimah International Airport,41.0,OMRK 271200Z
+EBL  ORER,Erbil International Airport,41.0,ORER 271200Z
+ISU  ORSU,Sulaymaniyah International Airport,41.0,ORSU 271200Z
+KQD3,,40.0,KQD3 271155Z
+OGX  DAUU,Ain el Beida Airport,40.0,DAUU 271200Z
+HAS  OEHL,Ha'il Airport,40.0,OEHL 271200Z
+SHW  OESH,Sharurah Airport,40.0,OESH 271200Z
+BND  OIKB,Bandar Abbas International Airport,40.0,OIKB 271200Z
