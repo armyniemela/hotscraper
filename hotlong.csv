@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HOF  OEAH,Al Ahsa Airport,49.0,OEAH 271200Z
-BSR  ORMM,Basrah International Airport,49.0,ORMM 271200Z
-MRX  OIAM,Mahshahr Airport,48.0,OIAM 271200Z
-LFM  OISR,Lamerd Airport,47.0,OISR 271200Z
-XJD  OTBH,Al Udeid Air Base,46.0,OTBH 271155Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 271200Z
-AAN  OMAL,Al Ain International Airport,46.0,OMAL 271200Z
-NJF  ORNI,Al Najaf International Airport,46.0,ORNI 271200Z
-KQTZ,,45.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 271155Z
-DMM  OEDF,King Fahd International Airport,45.0,OEDF 271200Z
-ELQ  OEGS,Gassim Airport,45.0,OEGS 271200Z
-OEKJ,,45.0,OEKJ 271200Z
-RUH  OERK,King Khaled International Airport,45.0,OERK 271200Z
-ACZ  OIZB,Zabol Airport,45.0,OIZ
-OEAO,,44.0,OEAO 271200Z
-RAH  OERF,Rafha Domestic Airport,44.0,OERF 271200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-BGW  ORBI,Baghdad International Airport,44.0,ORBI 271200Z
-DHA  OEDR,King Abdulaziz Air Base,43.0,OEDR 271200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 271200Z
-WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 271200Z
-GCH  OIAH,Gachsaran Airport,43.0,OIAH 271200Z
-LRR  OISL,Lar Airport,43.0,OISL 271200Z
-ETM  LLER,Ramon Airport,42.0,LLER 271150Z
-BMW  DATM,Bordj Badji Mokhtar Airport,42.0,DATM 271200Z
-TMX  DAUT,Timimoun Airport,42.0,DAUT 271200Z
-RAE  OERR,Arar Domestic Airport,42.0,OERR 271200Z
-AQJ  OJAQ,Aqaba King Hussein International Airport,42.0,OJAQ 271200Z
-KIK  ORKK,Kirkuk Air Base,42.0,ORKK 271200Z
-OHS  OOSH,Sohar Airport,41.0,OOSH 271150Z
-KQRH,,41.0,KQRH 271155Z
-VVZ  DAAP,Illizi Takhamalt Airport,41.0,DAAP 271200Z
-HME  DAUH,Oued Irara Airport,41.0,DAUH 271200Z
-AJF  OESK,Al-Jawf Domestic Airport,41.0,OESK 271200Z
-KHD  OICK,Khoram Abad Airport,41.0,OICK 271200Z
-IKA  OIIE,Imam Khomeini International Airport,41.0,OIIE 271200Z
-RKT  OMRK,Ras Al Khaimah International Airport,41.0,OMRK 271200Z
-EBL  ORER,Erbil International Airport,41.0,ORER 271200Z
-ISU  ORSU,Sulaymaniyah International Airport,41.0,ORSU 271200Z
-KQD3,,40.0,KQD3 271155Z
-OGX  DAUU,Ain el Beida Airport,40.0,DAUU 271200Z
-HAS  OEHL,Ha'il Airport,40.0,OEHL 271200Z
-SHW  OESH,Sharurah Airport,40.0,OESH 271200Z
-BND  OIKB,Bandar Abbas International Airport,40.0,OIKB 271200Z
+IFP  KIFP,Laughlin Bullhead International Airport,42.0,KIFP 280055Z
+LGF  KLGF,Laguna Army Airfield,42.0,KLGF 280055Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,42.0,KNYL 280057Z
+GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 280047Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,41.0,KTRM 280052Z
+BXK  KBXK,Buckeye Municipal Airport,41.0,KBXK 280055Z
+KGXF,,41.0,KGXF 280055Z
+KL08,,41.0,KL08 280055Z
+EED  KEED,Needles Airport,41.0,KEED 280056Z
+KCHD,Chandler Municipal Airport,40.0,KCHD 280047Z
+KGEU,Glendale Municipal Airport,40.0,KGEU 280048Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,40.0,KIWA 280050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,40.0,KPHX 280051Z
+LUF  KLUF,Luke Air Force Base,40.0,KLUF 280055Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,39.0,MMHO 280042Z
+SCF  KSDL,Scottsdale Airport,39.0,KSDL 280053Z
+MSC  KFFZ,Falcon Field,39.0,KFFZ
+KA39,,39.0,KA39 280055Z
+KP08,,39.0,KP08 280055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,39.0,KCGZ
+DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 280050Z
+DVT  KDVT,Phoenix Deer Valley Airport,38.0,KDVT 280053Z
+VGT  KVGT,North Las Vegas Airport,38.0,KVGT 280053Z
+AVW  KAVQ,Marana Regional Airport,38.0,KAVQ 280055Z
+KBVU,,38.0,KBVU 280055Z
+MZJ  KMZJ,Pinal Airpark,38.0,KMZ
+KNID,China Lake Naws (Armitage Field) Airport,38.0,KNID 280056Z
+LSV  KLSV,Nellis Air Force Base,38.0,KLSV 280059Z
+OKKK,,38.0,OKKK 280100Z
+FAT  KFAT,Fresno Yosemite International Airport,37.0,KFAT 280053Z
+KHJO,Hanford Municipal Airport,37.0,KHJO 280053Z
+MER  KMER,Castle Airport,37.0,KMER 280053Z
+K9L2,,37.0,K9L2 280055Z
+KAZC,Colorado City Municipal Airport,37.0,KAZ
+FCH  KFCH,Fresno Chandler Executive Airport,37.0,KFCH 280055Z
+HSH  KHND,Henderson Executive Airport,37.0,KHND 280056Z
+LAS  KLAS,McCarran International Airport,37.0,KLAS 280056Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,37.0,KNLC 280056Z
+KNXP,Twentynine Palms (Self) Airport,37.0,KNXP 280056Z
+NJF  ORNI,Al Najaf International Airport,37.0,ORNI 280100Z
+KRYN,Ryan Field,36.0,KRYN 280045Z
+LAP  MMLP,Manuel Márquez de León International Airport,36.0,MMLP 280045Z
+MAE  KMAE,Madera Municipal Airport,36.0,KMAE 280053Z
+MCE  KMCE,Merced Regional Macready Field,36.0,KMCE 280053Z
+MOD  KMOD,Modesto City Co-Harry Sham Field,36.0,KMOD 280053Z
