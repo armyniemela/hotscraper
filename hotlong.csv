@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),42.0,KNJK 290056Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,41.0,MMML 290046Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,41.0,KTRM 290052Z
-PSP  KPSP,Palm Springs International Airport,41.0,KPSP 290053Z
-KGXF,,41.0,KGXF 290055Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 290057Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,40.0,MMHO 290040Z
-KL08,,40.0,KL08 290055Z
-GYR  KGYR,Phoenix Goodyear Airport,39.0,KGYR 290047Z
-KGEU,Glendale Municipal Airport,39.0,KGEU 290053Z
-VGT  KVGT,North Las Vegas Airport,39.0,KVGT 290053Z
-KBVU,,39.0,KBVU 290055Z
-BXK  KBXK,Buckeye Municipal Airport,39.0,KBXK 290055Z
-LSV  KLSV,Nellis Air Force Base,39.0,KLSV 290055Z
-LUF  KLUF,Luke Air Force Base,39.0,KLUF 290055Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,38.0,KPHX 290051Z
-KHJO,Hanford Municipal Airport,38.0,KHJO 290053Z
-RDD  KRDD,Redding Municipal Airport,38.0,KRDD 290053Z
-LAS  KLAS,McCarran International Airport,38.0,KLAS 290056Z
-KNID,China Lake Naws (Armitage Field) Airport,38.0,KNID 290056Z
-LAP  MMLP,Manuel Márquez de León International Airport,37.0,MMLP 290047Z
-DAG  KDAG,Barstow Daggett Airport,37.0,KDAG 290050Z
-MHR  KMHR,Sacramento Mather Airport,37.0,KMHR 290050Z
-FAT  KFAT,Fresno Yosemite International Airport,37.0,KFAT 290053Z
-MAE  KMAE,Madera Municipal Airport,37.0,KMAE 290053Z
-MCE  KMCE,Merced Regional Macready Field,37.0,KMCE 290053Z
-MOD  KMOD,Modesto City Co-Harry Sham Field,37.0,KMOD 290053Z
-MYV  KMYV,Yuba County Airport,37.0,KMYV 290053Z
-SCF  KSDL,Scottsdale Airport,37.0,KSDL 290053Z
-SMF  KSMF,Sacramento International Airport,37.0,KSMF 290053Z
-BFL  KBFL,Meadows Field,37.0,KBFL 290054Z
-RBL  KRBL,Red Bluff Municipal Airport,37.0,KRBL 290054Z
-KA39,,37.0,KA39 290055Z
-BYS  KBYS,Bicycle Lake Army Air Field,37.0,KBYS 290055Z
-FCH  KFCH,Fresno Chandler Executive Airport,37.0,KFCH 290055Z
-HSH  KHND,Henderson Executive Airport,37.0,KHND 290056Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,37.0,KNLC 290056Z
-KNXP,Twentynine Palms (Self) Airport,37.0,KNXP 290056Z
-PTV  KPTV,Porterville Municipal Airport,37.0,KPTV 290056Z
-INZ  DAUI,In Salah Airport,37.0,DAUI 290100Z
-OKKK,,37.0,OKKK 290100Z
-ASW  HESN,Aswan International Airport,36.0,HESN 290000Z
-KCHD,Chandler Municipal Airport,36.0,KCHD 290047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 290052Z
-DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 290053Z
+OKKK,,45.0,OKKK 291200Z
+BSR  ORMM,Basrah International Airport,45.0,ORMM 291200Z
+OKAS,Ali Al Salem Air Base,44.0,OKAS 291155Z
+DMM  OEDF,King Fahd International Airport,44.0,OEDF 291200Z
+ELQ  OEGS,Gassim Airport,44.0,OEGS 291200Z
+OEKJ,,44.0,OEKJ 291200Z
+SHW  OESH,Sharurah Airport,44.0,OESH 291200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 291200Z
+IHR  OIZI,Iran Shahr Airport,44.0,OIZ
+AKH  OEPS,Prince Sultan Air Base,43.0,OEPS 291155Z
+INZ  DAUI,In Salah Airport,43.0,DAUI 291200Z
+DHA  OEDR,King Abdulaziz Air Base,43.0,OEDR 291200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 291200Z
+RUH  OERK,King Khaled International Airport,43.0,OERK 291200Z
+NJF  ORNI,Al Najaf International Airport,43.0,ORNI 291200Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,42.0,DAUA 291200Z
+TMX  DAUT,Timimoun Airport,42.0,DAUT 291200Z
+KIK  ORKK,Kirkuk Air Base,42.0,ORKK 291200Z
+SXZ  LTCL,Siirt Airport,41.0,LTCL 291150Z
+KQTZ,,41.0,KQTZ
+OEAO,,41.0,OEAO 291200Z
+RAH  OERF,Rafha Domestic Airport,41.0,OERF 291200Z
+KNR  OIBJ,Jam Airport,41.0,OIBJ 291200Z
+DWC  OMDW,Al Maktoum International Airport,41.0,OMDW 291200Z
+BGW  ORBI,Baghdad International Airport,41.0,ORBI 291200Z
+EBL  ORER,Erbil International Airport,41.0,ORER 291200Z
+BAL  LTCJ,Batman Airport,40.0,LTCJ 291150Z
+NKT  LTCV,Şırnak Şerafettin Elçi Airport,40.0,LTCV 291150Z
+KHS  OOKB,Khasab Air Base,40.0,OOKB 291150Z
+KQRH,,40.0,KQRH 291155Z
+VVZ  DAAP,Illizi Takhamalt Airport,40.0,DAAP 291200Z
+TIN  DAOF,Tindouf Airport,40.0,DAOF 291200Z
+ELG  DAUE,El Golea Airport,40.0,DAUE 291200Z
+DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 291200Z
+HAS  OEHL,Ha'il Airport,40.0,OEHL 291200Z
+RAE  OERR,Arar Domestic Airport,40.0,OERR 291200Z
+TUU  OETB,Tabuk Airport,40.0,OETB 291200Z
+PGU  OIBP,Persian Gulf International Airport,40.0,OIBP 291200Z
+KHD  OICK,Khoram Abad Airport,40.0,OICK 291200Z
+AUH  OMAA,Abu Dhabi International Airport,40.0,OMAA 291200Z
+AZI  OMAD,Bateen Airport,40.0,OMAD 291200Z
+RKT  OMRK,Ras Al Khaimah International Airport,40.0,OMRK 291200Z
+ISU  ORSU,Sulaymaniyah International Airport,40.0,ORSU 291200Z
+GXF  OYSY,Sayun International Airport,40.0,OYSY 291200Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,39.0,GQNO 291130Z
