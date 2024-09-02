@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OKAS,Ali Al Salem Air Base,43.0,OKAS 011155Z
-SHW  OESH,Sharurah Airport,43.0,OESH 011200Z
-ABD  OIAA,Abadan Airport,43.0,OIAA 011200Z
-MRX  OIAM,Mahshahr Airport,43.0,OIAM 011200Z
-OKKK,,43.0,OKKK 011200Z
-OEMN,,42.0,OEMN 011200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 011200Z
-WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 011200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 011200Z
-AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 011200Z
-AAN  OMAL,Al Ain International Airport,42.0,OMAL 011200Z
-BGW  ORBI,Baghdad International Airport,42.0,ORBI 011200Z
-LXR  HELX,Luxor International Airport,41.0,HELX 011100Z
-ASW  HESN,Aswan International Airport,41.0,HESN 011100Z
-KQTZ,,41.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,41.0,OEPS 011155Z
-INZ  DAUI,In Salah Airport,41.0,DAUI 011200Z
-OGX  DAUU,Ain el Beida Airport,41.0,DAUU 011200Z
-DMM  OEDF,King Fahd International Airport,41.0,OEDF 011200Z
-OEKJ,,41.0,OEKJ 011200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 011200Z
-OERS,,41.0,OERS 011200Z
-LRR  OISL,Lar Airport,41.0,OISL 011200Z
-LFM  OISR,Lamerd Airport,41.0,OISR 011200Z
-KIK  ORKK,Kirkuk Air Base,41.0,ORKK O11200Z
-NJF  ORNI,Al Najaf International Airport,41.0,ORNI 011200Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,40.0,DAUA 011100Z
-HESG,,40.0,HESG 011100Z
-XJD  OTBH,Al Udeid Air Base,40.0,OTBH 011155Z
-TMX  DAUT,Timimoun Airport,40.0,DAUT 011200Z
-ELQ  OEGS,Gassim Airport,40.0,OEGS 011200Z
-RUH  OERK,King Khaled International Airport,40.0,OERK 011200Z
-KHD  OICK,Khoram Abad Airport,40.0,OICK 011200Z
-ACZ  OIZB,Zabol Airport,40.0,OIZ
-AZI  OMAD,Bateen Airport,40.0,OMAD 011200Z
-EBL  ORER,Erbil International Airport,40.0,ORER 011200Z
-ISU  ORSU,Sulaymaniyah International Airport,40.0,ORSU 011200Z
-VVZ  DAAP,Illizi Takhamalt Airport,39.0,DAAP 011100Z
-ABS  HEBL,Abu Simbel Airport,39.0,HEBL 011100Z
-BAL  LTCJ,Batman Airport,39.0,LTCJ 011150Z
-TIN  DAOF,Tindouf Airport,39.0,DAOF 011200Z
-HME  DAUH,Oued Irara Airport,39.0,DAUH 011200Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,39.0,DAUK 011200Z
-OEAO,,39.0,OEAO 011200Z
-DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 011200Z
+BLH  KBLH,Blythe Airport,42.0,KBLH 020052Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,42.0,KTRM 020052Z
+HII  KHII,Lake Havasu City Airport,42.0,KHII 020055Z
+IFP  KIFP,Laughlin Bullhead International Airport,42.0,KIFP 020055Z
+KL08,,42.0,KL08 020055Z
+EED  KEED,Needles Airport,42.0,KEED 020056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,42.0,KNYL 020057Z
+DAG  KDAG,Barstow Daggett Airport,40.0,KDAG 020050Z
+KNID,China Lake Naws (Armitage Field) Airport,40.0,KNID 020056Z
+VGT  KVGT,North Las Vegas Airport,39.0,KVGT 020053Z
+BYS  KBYS,Bicycle Lake Army Air Field,39.0,KBYS 020055Z
+LSV  KLSV,Nellis Air Force Base,39.0,KLSV 020055Z
+KNXP,Twentynine Palms (Self) Airport,39.0,KNXP 020056Z
+KCHD,Chandler Municipal Airport,38.0,KCHD 020047Z
+GYR  KGYR,Phoenix Goodyear Airport,38.0,KGYR 020047Z
+KGEU,Glendale Municipal Airport,38.0,KGEU 020048Z
+KHJO,Hanford Municipal Airport,38.0,KHJO 020053Z
+K9L2,,38.0,K9L2 020055Z
+KA39,,38.0,KA39 020055Z
+KAZC,Colorado City Municipal Airport,38.0,KAZ
+KBVU,,38.0,KBVU 020055Z
+BXK  KBXK,Buckeye Municipal Airport,38.0,KBXK 020055Z
+EDW  KEDW,Edwards Air Force Base,38.0,KEDW 020055Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,38.0,KNLC 020056Z
+MHV  KMHV,Mojave Airport,37.0,KMHV 020040Z
+FCH  KFCH,Fresno Chandler Executive Airport,37.0,KFCH 020050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,37.0,KPHX 020051Z
+FAT  KFAT,Fresno Yosemite International Airport,37.0,KFAT 020053Z
+SFF  KSFF,Felts Field,37.0,KSFF 020053Z
+BFL  KBFL,Meadows Field,37.0,KBFL 020054Z
+INS  KINS,Creech Air Force Base,37.0,KINS 020055Z
+LUF  KLUF,Luke Air Force Base,37.0,KLUF 020055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,37.0,KCGZ
+HSH  KHND,Henderson Executive Airport,37.0,KHND 020056Z
+LAS  KLAS,McCarran International Airport,37.0,KLAS 020056Z
+KRYN,Ryan Field,36.0,KRYN 020045Z
+DRA  KDRA,Desert Rock Airport,36.0,KDRA 020053Z
+DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 020053Z
+ELN  KELN,Bowers Field,36.0,KELN 020053Z
+MAE  KMAE,Madera Municipal Airport,36.0,KMAE 020053Z
+OMK  KOMK,Omak Airport,36.0,KOMK 020053Z
+PMD  KPMD,Palmdale Regional/USAF Plant 42 Airport,36.0,KPMD 020053Z
+K3W7,,36.0,K3W7 020055Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 020055Z
+KO32,,36.0,KO32 020055Z
