@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HOF  OEAH,Al Ahsa Airport,44.0,OEAH 041200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 041200Z
-OEMN,,44.0,OEMN 041200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,44.0,OEYN 041200Z
-HME  DAUH,Oued Irara Airport,43.0,DAUH 041200Z
-AKW  OIAG,Aghajari Airport,43.0,OIAG 041200Z
-AUH  OMAA,Abu Dhabi International Airport,43.0,OMAA 041200Z
-KQD3,,42.0,KQD3 041155Z
-KQTZ,,42.0,KQTZ
-XJD  OTBH,Al Udeid Air Base,42.0,OTBH 041155Z
-OGX  DAUU,Ain el Beida Airport,42.0,DAUU 041200Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 041200Z
-WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 041200Z
-AZI  OMAD,Bateen Airport,42.0,OMAD 041200Z
-AKH  OEPS,Prince Sultan Air Base,41.0,OEPS 041155Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,41.0,DAUA 041200Z
-EBM  DTTR,El Borma Airport,41.0,DTTR 041200Z
-ELQ  OEGS,Gassim Airport,41.0,OEGS 041200Z
-OEKJ,,41.0,OEKJ 041200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 041200Z
-SHW  OESH,Sharurah Airport,41.0,OESH 041200Z
-IHR  OIZI,Iran Shahr Airport,41.0,OIZ
-BGW  ORBI,Baghdad International Airport,41.0,ORBI 041200Z
-NJF  ORNI,Al Najaf International Airport,41.0,ORNI 041200Z
-GXF  OYSY,Sayun International Airport,41.0,OYSY 041200Z
-TIN  DAOF,Tindouf Airport,40.0,DAOF 041200Z
-GHA  DAUG,Noumérat - Moufdi Zakaria Airport,40.0,DAUG 041200Z
-DTTD,Remada Air Base,40.0,DTTD 041200Z
-GAE  DTTG,Gabès Matmata International Airport,40.0,DTTG 041200Z
-DTTN,,40.0,DTTN 041200Z
-TOE  DTTZ,Tozeur Nefta International Airport,40.0,DTTZ
-OEAO,,40.0,OEAO 041200Z
-RAH  OERF,Rafha Domestic Airport,40.0,OERF 041200Z
-RUH  OERK,King Khaled International Airport,40.0,OERK 041200Z
-OERS,,40.0,OERS 041200Z
-MRX  OIAM,Mahshahr Airport,40.0,OIAM 041200Z
-KHD  OICK,Khoram Abad Airport,40.0,OICK 041200Z
-LRR  OISL,Lar Airport,40.0,OISL 041200Z
-LFM  OISR,Lamerd Airport,40.0,OISR 041200Z
-AAN  OMAL,Al Ain International Airport,40.0,OMAL 041200Z
-DWC  OMDW,Al Maktoum International Airport,40.0,OMDW 041200Z
-OOAD,,39.0,OOAD 041150Z
-BSK  DAUB,Biskra Airport,39.0,DAUB 041200Z
-DTTK,,39.0,DTTK 041200Z
-DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 041200Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,44.0,MMML 050040Z
+HII  KHII,Lake Havasu City Airport,44.0,KHII 050055Z
+LGF  KLGF,Laguna Army Airfield,44.0,KLGF 050055Z
+EED  KEED,Needles Airport,44.0,KEED 050056Z
+IFP  KIFP,Laughlin Bullhead International Airport,44.0,KIFP 050056Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,43.0,KTRM 050052Z
+KGXF,,43.0,KGXF 050055Z
+KL08,,43.0,KL08 050055Z
+GYR  KGYR,Phoenix Goodyear Airport,42.0,KGYR 050047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,42.0,KPHX 050051Z
+KGEU,Glendale Municipal Airport,42.0,KGEU 050055Z
+LUF  KLUF,Luke Air Force Base,42.0,KLUF 050055Z
+KNXP,Twentynine Palms (Self) Airport,41.0,KNXP 042356Z
+KCHD,Chandler Municipal Airport,41.0,KCHD 050047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,41.0,KIWA 050047Z
+DAG  KDAG,Barstow Daggett Airport,41.0,KDAG 050050Z
+DVT  KDVT,Phoenix Deer Valley Airport,41.0,KDVT 050053Z
+SCF  KSDL,Scottsdale Airport,41.0,KSDL 050053Z
+VGT  KVGT,North Las Vegas Airport,41.0,KVGT 050053Z
+MSC  KFFZ,Falcon Field,41.0,KFFZ
+BXK  KBXK,Buckeye Municipal Airport,41.0,KBXK 050055Z
+LSV  KLSV,Nellis Air Force Base,41.0,KLSV 050055Z
+MZJ  KMZJ,Pinal Airpark,40.0,KMZ
+FAT  KFAT,Fresno Yosemite International Airport,40.0,KFAT 050053Z
+KHJO,Hanford Municipal Airport,40.0,KHJO 050053Z
+MAE  KMAE,Madera Municipal Airport,40.0,KMAE 050053Z
+RDD  KRDD,Redding Municipal Airport,40.0,KRDD 050053Z
+RBL  KRBL,Red Bluff Municipal Airport,40.0,KRBL 050054Z
+KA39,,40.0,KA39 050055Z
+AVW  KAVQ,Marana Regional Airport,40.0,KAVQ 050055Z
+KBVU,,40.0,KBVU 050055Z
+KP08,,40.0,KP08 050055Z
+WHP  KWHP,Whiteman Airport,40.0,KWHP 050055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
+HSH  KHND,Henderson Executive Airport,40.0,KHND 050056Z
+LAS  KLAS,McCarran International Airport,40.0,KLAS 050056Z
+KNID,China Lake Naws (Armitage Field) Airport,40.0,KNID 050056Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,40.0,KNLC 050056Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,39.0,MMHO 050041Z
+KRYN,Ryan Field,39.0,KRYN 050045Z
+SMF  KSMF,Sacramento International Airport,39.0,KSMF 050053Z
+K4A6,,39.0,K4A6 050055Z
+K9L2,,39.0,K9L2 050055Z
+BYS  KBYS,Bicycle Lake Army Air Field,39.0,KBYS 050055Z
+EDW  KEDW,Edwards Air Force Base,39.0,KEDW 050055Z
