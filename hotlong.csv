@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OKKK,,45.0,OKKK 061200Z
-BSR  ORMM,Basrah International Airport,45.0,ORMM 061200Z
-HOF  OEAH,Al Ahsa Airport,44.0,OEAH 061200Z
-DMM  OEDF,King Fahd International Airport,44.0,OEDF 061200Z
-DHA  OEDR,King Abdulaziz Air Base,44.0,OEDR 061200Z
-RAH  OERF,Rafha Domestic Airport,44.0,OERF 061200Z
-ELQ  OEGS,Gassim Airport,43.0,OEGS 061200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 061200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 061200Z
-WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 061200Z
-IHR  OIZI,Iran Shahr Airport,43.0,OIZ
-AAN  OMAL,Al Ain International Airport,43.0,OMAL 061200Z
-KQTZ,,42.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 061155Z
-XJD  OTBH,Al Udeid Air Base,42.0,OTBH 061155Z
-OEKJ,,42.0,OEKJ 061200Z
-ACZ  OIZB,Zabol Airport,42.0,OIZ
-HAS  OEHL,Ha'il Airport,41.0,OEHL 061200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 061200Z
-OEMN,,41.0,OEMN 061200Z
-RUH  OERK,King Khaled International Airport,41.0,OERK 061200Z
-LRR  OISL,Lar Airport,41.0,OISL 061200Z
-LFM  OISR,Lamerd Airport,41.0,OISR 061200Z
-BGW  ORBI,Baghdad International Airport,41.0,ORBI 061200Z
-OEAO,,40.0,OEAO 061200Z
-DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 061200Z
-RAE  OERR,Arar Domestic Airport,40.0,OERR 061200Z
-AJF  OESK,Al-Jawf Domestic Airport,40.0,OESK 061200Z
-BJA  DAAE,Soummam Airport,39.0,DAAE 061200Z
-AAE  DABB,Rabah Bitat Airport,39.0,DABB 061200Z
-TBJ  DTKA,Tabarka 7 Novembre Airport,39.0,DTKA 061200Z
-DTTB,Sidi Ahmed Air Base,39.0,DTTB 061200Z
-BAH  OBBI,Bahrain International Airport,39.0,OBBI 061200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,39.0,OEYN 061200Z
-GCH  OIAH,Gachsaran Airport,39.0,OIAH 061200Z
-AZD  OIYY,Shahid Sadooghi Airport,39.0,OIYY 061200Z
-KIK  ORKK,Kirkuk Air Base,39.0,ORKK 061200Z
-GJL  DAAV,Jijel Ferhat Abbas Airport,38.0,DAAV 061200Z
-TUN  DTTA,Tunis Carthage International Airport,38.0,DTTA 061200Z
-DTTN,,38.0,DTTN 061200Z
-BHH  OEBH,Bisha Airport,38.0,OEBH 061200Z
-JED  OEJN,King Abdulaziz International Airport,38.0,OEJN 061200Z
-PGU  OIBP,Persian Gulf International Airport,38.0,OIBP 061200Z
-FAZ  OISF,Fasa Airport,38.0,OISF 061200Z
-AUH  OMAA,Abu Dhabi International Airport,38.0,OMAA 061200Z
+KGXF,,43.0,KGXF 070055Z
+HMT  KHMT,Hemet Ryan Airport,43.0,KHMT 070055Z
+WHP  KWHP,Whiteman Airport,43.0,KWHP 070055Z
+SBD  KSBD,San Bernardino International Airport,43.0,KSBD 070056Z
+GYR  KGYR,Phoenix Goodyear Airport,42.0,KGYR 070047Z
+KGEU,Glendale Municipal Airport,42.0,KGEU 070050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,42.0,KPHX 070051Z
+BUR  KBUR,Bob Hope Airport,42.0,KBUR 070053Z
+BXK  KBXK,Buckeye Municipal Airport,42.0,KBXK 070055Z
+KL08,,42.0,KL08 070055Z
+LGF  KLGF,Laguna Army Airfield,42.0,KLGF 070055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),42.0,KNJK 070056Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,41.0,MMHO 070040Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,41.0,MMML 070040Z
+KCHD,Chandler Municipal Airport,41.0,KCHD 070047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,41.0,KIWA 070049Z
+DAG  KDAG,Barstow Daggett Airport,41.0,KDAG 070050Z
+VNY  KVNY,Van Nuys Airport,41.0,KVNY 070051Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,41.0,KTRM 070052Z
+ONT  KONT,Ontario International Airport,41.0,KONT 070053Z
+RAL  KRAL,Riverside Municipal Airport,41.0,KRAL 070053Z
+K9L2,,41.0,K9L2 070055Z
+KA39,,41.0,KA39 070055Z
+CCB  KCCB,Cable Airport,41.0,KCCB 070055Z
+LUF  KLUF,Luke Air Force Base,41.0,KLUF 070055Z
+RIV  KRIV,March ARB Airport,41.0,KRIV 070055Z
+KNID,China Lake Naws (Armitage Field) Airport,41.0,KNID 070056Z
+KNXP,Twentynine Palms (Self) Airport,41.0,KNXP 070056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 070057Z
+POC  KPOC,Brackett Field,40.0,KPOC 070047Z
+DVT  KDVT,Phoenix Deer Valley Airport,40.0,KDVT 070053Z
+PRB  KPRB,Paso Robles Municipal Airport,40.0,KPRB 070053Z
+SCF  KSDL,Scottsdale Airport,40.0,KSDL 070053Z
+VGT  KVGT,North Las Vegas Airport,40.0,KVGT 070053Z
+MSC  KFFZ,Falcon Field,40.0,KFFZ
+BYS  KBYS,Bicycle Lake Army Air Field,40.0,KBYS 070055Z
+EDW  KEDW,Edwards Air Force Base,40.0,KEDW 070055Z
+LSV  KLSV,Nellis Air Force Base,40.0,KLSV 070055Z
+MZJ  KMZJ,Pinal Airpark,40.0,KMZ
+KP08,,40.0,KP08 070055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
+CIC  KCIC,Chico Municipal Airport,39.0,KCIC 070053Z
+FAT  KFAT,Fresno Yosemite International Airport,39.0,KFAT 070053Z
+KHJO,Hanford Municipal Airport,39.0,KHJO 070053Z
+MAE  KMAE,Madera Municipal Airport,39.0,KMAE 070053Z
