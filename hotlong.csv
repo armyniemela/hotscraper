@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HMO  MMHO,General Ignacio P. Garcia International Airport,41.0,MMHO 080040Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,41.0,MMML 080044Z
-GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 080047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 080051Z
-BLH  KBLH,Blythe Airport,41.0,KBLH 080052Z
-PSP  KPSP,Palm Springs International Airport,41.0,KPSP 080053Z
-KNOZ,,41.0,KNOZ
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,40.0,KIWA 080047Z
-VNY  KVNY,Van Nuys Airport,40.0,KVNY 080051Z
-KHJO,Hanford Municipal Airport,40.0,KHJO 080053Z
-SBD  KSBD,San Bernardino International Airport,40.0,KSBD 080053Z
-MSC  KFFZ,Falcon Field,40.0,KFFZ
-BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 080055Z
-EED  KEED,Needles Airport,40.0,KEED 080056Z
-KNID,China Lake Naws (Armitage Field) Airport,40.0,KNID 080056Z
-KCHD,Chandler Municipal Airport,39.0,KCHD 080047Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,39.0,KTRM 080052Z
-FAT  KFAT,Fresno Yosemite International Airport,39.0,KFAT 080053Z
-PRB  KPRB,Paso Robles Municipal Airport,39.0,KPRB 080053Z
-K9L2,,39.0,K9L2 080055Z
-KA39,,39.0,KA39 080055Z
-RIV  KRIV,March ARB Airport,39.0,KRIV 080055Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,39.0,KNLC 080056Z
-EMT  KEMT,San Gabriel Valley Airport,38.0,KEMT 080045Z
-POC  KPOC,Brackett Field,38.0,KPOC 080047Z
-SEE  KSEE,Gillespie Field,38.0,KSEE 080047Z
-KGEU,Glendale Municipal Airport,38.0,KGEU 080049Z
-DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 080050Z
-DRA  KDRA,Desert Rock Airport,38.0,KDRA 080053Z
-MAE  KMAE,Madera Municipal Airport,38.0,KMAE 080053Z
-MCE  KMCE,Merced Regional Macready Field,38.0,KMCE 080053Z
-MOD  KMOD,Modesto City Co-Harry Sham Field,38.0,KMOD 080053Z
-RAL  KRAL,Riverside Municipal Airport,38.0,KRAL 080053Z
-SCF  KSDL,Scottsdale Airport,38.0,KSDL 080053Z
-VGT  KVGT,North Las Vegas Airport,38.0,KVGT 080053Z
-BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 080055Z
-EDW  KEDW,Edwards Air Force Base,38.0,KEDW 080055Z
-LSV  KLSV,Nellis Air Force Base,38.0,KLSV 080055Z
-KO32,,38.0,KO32 080055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,38.0,KCGZ
-LAS  KLAS,McCarran International Airport,38.0,KLAS 080056Z
-VIS  KVIS,Visalia Municipal Airport,38.0,KVIS 080056Z
-BUR  KBUR,Bob Hope Airport,37.0,KBUR 080053Z
-CNO  KCNO,Chino Airport,37.0,KCNO 080053Z
-ONT  KONT,Ontario International Airport,37.0,KONT 080053Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 081200Z
+RAH  OERF,Rafha Domestic Airport,45.0,OERF 081200Z
+MRX  OIAM,Mahshahr Airport,45.0,OIAM 081200Z
+AWZ  OIAW,Ahwaz Airport,45.0,OIAW 081200Z
+KQTZ,,44.0,KQTZ
+IHR  OIZI,Iran Shahr Airport,44.0,OIZ
+NJF  ORNI,Al Najaf International Airport,44.0,ORNI 081200Z
+AKH  OEPS,Prince Sultan Air Base,43.0,OEPS 081155Z
+HOF  OEAH,Al Ahsa Airport,43.0,OEAH 081200Z
+OEKJ,,43.0,OEKJ 081200Z
+LFM  OISR,Lamerd Airport,43.0,OISR 081200Z
+BGW  ORBI,Baghdad International Airport,43.0,ORBI 081200Z
+KQRH,,42.0,KQRH 081155Z
+XJD  OTBH,Al Udeid Air Base,42.0,OTBH 081155Z
+ELQ  OEGS,Gassim Airport,42.0,OEGS 081200Z
+OEMN,,42.0,OEMN 081200Z
+RUH  OERK,King Khaled International Airport,42.0,OERK 081200Z
+RAE  OERR,Arar Domestic Airport,42.0,OERR 081200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 081200Z
+WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 081200Z
+AAN  OMAL,Al Ain International Airport,42.0,OMAL 081200Z
+KIK  ORKK,Kirkuk Air Base,42.0,ORKK 081200 Z
+KQD3,,41.0,KQD3 081155Z
+DTTB,Sidi Ahmed Air Base,41.0,DTTB 081200Z
+DMM  OEDF,King Fahd International Airport,41.0,OEDF 081200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 081200Z
+GCH  OIAH,Gachsaran Airport,41.0,OIAH 081200Z
+LRR  OISL,Lar Airport,41.0,OISL 081200Z
+OOAD,,40.0,OOAD 081150Z
+HME  DAUH,Oued Irara Airport,40.0,DAUH 081200Z
+DTTD,Remada Air Base,40.0,DTTD 081200Z
+DTTK,,40.0,DTTK 081200Z
+EBM  DTTR,El Borma Airport,40.0,DTTR 081200Z
+DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 081200Z
+HAS  OEHL,Ha'il Airport,40.0,OEHL 081200Z
+AJF  OESK,Al-Jawf Domestic Airport,40.0,OESK 081200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,40.0,OEYN 081200Z
+VVZ  DAAP,Illizi Takhamalt Airport,39.0,DAAP 081200Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,39.0,DAUA 081200Z
+TUN  DTTA,Tunis Carthage International Airport,39.0,DTTA 081200Z
+OEAO,,39.0,OEAO 081200Z
+BHH  OEBH,Bisha Airport,39.0,OEBH 081200Z
+DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 081200Z
+PGU  OIBP,Persian Gulf International Airport,39.0,OIBP 081200Z
+KHK  OIBQ,Khark Island Airport,39.0,OIBQ 081200Z
