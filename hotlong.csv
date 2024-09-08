@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KGXF,,43.0,KGXF 070055Z
-HMT  KHMT,Hemet Ryan Airport,43.0,KHMT 070055Z
-WHP  KWHP,Whiteman Airport,43.0,KWHP 070055Z
-SBD  KSBD,San Bernardino International Airport,43.0,KSBD 070056Z
-GYR  KGYR,Phoenix Goodyear Airport,42.0,KGYR 070047Z
-KGEU,Glendale Municipal Airport,42.0,KGEU 070050Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,42.0,KPHX 070051Z
-BUR  KBUR,Bob Hope Airport,42.0,KBUR 070053Z
-BXK  KBXK,Buckeye Municipal Airport,42.0,KBXK 070055Z
-KL08,,42.0,KL08 070055Z
-LGF  KLGF,Laguna Army Airfield,42.0,KLGF 070055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),42.0,KNJK 070056Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,41.0,MMHO 070040Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,41.0,MMML 070040Z
-KCHD,Chandler Municipal Airport,41.0,KCHD 070047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,41.0,KIWA 070049Z
-DAG  KDAG,Barstow Daggett Airport,41.0,KDAG 070050Z
-VNY  KVNY,Van Nuys Airport,41.0,KVNY 070051Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,41.0,KTRM 070052Z
-ONT  KONT,Ontario International Airport,41.0,KONT 070053Z
-RAL  KRAL,Riverside Municipal Airport,41.0,KRAL 070053Z
-K9L2,,41.0,K9L2 070055Z
-KA39,,41.0,KA39 070055Z
-CCB  KCCB,Cable Airport,41.0,KCCB 070055Z
-LUF  KLUF,Luke Air Force Base,41.0,KLUF 070055Z
-RIV  KRIV,March ARB Airport,41.0,KRIV 070055Z
-KNID,China Lake Naws (Armitage Field) Airport,41.0,KNID 070056Z
-KNXP,Twentynine Palms (Self) Airport,41.0,KNXP 070056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 070057Z
-POC  KPOC,Brackett Field,40.0,KPOC 070047Z
-DVT  KDVT,Phoenix Deer Valley Airport,40.0,KDVT 070053Z
-PRB  KPRB,Paso Robles Municipal Airport,40.0,KPRB 070053Z
-SCF  KSDL,Scottsdale Airport,40.0,KSDL 070053Z
-VGT  KVGT,North Las Vegas Airport,40.0,KVGT 070053Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,41.0,MMHO 080040Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,41.0,MMML 080044Z
+GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 080047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 080051Z
+BLH  KBLH,Blythe Airport,41.0,KBLH 080052Z
+PSP  KPSP,Palm Springs International Airport,41.0,KPSP 080053Z
+KNOZ,,41.0,KNOZ
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,40.0,KIWA 080047Z
+VNY  KVNY,Van Nuys Airport,40.0,KVNY 080051Z
+KHJO,Hanford Municipal Airport,40.0,KHJO 080053Z
+SBD  KSBD,San Bernardino International Airport,40.0,KSBD 080053Z
 MSC  KFFZ,Falcon Field,40.0,KFFZ
-BYS  KBYS,Bicycle Lake Army Air Field,40.0,KBYS 070055Z
-EDW  KEDW,Edwards Air Force Base,40.0,KEDW 070055Z
-LSV  KLSV,Nellis Air Force Base,40.0,KLSV 070055Z
-MZJ  KMZJ,Pinal Airpark,40.0,KMZ
-KP08,,40.0,KP08 070055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
-CIC  KCIC,Chico Municipal Airport,39.0,KCIC 070053Z
-FAT  KFAT,Fresno Yosemite International Airport,39.0,KFAT 070053Z
-KHJO,Hanford Municipal Airport,39.0,KHJO 070053Z
-MAE  KMAE,Madera Municipal Airport,39.0,KMAE 070053Z
+BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 080055Z
+EED  KEED,Needles Airport,40.0,KEED 080056Z
+KNID,China Lake Naws (Armitage Field) Airport,40.0,KNID 080056Z
+KCHD,Chandler Municipal Airport,39.0,KCHD 080047Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,39.0,KTRM 080052Z
+FAT  KFAT,Fresno Yosemite International Airport,39.0,KFAT 080053Z
+PRB  KPRB,Paso Robles Municipal Airport,39.0,KPRB 080053Z
+K9L2,,39.0,K9L2 080055Z
+KA39,,39.0,KA39 080055Z
+RIV  KRIV,March ARB Airport,39.0,KRIV 080055Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,39.0,KNLC 080056Z
+EMT  KEMT,San Gabriel Valley Airport,38.0,KEMT 080045Z
+POC  KPOC,Brackett Field,38.0,KPOC 080047Z
+SEE  KSEE,Gillespie Field,38.0,KSEE 080047Z
+KGEU,Glendale Municipal Airport,38.0,KGEU 080049Z
+DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 080050Z
+DRA  KDRA,Desert Rock Airport,38.0,KDRA 080053Z
+MAE  KMAE,Madera Municipal Airport,38.0,KMAE 080053Z
+MCE  KMCE,Merced Regional Macready Field,38.0,KMCE 080053Z
+MOD  KMOD,Modesto City Co-Harry Sham Field,38.0,KMOD 080053Z
+RAL  KRAL,Riverside Municipal Airport,38.0,KRAL 080053Z
+SCF  KSDL,Scottsdale Airport,38.0,KSDL 080053Z
+VGT  KVGT,North Las Vegas Airport,38.0,KVGT 080053Z
+BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 080055Z
+EDW  KEDW,Edwards Air Force Base,38.0,KEDW 080055Z
+LSV  KLSV,Nellis Air Force Base,38.0,KLSV 080055Z
+KO32,,38.0,KO32 080055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,38.0,KCGZ
+LAS  KLAS,McCarran International Airport,38.0,KLAS 080056Z
+VIS  KVIS,Visalia Municipal Airport,38.0,KVIS 080056Z
+BUR  KBUR,Bob Hope Airport,37.0,KBUR 080053Z
+CNO  KCNO,Chino Airport,37.0,KCNO 080053Z
+ONT  KONT,Ontario International Airport,37.0,KONT 080053Z
