@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BSR  ORMM,Basrah International Airport,47.0,ORMM 091200Z
-NJF  ORNI,Al Najaf International Airport,47.0,ORNI 091200Z
-KQTZ,,46.0,KQTZ
-AKW  OIAG,Aghajari Airport,46.0,OIAG 091200Z
-BGW  ORBI,Baghdad International Airport,46.0,ORBI 091200Z
-HOF  OEAH,Al Ahsa Airport,45.0,OEAH 091200Z
-DMM  OEDF,King Fahd International Airport,45.0,OEDF 091200Z
-RAH  OERF,Rafha Domestic Airport,45.0,OERF 091200Z
-KQRH,,44.0,KQRH 091155Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 091200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 091200Z
-KIK  ORKK,Kirkuk Air Base,44.0,ORKK 091200Z
-KQD3,,43.0,KQD3 091155Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 091200Z
-RAE  OERR,Arar Domestic Airport,43.0,OERR 091200Z
-LFM  OISR,Lamerd Airport,43.0,OISR 091200Z
-OOAD,,42.0,OOAD 091150Z
-AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 091155Z
-XJD  OTBH,Al Udeid Air Base,42.0,OTBH 091155Z
-OEKJ,,42.0,OEKJ 091200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 091200Z
-RUH  OERK,King Khaled International Airport,42.0,OERK 091200Z
-WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 091200Z
-LRR  OISL,Lar Airport,42.0,OISL 091200Z
-EBL  ORER,Erbil International Airport,42.0,ORER 091200Z
-INZ  DAUI,In Salah Airport,41.0,DAUI 091200Z
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 091200Z
-DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 091200Z
-OEMN,,41.0,OEMN 091200Z
-SHW  OESH,Sharurah Airport,41.0,OESH 091200Z
-AJF  OESK,Al-Jawf Domestic Airport,41.0,OESK 091200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,41.0,OEYN 091200Z
-GCH  OIAH,Gachsaran Airport,41.0,OIAH 091200Z
-KAC  OSKL,Qamishli Airport,41.0,OSKL 091200Z
-OEAO,,40.0,OEAO 091200Z
-HAS  OEHL,Ha'il Airport,40.0,OEHL 091200Z
-AUH  OMAA,Abu Dhabi International Airport,40.0,OMAA 091200Z
-DWC  OMDW,Al Maktoum International Airport,40.0,OMDW 091200Z
-ISU  ORSU,Sulaymaniyah International Airport,40.0,ORSU 091200Z
-ETM  LLER,Ramon Airport,39.0,LLER 091150Z
-MQM  LTCR,Mardin Airport,39.0,LTCR 091150Z
-OHS  OOSH,Sohar Airport,39.0,OOSH 091150Z
-VVZ  DAAP,Illizi Takhamalt Airport,39.0,DAAP 091200Z
-BMW  DATM,Bordj Badji Mokhtar Airport,39.0,DATM 091200Z
+IFP  KIFP,Laughlin Bullhead International Airport,42.0,KIFP 100055Z
+LGF  KLGF,Laguna Army Airfield,42.0,KLGF 100055Z
+EED  KEED,Needles Airport,42.0,KEED 100056Z
+KNOZ,,42.0,KNOZ
+KCHD,Chandler Municipal Airport,41.0,KCHD 100047Z
+KGEU,Glendale Municipal Airport,41.0,KGEU 100047Z
+GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 100047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 100051Z
+KGXF,,41.0,KGXF 100055Z
+KL08,,41.0,KL08 100055Z
+FAT  KFAT,Fresno Yosemite International Airport,40.0,KFAT 100053Z
+KHJO,Hanford Municipal Airport,40.0,KHJO 100053Z
+MAE  KMAE,Madera Municipal Airport,40.0,KMAE 100053Z
+MCE  KMCE,Merced Regional Macready Field,40.0,KMCE 100053Z
+BFL  KBFL,Meadows Field,40.0,KBFL 100054Z
+MSC  KFFZ,Falcon Field,40.0,KFFZ
+KA39,,40.0,KA39 100055Z
+BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 100055Z
+LUF  KLUF,Luke Air Force Base,40.0,KLUF 100055Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,40.0,KIWA 100056Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,40.0,KNLC 100056Z
+PTV  KPTV,Porterville Municipal Airport,40.0,KPTV 100056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,40.0,KNYL 100057Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,39.0,KTRM 100052Z
+SCF  KSDL,Scottsdale Airport,39.0,KSDL 100053Z
+FCH  KFCH,Fresno Chandler Executive Airport,39.0,KFCH 100055Z
+LSV  KLSV,Nellis Air Force Base,39.0,KLSV 100055Z
+KO32,,39.0,KO32 100055Z
+KP08,,39.0,KP08 100055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,39.0,KCGZ
+VIS  KVIS,Visalia Municipal Airport,39.0,KVIS 100056Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,38.0,MMHO 100040Z
+DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 100050Z
+EMT  KEMT,San Gabriel Valley Airport,38.0,KEMT 100050Z
+SBD  KSBD,San Bernardino International Airport,38.0,KSBD 100051Z
+BUR  KBUR,Bob Hope Airport,38.0,KBUR 100053Z
+DVT  KDVT,Phoenix Deer Valley Airport,38.0,KDVT 100053Z
+VGT  KVGT,North Las Vegas Airport,38.0,KVGT 100053Z
+AVW  KAVQ,Marana Regional Airport,38.0,KAVQ 100055Z
+KBVU,,38.0,KBVU 100055Z
+BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 100055Z
+MZJ  KMZJ,Pinal Airpark,38.0,KMZ
+KNXP,Twentynine Palms (Self) Airport,38.0,KNXP 100056Z
+VNY  KVNY,Van Nuys Airport,37.0,KVNY 100051Z
+DRA  KDRA,Desert Rock Airport,37.0,KDRA 100053Z
