@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KQTZ,,47.0,KQTZ
-OKAS,Ali Al Salem Air Base,47.0,OKAS 101155Z
-HOF  OEAH,Al Ahsa Airport,47.0,OEAH 101200Z
-DMM  OEDF,King Fahd International Airport,47.0,OEDF 101200Z
-AWZ  OIAW,Ahwaz Airport,47.0,OIAW 101200Z
-BGW  ORBI,Baghdad International Airport,47.0,ORBI 101200Z
-BSR  ORMM,Basrah International Airport,47.0,ORMM 101200Z
-DHA  OEDR,King Abdulaziz Air Base,46.0,OEDR 101200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 101200Z
-XJD  OTBH,Al Udeid Air Base,45.0,OTBH 101155Z
-LFM  OISR,Lamerd Airport,45.0,OISR 101200Z
-KIK  ORKK,Kirkuk Air Base,45.0,ORKK 101200Z
-JIB  HDAM,Djibouti-Ambouli Airport,44.0,HDAM 101100Z
-OOAD,,44.0,OOAD 101150Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 101200Z
-OEKJ,,44.0,OEKJ 101200Z
-RAH  OERF,Rafha Domestic Airport,44.0,OERF 101200Z
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 101200Z
-EBL  ORER,Erbil International Airport,44.0,ORER 101200Z
-AKH  OEPS,Prince Sultan Air Base,43.0,OEPS 101155Z
-RUH  OERK,King Khaled International Airport,43.0,OERK 101200Z
-RAE  OERR,Arar Domestic Airport,43.0,OERR 101200Z
-WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 101200Z
-OEMN,,42.0,OEMN 101200Z
-SHW  OESH,Sharurah Airport,42.0,OESH 101200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 101200Z
-GCH  OIAH,Gachsaran Airport,42.0,OIAH 101200Z
-OIBH,Bastak Airport,42.0,OIBH 101200Z
-LRR  OISL,Lar Airport,42.0,OISL 101200Z
-DIA  OTBD,Doha International Airport,42.0,OTBD 101200Z
-DOH  OTHH,Hamad International Airport,42.0,OTHH 101200Z
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 101200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 101200Z
-KAC  OSKL,Qamishli Airport,41.0,OSKL 101200Z
-ASW  HESN,Aswan International Airport,40.0,HESN 101100Z
-BAL  LTCJ,Batman Airport,40.0,LTCJ 101150Z
-MQM  LTCR,Mardin Airport,40.0,LTCR 101150Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,40.0,LTCV 101150Z
-BAH  OBBI,Bahrain International Airport,40.0,OBBI 101200Z
-OEAO,,40.0,OEAO 101200Z
-HAS  OEHL,Ha'il Airport,40.0,OEHL 101200Z
-AJF  OESK,Al-Jawf Domestic Airport,40.0,OESK 101200Z
-KNR  OIBJ,Jam Airport,40.0,OIBJ 101200Z
-PGU  OIBP,Persian Gulf International Airport,40.0,OIBP 101200Z
-IHR  OIZI,Iran Shahr Airport,40.0,OIZ
+PHX  KPHX,Phoenix Sky Harbor International Airport,42.0,KPHX 110051Z
+BLH  KBLH,Blythe Airport,42.0,KBLH 110052Z
+KGXF,,42.0,KGXF 110055Z
+KCHD,Chandler Municipal Airport,41.0,KCHD 110047Z
+GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 110047Z
+KGEU,Glendale Municipal Airport,41.0,KGEU 110048Z
+BXK  KBXK,Buckeye Municipal Airport,41.0,KBXK 110055Z
+LUF  KLUF,Luke Air Force Base,41.0,KLUF 110055Z
+EED  KEED,Needles Airport,41.0,KEED 110056Z
+KP08,,40.0,KP08 110035Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,40.0,MMHO 110040Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,40.0,KTRM 110052Z
+PSP  KPSP,Palm Springs International Airport,40.0,KPSP 110053Z
+SCF  KSDL,Scottsdale Airport,40.0,KSDL 110053Z
+MSC  KFFZ,Falcon Field,40.0,KFFZ
+KA39,,40.0,KA39 110055Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,40.0,KIWA 110055Z
+KL08,,40.0,KL08 110055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
+MZJ  KMZJ,Pinal Airpark,39.0,KMZ
+AVW  KAVQ,Marana Regional Airport,39.0,KAVQ 110055Z
+KRYN,Ryan Field,38.0,KRYN 110045Z
+VGT  KVGT,North Las Vegas Airport,38.0,KVGT 110053Z
+LSV  KLSV,Nellis Air Force Base,38.0,KLSV 110055Z
+KE77,,37.0,KE77 110035Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,37.0,KTUS 110053Z
+KBVU,,37.0,KBVU 110055Z
+DMA  KDMA,Davis Monthan Air Force Base,37.0,KDMA 110055Z
+LAS  KLAS,McCarran International Airport,37.0,KLAS 110056Z
+KNID,China Lake Naws (Armitage Field) Airport,37.0,KNID 110056Z
+KP52,,36.0,KP52 110035Z
+LAP  MMLP,Manuel Márquez de León International Airport,36.0,MMLP 110045Z
+SAD  KSAD,Safford Regional Airport,36.0,KSAD 110051Z
+BFL  KBFL,Meadows Field,36.0,KBFL 110054Z
+HSH  KHND,Henderson Executive Airport,36.0,KHND 110056Z
+PTV  KPTV,Porterville Municipal Airport,36.0,KPTV 110056Z
+AWZ  OIAW,Ahwaz Airport,35.0,OIAW 110000Z
+OKKK,,35.0,OKKK 110000Z
+DIA  OTBD,Doha International Airport,35.0,OTBD 110030Z
+GYM  MMGM,General José María Yáñez International Airport,35.0,MMGM 110040Z
+DAG  KDAG,Barstow Daggett Airport,35.0,KDAG 110050Z
+DRA  KDRA,Desert Rock Airport,35.0,KDRA 110053Z
+KHJO,Hanford Municipal Airport,35.0,KHJO 110053Z
+SBD  KSBD,San Bernardino International Airport,35.0,KSBD 110053Z
+KAZC,Colorado City Municipal Airport,35.0,KAZ
