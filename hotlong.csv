@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BSR  ORMM,Basrah International Airport,48.0,ORMM 111200Z
-HOF  OEAH,Al Ahsa Airport,47.0,OEAH 111200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 111200Z
-MRX  OIAM,Mahshahr Airport,46.0,OIAM 111200Z
-KQTZ,,45.0,KQTZ
-OEMN,,45.0,OEMN 111200Z
-LFM  OISR,Lamerd Airport,45.0,OISR 111200Z
-BGW  ORBI,Baghdad International Airport,45.0,ORBI 111200Z
-AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 111155Z
-DMM  OEDF,King Fahd International Airport,44.0,OEDF 111200Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 111200Z
-OEKJ,,44.0,OEKJ 111200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 111200Z
-RAH  OERF,Rafha Domestic Airport,44.0,OERF 111200Z
-WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 111200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,44.0,OEYN 111200Z
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 111200Z
-RKT  OMRK,Ras Al Khaimah International Airport,44.0,OMRK 111200Z
-OOAD,,43.0,OOAD 111150Z
-RUH  OERK,King Khaled International Airport,43.0,OERK 111200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 111200Z
-KIK  ORKK,Kirkuk Air Base,43.0,ORKK 111200Z
-KHS  OOKB,Khasab Air Base,42.0,OOKB 111150Z
-OEAO,,42.0,OEAO 111200Z
-GCH  OIAH,Gachsaran Airport,42.0,OIAH 111200Z
-EBL  ORER,Erbil International Airport,42.0,ORER 111200Z
-XJD  OTBH,Al Udeid Air Base,41.0,OTBH 111155Z
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 111200Z
-DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 111200Z
-HAS  OEHL,Ha'il Airport,41.0,OEHL 111200Z
-RAE  OERR,Arar Domestic Airport,41.0,OERR 111200Z
-OERS,,41.0,OERS 111200Z
-PGU  OIBP,Persian Gulf International Airport,41.0,OIBP 111200Z
-ETM  LLER,Ramon Airport,40.0,LLER 111150Z
-BMW  DATM,Bordj Badji Mokhtar Airport,40.0,DATM 111200Z
-BHH  OEBH,Bisha Airport,40.0,OEBH 111200Z
-AJF  OESK,Al-Jawf Domestic Airport,40.0,OESK 111200Z
-OIBH,Bastak Airport,40.0,OIBH 111200Z
-KHK  OIBQ,Khark Island Airport,40.0,OIBQ 111200Z
-BND  OIKB,Bandar Abbas International Airport,40.0,OIKB 111200Z
-LRR  OISL,Lar Airport,40.0,OISL 111200Z
-IHR  OIZI,Iran Shahr Airport,40.0,OIZ
-AQJ  OJAQ,Aqaba King Hussein International Airport,40.0,OJAQ 111200Z
-DXB  OMDB,Dubai International Airport,40.0,OMDB 111200Z
-SHJ  OMSJ,Sharjah International Airport,40.0,OMSJ 111200Z
+GYR  KGYR,Phoenix Goodyear Airport,40.0,KGYR 120047Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 120049Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,40.0,KPHX 120051Z
+BLH  KBLH,Blythe Airport,40.0,KBLH 120052Z
+KGXF,,40.0,KGXF 120055Z
+HII  KHII,Lake Havasu City Airport,40.0,KHII 120055Z
+IFP  KIFP,Laughlin Bullhead International Airport,40.0,KIFP 120055Z
+EED  KEED,Needles Airport,40.0,KEED 120056Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,39.0,KIWA 120048Z
+AVW  KAVQ,Marana Regional Airport,39.0,KAVQ 120055Z
+BXK  KBXK,Buckeye Municipal Airport,39.0,KBXK 120055Z
+LUF  KLUF,Luke Air Force Base,39.0,KLUF 120055Z
+OKKK,,38.0,OKKK 120000Z
+SCF  KSDL,Scottsdale Airport,38.0,KSDL 120053Z
+MSC  KFFZ,Falcon Field,38.0,KFFZ
+KA39,,38.0,KA39 120055Z
+MZJ  KMZJ,Pinal Airpark,38.0,KMZ
+KP08,,38.0,KP08 120055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 120056Z
+KRYN,Ryan Field,37.0,KRYN 120045Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,37.0,KTRM 120052Z
+DVT  KDVT,Phoenix Deer Valley Airport,37.0,KDVT 120053Z
+PSP  KPSP,Palm Springs International Airport,37.0,KPSP 120053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,37.0,KTUS 120053Z
+DMA  KDMA,Davis Monthan Air Force Base,37.0,KDMA 120055Z
+GYM  MMGM,General José María Yáñez International Airport,36.0,MMGM 120040Z
+SAD  KSAD,Safford Regional Airport,36.0,KSAD 120051Z
+VGT  KVGT,North Las Vegas Airport,36.0,KVGT 120053Z
+KBVU,,36.0,KBVU 120055Z
+LSV  KLSV,Nellis Air Force Base,36.0,KLSV 120055Z
+LTO  MMLT,Loreto International Airport,35.0,MMLT 120040Z
+LAP  MMLP,Manuel Márquez de León International Airport,35.0,MMLP 120042Z
+KHS  OOKB,Khasab Air Base,35.0,OOKB 120050Z
+KE77,,35.0,KE77 120055Z
+KL08,,35.0,KL08 120055Z
+LAS  KLAS,McCarran International Airport,35.0,KLAS 120056Z
+KNXP,Twentynine Palms (Self) Airport,35.0,KNXP 120056Z
+OEMN,,35.0,OEMN 120100Z
+JIB  HDAM,Djibouti-Ambouli Airport,34.0,HDAM 120000Z
+NVA  SKNV,Benito Salas Airport,34.0,SKNV 120000Z
+NLD  MMNL,Quetzalcóatl International Airport,34.0,MMNL 120040Z
+CUL  MMCL,Bachigualato Federal International Airport,34.0,MMCL 120041Z
+INS  KINS,Creech Air Force Base,34.0,KINS 120055Z
+KQD3,,34.0,KQD3 120055Z
+OKAS,Ali Al Salem Air Base,34.0,OKAS 120055Z
