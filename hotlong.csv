@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GYR  KGYR,Phoenix Goodyear Airport,40.0,KGYR 120047Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 120049Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,40.0,KPHX 120051Z
-BLH  KBLH,Blythe Airport,40.0,KBLH 120052Z
-KGXF,,40.0,KGXF 120055Z
-HII  KHII,Lake Havasu City Airport,40.0,KHII 120055Z
-IFP  KIFP,Laughlin Bullhead International Airport,40.0,KIFP 120055Z
-EED  KEED,Needles Airport,40.0,KEED 120056Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,39.0,KIWA 120048Z
-AVW  KAVQ,Marana Regional Airport,39.0,KAVQ 120055Z
-BXK  KBXK,Buckeye Municipal Airport,39.0,KBXK 120055Z
-LUF  KLUF,Luke Air Force Base,39.0,KLUF 120055Z
-OKKK,,38.0,OKKK 120000Z
-SCF  KSDL,Scottsdale Airport,38.0,KSDL 120053Z
-MSC  KFFZ,Falcon Field,38.0,KFFZ
-KA39,,38.0,KA39 120055Z
-MZJ  KMZJ,Pinal Airpark,38.0,KMZ
-KP08,,38.0,KP08 120055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 120056Z
-KRYN,Ryan Field,37.0,KRYN 120045Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,37.0,KTRM 120052Z
-DVT  KDVT,Phoenix Deer Valley Airport,37.0,KDVT 120053Z
-PSP  KPSP,Palm Springs International Airport,37.0,KPSP 120053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,37.0,KTUS 120053Z
-DMA  KDMA,Davis Monthan Air Force Base,37.0,KDMA 120055Z
-GYM  MMGM,General José María Yáñez International Airport,36.0,MMGM 120040Z
-SAD  KSAD,Safford Regional Airport,36.0,KSAD 120051Z
-VGT  KVGT,North Las Vegas Airport,36.0,KVGT 120053Z
-KBVU,,36.0,KBVU 120055Z
-LSV  KLSV,Nellis Air Force Base,36.0,KLSV 120055Z
-LTO  MMLT,Loreto International Airport,35.0,MMLT 120040Z
-LAP  MMLP,Manuel Márquez de León International Airport,35.0,MMLP 120042Z
-KHS  OOKB,Khasab Air Base,35.0,OOKB 120050Z
-KE77,,35.0,KE77 120055Z
-KL08,,35.0,KL08 120055Z
-LAS  KLAS,McCarran International Airport,35.0,KLAS 120056Z
-KNXP,Twentynine Palms (Self) Airport,35.0,KNXP 120056Z
-OEMN,,35.0,OEMN 120100Z
-JIB  HDAM,Djibouti-Ambouli Airport,34.0,HDAM 120000Z
-NVA  SKNV,Benito Salas Airport,34.0,SKNV 120000Z
-NLD  MMNL,Quetzalcóatl International Airport,34.0,MMNL 120040Z
-CUL  MMCL,Bachigualato Federal International Airport,34.0,MMCL 120041Z
-INS  KINS,Creech Air Force Base,34.0,KINS 120055Z
-KQD3,,34.0,KQD3 120055Z
-OKAS,Ali Al Salem Air Base,34.0,OKAS 120055Z
+ABD  OIAA,Abadan Airport,46.0,OIAA 121200Z
+BSR  ORMM,Basrah International Airport,46.0,ORMM 121200Z
+OKAS,Ali Al Salem Air Base,46.0,OKAS 121201Z
+DMM  OEDF,King Fahd International Airport,45.0,OEDF 121200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,45.0,OEMA 121200Z
+OICM,,44.0,OICM 121100Z
+AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 121155Z
+OEAO,,44.0,OEAO 121200Z
+ELQ  OEGS,Gassim Airport,44.0,OEGS 121200Z
+OEKJ,,44.0,OEKJ 121200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,44.0,OEPA 121200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 121200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,44.0,OEYN 121200Z
+AAN  OMAL,Al Ain International Airport,44.0,OMAL 121200Z
+KQTZ,,43.0,KQTZ
+RUH  OERK,King Khaled International Airport,43.0,OERK 121200Z
+RKT  OMRK,Ras Al Khaimah International Airport,43.0,OMRK 121200Z
+BGW  ORBI,Baghdad International Airport,43.0,ORBI 121200Z
+NJF  ORNI,Al Najaf International Airport,43.0,ORNI 121200Z
+LXR  HELX,Luxor International Airport,42.0,HELX 121100Z
+ASW  HESN,Aswan International Airport,42.0,HESN 121100Z
+XJD  OTBH,Al Udeid Air Base,42.0,OTBH 121155Z
+VVZ  DAAP,Illizi Takhamalt Airport,42.0,DAAP 121200Z
+DWD  OEDM,King Salman Abdulaziz Airport,42.0,OEDM 121200Z
+OEMN,,42.0,OEMN 121200Z
+RAH  OERF,Rafha Domestic Airport,42.0,OERF 121200Z
+OERS,,42.0,OERS 121200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 121200Z
+GCH  OIAH,Gachsaran Airport,42.0,OIAH 121200Z
+LFM  OISR,Lamerd Airport,42.0,OISR 121200Z
+AQJ  OJAQ,Aqaba King Hussein International Airport,42.0,OJAQ 121200Z
+DWC  OMDW,Al Maktoum International Airport,42.0,OMDW 121200Z
+SHJ  OMSJ,Sharjah International Airport,42.0,OMSJ 121200Z
+ATZ  HEAT,Asyut International Airport,41.0,HEAT 121100Z
+ABS  HEBL,Abu Simbel Airport,41.0,HEBL 121100Z
+HRG  HEGN,Hurghada International Airport,41.0,HEGN 121100Z
+HESG,,41.0,HESG 121100Z
+KIK  ORKK,Kirkuk Air Base,41.0,ORKK 121100Z
+ETM  LLER,Ramon Airport,41.0,LLER 121150Z
+OOAD,,41.0,OOAD 121150Z
+KHS  OOKB,Khasab Air Base,41.0,OOKB 121150Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,41.0,DAUA 121200Z
+DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 121200Z
+HAS  OEHL,Ha'il Airport,41.0,OEHL 121200Z
+LRR  OISL,Lar Airport,41.0,OISL 121200Z
