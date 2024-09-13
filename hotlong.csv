@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ABD  OIAA,Abadan Airport,46.0,OIAA 121200Z
-BSR  ORMM,Basrah International Airport,46.0,ORMM 121200Z
-OKAS,Ali Al Salem Air Base,46.0,OKAS 121201Z
-DMM  OEDF,King Fahd International Airport,45.0,OEDF 121200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,45.0,OEMA 121200Z
-OICM,,44.0,OICM 121100Z
-AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 121155Z
-OEAO,,44.0,OEAO 121200Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 121200Z
-OEKJ,,44.0,OEKJ 121200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,44.0,OEPA 121200Z
-WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 121200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,44.0,OEYN 121200Z
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 121200Z
-KQTZ,,43.0,KQTZ
-RUH  OERK,King Khaled International Airport,43.0,OERK 121200Z
-RKT  OMRK,Ras Al Khaimah International Airport,43.0,OMRK 121200Z
-BGW  ORBI,Baghdad International Airport,43.0,ORBI 121200Z
-NJF  ORNI,Al Najaf International Airport,43.0,ORNI 121200Z
-LXR  HELX,Luxor International Airport,42.0,HELX 121100Z
-ASW  HESN,Aswan International Airport,42.0,HESN 121100Z
-XJD  OTBH,Al Udeid Air Base,42.0,OTBH 121155Z
-VVZ  DAAP,Illizi Takhamalt Airport,42.0,DAAP 121200Z
-DWD  OEDM,King Salman Abdulaziz Airport,42.0,OEDM 121200Z
-OEMN,,42.0,OEMN 121200Z
-RAH  OERF,Rafha Domestic Airport,42.0,OERF 121200Z
-OERS,,42.0,OERS 121200Z
-SHW  OESH,Sharurah Airport,42.0,OESH 121200Z
-GCH  OIAH,Gachsaran Airport,42.0,OIAH 121200Z
-LFM  OISR,Lamerd Airport,42.0,OISR 121200Z
-AQJ  OJAQ,Aqaba King Hussein International Airport,42.0,OJAQ 121200Z
-DWC  OMDW,Al Maktoum International Airport,42.0,OMDW 121200Z
-SHJ  OMSJ,Sharjah International Airport,42.0,OMSJ 121200Z
-ATZ  HEAT,Asyut International Airport,41.0,HEAT 121100Z
-ABS  HEBL,Abu Simbel Airport,41.0,HEBL 121100Z
-HRG  HEGN,Hurghada International Airport,41.0,HEGN 121100Z
-HESG,,41.0,HESG 121100Z
-KIK  ORKK,Kirkuk Air Base,41.0,ORKK 121100Z
-ETM  LLER,Ramon Airport,41.0,LLER 121150Z
-OOAD,,41.0,OOAD 121150Z
-KHS  OOKB,Khasab Air Base,41.0,OOKB 121150Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,41.0,DAUA 121200Z
-DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 121200Z
-HAS  OEHL,Ha'il Airport,41.0,OEHL 121200Z
-LRR  OISL,Lar Airport,41.0,OISL 121200Z
+KGEU,Glendale Municipal Airport,39.0,KGEU 130053Z
+KGXF,,39.0,KGXF 130055Z
+LUF  KLUF,Luke Air Force Base,39.0,KLUF 130055Z
+MZJ  KMZJ,Pinal Airpark,38.0,KMZ
+KP08,,38.0,KP08 130035Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 130051Z
+SCF  KSDL,Scottsdale Airport,38.0,KSDL 130053Z
+MSC  KFFZ,Falcon Field,38.0,KFFZ
+LGF  KLGF,Laguna Army Airfield,38.0,KLGF 130055Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 130057Z
+KNOZ,,38.0,KNOZ
+OKKK,,37.0,OKKK 130000Z
+BLH  KBLH,Blythe Airport,37.0,KBLH 130052Z
+DVT  KDVT,Phoenix Deer Valley Airport,37.0,KDVT 130053Z
+KA39,,37.0,KA39 130055Z
+AVW  KAVQ,Marana Regional Airport,37.0,KAVQ 130055Z
+BXK  KBXK,Buckeye Municipal Airport,37.0,KBXK 130055Z
+HII  KHII,Lake Havasu City Airport,37.0,KHII 130055Z
+EED  KEED,Needles Airport,37.0,KEED 130056Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),37.0,KNJK 130056Z
+GYM  MMGM,General José María Yáñez International Airport,36.0,MMGM 130041Z
+KRYN,Ryan Field,36.0,KRYN 130050Z
+SAD  KSAD,Safford Regional Airport,36.0,KSAD 130051Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,36.0,KTRM 130052Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,36.0,KTUS 130053Z
+DMA  KDMA,Davis Monthan Air Force Base,36.0,KDMA 130055Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,36.0,OEMA 130100Z
+KPRS,Presidio Lely International Airport,35.0,KPRS 122355Z
+NVA  SKNV,Benito Salas Airport,35.0,SKNV 130000Z
+KE77,,35.0,KE77 130035Z
+KFTN,,35.0,KFTN 130035Z
+KT89,,35.0,KT89 130035Z
+NLD  MMNL,Quetzalcóatl International Airport,35.0,MMNL 130040Z
+CEN  MMCN,Ciudad Obregón International Airport,35.0,MMCN 130041Z
+LAP  MMLP,Manuel Márquez de León International Airport,35.0,MMLP 130046Z
+KL08,,35.0,KL08 130055Z
+RMF  HEMA,Marsa Alam International Airport,34.0,HEMA 130000Z
+MGZA,Zacapa Airport,34.0,MGZ
+DXB  OMDB,Dubai International Airport,34.0,OMDB 130000Z
+PMV  SVMG,Del Caribe Santiago Mariño International Airport,34.0,SVMG 130003Z
+LTO  MMLT,Loreto International Airport,34.0,MMLT 130043Z
+PSP  KPSP,Palm Springs International Airport,34.0,KPSP 130053Z
+LSV  KLSV,Nellis Air Force Base,34.0,KLSV 130055Z
+LRD  KLRD,Laredo International Airport,34.0,KLRD 130056Z
+BAH  OBBI,Bahrain International Airport,34.0,OBBI 130100Z
