@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KGEU,Glendale Municipal Airport,39.0,KGEU 130053Z
-KGXF,,39.0,KGXF 130055Z
-LUF  KLUF,Luke Air Force Base,39.0,KLUF 130055Z
-MZJ  KMZJ,Pinal Airpark,38.0,KMZ
-KP08,,38.0,KP08 130035Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 130051Z
-SCF  KSDL,Scottsdale Airport,38.0,KSDL 130053Z
-MSC  KFFZ,Falcon Field,38.0,KFFZ
-LGF  KLGF,Laguna Army Airfield,38.0,KLGF 130055Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 130057Z
-KNOZ,,38.0,KNOZ
-OKKK,,37.0,OKKK 130000Z
-BLH  KBLH,Blythe Airport,37.0,KBLH 130052Z
-DVT  KDVT,Phoenix Deer Valley Airport,37.0,KDVT 130053Z
-KA39,,37.0,KA39 130055Z
-AVW  KAVQ,Marana Regional Airport,37.0,KAVQ 130055Z
-BXK  KBXK,Buckeye Municipal Airport,37.0,KBXK 130055Z
-HII  KHII,Lake Havasu City Airport,37.0,KHII 130055Z
-EED  KEED,Needles Airport,37.0,KEED 130056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),37.0,KNJK 130056Z
-GYM  MMGM,General José María Yáñez International Airport,36.0,MMGM 130041Z
-KRYN,Ryan Field,36.0,KRYN 130050Z
-SAD  KSAD,Safford Regional Airport,36.0,KSAD 130051Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,36.0,KTRM 130052Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,36.0,KTUS 130053Z
-DMA  KDMA,Davis Monthan Air Force Base,36.0,KDMA 130055Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,36.0,OEMA 130100Z
-KPRS,Presidio Lely International Airport,35.0,KPRS 122355Z
-NVA  SKNV,Benito Salas Airport,35.0,SKNV 130000Z
-KE77,,35.0,KE77 130035Z
-KFTN,,35.0,KFTN 130035Z
-KT89,,35.0,KT89 130035Z
-NLD  MMNL,Quetzalcóatl International Airport,35.0,MMNL 130040Z
-CEN  MMCN,Ciudad Obregón International Airport,35.0,MMCN 130041Z
-LAP  MMLP,Manuel Márquez de León International Airport,35.0,MMLP 130046Z
-KL08,,35.0,KL08 130055Z
-RMF  HEMA,Marsa Alam International Airport,34.0,HEMA 130000Z
-MGZA,Zacapa Airport,34.0,MGZ
-DXB  OMDB,Dubai International Airport,34.0,OMDB 130000Z
-PMV  SVMG,Del Caribe Santiago Mariño International Airport,34.0,SVMG 130003Z
-LTO  MMLT,Loreto International Airport,34.0,MMLT 130043Z
-PSP  KPSP,Palm Springs International Airport,34.0,KPSP 130053Z
-LSV  KLSV,Nellis Air Force Base,34.0,KLSV 130055Z
-LRD  KLRD,Laredo International Airport,34.0,KLRD 130056Z
-BAH  OBBI,Bahrain International Airport,34.0,OBBI 130100Z
+AWZ  OIAW,Ahwaz Airport,44.0,OIAW 131200Z
+BSR  ORMM,Basrah International Airport,44.0,ORMM 131200Z
+OKAS,Ali Al Salem Air Base,43.0,OKAS 131155Z
+XJD  OTBH,Al Udeid Air Base,43.0,OTBH 131155Z
+OEAO,,43.0,OEAO 131200Z
+ELQ  OEGS,Gassim Airport,43.0,OEGS 131200Z
+OERS,,43.0,OERS 131200Z
+WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 131200Z
+ABD  OIAA,Abadan Airport,43.0,OIAA 131200Z
+OKKK,,43.0,OKKK 131200Z
+AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 131155Z
+DMM  OEDF,King Fahd International Airport,42.0,OEDF 131200Z
+DWD  OEDM,King Salman Abdulaziz Airport,42.0,OEDM 131200Z
+OEKJ,,42.0,OEKJ 131200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 131200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 131200Z
+AZI  OMAD,Bateen Airport,42.0,OMAD 131200Z
+AAN  OMAL,Al Ain International Airport,42.0,OMAL 131200Z
+GXF  OYSY,Sayun International Airport,42.0,OYSY 131200Z
+ETM  LLER,Ramon Airport,41.0,LLER 131150Z
+OOAD,,41.0,OOAD 131150Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,41.0,DAUA 131200Z
+TMX  DAUT,Timimoun Airport,41.0,DAUT 131200Z
+DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 131200Z
+HAS  OEHL,Ha'il Airport,41.0,OEHL 131200Z
+RUH  OERK,King Khaled International Airport,41.0,OERK 131200Z
+OICM,,41.0,OICM 131200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+AQJ  OJAQ,Aqaba King Hussein International Airport,41.0,OJAQ 131200Z
+AUH  OMAA,Abu Dhabi International Airport,41.0,OMAA 131200Z
+NJF  ORNI,Al Najaf International Airport,41.0,ORNI 131200Z
+KQTZ,,40.0,KQTZ
+OEMN,,40.0,OEMN 131200Z
+RAH  OERF,Rafha Domestic Airport,40.0,OERF 131200Z
+LFM  OISR,Lamerd Airport,40.0,OISR 131200Z
+BGW  ORBI,Baghdad International Airport,40.0,ORBI 131200Z
+INZ  DAUI,In Salah Airport,39.0,DAUI 131200Z
+HDS  FAHS,Hoedspruit Air Force Base Airport,39.0,FAHS 131200Z
+BFO  FVCZ,Buffalo Range Airport,39.0,FVCZ
+BHH  OEBH,Bisha Airport,39.0,OEBH 131200Z
+AJF  OESK,Al-Jawf Domestic Airport,39.0,OESK 131200Z
+GCH  OIAH,Gachsaran Airport,39.0,OIAH 131200Z
+PGU  OIBP,Persian Gulf International Airport,39.0,OIBP 131200Z
+TCX  OIMT,Tabas Airport,39.0,OIMT 131200Z
+LRR  OISL,Lar Airport,39.0,OISL 131200Z
