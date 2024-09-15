@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KGEU,Glendale Municipal Airport,37.0,KGEU 150047Z
-GYR  KGYR,Phoenix Goodyear Airport,37.0,KGYR 150047Z
-BLH  KBLH,Blythe Airport,37.0,KBLH 150052Z
-BXK  KBXK,Buckeye Municipal Airport,37.0,KBXK 150055Z
-HII  KHII,Lake Havasu City Airport,37.0,KHII 150055Z
-IFP  KIFP,Laughlin Bullhead International Airport,37.0,KIFP 150055Z
-LGF  KLGF,Laguna Army Airfield,37.0,KLGF 150055Z
-LUF  KLUF,Luke Air Force Base,37.0,KLUF 150055Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,36.0,MMHO 150040Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,36.0,MMML 150040Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 150047Z
-DAG  KDAG,Barstow Daggett Airport,36.0,KDAG 150050Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,36.0,KTRM 150052Z
-PSP  KPSP,Palm Springs International Airport,36.0,KPSP 150053Z
-SCF  KSDL,Scottsdale Airport,36.0,KSDL 150053Z
-MSC  KFFZ,Falcon Field,36.0,KFFZ
-KA39,,36.0,KA39 150055Z
-KL08,,36.0,KL08 150055Z
-KP08,,36.0,KP08 150055Z
-KQRH,,36.0,KQRH 150055Z
-EED  KEED,Needles Airport,36.0,KEED 150056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,36.0,KNYL 150057Z
-SAD  KSAD,Safford Regional Airport,35.0,KSAD 150051Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,35.0,KTUS 150053Z
-VGT  KVGT,North Las Vegas Airport,35.0,KVGT 150053Z
-AVW  KAVQ,Marana Regional Airport,35.0,KAVQ 150055Z
-LSV  KLSV,Nellis Air Force Base,35.0,KLSV 150055Z
-MZJ  KMZJ,Pinal Airpark,35.0,KMZ
-KQD3,,35.0,KQD3 150055Z
-NGS  RJFU,Nagasaki Airport,35.0,RJFU 150100Z
-KRYN,Ryan Field,34.0,KRYN 150045Z
-KHJO,Hanford Municipal Airport,34.0,KHJO 150053Z
-AXS  KAXS,Altus Quartz Mountain Regional Airport,34.0,KAXS 150055Z
-KBVU,,34.0,KBVU 150055Z
-DMA  KDMA,Davis Monthan Air Force Base,34.0,KDMA 150055Z
-KF05,,34.0,KF05 150055Z
-FCH  KFCH,Fresno Chandler Executive Airport,34.0,KFCH 150055Z
-LAS  KLAS,McCarran International Airport,34.0,KLAS 150056Z
-KNID,China Lake Naws (Armitage Field) Airport,34.0,KNID 150056Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,34.0,KNLC 150056Z
-WAE  OEWD,Wadi Al Dawasir Airport,34.0,OEWD 150100Z
-PMV  SVMG,Del Caribe Santiago Mariño International Airport,34.0,SVMG 150103Z
-BIF  KBIF,Biggs Army Air Field (Fort Bliss),33.0,KBIF 150005Z
-AFW  KAFW,Fort Worth Alliance Airport,33.0,KAFW 150053Z
-CRS  KCRS,C David Campbell Field Corsicana Municipal Airport,33.0,KCRS 150053Z
+AWZ  OIAW,Ahwaz Airport,42.0,OIAW 151130Z
+XJD  OTBH,Al Udeid Air Base,42.0,OTBH 151155Z
+OEKJ,,42.0,OEKJ 151200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 151200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 151200Z
+AKW  OIAG,Aghajari Airport,42.0,OIAG 151200Z
+OKKK,,42.0,OKKK 151200Z
+OOAD,,41.0,OOAD 151150Z
+AKH  OEPS,Prince Sultan Air Base,41.0,OEPS 151155Z
+OKAS,Ali Al Salem Air Base,41.0,OKAS 151155Z
+INZ  DAUI,In Salah Airport,41.0,DAUI 151200Z
+BAH  OBBI,Bahrain International Airport,41.0,OBBI 151200Z
+OEAO,,41.0,OEAO 151200Z
+DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 151200Z
+ELQ  OEGS,Gassim Airport,41.0,OEGS 151200Z
+OEMN,,41.0,OEMN 151200Z
+RUH  OERK,King Khaled International Airport,41.0,OERK 151200Z
+ABD  OIAA,Abadan Airport,41.0,OIAA 151200Z
+MRX  OIAM,Mahshahr Airport,41.0,OIAM 151200Z
+AUH  OMAA,Abu Dhabi International Airport,41.0,OMAA 151200Z
+AZI  OMAD,Bateen Airport,41.0,OMAD 151200Z
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 151200Z
+BSR  ORMM,Basrah International Airport,41.0,ORMM 151200Z
+GXF  OYSY,Sayun International Airport,41.0,OYSY 151200Z
+TET  FQTT,Chingozi Airport,40.0,FQTT 151200Z
+KAB  FVKB,Kariba International Airport,40.0,FVKB 151200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,40.0,OEPA 151200Z
+IHR  OIZI,Iran Shahr Airport,40.0,OIZ
+DWC  OMDW,Al Maktoum International Airport,40.0,OMDW 151200Z
+NJF  ORNI,Al Najaf International Airport,40.0,ORNI 151200Z
+DIA  OTBD,Doha International Airport,40.0,OTBD 151200Z
+KQTZ,,39.0,KQTZ
+BMW  DATM,Bordj Badji Mokhtar Airport,39.0,DATM 151200Z
+MPA  FYKM,Katima Mulilo Airport,39.0,FYKM 151200Z
+BHH  OEBH,Bisha Airport,39.0,OEBH 151200Z
+HAS  OEHL,Ha'il Airport,39.0,OEHL 151200Z
+DXB  OMDB,Dubai International Airport,39.0,OMDB 151200Z
+BGW  ORBI,Baghdad International Airport,39.0,ORBI 151200Z
+EBL  ORER,Erbil International Airport,39.0,ORER 151200Z
+KAC  OSKL,Qamishli Airport,39.0,OSKL 151200Z
+DOH  OTHH,Hamad International Airport,39.0,OTHH 151200Z
+SXZ  LTCL,Siirt Airport,38.0,LTCL 151150Z
+KQRH,,38.0,KQRH 151155Z
+VVZ  DAAP,Illizi Takhamalt Airport,38.0,DAAP 151200Z
+TIN  DAOF,Tindouf Airport,38.0,DAOF 151200Z
