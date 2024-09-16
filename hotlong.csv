@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,37.0,KIWA 160048Z
-BLH  KBLH,Blythe Airport,37.0,KBLH 160052Z
-HII  KHII,Lake Havasu City Airport,37.0,KHII 160055Z
-IFP  KIFP,Laughlin Bullhead International Airport,37.0,KIFP 160055Z
-LGF  KLGF,Laguna Army Airfield,37.0,KLGF 160055Z
-LUF  KLUF,Luke Air Force Base,37.0,KLUF 160055Z
-KP08,,37.0,KP08 160055Z
-DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 160053Z
-SCF  KSDL,Scottsdale Airport,36.0,KSDL 160053Z
-MSC  KFFZ,Falcon Field,36.0,KFFZ
-KA39,,36.0,KA39 160055Z
-BXK  KBXK,Buckeye Municipal Airport,36.0,KBXK 160055Z
-KGXF,,36.0,KGXF 160055Z
-EED  KEED,Needles Airport,36.0,KEED 160056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,36.0,KNYL 160057Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,35.0,MMHO 160040Z
-KQD3,,35.0,KQD3 160055Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,34.0,KTRM 160052Z
-KBVU,,34.0,KBVU 160055Z
-KF05,,34.0,KF05 160055Z
-LSV  KLSV,Nellis Air Force Base,34.0,KLSV 160055Z
-KQRH,,34.0,KQRH 160055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),34.0,KNJK 160056Z
-GIZ  OEGN,Jizan Regional Airport,34.0,OEGN 160100Z
-FUK  RJFF,Fukuoka Airport,34.0,RJFF 160100Z
-NVA  SKNV,Benito Salas Airport,34.0,SKNV 160100Z
-GYM  MMGM,General José María Yáñez International Airport,33.0,MMGM 160040Z
-PSP  KPSP,Palm Springs International Airport,33.0,KPSP 160053Z
-VGT  KVGT,North Las Vegas Airport,33.0,KVGT 160053Z
-MZJ  KMZJ,Pinal Airpark,33.0,KMZ
-LAS  KLAS,McCarran International Airport,33.0,KLAS 160056Z
-SXI  OIBS,Sirri Island Airport,33.0,OIBS 160100Z
-RMQ  RCMQ,Taichung Ching Chuang Kang Airport,33.0,RCMQ 160100Z
-TSA  RCSS,Taipei Songshan Airport,33.0,RCSS 160100Z
-TPE  RCTP,Taiwan Taoyuan International Airport,33.0,RCTP 160100Z
-NGS  RJFU,Nagasaki Airport,33.0,RJFU 160100Z
-DCN  YCIN,RAAF Base Curtin,33.0,YCIN 160100Z
-KNX  YPKU,Kununurra Airport,33.0,YPKU 160100Z
-KHQG,Hugoton Municipal Airport,32.0,KHQG 160010Z
-CJS  MMCS,Abraham González International Airport,32.0,MMCS 160040Z
-PQM  MMPQ,Palenque International Airport,32.0,MMPQ 160040Z
-CEN  MMCN,Ciudad Obregón International Airport,32.0,MMCN 160041Z
-ELP  KELP,El Paso International Airport,32.0,KELP 160051Z
-CDS  KCDS,Childress Municipal Airport,32.0,KCDS 160053Z
-JRF  PHJR,Kalaeloa Airport,32.0,PHJR 160053Z
+OEKJ,,42.0,OEKJ 161200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 161200Z
+OEMN,,42.0,OEMN 161200Z
+RUH  OERK,King Khaled International Airport,42.0,OERK 161200Z
+WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 161200Z
+ABD  OIAA,Abadan Airport,42.0,OIAA 161200Z
+AKW  OIAG,Aghajari Airport,42.0,OIAG 161200Z
+AWZ  OIAW,Ahwaz Airport,42.0,OIAW 161200Z
+BSR  ORMM,Basrah International Airport,42.0,ORMM 161200Z
+DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 161200Z
+DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 161200Z
+ELQ  OEGS,Gassim Airport,41.0,OEGS 161200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 161200Z
+SHW  OESH,Sharurah Airport,41.0,OESH 161200Z
+MRX  OIAM,Mahshahr Airport,41.0,OIAM 161200Z
+OKKK,,41.0,OKKK 161200Z
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 161200Z
+NJF  ORNI,Al Najaf International Airport,41.0,ORNI 161200Z
+OOAD,,40.0,OOAD 161150Z
+VVZ  DAAP,Illizi Takhamalt Airport,40.0,DAAP 161200Z
+TET  FQTT,Chingozi Airport,40.0,FQTT 161200Z
+ASW  HESN,Aswan International Airport,40.0,HESN 161200Z
+AUH  OMAA,Abu Dhabi International Airport,40.0,OMAA 161200Z
+KQTZ,,39.0,KQTZ
+INZ  DAUI,In Salah Airport,39.0,DAUI 161200Z
+IAM  DAUZ,In Aménas Airport,39.0,DAUZ
+KAB  FVKB,Kariba International Airport,39.0,FVKB 161200Z
+LXR  HELX,Luxor International Airport,39.0,HELX 161200Z
+HESG,,39.0,HESG 161200Z
+EAM  OENG,Nejran Airport,39.0,OENG 161200Z
+BGW  ORBI,Baghdad International Airport,39.0,ORBI 161200Z
+GXF  OYSY,Sayun International Airport,39.0,OYSY 161200Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,38.0,DAUA 161200Z
+BFO  FVCZ,Buffalo Range Airport,38.0,FVCZ
+NDU  FYRU,Rundu Airport,38.0,FYRU 161200Z
+ABS  HEBL,Abu Simbel Airport,38.0,HEBL 161200Z
+OEAO,,38.0,OEAO 161200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,38.0,OEYN 161200Z
+LVP  OIBV,Lavan Island Airport,38.0,OIBV 161200Z
+IHR  OIZI,Iran Shahr Airport,38.0,OIZ
+AZI  OMAD,Bateen Airport,38.0,OMAD 161200Z
+DWC  OMDW,Al Maktoum International Airport,38.0,OMDW 161200Z
+RKT  OMRK,Ras Al Khaimah International Airport,38.0,OMRK 161200Z
+KIK  ORKK,Kirkuk Air Base,38.0,ORKK 161200Z
+KHS  OOKB,Khasab Air Base,37.0,OOKB 161150Z
