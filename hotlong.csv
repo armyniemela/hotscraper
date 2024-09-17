@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GYR  KGYR,Phoenix Goodyear Airport,36.0,KGYR 170047Z
-KBAZ,New Braunfels Municipal Airport,35.0,KBAZ
-DVT  KDVT,Phoenix Deer Valley Airport,35.0,KDVT 162353Z
-SCF  KSDL,Scottsdale Airport,35.0,KSDL 162353Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,35.0,KIWA 162355Z
-KP08,,35.0,KP08 170030Z
-KA39,,35.0,KA39 170035Z
-KCHD,Chandler Municipal Airport,35.0,KCHD 170047Z
-IFP  KIFP,Laughlin Bullhead International Airport,34.0,KIFP 162348Z
-ELP  KELP,El Paso International Airport,34.0,KELP 162351Z
-SAT  KSAT,San Antonio International Airport,34.0,KSAT 162351Z
-AUS  KAUS,Austin Bergstrom International Airport,34.0,KAUS 162353Z
-SSF  KSSF,Stinson Municipal Airport,34.0,KSSF 162353Z
-LGF  KLGF,Laguna Army Airfield,34.0,KLGF 162355Z
-KQD3,,34.0,KQD3 162355Z
-RND  KRND,Randolph Air Force Base,34.0,KRND 162355Z
-KSEQ,Randolph Air Force Base Auxiliary Airport,34.0,KSEQ 162355Z
-SKF  KSKF,Lackland Air Force Base,34.0,KSKF 162355Z
-OEMN,,34.0,OEMN 170000Z
-PMV  SVMG,Del Caribe Santiago Mariño International Airport,34.0,SVMG 170003Z
-TPE  RCTP,Taiwan Taoyuan International Airport,34.0,RCTP 170031Z
-AVW  KAVQ,Marana Regional Airport,34.0,KAVQ 170035Z
-BXK  KBXK,Buckeye Municipal Airport,34.0,KBXK 170035Z
-KT89,,34.0,KT89 170035Z
-PQM  MMPQ,Palenque International Airport,33.0,MMPQ 162340Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,33.0,MMVA 162341Z
-CJS  MMCS,Abraham González International Airport,33.0,MMCS 162349Z
-TRC  MMTC,Francisco Sarabia International Airport,33.0,MMTC 162350Z
-KATT,,33.0,KATT 162351Z
-BGD  KBGD,Hutchinson County Airport,33.0,KBGD 162351Z
-SAD  KSAD,Safford Regional Airport,33.0,KSAD 162351Z
-BLH  KBLH,Blythe Airport,33.0,KBLH 162352Z
-FDR  KFDR,Frederick Regional Airport,33.0,KFDR 162353Z
-LAW  KLAW,Lawton Fort Sill Regional Airport,33.0,KLAW 162353Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,33.0,KTUS 162353Z
-DMA  KDMA,Davis Monthan Air Force Base,33.0,KDMA 162355Z
-FSI  KFSI,Henry Post Army Air Field (Fort Sill),33.0,KFSI 162355Z
-HMN  KHMN,Holloman Air Force Base,33.0,KHMN 162355Z
-LTS  KLTS,Altus Air Force Base,33.0,KLTS 162355Z
-KQRH,,33.0,KQRH 162355Z
-EED  KEED,Needles Airport,33.0,KEED 162356Z
-KHYI,San Marcos Regional Airport,33.0,KHYI 162356Z
-VVZ  DAAP,Illizi Takhamalt Airport,33.0,DAAP 170000Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,33.0,OEMA 170000Z
-BAH  OBBI,Bahrain International Airport,33.0,OBBI 170030Z
+ABD  OIAA,Abadan Airport,42.0,OIAA 171200Z
+AWZ  OIAW,Ahwaz Airport,42.0,OIAW 171200Z
+BSR  ORMM,Basrah International Airport,42.0,ORMM 171200Z
+OKAS,Ali Al Salem Air Base,42.0,OKAS 171213Z
+VVZ  DAAP,Illizi Takhamalt Airport,41.0,DAAP 171200Z
+LXR  HELX,Luxor International Airport,41.0,HELX 171200Z
+DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 171200Z
+OEKJ,,41.0,OEKJ 171200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 171200Z
+RUH  OERK,King Khaled International Airport,41.0,OERK 171200Z
+SHW  OESH,Sharurah Airport,41.0,OESH 171200Z
+XJD  OTBH,Al Udeid Air Base,40.0,OTBH 171155Z
+INZ  DAUI,In Salah Airport,40.0,DAUI 171200Z
+ASW  HESN,Aswan International Airport,40.0,HESN 171200Z
+ELQ  OEGS,Gassim Airport,40.0,OEGS 171200Z
+OEMN,,40.0,OEMN 171200Z
+IHR  OIZI,Iran Shahr Airport,40.0,OIZ
+AAN  OMAL,Al Ain International Airport,40.0,OMAL 171200Z
+NJF  ORNI,Al Najaf International Airport,40.0,ORNI 171200Z
+OOAD,,39.0,OOAD 171150Z
+KQTZ,,39.0,KQTZ
+BMW  DATM,Bordj Badji Mokhtar Airport,39.0,DATM 171200Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,39.0,DAUA 171200Z
+IAM  DAUZ,In Aménas Airport,39.0,DAUZ
+TET  FQTT,Chingozi Airport,39.0,FQTT 171200Z
+ABS  HEBL,Abu Simbel Airport,39.0,HEBL 171200Z
+HESG,,39.0,HESG 171200Z
+DMM  OEDF,King Fahd International Airport,39.0,OEDF 171200Z
+BGW  ORBI,Baghdad International Airport,39.0,ORBI 171203Z
+TMX  DAUT,Timimoun Airport,38.0,DAUT 171200Z
+KAB  FVKB,Kariba International Airport,38.0,FVKB 171200Z
+OEAO,,38.0,OEAO 171200Z
+BHH  OEBH,Bisha Airport,38.0,OEBH 171200Z
+DHA  OEDR,King Abdulaziz Air Base,38.0,OEDR 171200Z
+JED  OEJN,King Abdulaziz International Airport,38.0,OEJN 171200Z
+EAM  OENG,Nejran Airport,38.0,OENG 171200Z
+MRX  OIAM,Mahshahr Airport,38.0,OIAM 171200Z
+KHK  OIBQ,Khark Island Airport,38.0,OIBQ 171200Z
+ACZ  OIZB,Zabol Airport,38.0,OIZ
+DIA  OTBD,Doha International Airport,38.0,OTBD 171200Z
+DOH  OTHH,Hamad International Airport,38.0,OTHH 171200Z
+GXF  OYSY,Sayun International Airport,38.0,OYSY 171200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,38.0,VOTR 171200Z
+KHS  OOKB,Khasab Air Base,37.0,OOKB 171150Z
+KQD3,,37.0,KQD3 171155Z
