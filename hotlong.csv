@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NVA  SKNV,Benito Salas Airport,34.0,SKNV 180000Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,34.0,MMHO 180041Z
-PTTP,,34.0,PTTP 180052Z
-KPRS,Presidio Lely International Airport,34.0,KPRS 180055Z
-KP08,,33.0,KP08 180035Z
-TRC  MMTC,Francisco Sarabia International Airport,33.0,MMTC 180040Z
-CUU  MMCU,General Roberto Fierro Villalobos International Airport,33.0,MMCU 180042Z
-ELP  KELP,El Paso International Airport,33.0,KELP 180051Z
-BIF  KBIF,Biggs Army Air Field (Fort Bliss),33.0,KBIF 180055Z
-KQD3,,33.0,KQD3 180055Z
-SKF  KSKF,Lackland Air Force Base,33.0,KSKF 180055Z
-VHN  KVHN,Culberson County Airport,33.0,KVHN 180055Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,33.0,OEMA 180100Z
-MAO  SBEG,Eduardo Gomes International Airport,33.0,SBEG 180100Z
-KGEU,Glendale Municipal Airport,32.0,KGEU 172350Z
-TKK  PTKK,Chuuk International Airport,32.0,PTKK 172355Z
-ABS  HEBL,Abu Simbel Airport,32.0,HEBL 180000Z
-MGZA,Zacapa Airport,32.0,MGZ
-BUZ  OIBB,Bushehr Airport,32.0,OIBB 180000Z
-KIH  OIBK,Kish International Airport,32.0,OIBK 180000Z
-RJOY,Yao Airport,32.0,RJOY 180000Z
-RJTF,Chofu Airport,32.0,RJTF 180000Z
-BAH  OBBI,Bahrain International Airport,32.0,OBBI 180030Z
-KHH  RCKH,Kaohsiung International Airport,32.0,RCKH 180030Z
-NRT  RJAA,Narita International Airport,32.0,RJAA 180030Z
-FUK  RJFF,Fukuoka Airport,32.0,RJFF 180030Z
-HND  RJTT,Tokyo Haneda International Airport,32.0,RJTT 180030Z
-KE01,,32.0,KE01 180035Z
-MZJ  KMZJ,Pinal Airpark,32.0,KMZ
-PEQ  KPEQ,Pecos Municipal Airport,32.0,KPEQ 180035Z
-KPEZ,Pleasanton Municipal Airport,32.0,KPEZ
-CJS  MMCS,Abraham González International Airport,32.0,MMCS 180040Z
-NLD  MMNL,Quetzalcóatl International Airport,32.0,MMNL 180040Z
-KCHD,Chandler Municipal Airport,32.0,KCHD 180047Z
-GYR  KGYR,Phoenix Goodyear Airport,32.0,KGYR 180047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,32.0,KIWA 180050Z
-KATT,,32.0,KATT 180051Z
-KBAZ,New Braunfels Municipal Airport,32.0,KBAZ
-PHX  KPHX,Phoenix Sky Harbor International Airport,32.0,KPHX 180051Z
-AUS  KAUS,Austin Bergstrom International Airport,32.0,KAUS 180053Z
-SSF  KSSF,Stinson Municipal Airport,32.0,KSSF 180053Z
-JRF  PHJR,Kalaeloa Airport,32.0,PHJR 180053Z
-KF05,,32.0,KF05 180055Z
-KQRH,,32.0,KQRH 180055Z
-AWK  PWAK,Wake Island Airfield,32.0,PWAK 180055Z
+XJD  OTBH,Al Udeid Air Base,41.0,OTBH 181155Z
+VVZ  DAAP,Illizi Takhamalt Airport,41.0,DAAP 181200Z
+DMM  OEDF,King Fahd International Airport,41.0,OEDF 181200Z
+DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 181200Z
+WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 181200Z
+ABD  OIAA,Abadan Airport,41.0,OIAA 181200Z
+AKW  OIAG,Aghajari Airport,41.0,OIAG 181200Z
+MRX  OIAM,Mahshahr Airport,41.0,OIAM 181200Z
+AWZ  OIAW,Ahwaz Airport,41.0,OIAW 181200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+OKKK,,41.0,OKKK 181200Z
+OOAD,,40.0,OOAD 181150Z
+AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 181155Z
+OKAS,Ali Al Salem Air Base,40.0,OKAS 181155Z
+INZ  DAUI,In Salah Airport,40.0,DAUI 181200Z
+ASW  HESN,Aswan International Airport,40.0,HESN 181200Z
+OEAO,,40.0,OEAO 181200Z
+DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 181200Z
+OEKJ,,40.0,OEKJ 181200Z
+RUH  OERK,King Khaled International Airport,40.0,OERK 181200Z
+SHW  OESH,Sharurah Airport,40.0,OESH 181200Z
+ACZ  OIZB,Zabol Airport,40.0,OIZ
+AAN  OMAL,Al Ain International Airport,40.0,OMAL 181200Z
+IAM  DAUZ,In Aménas Airport,39.0,DAUZ
+OEMN,,39.0,OEMN 181200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,OEPA 181200Z
+OERS,,39.0,OERS 181200Z
+PGU  OIBP,Persian Gulf International Airport,39.0,OIBP 181200Z
+BSR  ORMM,Basrah International Airport,39.0,ORMM 181200Z
+GXF  OYSY,Sayun International Airport,39.0,OYSY 181200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,38.0,DATM 181200Z
+BAH  OBBI,Bahrain International Airport,38.0,OBBI 181200Z
+BHH  OEBH,Bisha Airport,38.0,OEBH 181200Z
+ELQ  OEGS,Gassim Airport,38.0,OEGS 181200Z
+EAM  OENG,Nejran Airport,38.0,OENG 181200Z
+LVP  OIBV,Lavan Island Airport,38.0,OIBV 181200Z
+LRR  OISL,Lar Airport,38.0,OISL 181200Z
+LFM  OISR,Lamerd Airport,38.0,OISR 181200Z
+DIA  OTBD,Doha International Airport,38.0,OTBD 181200Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,37.0,DAUA 181200Z
+TMX  DAUT,Timimoun Airport,37.0,DAUT 181200Z
+BBK  FBKE,Kasane Airport,37.0,FBKE 181200Z
+FBPM,,37.0,FBPM 181200Z
+TET  FQTT,Chingozi Airport,37.0,FQTT 181200Z
+ABS  HEBL,Abu Simbel Airport,37.0,HEBL 181200Z
