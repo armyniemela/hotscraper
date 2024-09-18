@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ABD  OIAA,Abadan Airport,42.0,OIAA 171200Z
-AWZ  OIAW,Ahwaz Airport,42.0,OIAW 171200Z
-BSR  ORMM,Basrah International Airport,42.0,ORMM 171200Z
-OKAS,Ali Al Salem Air Base,42.0,OKAS 171213Z
-VVZ  DAAP,Illizi Takhamalt Airport,41.0,DAAP 171200Z
-LXR  HELX,Luxor International Airport,41.0,HELX 171200Z
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 171200Z
-OEKJ,,41.0,OEKJ 171200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 171200Z
-RUH  OERK,King Khaled International Airport,41.0,OERK 171200Z
-SHW  OESH,Sharurah Airport,41.0,OESH 171200Z
-XJD  OTBH,Al Udeid Air Base,40.0,OTBH 171155Z
-INZ  DAUI,In Salah Airport,40.0,DAUI 171200Z
-ASW  HESN,Aswan International Airport,40.0,HESN 171200Z
-ELQ  OEGS,Gassim Airport,40.0,OEGS 171200Z
-OEMN,,40.0,OEMN 171200Z
-IHR  OIZI,Iran Shahr Airport,40.0,OIZ
-AAN  OMAL,Al Ain International Airport,40.0,OMAL 171200Z
-NJF  ORNI,Al Najaf International Airport,40.0,ORNI 171200Z
-OOAD,,39.0,OOAD 171150Z
-KQTZ,,39.0,KQTZ
-BMW  DATM,Bordj Badji Mokhtar Airport,39.0,DATM 171200Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,39.0,DAUA 171200Z
-IAM  DAUZ,In Aménas Airport,39.0,DAUZ
-TET  FQTT,Chingozi Airport,39.0,FQTT 171200Z
-ABS  HEBL,Abu Simbel Airport,39.0,HEBL 171200Z
-HESG,,39.0,HESG 171200Z
-DMM  OEDF,King Fahd International Airport,39.0,OEDF 171200Z
-BGW  ORBI,Baghdad International Airport,39.0,ORBI 171203Z
-TMX  DAUT,Timimoun Airport,38.0,DAUT 171200Z
-KAB  FVKB,Kariba International Airport,38.0,FVKB 171200Z
-OEAO,,38.0,OEAO 171200Z
-BHH  OEBH,Bisha Airport,38.0,OEBH 171200Z
-DHA  OEDR,King Abdulaziz Air Base,38.0,OEDR 171200Z
-JED  OEJN,King Abdulaziz International Airport,38.0,OEJN 171200Z
-EAM  OENG,Nejran Airport,38.0,OENG 171200Z
-MRX  OIAM,Mahshahr Airport,38.0,OIAM 171200Z
-KHK  OIBQ,Khark Island Airport,38.0,OIBQ 171200Z
-ACZ  OIZB,Zabol Airport,38.0,OIZ
-DIA  OTBD,Doha International Airport,38.0,OTBD 171200Z
-DOH  OTHH,Hamad International Airport,38.0,OTHH 171200Z
-GXF  OYSY,Sayun International Airport,38.0,OYSY 171200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,38.0,VOTR 171200Z
-KHS  OOKB,Khasab Air Base,37.0,OOKB 171150Z
-KQD3,,37.0,KQD3 171155Z
+NVA  SKNV,Benito Salas Airport,34.0,SKNV 180000Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,34.0,MMHO 180041Z
+PTTP,,34.0,PTTP 180052Z
+KPRS,Presidio Lely International Airport,34.0,KPRS 180055Z
+KP08,,33.0,KP08 180035Z
+TRC  MMTC,Francisco Sarabia International Airport,33.0,MMTC 180040Z
+CUU  MMCU,General Roberto Fierro Villalobos International Airport,33.0,MMCU 180042Z
+ELP  KELP,El Paso International Airport,33.0,KELP 180051Z
+BIF  KBIF,Biggs Army Air Field (Fort Bliss),33.0,KBIF 180055Z
+KQD3,,33.0,KQD3 180055Z
+SKF  KSKF,Lackland Air Force Base,33.0,KSKF 180055Z
+VHN  KVHN,Culberson County Airport,33.0,KVHN 180055Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,33.0,OEMA 180100Z
+MAO  SBEG,Eduardo Gomes International Airport,33.0,SBEG 180100Z
+KGEU,Glendale Municipal Airport,32.0,KGEU 172350Z
+TKK  PTKK,Chuuk International Airport,32.0,PTKK 172355Z
+ABS  HEBL,Abu Simbel Airport,32.0,HEBL 180000Z
+MGZA,Zacapa Airport,32.0,MGZ
+BUZ  OIBB,Bushehr Airport,32.0,OIBB 180000Z
+KIH  OIBK,Kish International Airport,32.0,OIBK 180000Z
+RJOY,Yao Airport,32.0,RJOY 180000Z
+RJTF,Chofu Airport,32.0,RJTF 180000Z
+BAH  OBBI,Bahrain International Airport,32.0,OBBI 180030Z
+KHH  RCKH,Kaohsiung International Airport,32.0,RCKH 180030Z
+NRT  RJAA,Narita International Airport,32.0,RJAA 180030Z
+FUK  RJFF,Fukuoka Airport,32.0,RJFF 180030Z
+HND  RJTT,Tokyo Haneda International Airport,32.0,RJTT 180030Z
+KE01,,32.0,KE01 180035Z
+MZJ  KMZJ,Pinal Airpark,32.0,KMZ
+PEQ  KPEQ,Pecos Municipal Airport,32.0,KPEQ 180035Z
+KPEZ,Pleasanton Municipal Airport,32.0,KPEZ
+CJS  MMCS,Abraham González International Airport,32.0,MMCS 180040Z
+NLD  MMNL,Quetzalcóatl International Airport,32.0,MMNL 180040Z
+KCHD,Chandler Municipal Airport,32.0,KCHD 180047Z
+GYR  KGYR,Phoenix Goodyear Airport,32.0,KGYR 180047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,32.0,KIWA 180050Z
+KATT,,32.0,KATT 180051Z
+KBAZ,New Braunfels Municipal Airport,32.0,KBAZ
+PHX  KPHX,Phoenix Sky Harbor International Airport,32.0,KPHX 180051Z
+AUS  KAUS,Austin Bergstrom International Airport,32.0,KAUS 180053Z
+SSF  KSSF,Stinson Municipal Airport,32.0,KSSF 180053Z
+JRF  PHJR,Kalaeloa Airport,32.0,PHJR 180053Z
+KF05,,32.0,KF05 180055Z
+KQRH,,32.0,KQRH 180055Z
+AWK  PWAK,Wake Island Airfield,32.0,PWAK 180055Z
