@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-XJD  OTBH,Al Udeid Air Base,41.0,OTBH 181155Z
-VVZ  DAAP,Illizi Takhamalt Airport,41.0,DAAP 181200Z
-DMM  OEDF,King Fahd International Airport,41.0,OEDF 181200Z
-DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 181200Z
-WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 181200Z
-ABD  OIAA,Abadan Airport,41.0,OIAA 181200Z
-AKW  OIAG,Aghajari Airport,41.0,OIAG 181200Z
-MRX  OIAM,Mahshahr Airport,41.0,OIAM 181200Z
-AWZ  OIAW,Ahwaz Airport,41.0,OIAW 181200Z
-IHR  OIZI,Iran Shahr Airport,41.0,OIZ
-OKKK,,41.0,OKKK 181200Z
-OOAD,,40.0,OOAD 181150Z
-AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 181155Z
-OKAS,Ali Al Salem Air Base,40.0,OKAS 181155Z
-INZ  DAUI,In Salah Airport,40.0,DAUI 181200Z
-ASW  HESN,Aswan International Airport,40.0,HESN 181200Z
-OEAO,,40.0,OEAO 181200Z
-DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 181200Z
-OEKJ,,40.0,OEKJ 181200Z
-RUH  OERK,King Khaled International Airport,40.0,OERK 181200Z
-SHW  OESH,Sharurah Airport,40.0,OESH 181200Z
-ACZ  OIZB,Zabol Airport,40.0,OIZ
-AAN  OMAL,Al Ain International Airport,40.0,OMAL 181200Z
-IAM  DAUZ,In Aménas Airport,39.0,DAUZ
-OEMN,,39.0,OEMN 181200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,OEPA 181200Z
-OERS,,39.0,OERS 181200Z
-PGU  OIBP,Persian Gulf International Airport,39.0,OIBP 181200Z
-BSR  ORMM,Basrah International Airport,39.0,ORMM 181200Z
-GXF  OYSY,Sayun International Airport,39.0,OYSY 181200Z
-BMW  DATM,Bordj Badji Mokhtar Airport,38.0,DATM 181200Z
-BAH  OBBI,Bahrain International Airport,38.0,OBBI 181200Z
-BHH  OEBH,Bisha Airport,38.0,OEBH 181200Z
-ELQ  OEGS,Gassim Airport,38.0,OEGS 181200Z
-EAM  OENG,Nejran Airport,38.0,OENG 181200Z
-LVP  OIBV,Lavan Island Airport,38.0,OIBV 181200Z
-LRR  OISL,Lar Airport,38.0,OISL 181200Z
-LFM  OISR,Lamerd Airport,38.0,OISR 181200Z
-DIA  OTBD,Doha International Airport,38.0,OTBD 181200Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,37.0,DAUA 181200Z
-TMX  DAUT,Timimoun Airport,37.0,DAUT 181200Z
-BBK  FBKE,Kasane Airport,37.0,FBKE 181200Z
-FBPM,,37.0,FBPM 181200Z
-TET  FQTT,Chingozi Airport,37.0,FQTT 181200Z
-ABS  HEBL,Abu Simbel Airport,37.0,HEBL 181200Z
+KGXF,,34.0,KGXF 182355Z
+INZ  DAUI,In Salah Airport,34.0,DAUI 190000Z
+KAVK,Alva Regional Airport,34.0,KAVK 190035Z
+AVW  KAVQ,Marana Regional Airport,34.0,KAVQ 190035Z
+AXS  KAXS,Altus Quartz Mountain Regional Airport,34.0,KAXS 190035Z
+KF05,,34.0,KF05 190035Z
+MZJ  KMZJ,Pinal Airpark,34.0,KMZ
+PEQ  KPEQ,Pecos Municipal Airport,34.0,KPEQ 190035Z
+VHN  KVHN,Culberson County Airport,34.0,KVHN 190035Z
+INK  KINK,Winkler County Airport,34.0,KINK 190053Z
+KFWS,Fort Worth Spinks Airport,33.0,KFWS 182347Z
+LUF  KLUF,Luke Air Force Base,33.0,KLUF 182355Z
+BAH  OBBI,Bahrain International Airport,33.0,OBBI 190000Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,33.0,OEMA 190000Z
+BUZ  OIBB,Bushehr Airport,33.0,OIBB 190000Z
+NGS  RJFU,Nagasaki Airport,33.0,RJFU 190000Z
+ESG  SGME,Dr. Luis Maria Argaña International Airport,33.0,SGME 190000Z
+NVA  SKNV,Benito Salas Airport,33.0,SKNV 190000Z
+KAPY,Zapata County Airport,33.0,KAPY 190010Z
+FUK  RJFF,Fukuoka Airport,33.0,RJFF 190030Z
+DCN  YCIN,RAAF Base Curtin,33.0,YCIN 190030Z
+KA39,,33.0,KA39 190035Z
+KIP  KCWC,Kickapoo Downtown Airport,33.0,KCWC 190035Z
+KFTN,,33.0,KFTN 190035Z
+MDD  KMDD,Midland Airpark,33.0,KMDD 190035Z
+KP08,,33.0,KP08 190035Z
+KPEZ,Pleasanton Municipal Airport,33.0,KPEZ
+ADS  KADS,Addison Airport,33.0,KADS 190047Z
+KCHD,Chandler Municipal Airport,33.0,KCHD 190047Z
+KATT,,33.0,KATT 190051Z
+KBAZ,New Braunfels Municipal Airport,33.0,KBAZ
+BGD  KBGD,Hutchinson County Airport,33.0,KBGD 190051Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,33.0,KIWA 190051Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,33.0,KPHX 190051Z
+SAT  KSAT,San Antonio International Airport,33.0,KSAT 190051Z
+COT  KCOT,Cotulla-La Salle County Airport,33.0,KCOT 190053Z
+KEDC,(Duplicate)Austin Executive Airport,33.0,KEDC 190055Z
+LTS  KLTS,Altus Air Force Base,33.0,KLTS 190055Z
+SKF  KSKF,Lackland Air Force Base,33.0,KSKF 190055Z
+CEN  MMCN,Ciudad Obregón International Airport,32.0,MMCN 182349Z
+MCT  OOMS,Muscat International Airport,32.0,OOMS 182350Z
+KP28,,32.0,KP28 182356Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,32.0,KNYL 182357Z
+KNOZ,,32.0,KNOZ
+TMX  DAUT,Timimoun Airport,32.0,DAUT 190000Z
