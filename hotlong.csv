@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KGXF,,34.0,KGXF 182355Z
-INZ  DAUI,In Salah Airport,34.0,DAUI 190000Z
-KAVK,Alva Regional Airport,34.0,KAVK 190035Z
-AVW  KAVQ,Marana Regional Airport,34.0,KAVQ 190035Z
-AXS  KAXS,Altus Quartz Mountain Regional Airport,34.0,KAXS 190035Z
-KF05,,34.0,KF05 190035Z
-MZJ  KMZJ,Pinal Airpark,34.0,KMZ
-PEQ  KPEQ,Pecos Municipal Airport,34.0,KPEQ 190035Z
-VHN  KVHN,Culberson County Airport,34.0,KVHN 190035Z
-INK  KINK,Winkler County Airport,34.0,KINK 190053Z
-KFWS,Fort Worth Spinks Airport,33.0,KFWS 182347Z
-LUF  KLUF,Luke Air Force Base,33.0,KLUF 182355Z
-BAH  OBBI,Bahrain International Airport,33.0,OBBI 190000Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,33.0,OEMA 190000Z
-BUZ  OIBB,Bushehr Airport,33.0,OIBB 190000Z
-NGS  RJFU,Nagasaki Airport,33.0,RJFU 190000Z
-ESG  SGME,Dr. Luis Maria Argaña International Airport,33.0,SGME 190000Z
-NVA  SKNV,Benito Salas Airport,33.0,SKNV 190000Z
-KAPY,Zapata County Airport,33.0,KAPY 190010Z
-FUK  RJFF,Fukuoka Airport,33.0,RJFF 190030Z
-DCN  YCIN,RAAF Base Curtin,33.0,YCIN 190030Z
-KA39,,33.0,KA39 190035Z
-KIP  KCWC,Kickapoo Downtown Airport,33.0,KCWC 190035Z
-KFTN,,33.0,KFTN 190035Z
-MDD  KMDD,Midland Airpark,33.0,KMDD 190035Z
-KP08,,33.0,KP08 190035Z
-KPEZ,Pleasanton Municipal Airport,33.0,KPEZ
-ADS  KADS,Addison Airport,33.0,KADS 190047Z
-KCHD,Chandler Municipal Airport,33.0,KCHD 190047Z
-KATT,,33.0,KATT 190051Z
-KBAZ,New Braunfels Municipal Airport,33.0,KBAZ
-BGD  KBGD,Hutchinson County Airport,33.0,KBGD 190051Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,33.0,KIWA 190051Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,33.0,KPHX 190051Z
-SAT  KSAT,San Antonio International Airport,33.0,KSAT 190051Z
-COT  KCOT,Cotulla-La Salle County Airport,33.0,KCOT 190053Z
-KEDC,(Duplicate)Austin Executive Airport,33.0,KEDC 190055Z
-LTS  KLTS,Altus Air Force Base,33.0,KLTS 190055Z
-SKF  KSKF,Lackland Air Force Base,33.0,KSKF 190055Z
-CEN  MMCN,Ciudad Obregón International Airport,32.0,MMCN 182349Z
-MCT  OOMS,Muscat International Airport,32.0,OOMS 182350Z
-KP28,,32.0,KP28 182356Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,32.0,KNYL 182357Z
-KNOZ,,32.0,KNOZ
-TMX  DAUT,Timimoun Airport,32.0,DAUT 190000Z
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 191200Z
+OKAS,Ali Al Salem Air Base,40.0,OKAS 191155Z
+XJD  OTBH,Al Udeid Air Base,40.0,OTBH 191155Z
+INZ  DAUI,In Salah Airport,40.0,DAUI 191200Z
+TET  FQTT,Chingozi Airport,40.0,FQTT 191200Z
+BFO  FVCZ,Buffalo Range Airport,40.0,FVCZ
+HOF  OEAH,Al Ahsa Airport,40.0,OEAH 191200Z
+DMM  OEDF,King Fahd International Airport,40.0,OEDF 191200Z
+ELQ  OEGS,Gassim Airport,40.0,OEGS 191200Z
+OEMN,,40.0,OEMN 191200Z
+SHW  OESH,Sharurah Airport,40.0,OESH 191200Z
+ABD  OIAA,Abadan Airport,40.0,OIAA 191200Z
+AKW  OIAG,Aghajari Airport,40.0,OIAG 191200Z
+AWZ  OIAW,Ahwaz Airport,40.0,OIAW 191200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,39.0,DATM 191200Z
+HESW,,39.0,HESW 191200Z
+OEAO,,39.0,OEAO 191200Z
+DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 191200Z
+DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 191200Z
+OEKJ,,39.0,OEKJ 191200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,39.0,OEYN 191200Z
+MRX  OIAM,Mahshahr Airport,39.0,OIAM 191200Z
+TCX  OIMT,Tabas Airport,39.0,OIMT 191200Z
+OKKK,,39.0,OKKK 191200Z
+BSR  ORMM,Basrah International Airport,39.0,ORMM 191200Z
+GXF  OYSY,Sayun International Airport,39.0,OYSY 191200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,38.0,VOTR 191130Z
+AKH  OEPS,Prince Sultan Air Base,38.0,OEPS 191155Z
+IAM  DAUZ,In Aménas Airport,38.0,DAUZ
+BBK  FBKE,Kasane Airport,38.0,FBKE 191200Z
+KAB  FVKB,Kariba International Airport,38.0,FVKB 191200Z
+MPA  FYKM,Katima Mulilo Airport,38.0,FYKM 191200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,38.0,OEPA 191200Z
+RAH  OERF,Rafha Domestic Airport,38.0,OERF 191200Z
+RUH  OERK,King Khaled International Airport,38.0,OERK 191200Z
+PGU  OIBP,Persian Gulf International Airport,38.0,OIBP 191200Z
+ACZ  OIZB,Zabol Airport,38.0,OIZ
+OHS  OOSH,Sohar Airport,37.0,OOSH 191150Z
+KQD3,,37.0,KQD3 191155Z
+BHH  OEBH,Bisha Airport,37.0,OEBH 191200Z
+HAS  OEHL,Ha'il Airport,37.0,OEHL 191200Z
+EAM  OENG,Nejran Airport,37.0,OENG 191200Z
+OERS,,37.0,OERS 191200Z
+LVP  OIBV,Lavan Island Airport,37.0,OIBV 191200Z
+LRR  OISL,Lar Airport,37.0,OISL 191200Z
