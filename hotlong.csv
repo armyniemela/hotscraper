@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KCHD,Chandler Municipal Airport,35.0,KCHD 200047Z
-MCT  OOMS,Muscat International Airport,35.0,OOMS 200050Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,35.0,KPHX 200051Z
-ROW  KROW,Roswell Air Center Airport,35.0,KROW 200051Z
-HBR  KHBR,Hobart Regional Airport,35.0,KHBR 200053Z
-KF05,,35.0,KF05 200055Z
-KGXF,,35.0,KGXF 200055Z
-TRC  MMTC,Francisco Sarabia International Airport,34.0,MMTC 200046Z
-ADS  KADS,Addison Airport,34.0,KADS 200047Z
-GYR  KGYR,Phoenix Goodyear Airport,34.0,KGYR 200047Z
-CDS  KCDS,Childress Municipal Airport,34.0,KCDS 200053Z
-FDR  KFDR,Frederick Regional Airport,34.0,KFDR 200053Z
-INK  KINK,Winkler County Airport,34.0,KINK 200053Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,34.0,KIWA 200053Z
-LAW  KLAW,Lawton Fort Sill Regional Airport,34.0,KLAW 200053Z
-KGEU,Glendale Municipal Airport,34.0,KGEU 200054Z
-KA39,,34.0,KA39 200055Z
-AVW  KAVQ,Marana Regional Airport,34.0,KAVQ 200055Z
-BXK  KBXK,Buckeye Municipal Airport,34.0,KBXK 200055Z
-KE01,,34.0,KE01 200055Z
-FSI  KFSI,Henry Post Army Air Field (Fort Sill),34.0,KFSI 200055Z
-LUF  KLUF,Luke Air Force Base,34.0,KLUF 200055Z
-MZJ  KMZJ,Pinal Airpark,34.0,KMZ
-KP08,,34.0,KP08 200055Z
-PEQ  KPEQ,Pecos Municipal Airport,34.0,KPEQ 200055Z
-VHN  KVHN,Culberson County Airport,34.0,KVHN 200055Z
-OEMN,,34.0,OEMN 200100Z
-TSA  RCSS,Taipei Songshan Airport,34.0,RCSS 200100Z
-TOY  RJNT,Toyama Airport,34.0,RJNT 200100Z
-TTJ  RJOR,Tottori Sand Dunes Conan Airport,34.0,RJOR 200100Z
-KNX  YPKU,Kununurra Airport,34.0,YPKU 200100Z
-CJS  MMCS,Abraham González International Airport,33.0,MMCS 200040Z
-CUU  MMCU,General Roberto Fierro Villalobos International Airport,33.0,MMCU 200043Z
-OUN  KOUN,University of Oklahoma Westheimer Airport,33.0,KOUN 200045Z
-KRYN,Ryan Field,33.0,KRYN 200045Z
-KHQZ,Mesquite Metro Airport,33.0,KHQZ
-KATT,,33.0,KATT 200051Z
-BGD  KBGD,Hutchinson County Airport,33.0,KBGD 200051Z
-ELP  KELP,El Paso International Airport,33.0,KELP 200051Z
-BLH  KBLH,Blythe Airport,33.0,KBLH 200052Z
-FWH  KNFW,NAS Fort Worth JRB/Carswell Field,33.0,KNFW 200052Z
-KSHP,,33.0,KSHP 200052Z
-CNM  KCNM,Cavern City Air Terminal,33.0,KCNM 200053Z
-DAL  KDAL,Dallas Love Field,33.0,KDAL 200053Z
-DFW  KDFW,Dallas Fort Worth International Airport,33.0,KDFW 200053Z
+OKAS,Ali Al Salem Air Base,41.0,OKAS 201155Z
+HOF  OEAH,Al Ahsa Airport,41.0,OEAH 201200Z
+DMM  OEDF,King Fahd International Airport,41.0,OEDF 201200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 201200Z
+WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 201200Z
+ABD  OIAA,Abadan Airport,41.0,OIAA 201200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 201200Z
+BSR  ORMM,Basrah International Airport,41.0,ORMM 201200Z
+ETM  LLER,Ramon Airport,40.0,LLER 201150Z
+TET  FQTT,Chingozi Airport,40.0,FQTT 201200Z
+KAB  FVKB,Kariba International Airport,40.0,FVKB 201200Z
+HESW,,40.0,HESW 201200Z
+OERS,,40.0,OERS 201200Z
+MRX  OIAM,Mahshahr Airport,40.0,OIAM 201200Z
+AWZ  OIAW,Ahwaz Airport,40.0,OIAW 201200Z
+OKKK,,40.0,OKKK 201200Z
+AKH  OEPS,Prince Sultan Air Base,39.0,OEPS 201155Z
+XJD  OTBH,Al Udeid Air Base,39.0,OTBH 201155Z
+CAI  HECA,Cairo International Airport,39.0,HECA 201200Z
+HEIS,,39.0,HEIS 201200Z
+DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 201200Z
+DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 201200Z
+OEKJ,,39.0,OEKJ 201200Z
+RUH  OERK,King Khaled International Airport,39.0,OERK 201200Z
+SHW  OESH,Sharurah Airport,39.0,OESH 201200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,39.0,OEYN 201200Z
+BND  OIKB,Bandar Abbas International Airport,39.0,OIKB 201200Z
+TCX  OIMT,Tabas Airport,39.0,OIMT 201200Z
+ACZ  OIZB,Zabol Airport,39.0,OIZ
+AQJ  OJAQ,Aqaba King Hussein International Airport,39.0,OJAQ 201200Z
+DJG  DAAJ,Djanet Inedbirene Airport,38.0,DAAJ 201200Z
+VVZ  DAAP,Illizi Takhamalt Airport,38.0,DAAP 201200Z
+MPA  FYKM,Katima Mulilo Airport,38.0,FYKM 201200Z
+BHH  OEBH,Bisha Airport,38.0,OEBH 201200Z
+RAH  OERF,Rafha Domestic Airport,38.0,OERF 201200Z
+PGU  OIBP,Persian Gulf International Airport,38.0,OIBP 201200Z
+LFM  OISR,Lamerd Airport,38.0,OISR 201200Z
+NJF  ORNI,Al Najaf International Airport,38.0,ORNI 201200Z
+GXF  OYSY,Sayun International Airport,38.0,OYSY 201200Z
+TIR  VOTP,Tirupati Airport,37.0,VOTP 201130Z
+OHS  OOSH,Sohar Airport,37.0,OOSH 201150Z
+KQTZ,,37.0,KQTZ
+IAM  DAUZ,In Aménas Airport,37.0,DAUZ
+OEAO,,37.0,OEAO 201200Z
