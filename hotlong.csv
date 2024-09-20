@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AAN  OMAL,Al Ain International Airport,41.0,OMAL 191200Z
-OKAS,Ali Al Salem Air Base,40.0,OKAS 191155Z
-XJD  OTBH,Al Udeid Air Base,40.0,OTBH 191155Z
-INZ  DAUI,In Salah Airport,40.0,DAUI 191200Z
-TET  FQTT,Chingozi Airport,40.0,FQTT 191200Z
-BFO  FVCZ,Buffalo Range Airport,40.0,FVCZ
-HOF  OEAH,Al Ahsa Airport,40.0,OEAH 191200Z
-DMM  OEDF,King Fahd International Airport,40.0,OEDF 191200Z
-ELQ  OEGS,Gassim Airport,40.0,OEGS 191200Z
-OEMN,,40.0,OEMN 191200Z
-SHW  OESH,Sharurah Airport,40.0,OESH 191200Z
-ABD  OIAA,Abadan Airport,40.0,OIAA 191200Z
-AKW  OIAG,Aghajari Airport,40.0,OIAG 191200Z
-AWZ  OIAW,Ahwaz Airport,40.0,OIAW 191200Z
-BMW  DATM,Bordj Badji Mokhtar Airport,39.0,DATM 191200Z
-HESW,,39.0,HESW 191200Z
-OEAO,,39.0,OEAO 191200Z
-DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 191200Z
-DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 191200Z
-OEKJ,,39.0,OEKJ 191200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,39.0,OEYN 191200Z
-MRX  OIAM,Mahshahr Airport,39.0,OIAM 191200Z
-TCX  OIMT,Tabas Airport,39.0,OIMT 191200Z
-OKKK,,39.0,OKKK 191200Z
-BSR  ORMM,Basrah International Airport,39.0,ORMM 191200Z
-GXF  OYSY,Sayun International Airport,39.0,OYSY 191200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,38.0,VOTR 191130Z
-AKH  OEPS,Prince Sultan Air Base,38.0,OEPS 191155Z
-IAM  DAUZ,In Aménas Airport,38.0,DAUZ
-BBK  FBKE,Kasane Airport,38.0,FBKE 191200Z
-KAB  FVKB,Kariba International Airport,38.0,FVKB 191200Z
-MPA  FYKM,Katima Mulilo Airport,38.0,FYKM 191200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,38.0,OEPA 191200Z
-RAH  OERF,Rafha Domestic Airport,38.0,OERF 191200Z
-RUH  OERK,King Khaled International Airport,38.0,OERK 191200Z
-PGU  OIBP,Persian Gulf International Airport,38.0,OIBP 191200Z
-ACZ  OIZB,Zabol Airport,38.0,OIZ
-OHS  OOSH,Sohar Airport,37.0,OOSH 191150Z
-KQD3,,37.0,KQD3 191155Z
-BHH  OEBH,Bisha Airport,37.0,OEBH 191200Z
-HAS  OEHL,Ha'il Airport,37.0,OEHL 191200Z
-EAM  OENG,Nejran Airport,37.0,OENG 191200Z
-OERS,,37.0,OERS 191200Z
-LVP  OIBV,Lavan Island Airport,37.0,OIBV 191200Z
-LRR  OISL,Lar Airport,37.0,OISL 191200Z
+KCHD,Chandler Municipal Airport,35.0,KCHD 200047Z
+MCT  OOMS,Muscat International Airport,35.0,OOMS 200050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,35.0,KPHX 200051Z
+ROW  KROW,Roswell Air Center Airport,35.0,KROW 200051Z
+HBR  KHBR,Hobart Regional Airport,35.0,KHBR 200053Z
+KF05,,35.0,KF05 200055Z
+KGXF,,35.0,KGXF 200055Z
+TRC  MMTC,Francisco Sarabia International Airport,34.0,MMTC 200046Z
+ADS  KADS,Addison Airport,34.0,KADS 200047Z
+GYR  KGYR,Phoenix Goodyear Airport,34.0,KGYR 200047Z
+CDS  KCDS,Childress Municipal Airport,34.0,KCDS 200053Z
+FDR  KFDR,Frederick Regional Airport,34.0,KFDR 200053Z
+INK  KINK,Winkler County Airport,34.0,KINK 200053Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,34.0,KIWA 200053Z
+LAW  KLAW,Lawton Fort Sill Regional Airport,34.0,KLAW 200053Z
+KGEU,Glendale Municipal Airport,34.0,KGEU 200054Z
+KA39,,34.0,KA39 200055Z
+AVW  KAVQ,Marana Regional Airport,34.0,KAVQ 200055Z
+BXK  KBXK,Buckeye Municipal Airport,34.0,KBXK 200055Z
+KE01,,34.0,KE01 200055Z
+FSI  KFSI,Henry Post Army Air Field (Fort Sill),34.0,KFSI 200055Z
+LUF  KLUF,Luke Air Force Base,34.0,KLUF 200055Z
+MZJ  KMZJ,Pinal Airpark,34.0,KMZ
+KP08,,34.0,KP08 200055Z
+PEQ  KPEQ,Pecos Municipal Airport,34.0,KPEQ 200055Z
+VHN  KVHN,Culberson County Airport,34.0,KVHN 200055Z
+OEMN,,34.0,OEMN 200100Z
+TSA  RCSS,Taipei Songshan Airport,34.0,RCSS 200100Z
+TOY  RJNT,Toyama Airport,34.0,RJNT 200100Z
+TTJ  RJOR,Tottori Sand Dunes Conan Airport,34.0,RJOR 200100Z
+KNX  YPKU,Kununurra Airport,34.0,YPKU 200100Z
+CJS  MMCS,Abraham González International Airport,33.0,MMCS 200040Z
+CUU  MMCU,General Roberto Fierro Villalobos International Airport,33.0,MMCU 200043Z
+OUN  KOUN,University of Oklahoma Westheimer Airport,33.0,KOUN 200045Z
+KRYN,Ryan Field,33.0,KRYN 200045Z
+KHQZ,Mesquite Metro Airport,33.0,KHQZ
+KATT,,33.0,KATT 200051Z
+BGD  KBGD,Hutchinson County Airport,33.0,KBGD 200051Z
+ELP  KELP,El Paso International Airport,33.0,KELP 200051Z
+BLH  KBLH,Blythe Airport,33.0,KBLH 200052Z
+FWH  KNFW,NAS Fort Worth JRB/Carswell Field,33.0,KNFW 200052Z
+KSHP,,33.0,KSHP 200052Z
+CNM  KCNM,Cavern City Air Terminal,33.0,KCNM 200053Z
+DAL  KDAL,Dallas Love Field,33.0,KDAL 200053Z
+DFW  KDFW,Dallas Fort Worth International Airport,33.0,KDFW 200053Z
