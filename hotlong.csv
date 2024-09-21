@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KT89,,35.0,KT89 210055Z
-SSH  HESH,Sharm El Sheikh International Airport,34.0,HESH 210000Z
-ADS  KADS,Addison Airport,34.0,KADS 210047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,34.0,KPHX 210051Z
-CIC  KCIC,Chico Municipal Airport,34.0,KCIC 210053Z
-DAL  KDAL,Dallas Love Field,34.0,KDAL 210053Z
-LAW  KLAW,Lawton Fort Sill Regional Airport,34.0,KLAW 210053Z
-KF05,,34.0,KF05 210055Z
-FSI  KFSI,Henry Post Army Air Field (Fort Sill),34.0,KFSI 210055Z
-KOJA,Thomas P Stafford Airport,34.0,KOJA 210055Z
-VHN  KVHN,Culberson County Airport,34.0,KVHN 210055Z
-RJOY,Yao Airport,34.0,RJOY 210100Z
-KGEU,Glendale Municipal Airport,33.0,KGEU 202355Z
-HRG  HEGN,Hurghada International Airport,33.0,HEGN 210000Z
-CJS  MMCS,Abraham González International Airport,33.0,MMCS 210040Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,33.0,MMHO 210040Z
-TRC  MMTC,Francisco Sarabia International Airport,33.0,MMTC 210040Z
-OUN  KOUN,University of Oklahoma Westheimer Airport,33.0,KOUN 210045Z
-WDG  KWDG,Enid Woodring Regional Airport,33.0,KWDG 210045Z
-CUU  MMCU,General Roberto Fierro Villalobos International Airport,33.0,MMCU 210046Z
-KCHD,Chandler Municipal Airport,33.0,KCHD 210047Z
-KHQZ,Mesquite Metro Airport,33.0,KHQZ
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,33.0,KIWA 210050Z
-KATT,,33.0,KATT 210051Z
-ELP  KELP,El Paso International Airport,33.0,KELP 210051Z
-KSHP,,33.0,KSHP 210052Z
-RJOP,JMSDF Komatsushima Heliport,33.0,RJOP 210052Z
-DFW  KDFW,Dallas Fort Worth International Airport,33.0,KDFW 210053Z
-FDR  KFDR,Frederick Regional Airport,33.0,KFDR 210053Z
-FSM  KFSM,Fort Smith Regional Airport,33.0,KFSM 210053Z
-OVE  KOVE,Oroville Municipal Airport,33.0,KOVE 210053Z
-PNC  KPNC,Ponca City Regional Airport,33.0,KPNC 210053Z
-RBD  KRBD,Dallas Executive Airport,33.0,KRBD 210053Z
-SWO  KSWO,Stillwater Regional Airport,33.0,KSWO 210053Z
-KVCB,Nut Tree Airport,33.0,KVCB 210053Z
-MSC  KFFZ,Falcon Field,33.0,KFFZ
-K4A6,,33.0,K4A6 210055Z
-ADT  KADH,Ada Regional Airport,33.0,KADH 210055Z
-KAVK,Alva Regional Airport,33.0,KAVK 210055Z
-BIF  KBIF,Biggs Army Air Field (Fort Bliss),33.0,KBIF 210055Z
-CHK  KCHK,Chickasha Municipal Airport,33.0,KCHK 210055Z
-KIP  KCWC,Kickapoo Downtown Airport,33.0,KCWC 210055Z
-DUC  KDUC,Halliburton Field,33.0,KDUC 210055Z
-KEGT,Wellington Municipal Airport,33.0,KEGT 210055Z
-END  KEND,Vance Air Force Base,33.0,KEND 210055Z
+BSR  ORMM,Basrah International Airport,42.0,ORMM 211200Z
+OOAD,,41.0,OOAD 211150Z
+OKAS,Ali Al Salem Air Base,41.0,OKAS 211155Z
+HOF  OEAH,Al Ahsa Airport,41.0,OEAH 211200Z
+DMM  OEDF,King Fahd International Airport,41.0,OEDF 211200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 211200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 211200Z
+WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 211200Z
+LFM  OISR,Lamerd Airport,41.0,OISR 211200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 211200Z
+KHS  OOKB,Khasab Air Base,40.0,OOKB 211150Z
+AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 211155Z
+XJD  OTBH,Al Udeid Air Base,40.0,OTBH 211155Z
+VVZ  DAAP,Illizi Takhamalt Airport,40.0,DAAP 211200Z
+OEAO,,40.0,OEAO 211200Z
+DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 211200Z
+DHA  OEDR,King Abdulaziz Air Base,40.0,OEDR 211200Z
+OEKJ,,40.0,OEKJ 211200Z
+RUH  OERK,King Khaled International Airport,40.0,OERK 211200Z
+AWZ  OIAW,Ahwaz Airport,40.0,OIAW 211200Z
+OKKK,,40.0,OKKK 211200Z
+NJF  ORNI,Al Najaf International Airport,40.0,ORNI 211200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,39.0,DATM 211200Z
+INZ  DAUI,In Salah Airport,39.0,DAUI 211200Z
+ELQ  OEGS,Gassim Airport,39.0,OEGS 211200Z
+OEMN,,39.0,OEMN 211200Z
+SHW  OESH,Sharurah Airport,39.0,OESH 211200Z
+BDH  OIBL,Bandar Lengeh Airport,39.0,OIBL 211200Z
+LRR  OISL,Lar Airport,39.0,OISL 211200Z
+RKT  OMRK,Ras Al Khaimah International Airport,39.0,OMRK 211200Z
+KQTZ,,38.0,KQTZ
+DJG  DAAJ,Djanet Inedbirene Airport,38.0,DAAJ 211200Z
+IAM  DAUZ,In Aménas Airport,38.0,DAUZ
+AJY  DRZA,Mano Dayak International Airport,38.0,DRZ
+RAH  OERF,Rafha Domestic Airport,38.0,OERF 211200Z
+TUU  OETB,Tabuk Airport,38.0,OETB 211200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,38.0,OEYN 211200Z
+OIBH,Bastak Airport,38.0,OIBH 211200Z
+SHJ  OMSJ,Sharjah International Airport,38.0,OMSJ 211200Z
+MUX  OPMT,Multan International Airport,38.0,OPMT 211200Z
+BGW  ORBI,Baghdad International Airport,38.0,ORBI 211200Z
+GXF  OYSY,Sayun International Airport,38.0,OYSY 211200Z
+ETM  LLER,Ramon Airport,37.0,LLER 211150Z
+OHS  OOSH,Sohar Airport,37.0,OOSH 211150Z
