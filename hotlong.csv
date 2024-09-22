@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-RDD  KRDD,Redding Municipal Airport,35.0,KRDD 220053Z
-RBL  KRBL,Red Bluff Municipal Airport,35.0,KRBL 220054Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),35.0,KNJK 220056Z
-KGPM,Grand Prairie Municipal Airport,34.0,KGPM 212350Z
-BIF  KBIF,Biggs Army Air Field (Fort Bliss),34.0,KBIF 212355Z
-DLF  KDLF,DLF Airport,34.0,KDLF 212355Z
-FSI  KFSI,Henry Post Army Air Field (Fort Sill),34.0,KFSI 212355Z
-SKF  KSKF,Lackland Air Force Base,34.0,KSKF 212355Z
-KNID,China Lake Naws (Armitage Field) Airport,34.0,KNID 212356Z
-ESG  SGME,Dr. Luis Maria Argaña International Airport,34.0,SGME 220000Z
-NVA  SKNV,Benito Salas Airport,34.0,SKNV 220000Z
-AXS  KAXS,Altus Quartz Mountain Regional Airport,34.0,KAXS 220035Z
-VHN  KVHN,Culberson County Airport,34.0,KVHN 220035Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,34.0,MMHO 220040Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,34.0,MMML 220040Z
-CUU  MMCU,General Roberto Fierro Villalobos International Airport,34.0,MMCU 220047Z
-KL08,,34.0,KL08 220055Z
-LGF  KLGF,Laguna Army Airfield,34.0,KLGF 220055Z
-FJR  OMFJ,Fujairah International Airport,34.0,OMFJ 220100Z
-KATT,,33.0,KATT 212351Z
-EDW  KEDW,Edwards Air Force Base,33.0,KEDW 212355Z
-GRK  KGRK,Robert Gray Army Air Field Airport,33.0,KGRK 212355Z
-HLR  KHLR,Hood Army Air Field,33.0,KHLR 212355Z
-KT70,,33.0,KT70 212355Z
-TIK  KTIK,Tinker Air Force Base,33.0,KTIK 212355Z
-ABS  HEBL,Abu Simbel Airport,33.0,HEBL 220000Z
-K5T9,,33.0,K5T9 220030Z
-KFTN,,33.0,KFTN 220035Z
-KGZL,,33.0,KGZ
-KHSD,Sundance Airpark,33.0,KHSD 220035Z
-K9L2,,33.0,K9L2 220047Z
-ADS  KADS,Addison Airport,33.0,KADS 220047Z
-TRC  MMTC,Francisco Sarabia International Airport,33.0,MMTC 220047Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,33.0,KTRM 220052Z
-DRT  KDRT,Del Rio International Airport,33.0,KDRT 220053Z
-KHJO,Hanford Municipal Airport,33.0,KHJO 220053Z
-PSP  KPSP,Palm Springs International Airport,33.0,KPSP 220053Z
-KF05,,33.0,KF05 220055Z
-RND  KRND,Randolph Air Force Base,33.0,KRND 220055Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,33.0,KNYL 220057Z
-SPZ  KASG,Springdale Municipal Airport,32.0,KASG 212348Z
-OHS  OOSH,Sohar Airport,32.0,OOSH 212350Z
-HMN  KHMN,Holloman Air Force Base,32.0,KHMN 212355Z
-LSV  KLSV,Nellis Air Force Base,32.0,KLSV 212355Z
-KNXP,Twentynine Palms (Self) Airport,32.0,KNXP 212356Z
+HOF  OEAH,Al Ahsa Airport,42.0,OEAH 221200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 221200Z
+MRX  OIAM,Mahshahr Airport,42.0,OIAM 221200Z
+TCX  OIMT,Tabas Airport,42.0,OIMT 221200Z
+ACZ  OIZB,Zabol Airport,42.0,OIZ
+IHR  OIZI,Iran Shahr Airport,42.0,OIZ
+OKKK,,42.0,OKKK 221200Z
+AAN  OMAL,Al Ain International Airport,42.0,OMAL 221200Z
+NJF  ORNI,Al Najaf International Airport,42.0,ORNI 221200Z
+OOAD,,41.0,OOAD 221150Z
+KQTZ,,41.0,KQTZ
+OEKJ,,41.0,OEKJ 221200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 221200Z
+LFM  OISR,Lamerd Airport,41.0,OISR 221200Z
+XJD  OTBH,Al Udeid Air Base,40.0,OTBH 221155Z
+BMW  DATM,Bordj Badji Mokhtar Airport,40.0,DATM 221200Z
+DMM  OEDF,King Fahd International Airport,40.0,OEDF 221200Z
+ELQ  OEGS,Gassim Airport,40.0,OEGS 221200Z
+RAH  OERF,Rafha Domestic Airport,40.0,OERF 221200Z
+RUH  OERK,King Khaled International Airport,40.0,OERK 221200Z
+WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 221200Z
+KIH  OIBK,Kish International Airport,40.0,OIBK 221200Z
+BDH  OIBL,Bandar Lengeh Airport,40.0,OIBL 221200Z
+RKT  OMRK,Ras Al Khaimah International Airport,40.0,OMRK 221200Z
+BGW  ORBI,Baghdad International Airport,40.0,ORBI 221200Z
+KQD3,,39.0,KQD3 221155Z
+AKH  OEPS,Prince Sultan Air Base,39.0,OEPS 221155Z
+VVZ  DAAP,Illizi Takhamalt Airport,39.0,DAAP 221200Z
+DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 221200Z
+DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 221200Z
+OEMN,,39.0,OEMN 221200Z
+SHW  OESH,Sharurah Airport,39.0,OESH 221200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,39.0,OEYN 221200Z
+LRR  OISL,Lar Airport,39.0,OISL 221200Z
+AUH  OMAA,Abu Dhabi International Airport,39.0,OMAA 221200Z
+DXB  OMDB,Dubai International Airport,39.0,OMDB 221200Z
+DWC  OMDW,Al Maktoum International Airport,39.0,OMDW 221200Z
+SHJ  OMSJ,Sharjah International Airport,39.0,OMSJ 221200Z
+GXF  OYSY,Sayun International Airport,39.0,OYSY 221200Z
+KHS  OOKB,Khasab Air Base,38.0,OOKB 221150Z
+KQRH,,38.0,KQRH 221155Z
+INZ  DAUI,In Salah Airport,38.0,DAUI 221200Z
+IAM  DAUZ,In Aménas Airport,38.0,DAUZ
+OEAO,,38.0,OEAO 221200Z
+HAS  OEHL,Ha'il Airport,38.0,OEHL 221200Z
