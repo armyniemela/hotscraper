@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HOF  OEAH,Al Ahsa Airport,42.0,OEAH 221200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 221200Z
-MRX  OIAM,Mahshahr Airport,42.0,OIAM 221200Z
-TCX  OIMT,Tabas Airport,42.0,OIMT 221200Z
-ACZ  OIZB,Zabol Airport,42.0,OIZ
-IHR  OIZI,Iran Shahr Airport,42.0,OIZ
-OKKK,,42.0,OKKK 221200Z
-AAN  OMAL,Al Ain International Airport,42.0,OMAL 221200Z
-NJF  ORNI,Al Najaf International Airport,42.0,ORNI 221200Z
-OOAD,,41.0,OOAD 221150Z
-KQTZ,,41.0,KQTZ
-OEKJ,,41.0,OEKJ 221200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 221200Z
-LFM  OISR,Lamerd Airport,41.0,OISR 221200Z
-XJD  OTBH,Al Udeid Air Base,40.0,OTBH 221155Z
-BMW  DATM,Bordj Badji Mokhtar Airport,40.0,DATM 221200Z
-DMM  OEDF,King Fahd International Airport,40.0,OEDF 221200Z
-ELQ  OEGS,Gassim Airport,40.0,OEGS 221200Z
-RAH  OERF,Rafha Domestic Airport,40.0,OERF 221200Z
-RUH  OERK,King Khaled International Airport,40.0,OERK 221200Z
-WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 221200Z
-KIH  OIBK,Kish International Airport,40.0,OIBK 221200Z
-BDH  OIBL,Bandar Lengeh Airport,40.0,OIBL 221200Z
-RKT  OMRK,Ras Al Khaimah International Airport,40.0,OMRK 221200Z
-BGW  ORBI,Baghdad International Airport,40.0,ORBI 221200Z
-KQD3,,39.0,KQD3 221155Z
-AKH  OEPS,Prince Sultan Air Base,39.0,OEPS 221155Z
-VVZ  DAAP,Illizi Takhamalt Airport,39.0,DAAP 221200Z
-DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 221200Z
-DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 221200Z
-OEMN,,39.0,OEMN 221200Z
-SHW  OESH,Sharurah Airport,39.0,OESH 221200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,39.0,OEYN 221200Z
-LRR  OISL,Lar Airport,39.0,OISL 221200Z
-AUH  OMAA,Abu Dhabi International Airport,39.0,OMAA 221200Z
-DXB  OMDB,Dubai International Airport,39.0,OMDB 221200Z
-DWC  OMDW,Al Maktoum International Airport,39.0,OMDW 221200Z
-SHJ  OMSJ,Sharjah International Airport,39.0,OMSJ 221200Z
-GXF  OYSY,Sayun International Airport,39.0,OYSY 221200Z
-KHS  OOKB,Khasab Air Base,38.0,OOKB 221150Z
-KQRH,,38.0,KQRH 221155Z
-INZ  DAUI,In Salah Airport,38.0,DAUI 221200Z
-IAM  DAUZ,In Aménas Airport,38.0,DAUZ
-OEAO,,38.0,OEAO 221200Z
-HAS  OEHL,Ha'il Airport,38.0,OEHL 221200Z
+BLH  KBLH,Blythe Airport,37.0,KBLH 230052Z
+PSP  KPSP,Palm Springs International Airport,37.0,KPSP 230053Z
+KL08,,37.0,KL08 230055Z
+LGF  KLGF,Laguna Army Airfield,37.0,KLGF 230055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),37.0,KNJK 230056Z
+KGXF,,36.0,KGXF 222355Z
+LUF  KLUF,Luke Air Force Base,36.0,KLUF 222355Z
+KGEU,Glendale Municipal Airport,36.0,KGEU 230047Z
+GYR  KGYR,Phoenix Goodyear Airport,36.0,KGYR 230047Z
+RDD  KRDD,Redding Municipal Airport,36.0,KRDD 230053Z
+RBL  KRBL,Red Bluff Municipal Airport,36.0,KRBL 230054Z
+NBG  KNBG,New Orleans NAS JRB/Alvin Callender Field,36.0,KNBG 230055Z
+EED  KEED,Needles Airport,36.0,KEED 230056Z
+KNID,China Lake Naws (Armitage Field) Airport,35.0,KNID 222356Z
+KNXP,Twentynine Palms (Self) Airport,35.0,KNXP 222356Z
+KPRS,Presidio Lely International Airport,35.0,KPRS 230035Z
+KCHD,Chandler Municipal Airport,35.0,KCHD 230047Z
+DAG  KDAG,Barstow Daggett Airport,35.0,KDAG 230050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,35.0,KPHX 230051Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,35.0,KTRM 230052Z
+LSV  KLSV,Nellis Air Force Base,34.0,KLSV 222355Z
+PMV  SVMG,Del Caribe Santiago Mariño International Airport,34.0,SVMG 230003Z
+KA39,,34.0,KA39 230035Z
+KEDU,University Airport,34.0,KEDU 230035Z
+KHJO,Hanford Municipal Airport,34.0,KHJO 230053Z
+SCF  KSDL,Scottsdale Airport,34.0,KSDL 230053Z
+VGT  KVGT,North Las Vegas Airport,34.0,KVGT 230053Z
+MSC  KFFZ,Falcon Field,34.0,KFFZ
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,34.0,KIWA 230054Z
+BXK  KBXK,Buckeye Municipal Airport,34.0,KBXK 230055Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,34.0,KNLC 230056Z
+UKI  KUKI,Ukiah Municipal Airport,34.0,KUKI 230056Z
+THE  SBTE,Senador Petrônio Portela Airport,34.0,SBTE 230100Z
+KATT,,33.0,KATT 222351Z
+SBD  KSBD,San Bernardino International Airport,33.0,KSBD 222352Z
+BDH  OIBL,Bandar Lengeh Airport,33.0,OIBL 230000Z
+DXB  OMDB,Dubai International Airport,33.0,OMDB 230000Z
+KC83,,33.0,KC83 230035Z
+KFTN,,33.0,KFTN 230035Z
+MCC  KMCC,Mc Clellan Airfield,33.0,KMCC 230035Z
+MHR  KMHR,Sacramento Mather Airport,33.0,KMHR 230035Z
+KP08,,33.0,KP08 230035Z
+VCV  KVCV,Southern California Logistics Airport,33.0,KVCV 230035Z
+CEN  MMCN,Ciudad Obregón International Airport,33.0,MMCN 230046Z
+ADS  KADS,Addison Airport,33.0,KADS 230047Z
