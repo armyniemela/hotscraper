@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 252357Z
-KCHD,Chandler Municipal Airport,41.0,KCHD 260047Z
-GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 260047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 260051Z
-BLH  KBLH,Blythe Airport,41.0,KBLH 260052Z
-HII  KHII,Lake Havasu City Airport,41.0,KHII 260055Z
-LGF  KLGF,Laguna Army Airfield,41.0,KLGF 260055Z
-KGEU,Glendale Municipal Airport,41.0,KGEU 260058Z
-KP08,,40.0,KP08 260035Z
-SCF  KSDL,Scottsdale Airport,40.0,KSDL 260053Z
-AVW  KAVQ,Marana Regional Airport,40.0,KAVQ 260055Z
-BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 260055Z
-LUF  KLUF,Luke Air Force Base,40.0,KLUF 260055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
-DVT  KDVT,Phoenix Deer Valley Airport,39.0,KDVT 260053Z
-KA39,,39.0,KA39 260055Z
-KL08,,39.0,KL08 260055Z
-DVO  RPMD,Francisco Bangoy International Airport,39.0,RPMD 260100Z
-KNXP,Twentynine Palms (Self) Airport,38.0,KNXP 252356Z
-GYM  MMGM,General José María Yáñez International Airport,38.0,MMGM 260040Z
-CEN  MMCN,Ciudad Obregón International Airport,38.0,MMCN 260042Z
-KRYN,Ryan Field,38.0,KRYN 260045Z
-PSP  KPSP,Palm Springs International Airport,38.0,KPSP 260053Z
-DMA  KDMA,Davis Monthan Air Force Base,38.0,KDMA 260055Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,37.0,KTUS 260053Z
-VGT  KVGT,North Las Vegas Airport,37.0,KVGT 260053Z
-KBVU,,37.0,KBVU 260055Z
-LSV  KLSV,Nellis Air Force Base,37.0,KLSV 260055Z
-DAG  KDAG,Barstow Daggett Airport,36.0,KDAG 260050Z
-HSH  KHND,Henderson Executive Airport,36.0,KHND 260056Z
-LAS  KLAS,McCarran International Airport,36.0,KLAS 260056Z
-KE77,,35.0,KE77 260035Z
-SAD  KSAD,Safford Regional Airport,35.0,KSAD 260051Z
-BYS  KBYS,Bicycle Lake Army Air Field,35.0,KBYS 260055Z
-KNID,China Lake Naws (Armitage Field) Airport,35.0,KNID 260056Z
-BAH  OBBI,Bahrain International Airport,34.0,OBBI 260000Z
-BAU  SBBU,Bauru Airport,34.0,SBBU 260000Z
-NVA  SKNV,Benito Salas Airport,34.0,SKNV 260000Z
-K5T9,,34.0,K5T9 260035Z
-KP52,,34.0,KP52 260035Z
-KHJO,Hanford Municipal Airport,34.0,KHJO 260053Z
-BFL  KBFL,Meadows Field,34.0,KBFL 260054Z
-INS  KINS,Creech Air Force Base,34.0,KINS 260055Z
-SGU  KSGU,St George Municipal Airport,34.0,KSGU 260056Z
-BMW  DATM,Bordj Badji Mokhtar Airport,33.0,DATM 260000Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 261200Z
+ABD  OIAA,Abadan Airport,42.0,OIAA 261200Z
+MRX  OIAM,Mahshahr Airport,42.0,OIAM 261200Z
+AWZ  OIAW,Ahwaz Airport,42.0,OIAW 261200Z
+LRR  OISL,Lar Airport,42.0,OISL 261200Z
+LFM  OISR,Lamerd Airport,42.0,OISR 261200Z
+OKKK,,42.0,OKKK 261200Z
+AAN  OMAL,Al Ain International Airport,42.0,OMAL 261200Z
+BSR  ORMM,Basrah International Airport,42.0,ORMM 261200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 261200Z
+AJF  OESK,Al-Jawf Domestic Airport,41.0,OESK 261200Z
+WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 261200Z
+OKAS,Ali Al Salem Air Base,41.0,OKAS 261215Z
+OOAD,,40.0,OOAD 261150Z
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+HDS  FAHS,Hoedspruit Air Force Base Airport,40.0,FAHS 261200Z
+HOF  OEAH,Al Ahsa Airport,40.0,OEAH 261200Z
+DMM  OEDF,King Fahd International Airport,40.0,OEDF 261200Z
+DHA  OEDR,King Abdulaziz Air Base,40.0,OEDR 261200Z
+SHW  OESH,Sharurah Airport,40.0,OESH 261200Z
+NJF  ORNI,Al Najaf International Airport,40.0,ORNI 261200Z
+GXF  OYSY,Sayun International Airport,40.0,OYSY 261200Z
+KQTZ,,39.0,KQTZ
+AKH  OEPS,Prince Sultan Air Base,39.0,OEPS 261155Z
+XJD  OTBH,Al Udeid Air Base,39.0,OTBH 261155Z
+VVZ  DAAP,Illizi Takhamalt Airport,39.0,DAAP 261200Z
+INZ  DAUI,In Salah Airport,39.0,DAUI 261200Z
+DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 261200Z
+HAS  OEHL,Ha'il Airport,39.0,OEHL 261200Z
+OEKJ,,39.0,OEKJ 261200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,OEPA 261200Z
+RAH  OERF,Rafha Domestic Airport,39.0,OERF 261200Z
+GCH  OIAH,Gachsaran Airport,39.0,OIAH 261200Z
+DIA  OTBD,Doha International Airport,39.0,OTBD 261200Z
+HME  DAUH,Oued Irara Airport,38.0,DAUH 261200Z
+OGX  DAUU,Ain el Beida Airport,38.0,DAUU 261200Z
+MQP  FAKN,Kruger Mpumalanga International Airport,38.0,FAKN 261200Z
+MTS  FDMS,Matsapha Airport,38.0,FDMS 261200Z
+TET  FQTT,Chingozi Airport,38.0,FQTT 261200Z
+BFO  FVCZ,Buffalo Range Airport,38.0,FVCZ
+ELQ  OEGS,Gassim Airport,38.0,OEGS 261200Z
+URY  OEGT,Gurayat Domestic Airport,38.0,OEGT 261200Z
+JED  OEJN,King Abdulaziz International Airport,38.0,OEJN 261200Z
+RUH  OERK,King Khaled International Airport,38.0,OERK 261200Z
+OERS,,38.0,OERS 261200Z
