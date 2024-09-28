@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BLH  KBLH,Blythe Airport,42.0,KBLH 280052Z
-KGEU,Glendale Municipal Airport,42.0,KGEU 280055Z
-HII  KHII,Lake Havasu City Airport,42.0,KHII 280055Z
-IFP  KIFP,Laughlin Bullhead International Airport,42.0,KIFP 280055Z
-LGF  KLGF,Laguna Army Airfield,42.0,KLGF 280055Z
-LUF  KLUF,Luke Air Force Base,42.0,KLUF 280055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),42.0,KNJK 280056Z
-KCHD,Chandler Municipal Airport,41.0,KCHD 280047Z
-DVT  KDVT,Phoenix Deer Valley Airport,41.0,KDVT 280053Z
-SCF  KSDL,Scottsdale Airport,41.0,KSDL 280053Z
-BXK  KBXK,Buckeye Municipal Airport,41.0,KBXK 280055Z
-KL08,,41.0,KL08 280055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,41.0,KCGZ
-EED  KEED,Needles Airport,41.0,KEED 280056Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,41.0,KIWA 280057Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 280057Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,40.0,KTUS 280053Z
-KA39,,40.0,KA39 280055Z
-AVW  KAVQ,Marana Regional Airport,40.0,KAVQ 280055Z
-MZJ  KMZJ,Pinal Airpark,40.0,KMZ
-KP08,,40.0,KP08 280055Z
-KRYN,Ryan Field,39.0,KRYN 280045Z
-PSP  KPSP,Palm Springs International Airport,39.0,KPSP 280053Z
-DMA  KDMA,Davis Monthan Air Force Base,39.0,KDMA 280055Z
-LSV  KLSV,Nellis Air Force Base,39.0,KLSV 280055Z
-GYM  MMGM,General José María Yáñez International Airport,38.0,MMGM 280040Z
-CEN  MMCN,Ciudad Obregón International Airport,38.0,MMCN 280044Z
-VGT  KVGT,North Las Vegas Airport,38.0,KVGT 280053Z
-KBVU,,38.0,KBVU 280055Z
-LAS  KLAS,McCarran International Airport,38.0,KLAS 280056Z
-KNXP,Twentynine Palms (Self) Airport,38.0,KNXP 280056Z
-LAP  MMLP,Manuel Márquez de León International Airport,37.0,MMLP 280045Z
-DAG  KDAG,Barstow Daggett Airport,37.0,KDAG 280050Z
-SAD  KSAD,Safford Regional Airport,37.0,KSAD 280051Z
-EDW  KEDW,Edwards Air Force Base,37.0,KEDW 280055Z
-HSH  KHND,Henderson Executive Airport,37.0,KHND 280056Z
-KNID,China Lake Naws (Armitage Field) Airport,37.0,KNID 280056Z
-DRA  KDRA,Desert Rock Airport,36.0,KDRA 280053Z
-RDD  KRDD,Redding Municipal Airport,36.0,KRDD 280053Z
-OLS  KOLS,Nogales International Airport,36.0,KOLS 280054Z
-K9L2,,36.0,K9L2 280055Z
-BYS  KBYS,Bicycle Lake Army Air Field,36.0,KBYS 280055Z
-KE77,,36.0,KE77 280055Z
-SGU  KSGU,St George Municipal Airport,36.0,KSGU 280056Z
-IGM  KIGM,Kingman Airport,35.0,KIGM 280051Z
+BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 281200Z
+KAB  FVKB,Kariba International Airport,41.0,FVKB 281200Z
+HOF  OEAH,Al Ahsa Airport,41.0,OEAH 281200Z
+OERS,,41.0,OERS 281200Z
+ABD  OIAA,Abadan Airport,41.0,OIAA 281200Z
+AWZ  OIAW,Ahwaz Airport,41.0,OIAW 281200Z
+OKKK,,41.0,OKKK 281200Z
+BSR  ORMM,Basrah International Airport,41.0,ORMM 281200Z
+KQTZ,,40.0,KQTZ
+OKAS,Ali Al Salem Air Base,40.0,OKAS 281155Z
+XJD  OTBH,Al Udeid Air Base,40.0,OTBH 281155Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,40.0,DAUA 281200Z
+INZ  DAUI,In Salah Airport,40.0,DAUI 281200Z
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+MPA  FYKM,Katima Mulilo Airport,40.0,FYKM 281200Z
+DMM  OEDF,King Fahd International Airport,40.0,OEDF 281200Z
+ELQ  OEGS,Gassim Airport,40.0,OEGS 281200Z
+WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 281200Z
+AKW  OIAG,Aghajari Airport,40.0,OIAG 281200Z
+MRX  OIAM,Mahshahr Airport,40.0,OIAM 281200Z
+AAN  OMAL,Al Ain International Airport,40.0,OMAL 281200Z
+NJF  ORNI,Al Najaf International Airport,40.0,ORNI 281200Z
+TMX  DAUT,Timimoun Airport,39.0,DAUT 281200Z
+EBM  DTTR,El Borma Airport,39.0,DTTR 281200Z
+BBK  FBKE,Kasane Airport,39.0,FBKE 281200Z
+MUB  FBMN,Maun Airport,39.0,FBMN 281200Z
+DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 281200Z
+OEKJ,,39.0,OEKJ 281200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,OEPA 281200Z
+RUH  OERK,King Khaled International Airport,39.0,OERK 281200Z
+SHW  OESH,Sharurah Airport,39.0,OESH 281200Z
+TUU  OETB,Tabuk Airport,39.0,OETB 281200Z
+BGW  ORBI,Baghdad International Airport,39.0,ORBI 281200Z
+GXF  OYSY,Sayun International Airport,39.0,OYSY 281200Z
+OOAD,,38.0,OOAD 281150Z
+AKH  OEPS,Prince Sultan Air Base,38.0,OEPS 281155Z
+HME  DAUH,Oued Irara Airport,38.0,DAUH 281200Z
+ELU  DAUO,Guemar Airport,38.0,DAUO 281200Z
+OGX  DAUU,Ain el Beida Airport,38.0,DAUU 281200Z
+IAM  DAUZ,In Aménas Airport,38.0,DAUZ
+FBPM,,38.0,FBPM 281200Z
+TET  FQTT,Chingozi Airport,38.0,FQTT 281200Z
+VFA  FVFA,Victoria Falls International Airport,38.0,FVFA 281200Z
+GAQ  GAGO,Gao Airport,38.0,GAGO 281200Z
+DHA  OEDR,King Abdulaziz Air Base,38.0,OEDR 281200Z
