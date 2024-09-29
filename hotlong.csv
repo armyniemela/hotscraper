@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 281200Z
-KAB  FVKB,Kariba International Airport,41.0,FVKB 281200Z
-HOF  OEAH,Al Ahsa Airport,41.0,OEAH 281200Z
-OERS,,41.0,OERS 281200Z
-ABD  OIAA,Abadan Airport,41.0,OIAA 281200Z
-AWZ  OIAW,Ahwaz Airport,41.0,OIAW 281200Z
-OKKK,,41.0,OKKK 281200Z
-BSR  ORMM,Basrah International Airport,41.0,ORMM 281200Z
-KQTZ,,40.0,KQTZ
-OKAS,Ali Al Salem Air Base,40.0,OKAS 281155Z
-XJD  OTBH,Al Udeid Air Base,40.0,OTBH 281155Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,40.0,DAUA 281200Z
-INZ  DAUI,In Salah Airport,40.0,DAUI 281200Z
-AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
-MPA  FYKM,Katima Mulilo Airport,40.0,FYKM 281200Z
-DMM  OEDF,King Fahd International Airport,40.0,OEDF 281200Z
-ELQ  OEGS,Gassim Airport,40.0,OEGS 281200Z
-WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 281200Z
-AKW  OIAG,Aghajari Airport,40.0,OIAG 281200Z
-MRX  OIAM,Mahshahr Airport,40.0,OIAM 281200Z
-AAN  OMAL,Al Ain International Airport,40.0,OMAL 281200Z
-NJF  ORNI,Al Najaf International Airport,40.0,ORNI 281200Z
-TMX  DAUT,Timimoun Airport,39.0,DAUT 281200Z
-EBM  DTTR,El Borma Airport,39.0,DTTR 281200Z
-BBK  FBKE,Kasane Airport,39.0,FBKE 281200Z
-MUB  FBMN,Maun Airport,39.0,FBMN 281200Z
-DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 281200Z
-OEKJ,,39.0,OEKJ 281200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,OEPA 281200Z
-RUH  OERK,King Khaled International Airport,39.0,OERK 281200Z
-SHW  OESH,Sharurah Airport,39.0,OESH 281200Z
-TUU  OETB,Tabuk Airport,39.0,OETB 281200Z
-BGW  ORBI,Baghdad International Airport,39.0,ORBI 281200Z
-GXF  OYSY,Sayun International Airport,39.0,OYSY 281200Z
-OOAD,,38.0,OOAD 281150Z
-AKH  OEPS,Prince Sultan Air Base,38.0,OEPS 281155Z
-HME  DAUH,Oued Irara Airport,38.0,DAUH 281200Z
-ELU  DAUO,Guemar Airport,38.0,DAUO 281200Z
-OGX  DAUU,Ain el Beida Airport,38.0,DAUU 281200Z
-IAM  DAUZ,In Aménas Airport,38.0,DAUZ
-FBPM,,38.0,FBPM 281200Z
-TET  FQTT,Chingozi Airport,38.0,FQTT 281200Z
-VFA  FVFA,Victoria Falls International Airport,38.0,FVFA 281200Z
-GAQ  GAGO,Gao Airport,38.0,GAGO 281200Z
-DHA  OEDR,King Abdulaziz Air Base,38.0,OEDR 281200Z
+BLH  KBLH,Blythe Airport,43.0,KBLH 290052Z
+HII  KHII,Lake Havasu City Airport,43.0,KHII 290055Z
+IFP  KIFP,Laughlin Bullhead International Airport,43.0,KIFP 290055Z
+LGF  KLGF,Laguna Army Airfield,43.0,KLGF 290055Z
+LUF  KLUF,Luke Air Force Base,43.0,KLUF 290055Z
+SCF  KSDL,Scottsdale Airport,42.0,KSDL 290053Z
+KA39,,42.0,KA39 290055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,42.0,KCGZ
+EED  KEED,Needles Airport,42.0,KEED 290056Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,41.0,MMHO 290040Z
+DVT  KDVT,Phoenix Deer Valley Airport,41.0,KDVT 290053Z
+AVW  KAVQ,Marana Regional Airport,41.0,KAVQ 290055Z
+KP08,,41.0,KP08 290055Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 290057Z
+BXK  KBXK,Buckeye Municipal Airport,41.0,KBXK 290115Z
+LSV  KLSV,Nellis Air Force Base,40.0,KLSV 290055Z
+MZJ  KMZJ,Pinal Airpark,40.0,KMZ
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),40.0,KNJK 290056Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,39.0,KTUS 290053Z
+VGT  KVGT,North Las Vegas Airport,39.0,KVGT 290053Z
+HSH  KHND,Henderson Executive Airport,39.0,KHND 290056Z
+LAS  KLAS,McCarran International Airport,39.0,KLAS 290056Z
+KBVU,,39.0,KBVU 290115Z
+KL08,,39.0,KL08 290115Z
+KRYN,Ryan Field,38.0,KRYN 290045Z
+PSP  KPSP,Palm Springs International Airport,38.0,KPSP 290053Z
+DMA  KDMA,Davis Monthan Air Force Base,38.0,KDMA 290055Z
+KNXP,Twentynine Palms (Self) Airport,38.0,KNXP 290056Z
+DAG  KDAG,Barstow Daggett Airport,37.0,KDAG 290050Z
+BYS  KBYS,Bicycle Lake Army Air Field,37.0,KBYS 290055Z
+KNID,China Lake Naws (Armitage Field) Airport,37.0,KNID 290056Z
+SGU  KSGU,St George Municipal Airport,37.0,KSGU 290056Z
+KNX  YPKU,Kununurra Airport,37.0,YPKU 290100Z
+IGM  KIGM,Kingman Airport,36.0,KIGM 290051Z
+SAD  KSAD,Safford Regional Airport,36.0,KSAD 290051Z
+DRA  KDRA,Desert Rock Airport,36.0,KDRA 290053Z
+KE77,,36.0,KE77 290055Z
+INS  KINS,Creech Air Force Base,36.0,KINS 290055Z
+CIC  KCIC,Chico Municipal Airport,35.0,KCIC 290050Z
+OVE  KOVE,Oroville Municipal Airport,35.0,KOVE 290053Z
+OLS  KOLS,Nogales International Airport,35.0,KOLS 290054Z
+KP52,,35.0,KP52 290055Z
+GYM  MMGM,General José María Yáñez International Airport,34.0,MMGM 290040Z
+LTO  MMLT,Loreto International Airport,34.0,MMLT 290040Z
+CEN  MMCN,Ciudad Obregón International Airport,34.0,MMCN 290052Z
