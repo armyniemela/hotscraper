@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LUF  KLUF,Luke Air Force Base,40.0,KLUF 010055Z
-KCHD,Chandler Municipal Airport,39.0,KCHD 010047Z
-GYR  KGYR,Phoenix Goodyear Airport,39.0,KGYR 010047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,39.0,KIWA 010048Z
-KGEU,Glendale Municipal Airport,39.0,KGEU 010050Z
-KGXF,,39.0,KGXF 010055Z
-LSV  KLSV,Nellis Air Force Base,39.0,KLSV 010055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),39.0,KNJK 010056Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,38.0,MMML 010040Z
-DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 010050Z
-MZJ  KMZJ,Pinal Airpark,38.0,KMZ
-DVT  KDVT,Phoenix Deer Valley Airport,38.0,KDVT 010053Z
-PSP  KPSP,Palm Springs International Airport,38.0,KPSP 010053Z
-SCF  KSDL,Scottsdale Airport,38.0,KSDL 010053Z
-VGT  KVGT,North Las Vegas Airport,38.0,KVGT 010053Z
-MSC  KFFZ,Falcon Field,38.0,KFFZ
-LGF  KLGF,Laguna Army Airfield,38.0,KLGF 010055Z
-KP08,,38.0,KP08 010055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,38.0,KCGZ
-LAS  KLAS,McCarran International Airport,38.0,KLAS 010056Z
-KRYN,Ryan Field,37.0,KRYN 010045Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,37.0,MMHO 010046Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,37.0,KTUS 010053Z
-KA39,,37.0,KA39 010055Z
-AVW  KAVQ,Marana Regional Airport,37.0,KAVQ 010055Z
-DMA  KDMA,Davis Monthan Air Force Base,37.0,KDMA 010055Z
-EDW  KEDW,Edwards Air Force Base,37.0,KEDW 010055Z
-HSH  KHND,Henderson Executive Airport,37.0,KHND 010056Z
-KNID,China Lake Naws (Armitage Field) Airport,37.0,KNID 010056Z
-KNXP,Twentynine Palms (Self) Airport,37.0,KNXP 010056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,37.0,KNYL 010057Z
-KL08,,37.0,KL08 010115Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,36.0,KTRM 010052Z
-PMD  KPMD,Palmdale Regional/USAF Plant 42 Airport,36.0,KPMD 010053Z
-RBL  KRBL,Red Bluff Municipal Airport,36.0,KRBL 010054Z
-BYS  KBYS,Bicycle Lake Army Air Field,36.0,KBYS 010055Z
-SGU  KSGU,St George Municipal Airport,36.0,KSGU 010056Z
-WJF  KWJF,General WM J Fox Airfield,36.0,KWJF 010056Z
-K9L2,,36.0,K9L2 010110Z
-KBVU,,36.0,KBVU 010115Z
-CIC  KCIC,Chico Municipal Airport,35.0,KCIC 010051Z
-IGM  KIGM,Kingman Airport,35.0,KIGM 010051Z
-SAD  KSAD,Safford Regional Airport,35.0,KSAD 010051Z
-DRA  KDRA,Desert Rock Airport,35.0,KDRA 010053Z
-RDD  KRDD,Redding Municipal Airport,35.0,KRDD 010053Z
+AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 011155Z
+XJD  OTBH,Al Udeid Air Base,40.0,OTBH 011155Z
+BMW  DATM,Bordj Badji Mokhtar Airport,40.0,DATM 011200Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,40.0,DAUA 011200Z
+INZ  DAUI,In Salah Airport,40.0,DAUI 011200Z
+TMX  DAUT,Timimoun Airport,40.0,DAUT 011200Z
+ELQ  OEGS,Gassim Airport,40.0,OEGS 011200Z
+OEKJ,,40.0,OEKJ 011200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 011200Z
+OEMN,,40.0,OEMN 011200Z
+RUH  OERK,King Khaled International Airport,40.0,OERK 011200Z
+WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 011200Z
+DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 011200Z
+SHW  OESH,Sharurah Airport,39.0,OESH 011200Z
+AKW  OIAG,Aghajari Airport,39.0,OIAG 011200Z
+AWZ  OIAW,Ahwaz Airport,39.0,OIAW 011200Z
+MUX  OPMT,Multan International Airport,39.0,OPMT 011200Z
+NJF  ORNI,Al Najaf International Airport,39.0,ORNI 011200Z
+AJY  DRZA,Mano Dayak International Airport,38.0,DRZ
+DWD  OEDM,King Salman Abdulaziz Airport,38.0,OEDM 011200Z
+RAH  OERF,Rafha Domestic Airport,38.0,OERF 011200Z
+IHR  OIZI,Iran Shahr Airport,38.0,OIZ
+BSR  ORMM,Basrah International Airport,38.0,ORMM 011200Z
+DOH  OTHH,Hamad International Airport,38.0,OTHH 011200Z
+KQTZ,,37.0,KQTZ
+LYP  OPFA,Faisalabad International Airport,37.0,OPFA 011155Z
+TIN  DAOF,Tindouf Airport,37.0,DAOF 011200Z
+DRZF,Diffa Airport,37.0,DRZ
+BHH  OEBH,Bisha Airport,37.0,OEBH 011200Z
+JED  OEJN,King Abdulaziz International Airport,37.0,OEJN 011200Z
+PGU  OIBP,Persian Gulf International Airport,37.0,OIBP 011200Z
+BGW  ORBI,Baghdad International Airport,37.0,ORBI 011200Z
+KIK  ORKK,Kirkuk Air Base,37.0,ORKK 011200Z
+DIA  OTBD,Doha International Airport,37.0,OTBD 011200Z
+GXF  OYSY,Sayun International Airport,37.0,OYSY 011200Z
+BEM  GMMD,Beni Mellal Airport,36.0,GMMD 011200Z
+RAK  GMMX,Menara Airport,36.0,GMMX 011200Z
+BAH  OBBI,Bahrain International Airport,36.0,OBBI 011200Z
+OEAO,,36.0,OEAO 011200Z
+GIZ  OEGN,Jizan Regional Airport,36.0,OEGN 011200Z
+EAM  OENG,Nejran Airport,36.0,OENG 011200Z
+RAE  OERR,Arar Domestic Airport,36.0,OERR 011200Z
+GCH  OIAH,Gachsaran Airport,36.0,OIAH 011200Z
+MRX  OIAM,Mahshahr Airport,36.0,OIAM 011200Z
+AEU  OIBA,Abu Musa Island Airport,36.0,OIBA 011200Z
