@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 011155Z
-XJD  OTBH,Al Udeid Air Base,40.0,OTBH 011155Z
-BMW  DATM,Bordj Badji Mokhtar Airport,40.0,DATM 011200Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,40.0,DAUA 011200Z
-INZ  DAUI,In Salah Airport,40.0,DAUI 011200Z
-TMX  DAUT,Timimoun Airport,40.0,DAUT 011200Z
-ELQ  OEGS,Gassim Airport,40.0,OEGS 011200Z
-OEKJ,,40.0,OEKJ 011200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 011200Z
-OEMN,,40.0,OEMN 011200Z
-RUH  OERK,King Khaled International Airport,40.0,OERK 011200Z
-WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 011200Z
-DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 011200Z
-SHW  OESH,Sharurah Airport,39.0,OESH 011200Z
-AKW  OIAG,Aghajari Airport,39.0,OIAG 011200Z
-AWZ  OIAW,Ahwaz Airport,39.0,OIAW 011200Z
-MUX  OPMT,Multan International Airport,39.0,OPMT 011200Z
-NJF  ORNI,Al Najaf International Airport,39.0,ORNI 011200Z
-AJY  DRZA,Mano Dayak International Airport,38.0,DRZ
-DWD  OEDM,King Salman Abdulaziz Airport,38.0,OEDM 011200Z
-RAH  OERF,Rafha Domestic Airport,38.0,OERF 011200Z
-IHR  OIZI,Iran Shahr Airport,38.0,OIZ
-BSR  ORMM,Basrah International Airport,38.0,ORMM 011200Z
-DOH  OTHH,Hamad International Airport,38.0,OTHH 011200Z
-KQTZ,,37.0,KQTZ
-LYP  OPFA,Faisalabad International Airport,37.0,OPFA 011155Z
-TIN  DAOF,Tindouf Airport,37.0,DAOF 011200Z
-DRZF,Diffa Airport,37.0,DRZ
-BHH  OEBH,Bisha Airport,37.0,OEBH 011200Z
-JED  OEJN,King Abdulaziz International Airport,37.0,OEJN 011200Z
-PGU  OIBP,Persian Gulf International Airport,37.0,OIBP 011200Z
-BGW  ORBI,Baghdad International Airport,37.0,ORBI 011200Z
-KIK  ORKK,Kirkuk Air Base,37.0,ORKK 011200Z
-DIA  OTBD,Doha International Airport,37.0,OTBD 011200Z
-GXF  OYSY,Sayun International Airport,37.0,OYSY 011200Z
-BEM  GMMD,Beni Mellal Airport,36.0,GMMD 011200Z
-RAK  GMMX,Menara Airport,36.0,GMMX 011200Z
-BAH  OBBI,Bahrain International Airport,36.0,OBBI 011200Z
-OEAO,,36.0,OEAO 011200Z
-GIZ  OEGN,Jizan Regional Airport,36.0,OEGN 011200Z
-EAM  OENG,Nejran Airport,36.0,OENG 011200Z
-RAE  OERR,Arar Domestic Airport,36.0,OERR 011200Z
-GCH  OIAH,Gachsaran Airport,36.0,OIAH 011200Z
-MRX  OIAM,Mahshahr Airport,36.0,OIAM 011200Z
-AEU  OIBA,Abu Musa Island Airport,36.0,OIBA 011200Z
+GYR  KGYR,Phoenix Goodyear Airport,42.0,KGYR 020047Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,42.0,MMML 020053Z
+KGXF,,42.0,KGXF 020055Z
+IFP  KIFP,Laughlin Bullhead International Airport,42.0,KIFP 020055Z
+KQOS,,42.0,KQOS 020055Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,42.0,KNYL 020057Z
+KGEU,Glendale Municipal Airport,41.0,KGEU 020050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 020051Z
+EED  KEED,Needles Airport,41.0,KEED 020056Z
+KCHD,Chandler Municipal Airport,40.0,KCHD 020047Z
+DAG  KDAG,Barstow Daggett Airport,40.0,KDAG 020050Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,40.0,KIWA 020050Z
+KA39,,40.0,KA39 020055Z
+LUF  KLUF,Luke Air Force Base,40.0,KLUF 020055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
+SCF  KSDL,Scottsdale Airport,39.0,KSDL 020053Z
+MSC  KFFZ,Falcon Field,39.0,KFFZ
+LSV  KLSV,Nellis Air Force Base,39.0,KLSV 020055Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,38.0,MMHO 020040Z
+CCR  KCCR,Buchanan Field,38.0,KCCR 020053Z
+DVT  KDVT,Phoenix Deer Valley Airport,38.0,KDVT 020053Z
+MYV  KMYV,Yuba County Airport,38.0,KMYV 020053Z
+PMD  KPMD,Palmdale Regional/USAF Plant 42 Airport,38.0,KPMD 020053Z
+PRB  KPRB,Paso Robles Municipal Airport,38.0,KPRB 020053Z
+STS  KSTS,Charles M. Schulz Sonoma County Airport,38.0,KSTS 020053Z
+VGT  KVGT,North Las Vegas Airport,38.0,KVGT 020053Z
+K9L2,,38.0,K9L2 020055Z
+KBVU,,38.0,KBVU 020055Z
+BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 020055Z
+NOT  KDVO,Marin County Airport - Gnoss Field,38.0,KDVO 020055Z
+EDW  KEDW,Edwards Air Force Base,38.0,KEDW 020055Z
+MZJ  KMZJ,Pinal Airpark,38.0,KMZ
+KP08,,38.0,KP08 020055Z
+LAS  KLAS,McCarran International Airport,38.0,KLAS 020056Z
+KNID,China Lake Naws (Armitage Field) Airport,38.0,KNID 020056Z
+MHV  KMHV,Mojave Airport,37.0,KMHV 020020Z
+MHR  KMHR,Sacramento Mather Airport,37.0,KMHR 020050Z
+DRA  KDRA,Desert Rock Airport,37.0,KDRA 020053Z
+LVK  KLVK,Livermore Municipal Airport,37.0,KLVK 020053Z
+RDD  KRDD,Redding Municipal Airport,37.0,KRDD 020053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,37.0,KTUS 020053Z
+KVCB,Nut Tree Airport,37.0,KVCB 020053Z
+RBL  KRBL,Red Bluff Municipal Airport,37.0,KRBL 020054Z
+AVW  KAVQ,Marana Regional Airport,37.0,KAVQ 020055Z
+BAB  KBAB,Beale Air Force Base,37.0,KBAB 020055Z
