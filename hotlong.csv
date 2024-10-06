@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-VVZ  DAAP,Illizi Takhamalt Airport,39.0,DAAP 051200Z
-OMD  FYOG,Oranjemund Airport,39.0,FYOG 051200Z
-SHW  OESH,Sharurah Airport,39.0,OESH 051200Z
-WAE  OEWD,Wadi Al Dawasir Airport,39.0,OEWD 051200Z
-IHR  OIZI,Iran Shahr Airport,39.0,OIZ
-ATR  GQPA,Atar International Airport,38.0,GQPA 051200Z
-HOF  OEAH,Al Ahsa Airport,38.0,OEAH 051200Z
-OEAO,,38.0,OEAO 051200Z
-DWD  OEDM,King Salman Abdulaziz Airport,38.0,OEDM 051200Z
-ELQ  OEGS,Gassim Airport,38.0,OEGS 051200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,38.0,OEYN 051200Z
-ABD  OIAA,Abadan Airport,38.0,OIAA 051200Z
-AKW  OIAG,Aghajari Airport,38.0,OIAG 051200Z
-AWZ  OIAW,Ahwaz Airport,38.0,OIAW 051200Z
-LFM  OISR,Lamerd Airport,38.0,OISR 051200Z
-OKKK,,38.0,OKKK 051200Z
-OKAS,Ali Al Salem Air Base,37.0,OKAS 051155Z
-IAM  DAUZ,In Aménas Airport,37.0,DAUZ
-SDB  FALW,Langebaanweg Airport,37.0,FALW 051200Z
-PLZ  FAPE,Port Elizabeth Airport,37.0,FAPE 051200Z
-OEKJ,,37.0,OEKJ 051200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,37.0,OEPA 051200Z
-RUH  OERK,King Khaled International Airport,37.0,OERK 051200Z
-MRX  OIAM,Mahshahr Airport,37.0,OIAM 051200Z
-LRR  OISL,Lar Airport,37.0,OISL 051200Z
-AAN  OMAL,Al Ain International Airport,37.0,OMAL 051200Z
-BSR  ORMM,Basrah International Airport,37.0,ORMM 051200Z
-GXF  OYSY,Sayun International Airport,37.0,OYSY 051200Z
-OHS  OOSH,Sohar Airport,36.0,OOSH 051150Z
-AKH  OEPS,Prince Sultan Air Base,36.0,OEPS 051155Z
-XJD  OTBH,Al Udeid Air Base,36.0,OTBH 051155Z
-TMX  DAUT,Timimoun Airport,36.0,DAUT 051200Z
-LOK  HKLO,Lodwar Airport,36.0,HKLO 051200Z
-BHH  OEBH,Bisha Airport,36.0,OEBH 051200Z
-DMM  OEDF,King Fahd International Airport,36.0,OEDF 051200Z
-DHA  OEDR,King Abdulaziz Air Base,36.0,OEDR 051200Z
-URY  OEGT,Gurayat Domestic Airport,36.0,OEGT 051200Z
-HAS  OEHL,Ha'il Airport,36.0,OEHL 051200Z
-JED  OEJN,King Abdulaziz International Airport,36.0,OEJN 051200Z
-AJF  OESK,Al-Jawf Domestic Airport,36.0,OESK 051200Z
-PGU  OIBP,Persian Gulf International Airport,36.0,OIBP 051200Z
-LVP  OIBV,Lavan Island Airport,36.0,OIBV 051200Z
-BND  OIKB,Bandar Abbas International Airport,36.0,OIKB 051200Z
-ACZ  OIZB,Zabol Airport,36.0,OIZ
-RKT  OMRK,Ras Al Khaimah International Airport,36.0,OMRK 051200Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 060051Z
+EED  KEED,Needles Airport,41.0,KEED 060056Z
+KQOS,,41.0,KQOS 060056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 060057Z
+KNOZ,,41.0,KNOZ
+HII  KHII,Lake Havasu City Airport,41.0,KHII 060115Z
+KCHD,Chandler Municipal Airport,40.0,KCHD 060047Z
+KGEU,Glendale Municipal Airport,40.0,KGEU 060047Z
+GYR  KGYR,Phoenix Goodyear Airport,40.0,KGYR 060047Z
+LUF  KLUF,Luke Air Force Base,40.0,KLUF 060055Z
+KL08,,40.0,KL08 060115Z
+DVT  KDVT,Phoenix Deer Valley Airport,38.0,KDVT 060053Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 060053Z
+SCF  KSDL,Scottsdale Airport,38.0,KSDL 060053Z
+MSC  KFFZ,Falcon Field,38.0,KFFZ
+KNXP,Twentynine Palms (Self) Airport,38.0,KNXP 060056Z
+DAG  KDAG,Barstow Daggett Airport,37.0,KDAG 060050Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,37.0,KTRM 060052Z
+CCR  KCCR,Buchanan Field,37.0,KCCR 060053Z
+VGT  KVGT,North Las Vegas Airport,37.0,KVGT 060053Z
+EDW  KEDW,Edwards Air Force Base,37.0,KEDW 060055Z
+LSV  KLSV,Nellis Air Force Base,37.0,KLSV 060055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,37.0,KCGZ
+KNID,China Lake Naws (Armitage Field) Airport,37.0,KNID 060056Z
+KRYN,Ryan Field,36.0,KRYN 060045Z
+FAT  KFAT,Fresno Yosemite International Airport,36.0,KFAT 060053Z
+LVK  KLVK,Livermore Municipal Airport,36.0,KLVK 060053Z
+MYV  KMYV,Yuba County Airport,36.0,KMYV 060053Z
+PMD  KPMD,Palmdale Regional/USAF Plant 42 Airport,36.0,KPMD 060053Z
+STS  KSTS,Charles M. Schulz Sonoma County Airport,36.0,KSTS 060053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,36.0,KTUS 060053Z
+KVCB,Nut Tree Airport,36.0,KVCB 060053Z
+BFL  KBFL,Meadows Field,36.0,KBFL 060054Z
+BYS  KBYS,Bicycle Lake Army Air Field,36.0,KBYS 060055Z
+DMA  KDMA,Davis Monthan Air Force Base,36.0,KDMA 060055Z
+SCK  KSCK,Stockton Metropolitan Airport,36.0,KSCK 060055Z
+HSH  KHND,Henderson Executive Airport,36.0,KHND 060056Z
+WJF  KWJF,General WM J Fox Airfield,36.0,KWJF 060056Z
+K9L2,,36.0,K9L2 060110Z
+KA39,,36.0,KA39 060115Z
+BXK  KBXK,Buckeye Municipal Airport,36.0,KBXK 060115Z
+LTO  MMLT,Loreto International Airport,35.0,MMLT 060040Z
+SQL  KSQL,San Carlos Airport,35.0,KSQL 060047Z
+DRA  KDRA,Desert Rock Airport,35.0,KDRA 060053Z
+KHJO,Hanford Municipal Airport,35.0,KHJO 060053Z
