@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 060051Z
-EED  KEED,Needles Airport,41.0,KEED 060056Z
-KQOS,,41.0,KQOS 060056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 060057Z
-KNOZ,,41.0,KNOZ
-HII  KHII,Lake Havasu City Airport,41.0,KHII 060115Z
-KCHD,Chandler Municipal Airport,40.0,KCHD 060047Z
-KGEU,Glendale Municipal Airport,40.0,KGEU 060047Z
-GYR  KGYR,Phoenix Goodyear Airport,40.0,KGYR 060047Z
-LUF  KLUF,Luke Air Force Base,40.0,KLUF 060055Z
-KL08,,40.0,KL08 060115Z
-DVT  KDVT,Phoenix Deer Valley Airport,38.0,KDVT 060053Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 060053Z
-SCF  KSDL,Scottsdale Airport,38.0,KSDL 060053Z
-MSC  KFFZ,Falcon Field,38.0,KFFZ
-KNXP,Twentynine Palms (Self) Airport,38.0,KNXP 060056Z
-DAG  KDAG,Barstow Daggett Airport,37.0,KDAG 060050Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,37.0,KTRM 060052Z
-CCR  KCCR,Buchanan Field,37.0,KCCR 060053Z
-VGT  KVGT,North Las Vegas Airport,37.0,KVGT 060053Z
-EDW  KEDW,Edwards Air Force Base,37.0,KEDW 060055Z
-LSV  KLSV,Nellis Air Force Base,37.0,KLSV 060055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,37.0,KCGZ
-KNID,China Lake Naws (Armitage Field) Airport,37.0,KNID 060056Z
-KRYN,Ryan Field,36.0,KRYN 060045Z
-FAT  KFAT,Fresno Yosemite International Airport,36.0,KFAT 060053Z
-LVK  KLVK,Livermore Municipal Airport,36.0,KLVK 060053Z
-MYV  KMYV,Yuba County Airport,36.0,KMYV 060053Z
-PMD  KPMD,Palmdale Regional/USAF Plant 42 Airport,36.0,KPMD 060053Z
-STS  KSTS,Charles M. Schulz Sonoma County Airport,36.0,KSTS 060053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,36.0,KTUS 060053Z
-KVCB,Nut Tree Airport,36.0,KVCB 060053Z
-BFL  KBFL,Meadows Field,36.0,KBFL 060054Z
-BYS  KBYS,Bicycle Lake Army Air Field,36.0,KBYS 060055Z
-DMA  KDMA,Davis Monthan Air Force Base,36.0,KDMA 060055Z
-SCK  KSCK,Stockton Metropolitan Airport,36.0,KSCK 060055Z
-HSH  KHND,Henderson Executive Airport,36.0,KHND 060056Z
-WJF  KWJF,General WM J Fox Airfield,36.0,KWJF 060056Z
-K9L2,,36.0,K9L2 060110Z
-KA39,,36.0,KA39 060115Z
-BXK  KBXK,Buckeye Municipal Airport,36.0,KBXK 060115Z
-LTO  MMLT,Loreto International Airport,35.0,MMLT 060040Z
-SQL  KSQL,San Carlos Airport,35.0,KSQL 060047Z
-DRA  KDRA,Desert Rock Airport,35.0,KDRA 060053Z
-KHJO,Hanford Municipal Airport,35.0,KHJO 060053Z
+INZ  DAUI,In Salah Airport,39.0,DAUI 061200Z
+AAN  OMAL,Al Ain International Airport,39.0,OMAL 061200Z
+OICM,,38.0,OICM 061100Z
+OKKK,,38.0,OKKK 061100Z
+KQTZ,,38.0,KQTZ
+XJD  OTBH,Al Udeid Air Base,38.0,OTBH 061155Z
+BMW  DATM,Bordj Badji Mokhtar Airport,38.0,DATM 061200Z
+HOF  OEAH,Al Ahsa Airport,38.0,OEAH 061200Z
+OEAO,,38.0,OEAO 061200Z
+DWD  OEDM,King Salman Abdulaziz Airport,38.0,OEDM 061200Z
+ELQ  OEGS,Gassim Airport,38.0,OEGS 061200Z
+SHW  OESH,Sharurah Airport,38.0,OESH 061200Z
+AKW  OIAG,Aghajari Airport,38.0,OIAG 061200Z
+AWZ  OIAW,Ahwaz Airport,38.0,OIAW 061200Z
+IHR  OIZI,Iran Shahr Airport,38.0,OIZ
+BGW  ORBI,Baghdad International Airport,38.0,ORBI 061200Z
+BSR  ORMM,Basrah International Airport,38.0,ORMM 061200Z
+NJF  ORNI,Al Najaf International Airport,38.0,ORNI 061200Z
+GXF  OYSY,Sayun International Airport,38.0,OYSY 061200Z
+AKH  OEPS,Prince Sultan Air Base,37.0,OEPS 061155Z
+OKAS,Ali Al Salem Air Base,37.0,OKAS 061155Z
+TMX  DAUT,Timimoun Airport,37.0,DAUT 061200Z
+AJY  DRZA,Mano Dayak International Airport,37.0,DRZ
+DMM  OEDF,King Fahd International Airport,37.0,OEDF 061200Z
+URY  OEGT,Gurayat Domestic Airport,37.0,OEGT 061200Z
+OEKJ,,37.0,OEKJ 061200Z
+RUH  OERK,King Khaled International Airport,37.0,OERK 061200Z
+ABD  OIAA,Abadan Airport,37.0,OIAA 061200Z
+BND  OIKB,Bandar Abbas International Airport,37.0,OIKB 061200Z
+SDB  FALW,Langebaanweg Airport,36.0,FALW 061100Z
+OOAD,,36.0,OOAD 061150Z
+TIN  DAOF,Tindouf Airport,36.0,DAOF 061200Z
+IAM  DAUZ,In Aménas Airport,36.0,DAUZ
+BHH  OEBH,Bisha Airport,36.0,OEBH 061200Z
+GIZ  OEGN,Jizan Regional Airport,36.0,OEGN 061200Z
+HAS  OEHL,Ha'il Airport,36.0,OEHL 061200Z
+EAM  OENG,Nejran Airport,36.0,OENG 061200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,36.0,OEPA 061200Z
+RAH  OERF,Rafha Domestic Airport,36.0,OERF 061200Z
+AJF  OESK,Al-Jawf Domestic Airport,36.0,OESK 061200Z
+TUU  OETB,Tabuk Airport,36.0,OETB 061200Z
+ADA  LTAF,Adana Airport,35.0,LTAF 061150Z
+UAB  LTAG,İncirlik Air Base,35.0,LTAG 061150Z
+HTY  LTDA,Hatay Airport,35.0,LTDA 061150Z
+LTDB,,35.0,LTDB 061150Z
