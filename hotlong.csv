@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-INZ  DAUI,In Salah Airport,39.0,DAUI 061200Z
-AAN  OMAL,Al Ain International Airport,39.0,OMAL 061200Z
-OICM,,38.0,OICM 061100Z
-OKKK,,38.0,OKKK 061100Z
-KQTZ,,38.0,KQTZ
-XJD  OTBH,Al Udeid Air Base,38.0,OTBH 061155Z
-BMW  DATM,Bordj Badji Mokhtar Airport,38.0,DATM 061200Z
-HOF  OEAH,Al Ahsa Airport,38.0,OEAH 061200Z
-OEAO,,38.0,OEAO 061200Z
-DWD  OEDM,King Salman Abdulaziz Airport,38.0,OEDM 061200Z
-ELQ  OEGS,Gassim Airport,38.0,OEGS 061200Z
-SHW  OESH,Sharurah Airport,38.0,OESH 061200Z
-AKW  OIAG,Aghajari Airport,38.0,OIAG 061200Z
-AWZ  OIAW,Ahwaz Airport,38.0,OIAW 061200Z
-IHR  OIZI,Iran Shahr Airport,38.0,OIZ
-BGW  ORBI,Baghdad International Airport,38.0,ORBI 061200Z
-BSR  ORMM,Basrah International Airport,38.0,ORMM 061200Z
-NJF  ORNI,Al Najaf International Airport,38.0,ORNI 061200Z
-GXF  OYSY,Sayun International Airport,38.0,OYSY 061200Z
-AKH  OEPS,Prince Sultan Air Base,37.0,OEPS 061155Z
-OKAS,Ali Al Salem Air Base,37.0,OKAS 061155Z
-TMX  DAUT,Timimoun Airport,37.0,DAUT 061200Z
-AJY  DRZA,Mano Dayak International Airport,37.0,DRZ
-DMM  OEDF,King Fahd International Airport,37.0,OEDF 061200Z
-URY  OEGT,Gurayat Domestic Airport,37.0,OEGT 061200Z
-OEKJ,,37.0,OEKJ 061200Z
-RUH  OERK,King Khaled International Airport,37.0,OERK 061200Z
-ABD  OIAA,Abadan Airport,37.0,OIAA 061200Z
-BND  OIKB,Bandar Abbas International Airport,37.0,OIKB 061200Z
-SDB  FALW,Langebaanweg Airport,36.0,FALW 061100Z
-OOAD,,36.0,OOAD 061150Z
-TIN  DAOF,Tindouf Airport,36.0,DAOF 061200Z
-IAM  DAUZ,In Aménas Airport,36.0,DAUZ
-BHH  OEBH,Bisha Airport,36.0,OEBH 061200Z
-GIZ  OEGN,Jizan Regional Airport,36.0,OEGN 061200Z
-HAS  OEHL,Ha'il Airport,36.0,OEHL 061200Z
-EAM  OENG,Nejran Airport,36.0,OENG 061200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,36.0,OEPA 061200Z
-RAH  OERF,Rafha Domestic Airport,36.0,OERF 061200Z
-AJF  OESK,Al-Jawf Domestic Airport,36.0,OESK 061200Z
-TUU  OETB,Tabuk Airport,36.0,OETB 061200Z
-ADA  LTAF,Adana Airport,35.0,LTAF 061150Z
-UAB  LTAG,İncirlik Air Base,35.0,LTAG 061150Z
-HTY  LTDA,Hatay Airport,35.0,LTDA 061150Z
-LTDB,,35.0,LTDB 061150Z
+HII  KHII,Lake Havasu City Airport,42.0,KHII 070055Z
+LGF  KLGF,Laguna Army Airfield,42.0,KLGF 070055Z
+KGEU,Glendale Municipal Airport,41.0,KGEU 070047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 070051Z
+BLH  KBLH,Blythe Airport,41.0,KBLH 070052Z
+KGXF,,41.0,KGXF 070055Z
+KL08,,41.0,KL08 070055Z
+EED  KEED,Needles Airport,41.0,KEED 070056Z
+GYR  KGYR,Phoenix Goodyear Airport,40.0,KGYR 070047Z
+IFP  KIFP,Laughlin Bullhead International Airport,40.0,KIFP 070055Z
+LUF  KLUF,Luke Air Force Base,40.0,KLUF 070055Z
+KCHD,Chandler Municipal Airport,39.0,KCHD 070047Z
+SCF  KSDL,Scottsdale Airport,39.0,KSDL 070053Z
+MSC  KFFZ,Falcon Field,39.0,KFFZ
+BXK  KBXK,Buckeye Municipal Airport,39.0,KBXK 070055Z
+SBD  KSBD,San Bernardino International Airport,38.0,KSBD 062353Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 070051Z
+DVT  KDVT,Phoenix Deer Valley Airport,38.0,KDVT 070053Z
+PRB  KPRB,Paso Robles Municipal Airport,38.0,KPRB 070053Z
+RBL  KRBL,Red Bluff Municipal Airport,38.0,KRBL 070054Z
+CGZ  KCGZ,Casa Grande Municipal Airport,38.0,KCGZ
+KRYN,Ryan Field,38.0,KRYN 070101Z
+CCR  KCCR,Buchanan Field,37.0,KCCR 070053Z
+MYV  KMYV,Yuba County Airport,37.0,KMYV 070053Z
+RDD  KRDD,Redding Municipal Airport,37.0,KRDD 070053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,37.0,KTUS 070053Z
+KVCB,Nut Tree Airport,37.0,KVCB 070053Z
+VGT  KVGT,North Las Vegas Airport,37.0,KVGT 070053Z
+KA39,,37.0,KA39 070055Z
+NOT  KDVO,Marin County Airport - Gnoss Field,37.0,KDVO 070055Z
+KE16,,37.0,KE16 070055Z
+EDW  KEDW,Edwards Air Force Base,37.0,KEDW 070055Z
+LSV  KLSV,Nellis Air Force Base,37.0,KLSV 070055Z
+MZJ  KMZJ,Pinal Airpark,37.0,KMZ
+KNXP,Twentynine Palms (Self) Airport,37.0,KNXP 070056Z
+SQL  KSQL,San Carlos Airport,36.0,KSQL 070047Z
+RHV  KRHV,Reid-Hillview Airport of Santa Clara County,36.0,KRHV 070050Z
+LVK  KLVK,Livermore Municipal Airport,36.0,KLVK 070053Z
+MAE  KMAE,Madera Municipal Airport,36.0,KMAE 070053Z
+MOD  KMOD,Modesto City Co-Harry Sham Field,36.0,KMOD 070053Z
+SJC  KSJC,Norman Y. Mineta San Jose International Airport,36.0,KSJC 070053Z
+SMF  KSMF,Sacramento International Airport,36.0,KSMF 070053Z
+STS  KSTS,Charles M. Schulz Sonoma County Airport,36.0,KSTS 070053Z
+HWD  KHWD,Hayward Executive Airport,36.0,KHWD 070054Z
+K9L2,,36.0,K9L2 070055Z
