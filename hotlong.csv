@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-K4A6,,41.0,K4A6 080055Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 080057Z
-KCHD,Chandler Municipal Airport,40.0,KCHD 080047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,40.0,KPHX 080051Z
-KGXF,,40.0,KGXF 080055Z
-HII  KHII,Lake Havasu City Airport,40.0,KHII 080055Z
-KQOS,,40.0,KQOS 080056Z
-KGEU,Glendale Municipal Airport,39.0,KGEU 080047Z
-GYR  KGYR,Phoenix Goodyear Airport,39.0,KGYR 080047Z
-IFP  KIFP,Laughlin Bullhead International Airport,39.0,KIFP 080055Z
-KL08,,39.0,KL08 080055Z
-LUF  KLUF,Luke Air Force Base,39.0,KLUF 080055Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,38.0,MMHO 080040Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 080050Z
-SCF  KSDL,Scottsdale Airport,38.0,KSDL 080053Z
-MSC  KFFZ,Falcon Field,38.0,KFFZ
-CGZ  KCGZ,Casa Grande Municipal Airport,38.0,KCGZ
-EED  KEED,Needles Airport,38.0,KEED 080056Z
-MHR  KMHR,Sacramento Mather Airport,37.0,KMHR 080050Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,37.0,KTRM 080052Z
-RBL  KRBL,Red Bluff Municipal Airport,37.0,KRBL 080054Z
-KA39,,37.0,KA39 080055Z
-BXK  KBXK,Buckeye Municipal Airport,37.0,KBXK 080055Z
-MZJ  KMZJ,Pinal Airpark,37.0,KMZ
-KP08,,37.0,KP08 080055Z
-KNXP,Twentynine Palms (Self) Airport,37.0,KNXP 080056Z
-KRYN,Ryan Field,36.0,KRYN 080045Z
-DAG  KDAG,Barstow Daggett Airport,36.0,KDAG 080050Z
-KTCY,Tracy Municipal Airport,36.0,KTCY 080050Z
-CCR  KCCR,Buchanan Field,36.0,KCCR 080053Z
-MYV  KMYV,Yuba County Airport,36.0,KMYV 080053Z
-RDD  KRDD,Redding Municipal Airport,36.0,KRDD 080053Z
-SAC  KSAC,Sacramento Executive Airport,36.0,KSAC 080053Z
-SMF  KSMF,Sacramento International Airport,36.0,KSMF 080053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,36.0,KTUS 080053Z
-KVCB,Nut Tree Airport,36.0,KVCB 080053Z
-VGT  KVGT,North Las Vegas Airport,36.0,KVGT 080053Z
-AVW  KAVQ,Marana Regional Airport,36.0,KAVQ 080055Z
-DMA  KDMA,Davis Monthan Air Force Base,36.0,KDMA 080055Z
-NOT  KDVO,Marin County Airport - Gnoss Field,36.0,KDVO 080055Z
-KEDU,University Airport,36.0,KEDU 080055Z
-LSV  KLSV,Nellis Air Force Base,36.0,KLSV 080055Z
-MCC  KMCC,Mc Clellan Airfield,36.0,KMCC 080055Z
-SCK  KSCK,Stockton Metropolitan Airport,36.0,KSCK 080055Z
-KNID,China Lake Naws (Armitage Field) Airport,36.0,KNID 080056Z
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+OEMN,,40.0,OEMN 081200Z
+ELG  DAUE,El Golea Airport,39.0,DAUE 081200Z
+TMX  DAUT,Timimoun Airport,39.0,DAUT 081200Z
+OGX  DAUU,Ain el Beida Airport,39.0,DAUU 081200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,39.0,OEYN 081200Z
+AKW  OIAG,Aghajari Airport,39.0,OIAG 081200Z
+AWZ  OIAW,Ahwaz Airport,39.0,OIAW 081200Z
+XJD  OTBH,Al Udeid Air Base,38.0,OTBH 081155Z
+BMW  DATM,Bordj Badji Mokhtar Airport,38.0,DATM 081200Z
+IAM  DAUZ,In Aménas Airport,38.0,DAUZ
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,38.0,GQNO 081200Z
+OEAO,,38.0,OEAO 081200Z
+ELQ  OEGS,Gassim Airport,38.0,OEGS 081200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,38.0,OEPA 081200Z
+RAH  OERF,Rafha Domestic Airport,38.0,OERF 081200Z
+WAE  OEWD,Wadi Al Dawasir Airport,38.0,OEWD 081200Z
+ABD  OIAA,Abadan Airport,38.0,OIAA 081200Z
+AAN  OMAL,Al Ain International Airport,38.0,OMAL 081200Z
+DWC  OMDW,Al Maktoum International Airport,38.0,OMDW 081200Z
+BSR  ORMM,Basrah International Airport,38.0,ORMM 081200Z
+NJF  ORNI,Al Najaf International Airport,38.0,ORNI 081200Z
+KQTZ,,37.0,KQTZ
+OKAS,Ali Al Salem Air Base,37.0,OKAS 081155Z
+DJG  DAAJ,Djanet Inedbirene Airport,37.0,DAAJ 081200Z
+EBM  DTTR,El Borma Airport,37.0,DTTR 081200Z
+VPE  FNGI,Ngjiva Pereira Airport,37.0,FNGI 081200Z
+OND  FYOA,Ondangwa Airport,37.0,FYOA 081200Z
+GAQ  GAGO,Gao Airport,37.0,GAGO 081200Z
+HAS  OEHL,Ha'il Airport,37.0,OEHL 081200Z
+RAE  OERR,Arar Domestic Airport,37.0,OERR 081200Z
+SHW  OESH,Sharurah Airport,37.0,OESH 081200Z
+PGU  OIBP,Persian Gulf International Airport,37.0,OIBP 081200Z
+AUH  OMAA,Abu Dhabi International Airport,37.0,OMAA 081200Z
+BGW  ORBI,Baghdad International Airport,37.0,ORBI 081200Z
+KIK  ORKK,Kirkuk Air Base,37.0,ORKK 081200Z
+GXF  OYSY,Sayun International Airport,37.0,OYSY 081200Z
+NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 081200Z
+UTN  FAUP,Pierre Van Ryneveld Airport,36.0,FAUP 081200Z
+TET  FQTT,Chingozi Airport,36.0,FQTT 081200Z
+NDU  FYRU,Rundu Airport,36.0,FYRU 081200Z
+POD  GOSP,Podor Airport,36.0,GOSP 081200Z
+HOF  OEAH,Al Ahsa Airport,36.0,OEAH 081200Z
+BHH  OEBH,Bisha Airport,36.0,OEBH 081200Z
+DWD  OEDM,King Salman Abdulaziz Airport,36.0,OEDM 081200Z
