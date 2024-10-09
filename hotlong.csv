@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),40.0,KNJK 090056Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,39.0,MMML 090043Z
-IFP  KIFP,Laughlin Bullhead International Airport,39.0,KIFP 090055Z
-KCHD,Chandler Municipal Airport,38.0,KCHD 090047Z
-GYR  KGYR,Phoenix Goodyear Airport,38.0,KGYR 090047Z
-PSP  KPSP,Palm Springs International Airport,38.0,KPSP 090053Z
-KGXF,,38.0,KGXF 090055Z
-LUF  KLUF,Luke Air Force Base,38.0,KLUF 090055Z
-EED  KEED,Needles Airport,38.0,KEED 090056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 090057Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,37.0,MMHO 090040Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,37.0,KIWA 090050Z
-SCF  KSDL,Scottsdale Airport,37.0,KSDL 090053Z
-MSC  KFFZ,Falcon Field,37.0,KFFZ
-KL08,,37.0,KL08 090055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,37.0,KCGZ
-MER  KMER,Castle Airport,36.0,KMER 082359Z
-CIC  KCIC,Chico Municipal Airport,36.0,KCIC 090052Z
-MYV  KMYV,Yuba County Airport,36.0,KMYV 090053Z
-OVE  KOVE,Oroville Municipal Airport,36.0,KOVE 090053Z
-SMF  KSMF,Sacramento International Airport,36.0,KSMF 090053Z
-KA39,,36.0,KA39 090055Z
-BAB  KBAB,Beale Air Force Base,36.0,KBAB 090055Z
-BXK  KBXK,Buckeye Municipal Airport,36.0,KBXK 090055Z
-MHR  KMHR,Sacramento Mather Airport,36.0,KMHR 090055Z
-DAG  KDAG,Barstow Daggett Airport,35.0,KDAG 090050Z
-MOD  KMOD,Modesto City Co-Harry Sham Field,35.0,KMOD 090053Z
-RDD  KRDD,Redding Municipal Airport,35.0,KRDD 090053Z
-VGT  KVGT,North Las Vegas Airport,35.0,KVGT 090053Z
-RBL  KRBL,Red Bluff Municipal Airport,35.0,KRBL 090054Z
-AVW  KAVQ,Marana Regional Airport,35.0,KAVQ 090055Z
-KBVU,,35.0,KBVU 090055Z
-LSV  KLSV,Nellis Air Force Base,35.0,KLSV 090055Z
-MCC  KMCC,Mc Clellan Airfield,35.0,KMCC 090055Z
-KP08,,35.0,KP08 090055Z
-LAS  KLAS,McCarran International Airport,35.0,KLAS 090056Z
-KNID,China Lake Naws (Armitage Field) Airport,35.0,KNID 090056Z
-CGB  SBCY,Marechal Rondon Airport,35.0,SBCY 090100Z
-ISA  YBMA,Mount Isa Airport,35.0,YBMA 090100Z
-PHE  YPPD,Port Hedland International Airport,35.0,YPPD 090100Z
-FAT  KFAT,Fresno Yosemite International Airport,34.0,KFAT 090053Z
-KHJO,Hanford Municipal Airport,34.0,KHJO 090053Z
-KVCB,Nut Tree Airport,34.0,KVCB 090053Z
-BFL  KBFL,Meadows Field,34.0,KBFL 090054Z
-BYS  KBYS,Bicycle Lake Army Air Field,34.0,KBYS 090055Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,40.0,GQNO 091200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 091200Z
+ELG  DAUE,El Golea Airport,39.0,DAUE 091200Z
+IAM  DAUZ,In Aménas Airport,39.0,DAUZ
+EBM  DTTR,El Borma Airport,39.0,DTTR 091200Z
+HOF  OEAH,Al Ahsa Airport,39.0,OEAH 091200Z
+OEMN,,39.0,OEMN 091200Z
+ABD  OIAA,Abadan Airport,39.0,OIAA 091200Z
+AWZ  OIAW,Ahwaz Airport,39.0,OIAW 091200Z
+OICM,,39.0,OICM 091200Z
+BSR  ORMM,Basrah International Airport,39.0,ORMM 091200Z
+KQTZ,,38.0,KQTZ
+HME  DAUH,Oued Irara Airport,38.0,DAUH 091200Z
+TMX  DAUT,Timimoun Airport,38.0,DAUT 091200Z
+ZND  DRZR,Zinder Airport,38.0,DRZ
+GAQ  GAGO,Gao Airport,38.0,GAGO 091200Z
+ELQ  OEGS,Gassim Airport,38.0,OEGS 091200Z
+RAH  OERF,Rafha Domestic Airport,38.0,OERF 091200Z
+WAE  OEWD,Wadi Al Dawasir Airport,38.0,OEWD 091200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,38.0,OEYN 091200Z
+AKW  OIAG,Aghajari Airport,38.0,OIAG 091200Z
+OKAS,Ali Al Salem Air Base,37.0,OKAS 091155Z
+NIM  DRRN,Diori Hamani International Airport,37.0,DRRN 091200Z
+THZ  DRRT,Tahoua Airport,37.0,DRRT 091200Z
+OND  FYOA,Ondangwa Airport,37.0,FYOA 091200Z
+TOM  GATB,Timbuktu Airport,37.0,GATB 091200Z
+ATR  GQPA,Atar International Airport,37.0,GQPA 091200Z
+OEAO,,37.0,OEAO 091200Z
+OERS,,37.0,OERS 091200Z
+MRX  OIAM,Mahshahr Airport,37.0,OIAM 091200Z
+LFM  OISR,Lamerd Airport,37.0,OISR 091200Z
+IHR  OIZI,Iran Shahr Airport,37.0,OIZ
+BGW  ORBI,Baghdad International Airport,37.0,ORBI 091200Z
+NJF  ORNI,Al Najaf International Airport,37.0,ORNI 091200Z
+OOAD,,36.0,OOAD 091150Z
+AKH  OEPS,Prince Sultan Air Base,36.0,OEPS 091155Z
+OGX  DAUU,Ain el Beida Airport,36.0,DAUU 091200Z
+DRZF,Diffa Airport,36.0,DRZ
+UTN  FAUP,Pierre Van Ryneveld Airport,36.0,FAUP 091200Z
+VPE  FNGI,Ngjiva Pereira Airport,36.0,FNGI 091200Z
+NDU  FYRU,Rundu Airport,36.0,FYRU 091200Z
+POD  GOSP,Podor Airport,36.0,GOSP 091200Z
+BHH  OEBH,Bisha Airport,36.0,OEBH 091200Z
+DMM  OEDF,King Fahd International Airport,36.0,OEDF 091200Z
+DWD  OEDM,King Salman Abdulaziz Airport,36.0,OEDM 091200Z
