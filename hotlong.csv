@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
-OEMN,,40.0,OEMN 081200Z
-ELG  DAUE,El Golea Airport,39.0,DAUE 081200Z
-TMX  DAUT,Timimoun Airport,39.0,DAUT 081200Z
-OGX  DAUU,Ain el Beida Airport,39.0,DAUU 081200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,39.0,OEYN 081200Z
-AKW  OIAG,Aghajari Airport,39.0,OIAG 081200Z
-AWZ  OIAW,Ahwaz Airport,39.0,OIAW 081200Z
-XJD  OTBH,Al Udeid Air Base,38.0,OTBH 081155Z
-BMW  DATM,Bordj Badji Mokhtar Airport,38.0,DATM 081200Z
-IAM  DAUZ,In Aménas Airport,38.0,DAUZ
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,38.0,GQNO 081200Z
-OEAO,,38.0,OEAO 081200Z
-ELQ  OEGS,Gassim Airport,38.0,OEGS 081200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,38.0,OEPA 081200Z
-RAH  OERF,Rafha Domestic Airport,38.0,OERF 081200Z
-WAE  OEWD,Wadi Al Dawasir Airport,38.0,OEWD 081200Z
-ABD  OIAA,Abadan Airport,38.0,OIAA 081200Z
-AAN  OMAL,Al Ain International Airport,38.0,OMAL 081200Z
-DWC  OMDW,Al Maktoum International Airport,38.0,OMDW 081200Z
-BSR  ORMM,Basrah International Airport,38.0,ORMM 081200Z
-NJF  ORNI,Al Najaf International Airport,38.0,ORNI 081200Z
-KQTZ,,37.0,KQTZ
-OKAS,Ali Al Salem Air Base,37.0,OKAS 081155Z
-DJG  DAAJ,Djanet Inedbirene Airport,37.0,DAAJ 081200Z
-EBM  DTTR,El Borma Airport,37.0,DTTR 081200Z
-VPE  FNGI,Ngjiva Pereira Airport,37.0,FNGI 081200Z
-OND  FYOA,Ondangwa Airport,37.0,FYOA 081200Z
-GAQ  GAGO,Gao Airport,37.0,GAGO 081200Z
-HAS  OEHL,Ha'il Airport,37.0,OEHL 081200Z
-RAE  OERR,Arar Domestic Airport,37.0,OERR 081200Z
-SHW  OESH,Sharurah Airport,37.0,OESH 081200Z
-PGU  OIBP,Persian Gulf International Airport,37.0,OIBP 081200Z
-AUH  OMAA,Abu Dhabi International Airport,37.0,OMAA 081200Z
-BGW  ORBI,Baghdad International Airport,37.0,ORBI 081200Z
-KIK  ORKK,Kirkuk Air Base,37.0,ORKK 081200Z
-GXF  OYSY,Sayun International Airport,37.0,OYSY 081200Z
-NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 081200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,36.0,FAUP 081200Z
-TET  FQTT,Chingozi Airport,36.0,FQTT 081200Z
-NDU  FYRU,Rundu Airport,36.0,FYRU 081200Z
-POD  GOSP,Podor Airport,36.0,GOSP 081200Z
-HOF  OEAH,Al Ahsa Airport,36.0,OEAH 081200Z
-BHH  OEBH,Bisha Airport,36.0,OEBH 081200Z
-DWD  OEDM,King Salman Abdulaziz Airport,36.0,OEDM 081200Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),40.0,KNJK 090056Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,39.0,MMML 090043Z
+IFP  KIFP,Laughlin Bullhead International Airport,39.0,KIFP 090055Z
+KCHD,Chandler Municipal Airport,38.0,KCHD 090047Z
+GYR  KGYR,Phoenix Goodyear Airport,38.0,KGYR 090047Z
+PSP  KPSP,Palm Springs International Airport,38.0,KPSP 090053Z
+KGXF,,38.0,KGXF 090055Z
+LUF  KLUF,Luke Air Force Base,38.0,KLUF 090055Z
+EED  KEED,Needles Airport,38.0,KEED 090056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 090057Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,37.0,MMHO 090040Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,37.0,KIWA 090050Z
+SCF  KSDL,Scottsdale Airport,37.0,KSDL 090053Z
+MSC  KFFZ,Falcon Field,37.0,KFFZ
+KL08,,37.0,KL08 090055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,37.0,KCGZ
+MER  KMER,Castle Airport,36.0,KMER 082359Z
+CIC  KCIC,Chico Municipal Airport,36.0,KCIC 090052Z
+MYV  KMYV,Yuba County Airport,36.0,KMYV 090053Z
+OVE  KOVE,Oroville Municipal Airport,36.0,KOVE 090053Z
+SMF  KSMF,Sacramento International Airport,36.0,KSMF 090053Z
+KA39,,36.0,KA39 090055Z
+BAB  KBAB,Beale Air Force Base,36.0,KBAB 090055Z
+BXK  KBXK,Buckeye Municipal Airport,36.0,KBXK 090055Z
+MHR  KMHR,Sacramento Mather Airport,36.0,KMHR 090055Z
+DAG  KDAG,Barstow Daggett Airport,35.0,KDAG 090050Z
+MOD  KMOD,Modesto City Co-Harry Sham Field,35.0,KMOD 090053Z
+RDD  KRDD,Redding Municipal Airport,35.0,KRDD 090053Z
+VGT  KVGT,North Las Vegas Airport,35.0,KVGT 090053Z
+RBL  KRBL,Red Bluff Municipal Airport,35.0,KRBL 090054Z
+AVW  KAVQ,Marana Regional Airport,35.0,KAVQ 090055Z
+KBVU,,35.0,KBVU 090055Z
+LSV  KLSV,Nellis Air Force Base,35.0,KLSV 090055Z
+MCC  KMCC,Mc Clellan Airfield,35.0,KMCC 090055Z
+KP08,,35.0,KP08 090055Z
+LAS  KLAS,McCarran International Airport,35.0,KLAS 090056Z
+KNID,China Lake Naws (Armitage Field) Airport,35.0,KNID 090056Z
+CGB  SBCY,Marechal Rondon Airport,35.0,SBCY 090100Z
+ISA  YBMA,Mount Isa Airport,35.0,YBMA 090100Z
+PHE  YPPD,Port Hedland International Airport,35.0,YPPD 090100Z
+FAT  KFAT,Fresno Yosemite International Airport,34.0,KFAT 090053Z
+KHJO,Hanford Municipal Airport,34.0,KHJO 090053Z
+KVCB,Nut Tree Airport,34.0,KVCB 090053Z
+BFL  KBFL,Meadows Field,34.0,KBFL 090054Z
+BYS  KBYS,Bicycle Lake Army Air Field,34.0,KBYS 090055Z
