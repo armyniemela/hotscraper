@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GYR  KGYR,Phoenix Goodyear Airport,38.0,KGYR 100047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 100047Z
-KGEU,Glendale Municipal Airport,38.0,KGEU 100050Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,38.0,KPHX 100051Z
-KGXF,,38.0,KGXF 100055Z
-HII  KHII,Lake Havasu City Airport,38.0,KHII 100055Z
-LUF  KLUF,Luke Air Force Base,38.0,KLUF 100055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 100056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 100057Z
-PSP  KPSP,Palm Springs International Airport,37.0,KPSP 100053Z
-SCF  KSDL,Scottsdale Airport,37.0,KSDL 100053Z
-MSC  KFFZ,Falcon Field,37.0,KFFZ
-KL08,,37.0,KL08 100055Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,36.0,MMHO 100040Z
-KA39,,36.0,KA39 100055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,36.0,KCGZ
-KP08,,35.0,KP08 100050Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,35.0,KTUS 100053Z
-AVW  KAVQ,Marana Regional Airport,35.0,KAVQ 100055Z
-KBVU,,35.0,KBVU 100055Z
-BXK  KBXK,Buckeye Municipal Airport,35.0,KBXK 100055Z
-LSV  KLSV,Nellis Air Force Base,35.0,KLSV 100055Z
-MZJ  KMZJ,Pinal Airpark,35.0,KMZ
-LAS  KLAS,McCarran International Airport,35.0,KLAS 100056Z
-KQOS,,35.0,KQOS 100056Z
-DAG  KDAG,Barstow Daggett Airport,34.0,KDAG 100050Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,34.0,KTRM 100052Z
-VGT  KVGT,North Las Vegas Airport,34.0,KVGT 100053Z
-DMA  KDMA,Davis Monthan Air Force Base,34.0,KDMA 100055Z
-HSH  KHND,Henderson Executive Airport,34.0,KHND 100056Z
-KNID,China Lake Naws (Armitage Field) Airport,34.0,KNID 100056Z
-KNXP,Twentynine Palms (Self) Airport,34.0,KNXP 100056Z
-ISA  YBMA,Mount Isa Airport,34.0,YBMA 100100Z
-KNX  YPKU,Kununurra Airport,34.0,YPKU 100100Z
-KTR  YPTN,Tindal Airport,34.0,YPTN 100100Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,33.0,GQNO 100030Z
-FAT  KFAT,Fresno Yosemite International Airport,33.0,KFAT 100053Z
-KHJO,Hanford Municipal Airport,33.0,KHJO 100053Z
-K9L2,,33.0,K9L2 100055Z
-EDW  KEDW,Edwards Air Force Base,33.0,KEDW 100055Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,33.0,KNLC 100056Z
-BME  YBRM,Broome International Airport,33.0,YBRM 100100Z
-KOE  WATT,El Tari Airport,32.0,WATT 100030Z
-GYM  MMGM,General José María Yáñez International Airport,32.0,MMGM 100040Z
-LAP  MMLP,Manuel Márquez de León International Airport,32.0,MMLP 100046Z
+EBM  DTTR,El Borma Airport,39.0,DTTR 101200Z
+OND  FYOA,Ondangwa Airport,39.0,FYOA 101200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,39.0,OEMA 101200Z
+OEMN,,39.0,OEMN 101200Z
+ABD  OIAA,Abadan Airport,39.0,OIAA 101200Z
+AKW  OIAG,Aghajari Airport,39.0,OIAG 101200Z
+MRX  OIAM,Mahshahr Airport,39.0,OIAM 101200Z
+AWZ  OIAW,Ahwaz Airport,39.0,OIAW 101200Z
+OKKK,,39.0,OKKK 101200Z
+KQTZ,,38.0,KQTZ
+OKAS,Ali Al Salem Air Base,38.0,OKAS 101155Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,38.0,DAUA 101200Z
+HME  DAUH,Oued Irara Airport,38.0,DAUH 101200Z
+IAM  DAUZ,In Aménas Airport,38.0,DAUZ
+AJY  DRZA,Mano Dayak International Airport,38.0,DRZ
+ATR  GQPA,Atar International Airport,38.0,GQPA 101200Z
+HOF  OEAH,Al Ahsa Airport,38.0,OEAH 101200Z
+ELQ  OEGS,Gassim Airport,38.0,OEGS 101200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,38.0,OEYN 101200Z
+AAN  OMAL,Al Ain International Airport,38.0,OMAL 101200Z
+BGW  ORBI,Baghdad International Airport,38.0,ORBI 101200Z
+AKH  OEPS,Prince Sultan Air Base,37.0,OEPS 101155Z
+OGX  DAUU,Ain el Beida Airport,37.0,DAUU 101200Z
+UTN  FAUP,Pierre Van Ryneveld Airport,37.0,FAUP 101200Z
+LOK  HKLO,Lodwar Airport,37.0,HKLO 101200Z
+OEAO,,37.0,OEAO 101200Z
+OEKJ,,37.0,OEKJ 101200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,37.0,OEPA 101200Z
+RUH  OERK,King Khaled International Airport,37.0,OERK 101200Z
+WAE  OEWD,Wadi Al Dawasir Airport,37.0,OEWD 101200Z
+LFM  OISR,Lamerd Airport,37.0,OISR 101200Z
+IHR  OIZI,Iran Shahr Airport,37.0,OIZ
+OOAD,,36.0,OOAD 101150Z
+OHS  OOSH,Sohar Airport,36.0,OOSH 101150Z
+XJD  OTBH,Al Udeid Air Base,36.0,OTBH 101155Z
+ELG  DAUE,El Golea Airport,36.0,DAUE 101200Z
+TMX  DAUT,Timimoun Airport,36.0,DAUT 101200Z
+NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 101200Z
+ZND  DRZR,Zinder Airport,36.0,DRZ
+GAF  DTTF,Gafsa Ksar International Airport,36.0,DTTF 101200Z
+SFA  DTTX,Sfax Thyna International Airport,36.0,DTTX 101200Z
+KMP  FYKT,Keetmanshoop Airport,36.0,FYKT 101200Z
+NDU  FYRU,Rundu Airport,36.0,FYRU 101200Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,36.0,GQNO 101200Z
+DMM  OEDF,King Fahd International Airport,36.0,OEDF 101200Z
