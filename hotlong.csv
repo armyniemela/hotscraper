@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-EBM  DTTR,El Borma Airport,39.0,DTTR 101200Z
-OND  FYOA,Ondangwa Airport,39.0,FYOA 101200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,39.0,OEMA 101200Z
-OEMN,,39.0,OEMN 101200Z
-ABD  OIAA,Abadan Airport,39.0,OIAA 101200Z
-AKW  OIAG,Aghajari Airport,39.0,OIAG 101200Z
-MRX  OIAM,Mahshahr Airport,39.0,OIAM 101200Z
-AWZ  OIAW,Ahwaz Airport,39.0,OIAW 101200Z
-OKKK,,39.0,OKKK 101200Z
-KQTZ,,38.0,KQTZ
-OKAS,Ali Al Salem Air Base,38.0,OKAS 101155Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,38.0,DAUA 101200Z
-HME  DAUH,Oued Irara Airport,38.0,DAUH 101200Z
-IAM  DAUZ,In Aménas Airport,38.0,DAUZ
-AJY  DRZA,Mano Dayak International Airport,38.0,DRZ
-ATR  GQPA,Atar International Airport,38.0,GQPA 101200Z
-HOF  OEAH,Al Ahsa Airport,38.0,OEAH 101200Z
-ELQ  OEGS,Gassim Airport,38.0,OEGS 101200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,38.0,OEYN 101200Z
-AAN  OMAL,Al Ain International Airport,38.0,OMAL 101200Z
-BGW  ORBI,Baghdad International Airport,38.0,ORBI 101200Z
-AKH  OEPS,Prince Sultan Air Base,37.0,OEPS 101155Z
-OGX  DAUU,Ain el Beida Airport,37.0,DAUU 101200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,37.0,FAUP 101200Z
-LOK  HKLO,Lodwar Airport,37.0,HKLO 101200Z
-OEAO,,37.0,OEAO 101200Z
-OEKJ,,37.0,OEKJ 101200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,37.0,OEPA 101200Z
-RUH  OERK,King Khaled International Airport,37.0,OERK 101200Z
-WAE  OEWD,Wadi Al Dawasir Airport,37.0,OEWD 101200Z
-LFM  OISR,Lamerd Airport,37.0,OISR 101200Z
-IHR  OIZI,Iran Shahr Airport,37.0,OIZ
-OOAD,,36.0,OOAD 101150Z
-OHS  OOSH,Sohar Airport,36.0,OOSH 101150Z
-XJD  OTBH,Al Udeid Air Base,36.0,OTBH 101155Z
-ELG  DAUE,El Golea Airport,36.0,DAUE 101200Z
-TMX  DAUT,Timimoun Airport,36.0,DAUT 101200Z
-NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 101200Z
-ZND  DRZR,Zinder Airport,36.0,DRZ
-GAF  DTTF,Gafsa Ksar International Airport,36.0,DTTF 101200Z
-SFA  DTTX,Sfax Thyna International Airport,36.0,DTTX 101200Z
-KMP  FYKT,Keetmanshoop Airport,36.0,FYKT 101200Z
-NDU  FYRU,Rundu Airport,36.0,FYRU 101200Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,36.0,GQNO 101200Z
-DMM  OEDF,King Fahd International Airport,36.0,OEDF 101200Z
+HII  KHII,Lake Havasu City Airport,39.0,KHII 110055Z
+LGF  KLGF,Laguna Army Airfield,39.0,KLGF 110055Z
+KQOS,,39.0,KQOS 110056Z
+KCHD,Chandler Municipal Airport,38.0,KCHD 110047Z
+KGEU,Glendale Municipal Airport,38.0,KGEU 110050Z
+BLH  KBLH,Blythe Airport,38.0,KBLH 110052Z
+IPL  KIPL,Imperial County Airport,38.0,KIPL 110053Z
+LUF  KLUF,Luke Air Force Base,38.0,KLUF 110055Z
+EED  KEED,Needles Airport,38.0,KEED 110056Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 110056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 110057Z
+MZJ  KMZJ,Pinal Airpark,37.0,KMZ
+KP08,,37.0,KP08 110035Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,37.0,MMHO 110040Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,37.0,KIWA 110049Z
+PSP  KPSP,Palm Springs International Airport,37.0,KPSP 110053Z
+SCF  KSDL,Scottsdale Airport,37.0,KSDL 110053Z
+MSC  KFFZ,Falcon Field,37.0,KFFZ
+KA39,,37.0,KA39 110055Z
+BXK  KBXK,Buckeye Municipal Airport,36.0,KBXK 110055Z
+KL08,,36.0,KL08 110055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,36.0,KCGZ
+KNXP,Twentynine Palms (Self) Airport,35.0,KNXP 102356Z
+ISA  YBMA,Mount Isa Airport,35.0,YBMA 110030Z
+KRYN,Ryan Field,35.0,KRYN 110045Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,35.0,KTUS 110053Z
+AVW  KAVQ,Marana Regional Airport,35.0,KAVQ 110055Z
+DMA  KDMA,Davis Monthan Air Force Base,35.0,KDMA 110055Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,34.0,KTRM 110052Z
+VGT  KVGT,North Las Vegas Airport,34.0,KVGT 110053Z
+KBVU,,34.0,KBVU 110055Z
+LSV  KLSV,Nellis Air Force Base,34.0,KLSV 110055Z
+LAS  KLAS,McCarran International Airport,34.0,KLAS 110056Z
+KNX  YPKU,Kununurra Airport,33.0,YPKU 110030Z
+KE77,,33.0,KE77 110035Z
+DAG  KDAG,Barstow Daggett Airport,33.0,KDAG 110050Z
+HSH  KHND,Henderson Executive Airport,33.0,KHND 110056Z
+KOE  WATT,El Tari Airport,33.0,WATT 110100Z
+PTTP,,32.0,PTTP 102353Z
+APW  NSFA,Faleolo International Airport,32.0,NSFA 110000Z
+DOH  OTHH,Hamad International Airport,32.0,OTHH 110000Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 110030Z
+GYM  MMGM,General José María Yáñez International Airport,32.0,MMGM 110040Z
+LAP  MMLP,Manuel Márquez de León International Airport,32.0,MMLP 110045Z
+PNI  PTPN,Pohnpei International Airport,32.0,PTPN 110050Z
