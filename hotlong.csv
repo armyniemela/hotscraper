@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HII  KHII,Lake Havasu City Airport,39.0,KHII 110055Z
-LGF  KLGF,Laguna Army Airfield,39.0,KLGF 110055Z
-KQOS,,39.0,KQOS 110056Z
-KCHD,Chandler Municipal Airport,38.0,KCHD 110047Z
-KGEU,Glendale Municipal Airport,38.0,KGEU 110050Z
-BLH  KBLH,Blythe Airport,38.0,KBLH 110052Z
-IPL  KIPL,Imperial County Airport,38.0,KIPL 110053Z
-LUF  KLUF,Luke Air Force Base,38.0,KLUF 110055Z
-EED  KEED,Needles Airport,38.0,KEED 110056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 110056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 110057Z
-MZJ  KMZJ,Pinal Airpark,37.0,KMZ
-KP08,,37.0,KP08 110035Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,37.0,MMHO 110040Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,37.0,KIWA 110049Z
-PSP  KPSP,Palm Springs International Airport,37.0,KPSP 110053Z
-SCF  KSDL,Scottsdale Airport,37.0,KSDL 110053Z
-MSC  KFFZ,Falcon Field,37.0,KFFZ
-KA39,,37.0,KA39 110055Z
-BXK  KBXK,Buckeye Municipal Airport,36.0,KBXK 110055Z
-KL08,,36.0,KL08 110055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,36.0,KCGZ
-KNXP,Twentynine Palms (Self) Airport,35.0,KNXP 102356Z
-ISA  YBMA,Mount Isa Airport,35.0,YBMA 110030Z
-KRYN,Ryan Field,35.0,KRYN 110045Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,35.0,KTUS 110053Z
-AVW  KAVQ,Marana Regional Airport,35.0,KAVQ 110055Z
-DMA  KDMA,Davis Monthan Air Force Base,35.0,KDMA 110055Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,34.0,KTRM 110052Z
-VGT  KVGT,North Las Vegas Airport,34.0,KVGT 110053Z
-KBVU,,34.0,KBVU 110055Z
-LSV  KLSV,Nellis Air Force Base,34.0,KLSV 110055Z
-LAS  KLAS,McCarran International Airport,34.0,KLAS 110056Z
-KNX  YPKU,Kununurra Airport,33.0,YPKU 110030Z
-KE77,,33.0,KE77 110035Z
-DAG  KDAG,Barstow Daggett Airport,33.0,KDAG 110050Z
-HSH  KHND,Henderson Executive Airport,33.0,KHND 110056Z
-KOE  WATT,El Tari Airport,33.0,WATT 110100Z
-PTTP,,32.0,PTTP 102353Z
-APW  NSFA,Faleolo International Airport,32.0,NSFA 110000Z
-DOH  OTHH,Hamad International Airport,32.0,OTHH 110000Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 110030Z
-GYM  MMGM,General José María Yáñez International Airport,32.0,MMGM 110040Z
-LAP  MMLP,Manuel Márquez de León International Airport,32.0,MMLP 110045Z
-PNI  PTPN,Pohnpei International Airport,32.0,PTPN 110050Z
+OND  FYOA,Ondangwa Airport,39.0,FYOA 111200Z
+GAQ  GAGO,Gao Airport,39.0,GAGO 111200Z
+ABD  OIAA,Abadan Airport,39.0,OIAA 111200Z
+AKW  OIAG,Aghajari Airport,39.0,OIAG 111200Z
+AWZ  OIAW,Ahwaz Airport,39.0,OIAW 111200Z
+BSR  ORMM,Basrah International Airport,39.0,ORMM 111200Z
+OOAD,,38.0,OOAD 111150Z
+KQTZ,,38.0,KQTZ
+AKH  OEPS,Prince Sultan Air Base,38.0,OEPS 111155Z
+OKAS,Ali Al Salem Air Base,38.0,OKAS 111155Z
+IAM  DAUZ,In Aménas Airport,38.0,DAUZ
+ZND  DRZR,Zinder Airport,38.0,DRZ
+UTN  FAUP,Pierre Van Ryneveld Airport,38.0,FAUP 111200Z
+HOF  OEAH,Al Ahsa Airport,38.0,OEAH 111200Z
+OEAO,,38.0,OEAO 111200Z
+DMM  OEDF,King Fahd International Airport,38.0,OEDF 111200Z
+ELQ  OEGS,Gassim Airport,38.0,OEGS 111200Z
+OEKJ,,38.0,OEKJ 111200Z
+OEMN,,38.0,OEMN 111200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,38.0,OEPA 111200Z
+WAE  OEWD,Wadi Al Dawasir Airport,38.0,OEWD 111200Z
+AAN  OMAL,Al Ain International Airport,38.0,OMAL 111200Z
+BGW  ORBI,Baghdad International Airport,38.0,ORBI 111200Z
+NJF  ORNI,Al Najaf International Airport,38.0,ORNI 111200Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,37.0,DAUA 111200Z
+NIM  DRRN,Diori Hamani International Airport,37.0,DRRN 111200Z
+THZ  DRRT,Tahoua Airport,37.0,DRRT 111200Z
+EBM  DTTR,El Borma Airport,37.0,DTTR 111200Z
+VPE  FNGI,Ngjiva Pereira Airport,37.0,FNGI 111200Z
+KMP  FYKT,Keetmanshoop Airport,37.0,FYKT 111200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,37.0,OEMA 111200Z
+RAH  OERF,Rafha Domestic Airport,37.0,OERF 111200Z
+RUH  OERK,King Khaled International Airport,37.0,OERK 111200Z
+MRX  OIAM,Mahshahr Airport,37.0,OIAM 111200Z
+OKKK,,37.0,OKKK 111200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,36.0,DNSO 111200Z
+DRZF,Diffa Airport,36.0,DRZ
+MUB  FBMN,Maun Airport,36.0,FBMN 111200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 111200Z
+DWD  OEDM,King Salman Abdulaziz Airport,36.0,OEDM 111200Z
+SHW  OESH,Sharurah Airport,36.0,OESH 111200Z
+PGU  OIBP,Persian Gulf International Airport,36.0,OIBP 111200Z
+LFM  OISR,Lamerd Airport,36.0,OISR 111200Z
+ACZ  OIZB,Zabol Airport,36.0,OIZ
+IHR  OIZI,Iran Shahr Airport,36.0,OIZ
