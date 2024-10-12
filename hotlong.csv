@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OND  FYOA,Ondangwa Airport,39.0,FYOA 111200Z
-GAQ  GAGO,Gao Airport,39.0,GAGO 111200Z
-ABD  OIAA,Abadan Airport,39.0,OIAA 111200Z
-AKW  OIAG,Aghajari Airport,39.0,OIAG 111200Z
-AWZ  OIAW,Ahwaz Airport,39.0,OIAW 111200Z
-BSR  ORMM,Basrah International Airport,39.0,ORMM 111200Z
-OOAD,,38.0,OOAD 111150Z
-KQTZ,,38.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,38.0,OEPS 111155Z
-OKAS,Ali Al Salem Air Base,38.0,OKAS 111155Z
-IAM  DAUZ,In Aménas Airport,38.0,DAUZ
-ZND  DRZR,Zinder Airport,38.0,DRZ
-UTN  FAUP,Pierre Van Ryneveld Airport,38.0,FAUP 111200Z
-HOF  OEAH,Al Ahsa Airport,38.0,OEAH 111200Z
-OEAO,,38.0,OEAO 111200Z
-DMM  OEDF,King Fahd International Airport,38.0,OEDF 111200Z
-ELQ  OEGS,Gassim Airport,38.0,OEGS 111200Z
-OEKJ,,38.0,OEKJ 111200Z
-OEMN,,38.0,OEMN 111200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,38.0,OEPA 111200Z
-WAE  OEWD,Wadi Al Dawasir Airport,38.0,OEWD 111200Z
-AAN  OMAL,Al Ain International Airport,38.0,OMAL 111200Z
-BGW  ORBI,Baghdad International Airport,38.0,ORBI 111200Z
-NJF  ORNI,Al Najaf International Airport,38.0,ORNI 111200Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,37.0,DAUA 111200Z
-NIM  DRRN,Diori Hamani International Airport,37.0,DRRN 111200Z
-THZ  DRRT,Tahoua Airport,37.0,DRRT 111200Z
-EBM  DTTR,El Borma Airport,37.0,DTTR 111200Z
-VPE  FNGI,Ngjiva Pereira Airport,37.0,FNGI 111200Z
-KMP  FYKT,Keetmanshoop Airport,37.0,FYKT 111200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,37.0,OEMA 111200Z
-RAH  OERF,Rafha Domestic Airport,37.0,OERF 111200Z
-RUH  OERK,King Khaled International Airport,37.0,OERK 111200Z
-MRX  OIAM,Mahshahr Airport,37.0,OIAM 111200Z
-OKKK,,37.0,OKKK 111200Z
-SKO  DNSO,Sadiq Abubakar III International Airport,36.0,DNSO 111200Z
-DRZF,Diffa Airport,36.0,DRZ
-MUB  FBMN,Maun Airport,36.0,FBMN 111200Z
-LOK  HKLO,Lodwar Airport,36.0,HKLO 111200Z
-DWD  OEDM,King Salman Abdulaziz Airport,36.0,OEDM 111200Z
-SHW  OESH,Sharurah Airport,36.0,OESH 111200Z
-PGU  OIBP,Persian Gulf International Airport,36.0,OIBP 111200Z
-LFM  OISR,Lamerd Airport,36.0,OISR 111200Z
-ACZ  OIZB,Zabol Airport,36.0,OIZ
-IHR  OIZI,Iran Shahr Airport,36.0,OIZ
+HII  KHII,Lake Havasu City Airport,38.0,KHII 120055Z
+GYR  KGYR,Phoenix Goodyear Airport,37.0,KGYR 120047Z
+IPL  KIPL,Imperial County Airport,37.0,KIPL 120053Z
+KGXF,,37.0,KGXF 120055Z
+IFP  KIFP,Laughlin Bullhead International Airport,37.0,KIFP 120055Z
+LGF  KLGF,Laguna Army Airfield,37.0,KLGF 120055Z
+LUF  KLUF,Luke Air Force Base,37.0,KLUF 120055Z
+EED  KEED,Needles Airport,37.0,KEED 120056Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),37.0,KNJK 120056Z
+KQOS,,37.0,KQOS 120056Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 120047Z
+PSP  KPSP,Palm Springs International Airport,36.0,KPSP 120053Z
+SCF  KSDL,Scottsdale Airport,36.0,KSDL 120053Z
+MSC  KFFZ,Falcon Field,36.0,KFFZ
+KL08,,36.0,KL08 120055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,36.0,KCGZ
+YUM  KNYL,Yuma MCAS/Yuma International Airport,36.0,KNYL 120057Z
+KRYN,Ryan Field,35.0,KRYN 120045Z
+KP08,,35.0,KP08 120050Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,35.0,KTUS 120053Z
+KA39,,35.0,KA39 120055Z
+BXK  KBXK,Buckeye Municipal Airport,35.0,KBXK 120055Z
+DMA  KDMA,Davis Monthan Air Force Base,35.0,KDMA 120055Z
+AVW  KAVQ,Marana Regional Airport,34.0,KAVQ 120055Z
+MZJ  KMZJ,Pinal Airpark,34.0,KMZ
+KOE  WATT,El Tari Airport,34.0,WATT 120100Z
+ISA  YBMA,Mount Isa Airport,34.0,YBMA 120100Z
+DCN  YCIN,RAAF Base Curtin,34.0,YCIN 120100Z
+KTR  YPTN,Tindal Airport,34.0,YPTN 120100Z
+CEN  MMCN,Ciudad Obregón International Airport,33.0,MMCN 120040Z
+DAG  KDAG,Barstow Daggett Airport,33.0,KDAG 120050Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,33.0,KTRM 120052Z
+VGT  KVGT,North Las Vegas Airport,33.0,KVGT 120053Z
+KBVU,,33.0,KBVU 120055Z
+LSV  KLSV,Nellis Air Force Base,33.0,KLSV 120055Z
+LAE  AYNZ,Nadzab Airport,33.0,AYNZ
+DRW  YPDN,Darwin International Airport,33.0,YPDN 120100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 120000Z
+LAP  MMLP,Manuel Márquez de León International Airport,32.0,MMLP 120045Z
+LTO  MMLT,Loreto International Airport,32.0,MMLT 120049Z
+SAD  KSAD,Safford Regional Airport,32.0,KSAD 120051Z
+AWK  PWAK,Wake Island Airfield,32.0,PWAK 120055Z
+HSH  KHND,Henderson Executive Airport,32.0,KHND 120056Z
+LAS  KLAS,McCarran International Airport,32.0,KLAS 120056Z
+KNXP,Twentynine Palms (Self) Airport,32.0,KNXP 120056Z
