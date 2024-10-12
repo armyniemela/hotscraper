@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HII  KHII,Lake Havasu City Airport,38.0,KHII 120055Z
-GYR  KGYR,Phoenix Goodyear Airport,37.0,KGYR 120047Z
-IPL  KIPL,Imperial County Airport,37.0,KIPL 120053Z
-KGXF,,37.0,KGXF 120055Z
-IFP  KIFP,Laughlin Bullhead International Airport,37.0,KIFP 120055Z
-LGF  KLGF,Laguna Army Airfield,37.0,KLGF 120055Z
-LUF  KLUF,Luke Air Force Base,37.0,KLUF 120055Z
-EED  KEED,Needles Airport,37.0,KEED 120056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),37.0,KNJK 120056Z
-KQOS,,37.0,KQOS 120056Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 120047Z
-PSP  KPSP,Palm Springs International Airport,36.0,KPSP 120053Z
-SCF  KSDL,Scottsdale Airport,36.0,KSDL 120053Z
-MSC  KFFZ,Falcon Field,36.0,KFFZ
-KL08,,36.0,KL08 120055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,36.0,KCGZ
-YUM  KNYL,Yuma MCAS/Yuma International Airport,36.0,KNYL 120057Z
-KRYN,Ryan Field,35.0,KRYN 120045Z
-KP08,,35.0,KP08 120050Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,35.0,KTUS 120053Z
-KA39,,35.0,KA39 120055Z
-BXK  KBXK,Buckeye Municipal Airport,35.0,KBXK 120055Z
-DMA  KDMA,Davis Monthan Air Force Base,35.0,KDMA 120055Z
-AVW  KAVQ,Marana Regional Airport,34.0,KAVQ 120055Z
-MZJ  KMZJ,Pinal Airpark,34.0,KMZ
-KOE  WATT,El Tari Airport,34.0,WATT 120100Z
-ISA  YBMA,Mount Isa Airport,34.0,YBMA 120100Z
-DCN  YCIN,RAAF Base Curtin,34.0,YCIN 120100Z
-KTR  YPTN,Tindal Airport,34.0,YPTN 120100Z
-CEN  MMCN,Ciudad Obregón International Airport,33.0,MMCN 120040Z
-DAG  KDAG,Barstow Daggett Airport,33.0,KDAG 120050Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,33.0,KTRM 120052Z
-VGT  KVGT,North Las Vegas Airport,33.0,KVGT 120053Z
-KBVU,,33.0,KBVU 120055Z
-LSV  KLSV,Nellis Air Force Base,33.0,KLSV 120055Z
-LAE  AYNZ,Nadzab Airport,33.0,AYNZ
-DRW  YPDN,Darwin International Airport,33.0,YPDN 120100Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 120000Z
-LAP  MMLP,Manuel Márquez de León International Airport,32.0,MMLP 120045Z
-LTO  MMLT,Loreto International Airport,32.0,MMLT 120049Z
-SAD  KSAD,Safford Regional Airport,32.0,KSAD 120051Z
-AWK  PWAK,Wake Island Airfield,32.0,PWAK 120055Z
-HSH  KHND,Henderson Executive Airport,32.0,KHND 120056Z
-LAS  KLAS,McCarran International Airport,32.0,KLAS 120056Z
-KNXP,Twentynine Palms (Self) Airport,32.0,KNXP 120056Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,39.0,DAUA 121200Z
+AJY  DRZA,Mano Dayak International Airport,39.0,DRZ
+UTN  FAUP,Pierre Van Ryneveld Airport,39.0,FAUP 121200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,39.0,OEMA 121200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,OEPA 121200Z
+RUH  OERK,King Khaled International Airport,39.0,OERK 121200Z
+WAE  OEWD,Wadi Al Dawasir Airport,39.0,OEWD 121200Z
+ABD  OIAA,Abadan Airport,39.0,OIAA 121200Z
+INZ  DAUI,In Salah Airport,38.0,DAUI 121200Z
+IAM  DAUZ,In Aménas Airport,38.0,DAUZ
+ZND  DRZR,Zinder Airport,38.0,DRZ
+KMP  FYKT,Keetmanshoop Airport,38.0,FYKT 121200Z
+OEKJ,,38.0,OEKJ 121200Z
+OEMN,,38.0,OEMN 121200Z
+BGW  ORBI,Baghdad International Airport,38.0,ORBI 121200Z
+BSR  ORMM,Basrah International Airport,38.0,ORMM 121200Z
+OOAD,,37.0,OOAD 121150Z
+DRZF,Diffa Airport,37.0,DRZ
+NTY  FAPN,Pilanesberg International Airport,37.0,FAPN 121200Z
+MUB  FBMN,Maun Airport,37.0,FBMN 121200Z
+TET  FQTT,Chingozi Airport,37.0,FQTT 121200Z
+OND  FYOA,Ondangwa Airport,37.0,FYOA 121200Z
+OEAO,,37.0,OEAO 121200Z
+ELQ  OEGS,Gassim Airport,37.0,OEGS 121200Z
+RAH  OERF,Rafha Domestic Airport,37.0,OERF 121200Z
+RAE  OERR,Arar Domestic Airport,37.0,OERR 121200Z
+SHW  OESH,Sharurah Airport,37.0,OESH 121200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,37.0,OEYN 121200Z
+AKW  OIAG,Aghajari Airport,37.0,OIAG 121200Z
+MRX  OIAM,Mahshahr Airport,37.0,OIAM 121200Z
+AWZ  OIAW,Ahwaz Airport,37.0,OIAW 121200Z
+IHR  OIZI,Iran Shahr Airport,37.0,OIZ
+AAN  OMAL,Al Ain International Airport,37.0,OMAL 121200Z
+DWC  OMDW,Al Maktoum International Airport,37.0,OMDW 121200Z
+KHS  OOKB,Khasab Air Base,36.0,OOKB 121150Z
+OKAS,Ali Al Salem Air Base,36.0,OKAS 121155Z
+TMX  DAUT,Timimoun Airport,36.0,DAUT 121200Z
+NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 121200Z
+THZ  DRRT,Tahoua Airport,36.0,DRRT 121200Z
+PRY  FAWB,Wonderboom Airport,36.0,FAWB 121200Z
+GBE  FBSK,Sir Seretse Khama International Airport,36.0,FBSK 121200Z
+MFU  FLMF,Mfuwe Airport,36.0,FLMF 121200Z
+POD  GOSP,Podor Airport,36.0,GOSP 121200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 121200Z
+DWD  OEDM,King Salman Abdulaziz Airport,36.0,OEDM 121200Z
