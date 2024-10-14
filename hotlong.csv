@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-INZ  DAUI,In Salah Airport,39.0,DAUI 131200Z
-IAM  DAUZ,In Aménas Airport,39.0,DAUZ
-AJY  DRZA,Mano Dayak International Airport,39.0,DRZ
-ATR  GQPA,Atar International Airport,39.0,GQPA 131200Z
-HOF  OEAH,Al Ahsa Airport,39.0,OEAH 131200Z
-OEKJ,,39.0,OEKJ 131200Z
-OEMN,,39.0,OEMN 131200Z
-WAE  OEWD,Wadi Al Dawasir Airport,39.0,OEWD 131200Z
-ABD  OIAA,Abadan Airport,39.0,OIAA 131200Z
-AKW  OIAG,Aghajari Airport,39.0,OIAG 131200Z
-TET  FQTT,Chingozi Airport,38.0,FQTT 131120Z
-OOAD,,38.0,OOAD 131150Z
-KQTZ,,38.0,KQTZ
-ALG  DAAG,Houari Boumediene Airport,38.0,DAAG 131200Z
-MFU  FLMF,Mfuwe Airport,38.0,FLMF 131200Z
-KMP  FYKT,Keetmanshoop Airport,38.0,FYKT 131200Z
-ELQ  OEGS,Gassim Airport,38.0,OEGS 131200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,38.0,OEMA 131200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,38.0,OEPA 131200Z
-RUH  OERK,King Khaled International Airport,38.0,OERK 131200Z
-SHW  OESH,Sharurah Airport,38.0,OESH 131200Z
-MRX  OIAM,Mahshahr Airport,38.0,OIAM 131200Z
-AWZ  OIAW,Ahwaz Airport,38.0,OIAW 131200Z
-LFM  OISR,Lamerd Airport,38.0,OISR 131200Z
-BGW  ORBI,Baghdad International Airport,38.0,ORBI 131200Z
-NJF  ORNI,Al Najaf International Airport,38.0,ORNI 131200Z
-TMX  DAUT,Timimoun Airport,37.0,DAUT 131200Z
-OEAO,,37.0,OEAO 131200Z
-DMM  OEDF,King Fahd International Airport,37.0,OEDF 131200Z
-RAH  OERF,Rafha Domestic Airport,37.0,OERF 131200Z
-OERS,,37.0,OERS 131200Z
-ACZ  OIZB,Zabol Airport,37.0,OIZ
-IHR  OIZI,Iran Shahr Airport,37.0,OIZ
-OKKK,,37.0,OKKK 131200Z
-GXF  OYSY,Sayun International Airport,37.0,OYSY 131200Z
-KQD3,,36.0,KQD3 131155Z
-XJD  OTBH,Al Udeid Air Base,36.0,OTBH 131155Z
-CFK  DAOI,Ech Cheliff Airport,36.0,DAOI 131200Z
-NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 131200Z
-ZND  DRZR,Zinder Airport,36.0,DRZ
-NTY  FAPN,Pilanesberg International Airport,36.0,FAPN 131200Z
-GBE  FBSK,Sir Seretse Khama International Airport,36.0,FBSK 131200Z
-LOK  HKLO,Lodwar Airport,36.0,HKLO 131200Z
-DWD  OEDM,King Salman Abdulaziz Airport,36.0,OEDM 131200Z
-RAE  OERR,Arar Domestic Airport,36.0,OERR 131200Z
+BLH  KBLH,Blythe Airport,36.0,KBLH 140052Z
+KGXF,,36.0,KGXF 140055Z
+LUF  KLUF,Luke Air Force Base,36.0,KLUF 140055Z
+KQOS,,35.0,KQOS 132356Z
+PHE  YPPD,Port Hedland International Airport,35.0,YPPD 140030Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,35.0,MMML 140051Z
+SCF  KSDL,Scottsdale Airport,35.0,KSDL 140053Z
+MSC  KFFZ,Falcon Field,35.0,KFFZ
+HII  KHII,Lake Havasu City Airport,35.0,KHII 140055Z
+LGF  KLGF,Laguna Army Airfield,35.0,KLGF 140055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,35.0,KCGZ
+YUM  KNYL,Yuma MCAS/Yuma International Airport,35.0,KNYL 140057Z
+MZJ  KMZJ,Pinal Airpark,34.0,KMZ
+KP08,,34.0,KP08 140035Z
+IPL  KIPL,Imperial County Airport,34.0,KIPL 140053Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,34.0,KIWA 140053Z
+EED  KEED,Needles Airport,34.0,KEED 140056Z
+KOE  WATT,El Tari Airport,33.0,WATT 140030Z
+KRYN,Ryan Field,33.0,KRYN 140045Z
+CEN  MMCN,Ciudad Obregón International Airport,33.0,MMCN 140051Z
+PSP  KPSP,Palm Springs International Airport,33.0,KPSP 140053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,33.0,KTUS 140053Z
+KA39,,33.0,KA39 140055Z
+AVW  KAVQ,Marana Regional Airport,33.0,KAVQ 140055Z
+BXK  KBXK,Buckeye Municipal Airport,33.0,KBXK 140055Z
+DMA  KDMA,Davis Monthan Air Force Base,33.0,KDMA 140055Z
+GRK  KGRK,Robert Gray Army Air Field Airport,33.0,KGRK 140055Z
+KL08,,33.0,KL08 140055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),33.0,KNJK 140056Z
+KAPY,Zapata County Airport,32.0,KAPY 132355Z
+POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 140000Z
+ASP  YBAS,Alice Springs Airport,32.0,YBAS 140030Z
+KE77,,32.0,KE77 140035Z
+CUL  MMCL,Bachigualato Federal International Airport,32.0,MMCL 140040Z
+GYM  MMGM,General José María Yáñez International Airport,32.0,MMGM 140040Z
+LAP  MMLP,Manuel Márquez de León International Airport,32.0,MMLP 140042Z
+LTO  MMLT,Loreto International Airport,32.0,MMLT 140044Z
+ROR  PTRO,Babelthuap Airport,32.0,PTRO 140050Z
+SAD  KSAD,Safford Regional Airport,32.0,KSAD 140051Z
+LSV  KLSV,Nellis Air Force Base,32.0,KLSV 140055Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 140100Z
+TRW  NGTA,Bonriki International Airport,32.0,NGTA 140100Z
+APW  NSFA,Faleolo International Airport,32.0,NSFA 140100Z
+DXB  OMDB,Dubai International Airport,31.0,OMDB 140030Z
+TPE  RCTP,Taiwan Taoyuan International Airport,31.0,RCTP 140030Z
