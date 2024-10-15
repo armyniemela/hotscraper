@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BLH  KBLH,Blythe Airport,36.0,KBLH 140052Z
-KGXF,,36.0,KGXF 140055Z
-LUF  KLUF,Luke Air Force Base,36.0,KLUF 140055Z
-KQOS,,35.0,KQOS 132356Z
-PHE  YPPD,Port Hedland International Airport,35.0,YPPD 140030Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,35.0,MMML 140051Z
-SCF  KSDL,Scottsdale Airport,35.0,KSDL 140053Z
-MSC  KFFZ,Falcon Field,35.0,KFFZ
-HII  KHII,Lake Havasu City Airport,35.0,KHII 140055Z
-LGF  KLGF,Laguna Army Airfield,35.0,KLGF 140055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,35.0,KCGZ
-YUM  KNYL,Yuma MCAS/Yuma International Airport,35.0,KNYL 140057Z
-MZJ  KMZJ,Pinal Airpark,34.0,KMZ
-KP08,,34.0,KP08 140035Z
-IPL  KIPL,Imperial County Airport,34.0,KIPL 140053Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,34.0,KIWA 140053Z
-EED  KEED,Needles Airport,34.0,KEED 140056Z
-KOE  WATT,El Tari Airport,33.0,WATT 140030Z
-KRYN,Ryan Field,33.0,KRYN 140045Z
-CEN  MMCN,Ciudad Obregón International Airport,33.0,MMCN 140051Z
-PSP  KPSP,Palm Springs International Airport,33.0,KPSP 140053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,33.0,KTUS 140053Z
-KA39,,33.0,KA39 140055Z
-AVW  KAVQ,Marana Regional Airport,33.0,KAVQ 140055Z
-BXK  KBXK,Buckeye Municipal Airport,33.0,KBXK 140055Z
-DMA  KDMA,Davis Monthan Air Force Base,33.0,KDMA 140055Z
-GRK  KGRK,Robert Gray Army Air Field Airport,33.0,KGRK 140055Z
-KL08,,33.0,KL08 140055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),33.0,KNJK 140056Z
-KAPY,Zapata County Airport,32.0,KAPY 132355Z
-POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 140000Z
-ASP  YBAS,Alice Springs Airport,32.0,YBAS 140030Z
-KE77,,32.0,KE77 140035Z
-CUL  MMCL,Bachigualato Federal International Airport,32.0,MMCL 140040Z
-GYM  MMGM,General José María Yáñez International Airport,32.0,MMGM 140040Z
-LAP  MMLP,Manuel Márquez de León International Airport,32.0,MMLP 140042Z
-LTO  MMLT,Loreto International Airport,32.0,MMLT 140044Z
-ROR  PTRO,Babelthuap Airport,32.0,PTRO 140050Z
-SAD  KSAD,Safford Regional Airport,32.0,KSAD 140051Z
-LSV  KLSV,Nellis Air Force Base,32.0,KLSV 140055Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 140100Z
-TRW  NGTA,Bonriki International Airport,32.0,NGTA 140100Z
-APW  NSFA,Faleolo International Airport,32.0,NSFA 140100Z
-DXB  OMDB,Dubai International Airport,31.0,OMDB 140030Z
-TPE  RCTP,Taiwan Taoyuan International Airport,31.0,RCTP 140030Z
+BLH  KBLH,Blythe Airport,35.0,KBLH 150052Z
+HII  KHII,Lake Havasu City Airport,35.0,KHII 150055Z
+IFP  KIFP,Laughlin Bullhead International Airport,35.0,KIFP 150055Z
+ASP  YBAS,Alice Springs Airport,35.0,YBAS 150100Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,34.0,MMML 150040Z
+KCHD,Chandler Municipal Airport,34.0,KCHD 150047Z
+SCF  KSDL,Scottsdale Airport,34.0,KSDL 150053Z
+MSC  KFFZ,Falcon Field,34.0,KFFZ
+KGXF,,34.0,KGXF 150055Z
+LGF  KLGF,Laguna Army Airfield,34.0,KLGF 150055Z
+LUF  KLUF,Luke Air Force Base,34.0,KLUF 150055Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,34.0,KIWA 150056Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),34.0,KNJK 150056Z
+GYM  MMGM,General José María Yáñez International Airport,33.0,MMGM 150040Z
+IPL  KIPL,Imperial County Airport,33.0,KIPL 150053Z
+KL08,,33.0,KL08 150055Z
+KP08,,33.0,KP08 150055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,33.0,KCGZ
+EED  KEED,Needles Airport,33.0,KEED 150056Z
+KQOS,,33.0,KQOS 150056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,33.0,KNYL 150057Z
+KNX  YPKU,Kununurra Airport,33.0,YPKU 150100Z
+LSV  KLSV,Nellis Air Force Base,32.0,KLSV 142355Z
+KOE  WATT,El Tari Airport,32.0,WATT 150030Z
+CEN  MMCN,Ciudad Obregón International Airport,32.0,MMCN 150040Z
+KRYN,Ryan Field,32.0,KRYN 150045Z
+LTO  MMLT,Loreto International Airport,32.0,MMLT 150048Z
+PNI  PTPN,Pohnpei International Airport,32.0,PTPN 150050Z
+PSP  KPSP,Palm Springs International Airport,32.0,KPSP 150053Z
+KA39,,32.0,KA39 150055Z
+KMCJ,,32.0,KMCJ 150055Z
+MZJ  KMZJ,Pinal Airpark,32.0,KMZ
+AWK  PWAK,Wake Island Airfield,32.0,PWAK 150055Z
+PTTP,,32.0,PTTP 150056Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 150100Z
+TRW  NGTA,Bonriki International Airport,32.0,NGTA 150100Z
+APW  NSFA,Faleolo International Airport,32.0,NSFA 150100Z
+DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 150100Z
+ISA  YBMA,Mount Isa Airport,32.0,YBMA 150100Z
+DCN  YCIN,RAAF Base Curtin,32.0,YCIN 150100Z
+DRW  YPDN,Darwin International Airport,32.0,YPDN 150100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 150100Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 150000Z
+INZ  DAUI,In Salah Airport,31.0,DAUI 150000Z
+POD  GOSP,Podor Airport,31.0,GOSP 150000Z
