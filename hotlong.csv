@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-INZ  DAUI,In Salah Airport,39.0,DAUI 151200Z
-TET  FQTT,Chingozi Airport,39.0,FQTT 151200Z
-HOF  OEAH,Al Ahsa Airport,39.0,OEAH 151200Z
-JED  OEJN,King Abdulaziz International Airport,39.0,OEJN 151200Z
-AKW  OIAG,Aghajari Airport,39.0,OIAG 151200Z
-BSR  ORMM,Basrah International Airport,39.0,ORMM 151200Z
-VVZ  DAAP,Illizi Takhamalt Airport,38.0,DAAP 151200Z
-BMW  DATM,Bordj Badji Mokhtar Airport,38.0,DATM 151200Z
-AJY  DRZA,Mano Dayak International Airport,38.0,DRZ
-GAQ  GAGO,Gao Airport,38.0,GAGO 151200Z
-OEAO,,38.0,OEAO 151200Z
-ELQ  OEGS,Gassim Airport,38.0,OEGS 151200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,38.0,OEMA 151200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,38.0,OEYN 151200Z
-BGW  ORBI,Baghdad International Airport,38.0,ORBI 151200Z
-DMM  OEDF,King Fahd International Airport,37.0,OEDF 151200Z
-OEKJ,,37.0,OEKJ 151200Z
-RAH  OERF,Rafha Domestic Airport,37.0,OERF 151200Z
-WAE  OEWD,Wadi Al Dawasir Airport,37.0,OEWD 151200Z
-LFM  OISR,Lamerd Airport,37.0,OISR 151200Z
-ACZ  OIZB,Zabol Airport,37.0,OIZ
-OKKK,,37.0,OKKK 151200Z
-DWC  OMDW,Al Maktoum International Airport,37.0,OMDW 151200Z
-GXF  OYSY,Sayun International Airport,37.0,OYSY 151200Z
-AKH  OEPS,Prince Sultan Air Base,36.0,OEPS 151155Z
-XJD  OTBH,Al Udeid Air Base,36.0,OTBH 151155Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,36.0,DAUA 151200Z
-HME  DAUH,Oued Irara Airport,36.0,DAUH 151200Z
-OGX  DAUU,Ain el Beida Airport,36.0,DAUU 151200Z
-ZND  DRZR,Zinder Airport,36.0,DRZ
-LOK  HKLO,Lodwar Airport,36.0,HKLO 151200Z
-DWD  OEDM,King Salman Abdulaziz Airport,36.0,OEDM 151200Z
-RUH  OERK,King Khaled International Airport,36.0,OERK 151200Z
-OERS,,36.0,OERS 151200Z
-SHW  OESH,Sharurah Airport,36.0,OESH 151200Z
-MRX  OIAM,Mahshahr Airport,36.0,OIAM 151200Z
-IHR  OIZI,Iran Shahr Airport,36.0,OIZ
-DXB  OMDB,Dubai International Airport,36.0,OMDB 151200Z
-RKT  OMRK,Ras Al Khaimah International Airport,36.0,OMRK 151200Z
-MUX  OPMT,Multan International Airport,36.0,OPMT 151200Z
-KHS  OOKB,Khasab Air Base,35.0,OOKB 151150Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,35.0,DAUK 151200Z
-IAM  DAUZ,In Aménas Airport,35.0,DAUZ
-NIM  DRRN,Diori Hamani International Airport,35.0,DRRN 151200Z
-TBJ  DTKA,Tabarka 7 Novembre Airport,35.0,DTKA 151200Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,34.0,MMML 160040Z
+HII  KHII,Lake Havasu City Airport,34.0,KHII 160055Z
+IFP  KIFP,Laughlin Bullhead International Airport,34.0,KIFP 160055Z
+ISA  YBMA,Mount Isa Airport,34.0,YBMA 160100Z
+INZ  DAUI,In Salah Airport,33.0,DAUI 160000Z
+LTO  MMLT,Loreto International Airport,33.0,MMLT 160044Z
+KCHD,Chandler Municipal Airport,33.0,KCHD 160047Z
+KGEU,Glendale Municipal Airport,33.0,KGEU 160047Z
+GYR  KGYR,Phoenix Goodyear Airport,33.0,KGYR 160047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,33.0,KPHX 160051Z
+BLH  KBLH,Blythe Airport,33.0,KBLH 160052Z
+IPL  KIPL,Imperial County Airport,33.0,KIPL 160053Z
+KL08,,33.0,KL08 160055Z
+LGF  KLGF,Laguna Army Airfield,33.0,KLGF 160055Z
+EED  KEED,Needles Airport,33.0,KEED 160056Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),33.0,KNJK 160056Z
+LBS  NFNL,Labasa Airport,33.0,NFNL 160100Z
+KOE  WATT,El Tari Airport,32.0,WATT 160030Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 160030Z
+CEN  MMCN,Ciudad Obregón International Airport,32.0,MMCN 160040Z
+GYM  MMGM,General José María Yáñez International Airport,32.0,MMGM 160040Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,32.0,KIWA 160050Z
+TKK  PTKK,Chuuk International Airport,32.0,PTKK 160050Z
+PSP  KPSP,Palm Springs International Airport,32.0,KPSP 160053Z
+SCF  KSDL,Scottsdale Airport,32.0,KSDL 160053Z
+VGT  KVGT,North Las Vegas Airport,32.0,KVGT 160053Z
+JRF  PHJR,Kalaeloa Airport,32.0,PHJR 160053Z
+KGXF,,32.0,KGXF 160055Z
+LSV  KLSV,Nellis Air Force Base,32.0,KLSV 160055Z
+LUF  KLUF,Luke Air Force Base,32.0,KLUF 160055Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,32.0,KNYL 160057Z
+OEMN,,32.0,OEMN 160100Z
+MKQ  WAKK,Mopah Airport,32.0,WAKK 160100Z
+DCN  YCIN,RAAF Base Curtin,32.0,YCIN 160100Z
+HID  YHID,Horn Island Airport,32.0,YHID 160100Z
+KCVB,Castroville Municipal Airport,31.0,KCVB 152355Z
+POD  GOSP,Podor Airport,31.0,GOSP 160000Z
+JIB  HDAM,Djibouti-Ambouli Airport,31.0,HDAM 160000Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 160000Z
+SLH  NVSC,Sola Airport,31.0,NVSC 160000Z
+KHH  RCKH,Kaohsiung International Airport,31.0,RCKH 160030Z
+CUL  MMCL,Bachigualato Federal International Airport,31.0,MMCL 160042Z
+DAG  KDAG,Barstow Daggett Airport,31.0,KDAG 160050Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 160050Z
+BKH  PHBK,Barking Sands Airport,31.0,PHBK 160051Z
