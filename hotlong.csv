@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GAQ  GAGO,Gao Airport,39.0,GAGO 161200Z
-HOF  OEAH,Al Ahsa Airport,39.0,OEAH 161200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,OEPA 161200Z
-ABD  OIAA,Abadan Airport,39.0,OIAA 161200Z
-AKW  OIAG,Aghajari Airport,39.0,OIAG 161200Z
-AJY  DRZA,Mano Dayak International Airport,38.0,DRZ
-JIB  HDAM,Djibouti-Ambouli Airport,38.0,HDAM 161100Z
-ASW  HESN,Aswan International Airport,38.0,HESN 161100Z
-OICM,,38.0,OICM 161100Z
-BSR  ORMM,Basrah International Airport,38.0,ORMM 161100Z
-VVZ  DAAP,Illizi Takhamalt Airport,38.0,DAAP 161200Z
-DMM  OEDF,King Fahd International Airport,38.0,OEDF 161200Z
-DHA  OEDR,King Abdulaziz Air Base,38.0,OEDR 161200Z
-ELQ  OEGS,Gassim Airport,38.0,OEGS 161200Z
-JED  OEJN,King Abdulaziz International Airport,38.0,OEJN 161200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,38.0,OEMA 161200Z
-RAH  OERF,Rafha Domestic Airport,38.0,OERF 161200Z
-AWZ  OIAW,Ahwaz Airport,38.0,OIAW 161200Z
-NJF  ORNI,Al Najaf International Airport,38.0,ORNI 161200Z
-ZND  DRZR,Zinder Airport,37.0,DRZ
-KQD3,,37.0,KQD3 161155Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,37.0,GQNO 161200Z
-ATR  GQPA,Atar International Airport,37.0,GQPA 161200Z
-OEAO,,37.0,OEAO 161200Z
-RUH  OERK,King Khaled International Airport,37.0,OERK 161200Z
-MRX  OIAM,Mahshahr Airport,37.0,OIAM 161200Z
-BGW  ORBI,Baghdad International Airport,37.0,ORBI 161200Z
-ABS  HEBL,Abu Simbel Airport,36.0,HEBL 161100Z
-GAS  HKGA,Garissa Airport,36.0,HKGA 161100Z
-JSA  VIJR,Jaisalmer Airport,36.0,VIJR 161130Z
-AKH  OEPS,Prince Sultan Air Base,36.0,OEPS 161155Z
-XJD  OTBH,Al Udeid Air Base,36.0,OTBH 161155Z
-SKO  DNSO,Sadiq Abubakar III International Airport,36.0,DNSO 161200Z
-EBM  DTTR,El Borma Airport,36.0,DTTR 161200Z
-OND  FYOA,Ondangwa Airport,36.0,FYOA 161200Z
-GIZ  OEGN,Jizan Regional Airport,36.0,OEGN 161200Z
-HAS  OEHL,Ha'il Airport,36.0,OEHL 161200Z
-OEKJ,,36.0,OEKJ 161200Z
-RAE  OERR,Arar Domestic Airport,36.0,OERR 161200Z
-OERS,,36.0,OERS 161200Z
-AJF  OESK,Al-Jawf Domestic Airport,36.0,OESK 161200Z
-WAE  OEWD,Wadi Al Dawasir Airport,36.0,OEWD 161200Z
-AUH  OMAA,Abu Dhabi International Airport,36.0,OMAA 161200Z
-GXF  OYSY,Sayun International Airport,36.0,OYSY 161200Z
-NIM  DRRN,Diori Hamani International Airport,35.0,DRRN 161100Z
+KGEU,Glendale Municipal Airport,33.0,KGEU 170047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,33.0,KPHX 170051Z
+IFP  KIFP,Laughlin Bullhead International Airport,33.0,KIFP 170056Z
+KOE  WATT,El Tari Airport,33.0,WATT 170100Z
+CEN  MMCN,Ciudad Obregón International Airport,32.0,MMCN 170040Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,32.0,MMML 170046Z
+KCHD,Chandler Municipal Airport,32.0,KCHD 170047Z
+GYR  KGYR,Phoenix Goodyear Airport,32.0,KGYR 170047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,32.0,KIWA 170047Z
+IPL  KIPL,Imperial County Airport,32.0,KIPL 170053Z
+SCF  KSDL,Scottsdale Airport,32.0,KSDL 170053Z
+MSC  KFFZ,Falcon Field,32.0,KFFZ
+KGXF,,32.0,KGXF 170055Z
+HII  KHII,Lake Havasu City Airport,32.0,KHII 170055Z
+KL08,,32.0,KL08 170055Z
+LGF  KLGF,Laguna Army Airfield,32.0,KLGF 170055Z
+LUF  KLUF,Luke Air Force Base,32.0,KLUF 170055Z
+MZJ  KMZJ,Pinal Airpark,32.0,KMZ
+KP08,,32.0,KP08 170055Z
+EED  KEED,Needles Airport,32.0,KEED 170056Z
+LBS  NFNL,Labasa Airport,32.0,NFNL 170100Z
+OEMN,,32.0,OEMN 170100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 170100Z
+UMR  YPWR,Woomera Airfield,32.0,YPWR 170100Z
+JIB  HDAM,Djibouti-Ambouli Airport,31.0,HDAM 170000Z
+RTA  NFNR,Rotuma Airport,31.0,NFNR 170000Z
+SLH  NVSC,Sola Airport,31.0,NVSC 170000Z
+GYM  MMGM,General José María Yáñez International Airport,31.0,MMGM 170040Z
+CUL  MMCL,Bachigualato Federal International Airport,31.0,MMCL 170042Z
+KRYN,Ryan Field,31.0,KRYN 170045Z
+DAG  KDAG,Barstow Daggett Airport,31.0,KDAG 170050Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 170050Z
+ROR  PTRO,Babelthuap Airport,31.0,PTRO 170050Z
+YAP  PTYA,Yap International Airport,31.0,PTYA 170051Z
+BLH  KBLH,Blythe Airport,31.0,KBLH 170052Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,31.0,KTUS 170053Z
+JRF  PHJR,Kalaeloa Airport,31.0,PHJR 170053Z
+KA39,,31.0,KA39 170055Z
+AVW  KAVQ,Marana Regional Airport,31.0,KAVQ 170055Z
+AWK  PWAK,Wake Island Airfield,31.0,PWAK 170055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,31.0,KCGZ
+KQOS,,31.0,KQOS 170056Z
+LTO  MMLT,Loreto International Airport,31.0,MMLT 170056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,31.0,KNYL 170057Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 170100Z
