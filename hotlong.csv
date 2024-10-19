@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 180000Z
-SJP  SBSR,Prof. Eribelto Manoel Reino State Airport,32.0,SBSR 180000Z
-CIO  SGCO,Teniente Col Carmelo Peralta Airport,32.0,SGCO 180000Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 180030Z
-LTO  MMLT,Loreto International Airport,32.0,MMLT 180041Z
-OGG  PHOG,Kahului Airport,32.0,PHOG 180054Z
-AWK  PWAK,Wake Island Airfield,32.0,PWAK 180055Z
-MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 180100Z
-DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 180100Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,31.0,KNYL 172357Z
-IFP  KIFP,Laughlin Bullhead International Airport,31.0,KIFP 172359Z
-BAU  SBBU,Bauru Airport,31.0,SBBU 180000Z
-RCH  SKRH,Almirante Padilla Airport,31.0,SKRH 180000Z
-KOE  WATT,El Tari Airport,31.0,WATT 180030Z
-HID  YHID,Horn Island Airport,31.0,YHID 180030Z
-GOV  YPGV,Gove Airport,31.0,YPGV 180030Z
-PHE  YPPD,Port Hedland International Airport,31.0,YPPD 180030Z
-CUL  MMCL,Bachigualato Federal International Airport,31.0,MMCL 180042Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 180043Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 180050Z
-YAP  PTYA,Yap International Airport,31.0,PTYA 180051Z
-LGF  KLGF,Laguna Army Airfield,31.0,KLGF 180055Z
-PKMR,,31.0,PKMR 180055Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 180100Z
-TRW  NGTA,Bonriki International Airport,31.0,NGTA 180100Z
-OEMN,,31.0,OEMN 180100Z
-SFS  RPLB,Subic Bay International Airport,31.0,RPLB 180100Z
-LAO  RPLI,Laoag International Airport,31.0,RPLI 180100Z
-PLL  SBMN,Ponta Pelada Airport,31.0,SBMN 180100Z
-RBR  SBRB,Rio Branco-Plácido de Castro International Airport,31.0,SBRB 180100Z
-OHS  OOSH,Sohar Airport,30.0,OOSH 172350Z
-KRYN,Ryan Field,30.0,KRYN 172351Z
-BON  TNCB,Flamingo International Airport,30.0,TNCB 172355Z
-HIR  AGGH,Honiara International Airport,30.0,AGGH 180000Z
-LAE  AYNZ,Nadzab Airport,30.0,AYNZ
-NIM  DRRN,Diori Hamani International Airport,30.0,DRRN 180000Z
-NIX  GANR,Nioro du Sahel Airport,30.0,GANR 180000Z
-MAX  GOSM,Ouro Sogui Airport,30.0,GOSM 180000Z
-MGMT,,30.0,MGMT 180000Z
-CXI  PLCH,Cassidy International Airport,30.0,PLCH 180000Z
-PPB  SBDN,Presidente Prudente Airport,30.0,SBDN 180000Z
-MGF  SBMG,Regional de Maringá - Sílvio Name Júnior Airport,30.0,SBMG 180000Z
-CTG  SKCG,Rafael Nuñez International Airport,30.0,SKCG 180000Z
-AUA  TNCA,Queen Beatrix International Airport,30.0,TNCA 180000Z
-CUR  TNCC,Hato International Airport,30.0,TNCC 180001Z
+DCN  YCIN,RAAF Base Curtin,33.0,YCIN 190100Z
+KTR  YPTN,Tindal Airport,33.0,YPTN 190100Z
+KSA  PTSA,Kosrae International Airport,32.0,PTSA 190054Z
+PTTP,,32.0,PTTP 190055Z
+AWK  PWAK,Wake Island Airfield,32.0,PWAK 190055Z
+ISA  YBMA,Mount Isa Airport,32.0,YBMA 190100Z
+WTB  YBWW,Toowoomba Wellcamp Airport,32.0,YBWW 190100Z
+DRW  YPDN,Darwin International Airport,32.0,YPDN 190100Z
+HIR  AGGH,Honiara International Airport,31.0,AGGH 190000Z
+SLH  NVSC,Sola Airport,31.0,NVSC 190000Z
+BAH  OBBI,Bahrain International Airport,31.0,OBBI 190000Z
+DOH  OTHH,Hamad International Airport,31.0,OTHH 190000Z
+RCH  SKRH,Almirante Padilla Airport,31.0,SKRH 190000Z
+DIA  OTBD,Doha International Airport,31.0,OTBD 190030Z
+MKQ  WAKK,Mopah Airport,31.0,WAKK 190030Z
+SJD  MMSD,Los Cabos International Airport,31.0,MMSD 190040Z
+LAP  MMLP,Manuel Márquez de León International Airport,31.0,MMLP 190045Z
+LTO  MMLT,Loreto International Airport,31.0,MMLT 190050Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 190050Z
+HNL  PHNL,Daniel K Inouye International Airport,31.0,PHNL 190053Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 190054Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 190100Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 190100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 190100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 190100Z
+AZI  OMAD,Bateen Airport,31.0,OMAD 190100Z
+DXB  OMDB,Dubai International Airport,31.0,OMDB 190100Z
+KHH  RCKH,Kaohsiung International Airport,31.0,RCKH 190100Z
+TSA  RCSS,Taipei Songshan Airport,31.0,RCSS 190100Z
+TPE  RCTP,Taiwan Taoyuan International Airport,31.0,RCTP 190100Z
+ROIG,Ishigaki Airport,31.0,ROIG 190100Z
+LAO  RPLI,Laoag International Airport,31.0,RPLI 190100Z
+MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 190100Z
+DGT  RPVD,Sibulan Airport,31.0,RPVD 190100Z
+BVB  SBBV,Atlas Brasil Cantanhede Airport,31.0,SBBV 190100Z
+PCL  SPCL,Cap FAP David Abenzur Rengifo International Airport,31.0,SPCL 190100Z
+LOP  WADL,Lombok International Airport,31.0,WADL 190100Z
+YAMB,RAAF Base Amberley,31.0,YAMB 190100Z
+YBSU,,31.0,YBSU 190100Z
+HID  YHID,Horn Island Airport,31.0,YHID 190100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 190100Z
+NIM  DRRN,Diori Hamani International Airport,30.0,DRRN 190000Z
+MAX  GOSM,Ouro Sogui Airport,30.0,GOSM 190000Z
+MGTU,,30.0,MGTU 190000Z
+EJA  SKEJ,Yariguíes Airport,30.0,SKEJ 190000Z
