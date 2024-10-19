@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-DCN  YCIN,RAAF Base Curtin,33.0,YCIN 190100Z
-KTR  YPTN,Tindal Airport,33.0,YPTN 190100Z
-KSA  PTSA,Kosrae International Airport,32.0,PTSA 190054Z
-PTTP,,32.0,PTTP 190055Z
-AWK  PWAK,Wake Island Airfield,32.0,PWAK 190055Z
-ISA  YBMA,Mount Isa Airport,32.0,YBMA 190100Z
-WTB  YBWW,Toowoomba Wellcamp Airport,32.0,YBWW 190100Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 190100Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 190000Z
-SLH  NVSC,Sola Airport,31.0,NVSC 190000Z
-BAH  OBBI,Bahrain International Airport,31.0,OBBI 190000Z
-DOH  OTHH,Hamad International Airport,31.0,OTHH 190000Z
-RCH  SKRH,Almirante Padilla Airport,31.0,SKRH 190000Z
-DIA  OTBD,Doha International Airport,31.0,OTBD 190030Z
-MKQ  WAKK,Mopah Airport,31.0,WAKK 190030Z
-SJD  MMSD,Los Cabos International Airport,31.0,MMSD 190040Z
-LAP  MMLP,Manuel Márquez de León International Airport,31.0,MMLP 190045Z
-LTO  MMLT,Loreto International Airport,31.0,MMLT 190050Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 190050Z
-HNL  PHNL,Daniel K Inouye International Airport,31.0,PHNL 190053Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 190054Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 190100Z
-TRW  NGTA,Bonriki International Airport,31.0,NGTA 190100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 190100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 190100Z
-AZI  OMAD,Bateen Airport,31.0,OMAD 190100Z
-DXB  OMDB,Dubai International Airport,31.0,OMDB 190100Z
-KHH  RCKH,Kaohsiung International Airport,31.0,RCKH 190100Z
-TSA  RCSS,Taipei Songshan Airport,31.0,RCSS 190100Z
-TPE  RCTP,Taiwan Taoyuan International Airport,31.0,RCTP 190100Z
-ROIG,Ishigaki Airport,31.0,ROIG 190100Z
-LAO  RPLI,Laoag International Airport,31.0,RPLI 190100Z
-MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 190100Z
-DGT  RPVD,Sibulan Airport,31.0,RPVD 190100Z
-BVB  SBBV,Atlas Brasil Cantanhede Airport,31.0,SBBV 190100Z
-PCL  SPCL,Cap FAP David Abenzur Rengifo International Airport,31.0,SPCL 190100Z
-LOP  WADL,Lombok International Airport,31.0,WADL 190100Z
-YAMB,RAAF Base Amberley,31.0,YAMB 190100Z
-YBSU,,31.0,YBSU 190100Z
-HID  YHID,Horn Island Airport,31.0,YHID 190100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 190100Z
-NIM  DRRN,Diori Hamani International Airport,30.0,DRRN 190000Z
-MAX  GOSM,Ouro Sogui Airport,30.0,GOSM 190000Z
-MGTU,,30.0,MGTU 190000Z
-EJA  SKEJ,Yariguíes Airport,30.0,SKEJ 190000Z
+PEW  OPPS,Peshawar International Airport,39.0,OPPS 191200Z
+OOAD,,38.0,OOAD 191150Z
+MFU  FLMF,Mfuwe Airport,38.0,FLMF 191200Z
+TET  FQTT,Chingozi Airport,38.0,FQTT 191200Z
+ATR  GQPA,Atar International Airport,38.0,GQPA 191200Z
+ELQ  OEGS,Gassim Airport,38.0,OEGS 191200Z
+AWZ  OIAW,Ahwaz Airport,38.0,OIAW 191200Z
+OKKK,,38.0,OKKK 191200Z
+AKH  OEPS,Prince Sultan Air Base,37.0,OEPS 191155Z
+OKAS,Ali Al Salem Air Base,37.0,OKAS 191155Z
+AJY  DRZA,Mano Dayak International Airport,37.0,DRZ
+DRZF,Diffa Airport,37.0,DRZ
+NIX  GANR,Nioro du Sahel Airport,37.0,GANR 191200Z
+OEKJ,,37.0,OEKJ 191200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,37.0,OEMA 191200Z
+RUH  OERK,King Khaled International Airport,37.0,OERK 191200Z
+ABD  OIAA,Abadan Airport,37.0,OIAA 191200Z
+ACZ  OIZB,Zabol Airport,37.0,OIZ
+IHR  OIZI,Iran Shahr Airport,37.0,OIZ
+AAN  OMAL,Al Ain International Airport,37.0,OMAL 191200Z
+GXF  OYSY,Sayun International Airport,37.0,OYSY 191200Z
+OHS  OOSH,Sohar Airport,36.0,OOSH 191150Z
+NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 191200Z
+THZ  DRRT,Tahoua Airport,36.0,DRRT 191200Z
+ZND  DRZR,Zinder Airport,36.0,DRZ
+FBPM,,36.0,FBPM 191200Z
+OND  FYOA,Ondangwa Airport,36.0,FYOA 191200Z
+HOF  OEAH,Al Ahsa Airport,36.0,OEAH 191200Z
+DMM  OEDF,King Fahd International Airport,36.0,OEDF 191200Z
+JED  OEJN,King Abdulaziz International Airport,36.0,OEJN 191200Z
+SHW  OESH,Sharurah Airport,36.0,OESH 191200Z
+WAE  OEWD,Wadi Al Dawasir Airport,36.0,OEWD 191200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,36.0,OEYN 191200Z
+TCX  OIMT,Tabas Airport,36.0,OIMT 191200Z
+LFM  OISR,Lamerd Airport,36.0,OISR 191200Z
+AUH  OMAA,Abu Dhabi International Airport,36.0,OMAA 191200Z
+AZI  OMAD,Bateen Airport,36.0,OMAD 191200Z
+DXB  OMDB,Dubai International Airport,36.0,OMDB 191200Z
+RKT  OMRK,Ras Al Khaimah International Airport,36.0,OMRK 191200Z
+SHJ  OMSJ,Sharjah International Airport,36.0,OMSJ 191200Z
+BSR  ORMM,Basrah International Airport,36.0,ORMM 191200Z
+XJD  OTBH,Al Udeid Air Base,35.0,OTBH 191155Z
+BKO  GABS,Modibo Keita International Airport,35.0,GABS 191200Z
+DWD  OEDM,King Salman Abdulaziz Airport,35.0,OEDM 191200Z
+DHA  OEDR,King Abdulaziz Air Base,35.0,OEDR 191200Z
