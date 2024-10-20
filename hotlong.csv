@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PEW  OPPS,Peshawar International Airport,39.0,OPPS 191200Z
-OOAD,,38.0,OOAD 191150Z
-MFU  FLMF,Mfuwe Airport,38.0,FLMF 191200Z
-TET  FQTT,Chingozi Airport,38.0,FQTT 191200Z
-ATR  GQPA,Atar International Airport,38.0,GQPA 191200Z
-ELQ  OEGS,Gassim Airport,38.0,OEGS 191200Z
-AWZ  OIAW,Ahwaz Airport,38.0,OIAW 191200Z
-OKKK,,38.0,OKKK 191200Z
-AKH  OEPS,Prince Sultan Air Base,37.0,OEPS 191155Z
-OKAS,Ali Al Salem Air Base,37.0,OKAS 191155Z
-AJY  DRZA,Mano Dayak International Airport,37.0,DRZ
-DRZF,Diffa Airport,37.0,DRZ
-NIX  GANR,Nioro du Sahel Airport,37.0,GANR 191200Z
-OEKJ,,37.0,OEKJ 191200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,37.0,OEMA 191200Z
-RUH  OERK,King Khaled International Airport,37.0,OERK 191200Z
-ABD  OIAA,Abadan Airport,37.0,OIAA 191200Z
-ACZ  OIZB,Zabol Airport,37.0,OIZ
-IHR  OIZI,Iran Shahr Airport,37.0,OIZ
-AAN  OMAL,Al Ain International Airport,37.0,OMAL 191200Z
-GXF  OYSY,Sayun International Airport,37.0,OYSY 191200Z
-OHS  OOSH,Sohar Airport,36.0,OOSH 191150Z
-NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 191200Z
-THZ  DRRT,Tahoua Airport,36.0,DRRT 191200Z
-ZND  DRZR,Zinder Airport,36.0,DRZ
-FBPM,,36.0,FBPM 191200Z
-OND  FYOA,Ondangwa Airport,36.0,FYOA 191200Z
-HOF  OEAH,Al Ahsa Airport,36.0,OEAH 191200Z
-DMM  OEDF,King Fahd International Airport,36.0,OEDF 191200Z
-JED  OEJN,King Abdulaziz International Airport,36.0,OEJN 191200Z
-SHW  OESH,Sharurah Airport,36.0,OESH 191200Z
-WAE  OEWD,Wadi Al Dawasir Airport,36.0,OEWD 191200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,36.0,OEYN 191200Z
-TCX  OIMT,Tabas Airport,36.0,OIMT 191200Z
-LFM  OISR,Lamerd Airport,36.0,OISR 191200Z
-AUH  OMAA,Abu Dhabi International Airport,36.0,OMAA 191200Z
-AZI  OMAD,Bateen Airport,36.0,OMAD 191200Z
-DXB  OMDB,Dubai International Airport,36.0,OMDB 191200Z
-RKT  OMRK,Ras Al Khaimah International Airport,36.0,OMRK 191200Z
-SHJ  OMSJ,Sharjah International Airport,36.0,OMSJ 191200Z
-BSR  ORMM,Basrah International Airport,36.0,ORMM 191200Z
-XJD  OTBH,Al Udeid Air Base,35.0,OTBH 191155Z
-BKO  GABS,Modibo Keita International Airport,35.0,GABS 191200Z
-DWD  OEDM,King Salman Abdulaziz Airport,35.0,OEDM 191200Z
-DHA  OEDR,King Abdulaziz Air Base,35.0,OEDR 191200Z
+LAE  AYNZ,Nadzab Airport,32.0,AYNZ
+PCL  SPCL,Cap FAP David Abenzur Rengifo International Airport,32.0,SPCL 200100Z
+MDC  WAMM,Sam Ratulangi Airport,32.0,WAMM 200100Z
+ROK  YBRK,Rockhampton Airport,32.0,YBRK 200100Z
+GOV  YPGV,Gove Airport,32.0,YPGV 200100Z
+KNX  YPKU,Kununurra Airport,32.0,YPKU 200100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 200100Z
+CUL  MMCL,Bachigualato Federal International Airport,31.0,MMCL 200045Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 200050Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 200051Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 200054Z
+TKK  PTKK,Chuuk International Airport,31.0,PTKK 200055Z
+AWK  PWAK,Wake Island Airfield,31.0,PWAK 200055Z
+POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 200100Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 200100Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 200100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 200100Z
+OEMN,,31.0,OEMN 200100Z
+AZI  OMAD,Bateen Airport,31.0,OMAD 200100Z
+DXB  OMDB,Dubai International Airport,31.0,OMDB 200100Z
+ADE  OYAA,Aden International Airport,31.0,OYAA 200100Z
+DVO  RPMD,Francisco Bangoy International Airport,31.0,RPMD 200100Z
+CEB  RPVM,Mactan Cebu International Airport,31.0,RPVM 200100Z
+UPG  WAAA,Hasanuddin International Airport,31.0,WAAA 200100Z
+LOP  WADL,Lombok International Airport,31.0,WADL 200100Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 200100Z
+MKQ  WAKK,Mopah Airport,31.0,WAKK 200100Z
+WAYY,,31.0,WAYY 200100Z
+DRW  YPDN,Darwin International Airport,31.0,YPDN 200100Z
+KWA  PKWA,Bucholz Army Air Field,31.0,PKWA 200120Z
+GYM  MMGM,General José María Yáñez International Airport,30.0,MMGM 200040Z
+ZLO  MMZO,Playa De Oro International Airport,30.0,MMZ
+ZIH  MMZH,Ixtapa Zihuatanejo International Airport,30.0,MMZ
+KHS  OOKB,Khasab Air Base,30.0,OOKB 200050Z
+NBW  MUGM,Leeward Point Field,30.0,MUGM 200051Z
+BKH  PHBK,Barking Sands Airport,30.0,PHBK 200051Z
+RDD  KRDD,Redding Municipal Airport,30.0,KRDD 200053Z
+PVR  MMPR,Licenciado Gustavo Díaz Ordaz International Airport,30.0,MMPR 200055Z
+BON  TNCB,Flamingo International Airport,30.0,TNCB 200055Z
+UKI  KUKI,Ukiah Municipal Airport,30.0,KUKI 200056Z
+NGF  PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,30.0,PHNG 200057Z
+HIR  AGGH,Honiara International Airport,30.0,AGGH 200100Z
+NIM  DRRN,Diori Hamani International Airport,30.0,DRRN 200100Z
+NCPL,,30.0,NCPL 200100Z
+LBS  NFNL,Labasa Airport,30.0,NFNL 200100Z
