@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KTR  YPTN,Tindal Airport,34.0,YPTN 230100Z
-KQOS,,33.0,KQOS 222356Z
-GYR  KGYR,Phoenix Goodyear Airport,33.0,KGYR 230047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,33.0,KPHX 230051Z
-PTTP,,33.0,PTTP 230054Z
-MDC  WAMM,Sam Ratulangi Airport,33.0,WAMM 230100Z
-CEN  MMCN,Ciudad Obregón International Airport,32.0,MMCN 230040Z
-GYM  MMGM,General José María Yáñez International Airport,32.0,MMGM 230040Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,32.0,MMML 230040Z
-KGEU,Glendale Municipal Airport,32.0,KGEU 230052Z
-KGXF,,32.0,KGXF 230055Z
-HII  KHII,Lake Havasu City Airport,32.0,KHII 230055Z
-LGF  KLGF,Laguna Army Airfield,32.0,KLGF 230055Z
-KSA  PTSA,Kosrae International Airport,32.0,PTSA 230059Z
-INU  ANYN,Nauru International Airport,32.0,ANYN 230100Z
-MKQ  WAKK,Mopah Airport,32.0,WAKK 230100Z
-KOE  WATT,El Tari Airport,32.0,WATT 230100Z
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 230000Z
-NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 230000Z
-LTO  MMLT,Loreto International Airport,31.0,MMLT 230040Z
-CUL  MMCL,Bachigualato Federal International Airport,31.0,MMCL 230041Z
-SJD  MMSD,Los Cabos International Airport,31.0,MMSD 230043Z
-KCHD,Chandler Municipal Airport,31.0,KCHD 230047Z
-TKK  PTKK,Chuuk International Airport,31.0,PTKK 230050Z
-ROR  PTRO,Babelthuap Airport,31.0,PTRO 230050Z
-BLH  KBLH,Blythe Airport,31.0,KBLH 230052Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 230052Z
-PSP  KPSP,Palm Springs International Airport,31.0,KPSP 230053Z
-SCF  KSDL,Scottsdale Airport,31.0,KSDL 230053Z
-MSC  KFFZ,Falcon Field,31.0,KFFZ
-IFP  KIFP,Laughlin Bullhead International Airport,31.0,KIFP 230055Z
-LUF  KLUF,Luke Air Force Base,31.0,KLUF 230055Z
-KPRS,Presidio Lely International Airport,31.0,KPRS 230055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),31.0,KNJK 230056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,31.0,KNYL 230057Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 230100Z
-NCPL,,31.0,NCPL 230100Z
-DVO  RPMD,Francisco Bangoy International Airport,31.0,RPMD 230100Z
-THE  SBTE,Senador Petrônio Portela Airport,31.0,SBTE 230100Z
-SDK  WBKS,Sandakan Airport,31.0,WBKS 230100Z
-TWU  WBKW,Tawau Airport,31.0,WBKW 230100Z
-HLP  WIHH,Halim Perdanakusuma International Airport,31.0,WIHH 230100Z
-CGK  WIII,Soekarno-Hatta International Airport,31.0,WIII 230100Z
-BME  YBRM,Broome International Airport,31.0,YBRM 230100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 230100Z
+OEMN,,38.0,OEMN 231200Z
+WAE  OEWD,Wadi Al Dawasir Airport,38.0,OEWD 231200Z
+OOAD,,37.0,OOAD 231150Z
+THZ  DRRT,Tahoua Airport,37.0,DRRT 231200Z
+DRZF,Diffa Airport,37.0,DRZ
+ZND  DRZR,Zinder Airport,37.0,DRZ
+NIX  GANR,Nioro du Sahel Airport,37.0,GANR 231200Z
+OEKJ,,37.0,OEKJ 231200Z
+AAN  OMAL,Al Ain International Airport,37.0,OMAL 231200Z
+AKH  OEPS,Prince Sultan Air Base,36.0,OEPS 231155Z
+XJD  OTBH,Al Udeid Air Base,36.0,OTBH 231155Z
+SKO  DNSO,Sadiq Abubakar III International Airport,36.0,DNSO 231200Z
+MFQ  DRRM,Maradi Airport,36.0,DRRM 231200Z
+NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 231200Z
+FBPM,,36.0,FBPM 231200Z
+GFY  FYGF,Grootfontein Airport,36.0,FYGF 231200Z
+GAQ  GAGO,Gao Airport,36.0,GAGO 231200Z
+TOM  GATB,Timbuktu Airport,36.0,GATB 231200Z
+XLS  GOSS,Saint Louis Airport,36.0,GOSS 231200Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,36.0,GQNO 231200Z
+GAS  HKGA,Garissa Airport,36.0,HKGA 231200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 231200Z
+GIZ  OEGN,Jizan Regional Airport,36.0,OEGN 231200Z
+AUH  OMAA,Abu Dhabi International Airport,36.0,OMAA 231200Z
+VIUT,Uttarlai Airport,35.0,VIUT 231130Z
+KQD3,,35.0,KQD3 231155Z
+DNGO,,35.0,DNGO 231200Z
+DNKT,,35.0,DNKT 231200Z
+FLKK,,35.0,FLKK 231200Z
+SRH  FTTA,Sarh Airport,35.0,FTTA 231200Z
+NDJ  FTTJ,N'Djamena International Airport,35.0,FTTJ 231200Z
+ATR  GQPA,Atar International Airport,35.0,GQPA 231200Z
+HOF  OEAH,Al Ahsa Airport,35.0,OEAH 231200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,35.0,OEMA 231200Z
+RUH  OERK,King Khaled International Airport,35.0,OERK 231200Z
+SHW  OESH,Sharurah Airport,35.0,OESH 231200Z
+LVP  OIBV,Lavan Island Airport,35.0,OIBV 231200Z
+IHR  OIZI,Iran Shahr Airport,35.0,OIZ
+AZI  OMAD,Bateen Airport,35.0,OMAD 231200Z
+DWC  OMDW,Al Maktoum International Airport,35.0,OMDW 231200Z
+GXF  OYSY,Sayun International Airport,35.0,OYSY 231200Z
+SBJR,Jacarepaguá - Roberto Marinho Airport,35.0,SBJR 231200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,34.0,DATM 231200Z
+YOL  DNYO,Yola Airport,34.0,DNYO 231200Z
+MQQ  FTTD,Moundou Airport,34.0,FTTD 231200Z
