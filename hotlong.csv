@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,34.0,YBMA 260100Z
-DCN  YCIN,RAAF Base Curtin,34.0,YCIN 260100Z
-KTR  YPTN,Tindal Airport,34.0,YPTN 260100Z
-ESG  SGME,Dr. Luis Maria Argaña International Airport,33.0,SGME 260000Z
-NVA  SKNV,Benito Salas Airport,33.0,SKNV 260000Z
-CEN  MMCN,Ciudad Obregón International Airport,33.0,MMCN 260040Z
-GYM  MMGM,General José María Yáñez International Airport,33.0,MMGM 260040Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,33.0,KPHX 260051Z
-KGXF,,33.0,KGXF 260055Z
-PMV  SVMG,Del Caribe Santiago Mariño International Airport,33.0,SVMG 260103Z
-SGLV,,32.0,SGLV 260000Z
-MKQ  WAKK,Mopah Airport,32.0,WAKK 260030Z
-KOE  WATT,El Tari Airport,32.0,WATT 260030Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,32.0,MMML 260045Z
-GYR  KGYR,Phoenix Goodyear Airport,32.0,KGYR 260047Z
-KGEU,Glendale Municipal Airport,32.0,KGEU 260050Z
-KSA  PTSA,Kosrae International Airport,32.0,PTSA 260050Z
-BLH  KBLH,Blythe Airport,32.0,KBLH 260052Z
-PNI  PTPN,Pohnpei International Airport,32.0,PTPN 260053Z
-MSC  KFFZ,Falcon Field,32.0,KFFZ
-HII  KHII,Lake Havasu City Airport,32.0,KHII 260055Z
-LUF  KLUF,Luke Air Force Base,32.0,KLUF 260055Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,32.0,KNYL 260057Z
-LAE  AYNZ,Nadzab Airport,32.0,AYNZ
-THE  SBTE,Senador Petrônio Portela Airport,32.0,SBTE 260100Z
-MDC  WAMM,Sam Ratulangi Airport,32.0,WAMM 260100Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 260100Z
-GOV  YPGV,Gove Airport,32.0,YPGV 260100Z
-PTTP,,31.0,PTTP 252355Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 260000Z
-TET  FQTT,Chingozi Airport,31.0,FQTT 260000Z
-FJR  OMFJ,Fujairah International Airport,31.0,OMFJ 260000Z
-JDO  SBJU,Orlando Bezerra de Menezes Airport,31.0,SBJU 260000Z
-RCH  SKRH,Almirante Padilla Airport,31.0,SKRH 260000Z
-BIK  WABB,Frans Kaisiepo Airport,31.0,WABB 260030Z
-WAQQ,,31.0,WAQQ 260030Z
-MMPE,(Old) Puerto Peñasco Airport,31.0,MMPE 260041Z
-CUL  MMCL,Bachigualato Federal International Airport,31.0,MMCL 260046Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,31.0,KIWA 260047Z
-KHS  OOKB,Khasab Air Base,31.0,OOKB 260050Z
-IPL  KIPL,Imperial County Airport,31.0,KIPL 260053Z
-PSP  KPSP,Palm Springs International Airport,31.0,KPSP 260053Z
-SCF  KSDL,Scottsdale Airport,31.0,KSDL 260053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,31.0,KTUS 260053Z
-HNL  PHNL,Daniel K Inouye International Airport,31.0,PHNL 260053Z
+GFY  FYGF,Grootfontein Airport,38.0,FYGF 261200Z
+XLS  GOSS,Saint Louis Airport,38.0,GOSS 261200Z
+WJR  HKWJ,Wajir Airport,38.0,HKWJ 261200Z
+GBE  FBSK,Sir Seretse Khama International Airport,37.0,FBSK 261200Z
+MZI  GAMB,Mopti Airport,37.0,GAMB 261200Z
+GOOG,,37.0,GOOG 261200Z
+MAX  GOSM,Ouro Sogui Airport,37.0,GOSM 261200Z
+OOAD,,36.0,OOAD 261150Z
+NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 261200Z
+THZ  DRRT,Tahoua Airport,36.0,DRRT 261200Z
+MBD  FAMM,Mmabatho International Airport,36.0,FAMM 261200Z
+UTN  FAUP,Pierre Van Ryneveld Airport,36.0,FAUP 261200Z
+BLZ  FWCL,Chileka International Airport,36.0,FWCL 261200Z
+NIX  GANR,Nioro du Sahel Airport,36.0,GANR 261200Z
+POD  GOSP,Podor Airport,36.0,GOSP 261200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 261200Z
+OEMN,,36.0,OEMN 261200Z
+AAN  OMAL,Al Ain International Airport,36.0,OMAL 261200Z
+KHI  OPKC,Jinnah International Airport,35.0,OPKC 261155Z
+VVZ  DAAP,Illizi Takhamalt Airport,35.0,DAAP 261200Z
+OUA  DFFD,Ouagadougou Airport,35.0,DFFD 261200Z
+AJY  DRZA,Mano Dayak International Airport,35.0,DRZ
+GOU  FKKR,Garoua International Airport,35.0,FKKR 261200Z
+KMP  FYKT,Keetmanshoop Airport,35.0,FYKT 261200Z
+ERS  FYWE,Eros Airport,35.0,FYWE 261200Z
+WDH  FYWH,Hosea Kutako International Airport,35.0,FYWH 261200Z
+BKO  GABS,Modibo Keita International Airport,35.0,GABS 261200Z
+DSS  GOBD,Blaise Diagne International Airport,35.0,GOBD 261200Z
+GOOD,,35.0,GOOD 261200Z
+KLC  GOOK,Kaolack Airport,35.0,GOOK 261200Z
+TUD  GOTT,Tambacounda Airport,35.0,GOTT 261200Z
+SHW  OESH,Sharurah Airport,35.0,OESH 261200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,34.0,VAAH 261130Z
+OHS  OOSH,Sohar Airport,34.0,OOSH 261150Z
+BMW  DATM,Bordj Badji Mokhtar Airport,34.0,DATM 261200Z
+ZND  DRZR,Zinder Airport,34.0,DRZ
+KIM  FAKM,Kimberley Airport,34.0,FAKM 261200Z
+APL  FQNP,Nampula Airport,34.0,FQNP 261200Z
+MQQ  FTTD,Moundou Airport,34.0,FTTD 261200Z
+NDJ  FTTJ,N'Djamena International Airport,34.0,FTTJ 261200Z
+KGG  GOTK,Kédougou Airport,34.0,GOTK 261200Z
+HTMG,Morogoro Airport,34.0,HTMG 261200Z
+JED  OEJN,King Abdulaziz International Airport,34.0,OEJN 261200Z
+OERS,,34.0,OERS 261200Z
+AEU  OIBA,Abu Musa Island Airport,34.0,OIBA 261200Z
