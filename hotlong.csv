@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GFY  FYGF,Grootfontein Airport,38.0,FYGF 261200Z
-XLS  GOSS,Saint Louis Airport,38.0,GOSS 261200Z
-WJR  HKWJ,Wajir Airport,38.0,HKWJ 261200Z
-GBE  FBSK,Sir Seretse Khama International Airport,37.0,FBSK 261200Z
-MZI  GAMB,Mopti Airport,37.0,GAMB 261200Z
-GOOG,,37.0,GOOG 261200Z
-MAX  GOSM,Ouro Sogui Airport,37.0,GOSM 261200Z
-OOAD,,36.0,OOAD 261150Z
-NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 261200Z
-THZ  DRRT,Tahoua Airport,36.0,DRRT 261200Z
-MBD  FAMM,Mmabatho International Airport,36.0,FAMM 261200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,36.0,FAUP 261200Z
-BLZ  FWCL,Chileka International Airport,36.0,FWCL 261200Z
-NIX  GANR,Nioro du Sahel Airport,36.0,GANR 261200Z
-POD  GOSP,Podor Airport,36.0,GOSP 261200Z
-LOK  HKLO,Lodwar Airport,36.0,HKLO 261200Z
-OEMN,,36.0,OEMN 261200Z
-AAN  OMAL,Al Ain International Airport,36.0,OMAL 261200Z
-KHI  OPKC,Jinnah International Airport,35.0,OPKC 261155Z
-VVZ  DAAP,Illizi Takhamalt Airport,35.0,DAAP 261200Z
-OUA  DFFD,Ouagadougou Airport,35.0,DFFD 261200Z
-AJY  DRZA,Mano Dayak International Airport,35.0,DRZ
-GOU  FKKR,Garoua International Airport,35.0,FKKR 261200Z
-KMP  FYKT,Keetmanshoop Airport,35.0,FYKT 261200Z
-ERS  FYWE,Eros Airport,35.0,FYWE 261200Z
-WDH  FYWH,Hosea Kutako International Airport,35.0,FYWH 261200Z
-BKO  GABS,Modibo Keita International Airport,35.0,GABS 261200Z
-DSS  GOBD,Blaise Diagne International Airport,35.0,GOBD 261200Z
-GOOD,,35.0,GOOD 261200Z
-KLC  GOOK,Kaolack Airport,35.0,GOOK 261200Z
-TUD  GOTT,Tambacounda Airport,35.0,GOTT 261200Z
-SHW  OESH,Sharurah Airport,35.0,OESH 261200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,34.0,VAAH 261130Z
-OHS  OOSH,Sohar Airport,34.0,OOSH 261150Z
-BMW  DATM,Bordj Badji Mokhtar Airport,34.0,DATM 261200Z
-ZND  DRZR,Zinder Airport,34.0,DRZ
-KIM  FAKM,Kimberley Airport,34.0,FAKM 261200Z
-APL  FQNP,Nampula Airport,34.0,FQNP 261200Z
-MQQ  FTTD,Moundou Airport,34.0,FTTD 261200Z
-NDJ  FTTJ,N'Djamena International Airport,34.0,FTTJ 261200Z
-KGG  GOTK,Kédougou Airport,34.0,GOTK 261200Z
-HTMG,Morogoro Airport,34.0,HTMG 261200Z
-JED  OEJN,King Abdulaziz International Airport,34.0,OEJN 261200Z
-OERS,,34.0,OERS 261200Z
-AEU  OIBA,Abu Musa Island Airport,34.0,OIBA 261200Z
+DCN  YCIN,RAAF Base Curtin,34.0,YCIN 270100Z
+KTR  YPTN,Tindal Airport,34.0,YPTN 270100Z
+GYM  MMGM,General José María Yáñez International Airport,33.0,MMGM 270040Z
+CEN  MMCN,Ciudad Obregón International Airport,33.0,MMCN 270042Z
+GYR  KGYR,Phoenix Goodyear Airport,33.0,KGYR 270047Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,33.0,MMML 270050Z
+MSC  KFFZ,Falcon Field,33.0,KFFZ
+KGXF,,33.0,KGXF 270055Z
+LGF  KLGF,Laguna Army Airfield,33.0,KLGF 270055Z
+KP08,,33.0,KP08 270055Z
+POM  AYPY,Port Moresby Jacksons International Airport,33.0,AYPY 270100Z
+BME  YBRM,Broome International Airport,33.0,YBRM 270100Z
+KGEU,Glendale Municipal Airport,32.0,KGEU 270047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,32.0,KIWA 270049Z
+TKK  PTKK,Chuuk International Airport,32.0,PTKK 270050Z
+BLH  KBLH,Blythe Airport,32.0,KBLH 270052Z
+PSP  KPSP,Palm Springs International Airport,32.0,KPSP 270053Z
+SCF  KSDL,Scottsdale Airport,32.0,KSDL 270053Z
+PNI  PTPN,Pohnpei International Airport,32.0,PTPN 270054Z
+HII  KHII,Lake Havasu City Airport,32.0,KHII 270055Z
+LUF  KLUF,Luke Air Force Base,32.0,KLUF 270055Z
+LBS  NFNL,Labasa Airport,32.0,NFNL 270100Z
+PLL  SBMN,Ponta Pelada Airport,32.0,SBMN 270100Z
+MKQ  WAKK,Mopah Airport,32.0,WAKK 270100Z
+KOE  WATT,El Tari Airport,32.0,WATT 270100Z
+HID  YHID,Horn Island Airport,32.0,YHID 270100Z
+DRW  YPDN,Darwin International Airport,32.0,YPDN 270100Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 25005KTZ
+LAP  MMLP,Manuel Márquez de León International Airport,31.0,MMLP 270044Z
+KRYN,Ryan Field,31.0,KRYN 270045Z
+IPL  KIPL,Imperial County Airport,31.0,KIPL 270053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,31.0,KTUS 270053Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 270054Z
+PKMR,,31.0,PKMR 270054Z
+IFP  KIFP,Laughlin Bullhead International Airport,31.0,KIFP 270055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,31.0,KCGZ
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),31.0,KNJK 270056Z
+STM  SBSN,Maestro Wilson Fonseca Airport,31.0,SBSN 270100Z
+HHQ  VTPH,Hua Hin Airport,31.0,VTPH 270100Z
+BDJ  WAOO,Syamsudin Noor Airport,31.0,WAOO 270100Z
+MYY  WBGR,Miri Airport,31.0,WBGR 270100Z
+HLP  WIHH,Halim Perdanakusuma International Airport,31.0,WIHH 270100Z
+QPG  WSAP,Paya Lebar Air Base,31.0,WSAP 270100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 270100Z
+MAJ  PKMJ,Marshall Islands International Airport,31.0,PKMJ 270106Z
