@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PHE  YPPD,Port Hedland International Airport,34.0,YPPD 280100Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,33.0,KPHX 280051Z
-PTTP,,33.0,PTTP 280054Z
-DRW  YPDN,Darwin International Airport,33.0,YPDN 280100Z
-LEA  YPLM,Learmonth Airport,33.0,YPLM 280100Z
-KCHD,Chandler Municipal Airport,32.0,KCHD 280047Z
-GYR  KGYR,Phoenix Goodyear Airport,32.0,KGYR 280047Z
-KGEU,Glendale Municipal Airport,32.0,KGEU 280048Z
-PNI  PTPN,Pohnpei International Airport,32.0,PTPN 280052Z
-IPL  KIPL,Imperial County Airport,32.0,KIPL 280053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,32.0,KTUS 280053Z
-AVW  KAVQ,Marana Regional Airport,32.0,KAVQ 280055Z
-DMA  KDMA,Davis Monthan Air Force Base,32.0,KDMA 280055Z
-LGF  KLGF,Laguna Army Airfield,32.0,KLGF 280055Z
-MZJ  KMZJ,Pinal Airpark,32.0,KMZ
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,KNJK 280056Z
-LBS  NFNL,Labasa Airport,32.0,NFNL 280100Z
-ASP  YBAS,Alice Springs Airport,32.0,YBAS 280100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 280100Z
-GYM  MMGM,General José María Yáñez International Airport,31.0,MMGM 280040Z
-KRYN,Ryan Field,31.0,KRYN 280045Z
-KHS  OOKB,Khasab Air Base,31.0,OOKB 280050Z
-PKMR,,31.0,PKMR 280052Z
-PSP  KPSP,Palm Springs International Airport,31.0,KPSP 280053Z
-SCF  KSDL,Scottsdale Airport,31.0,KSDL 280053Z
-TKK  PTKK,Chuuk International Airport,31.0,PTKK 280053Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 280053Z
-MSC  KFFZ,Falcon Field,31.0,KFFZ
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,31.0,KIWA 280054Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,31.0,MMML 280054Z
-KGXF,,31.0,KGXF 280055Z
-HII  KHII,Lake Havasu City Airport,31.0,KHII 280055Z
-KL08,,31.0,KL08 280055Z
-LUF  KLUF,Luke Air Force Base,31.0,KLUF 280055Z
-EED  KEED,Needles Airport,31.0,KEED 280056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,31.0,KNYL 280057Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 280100Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 280100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 280100Z
-TRW  NGTA,Bonriki International Airport,31.0,NGTA 280100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 280100Z
-NOU  NWWW,La Tontouta International Airport,31.0,NWWW 280100Z
-DXB  OMDB,Dubai International Airport,31.0,OMDB 280100Z
-KWA  PKWA,Bucholz Army Air Field,31.0,PKWA 280100Z
-DVO  RPMD,Francisco Bangoy International Airport,31.0,RPMD 280100Z
+BBK  FBKE,Kasane Airport,37.0,FBKE 281200Z
+FBPM,,37.0,FBPM 281200Z
+VPY  FQCH,Chimoio Airport,37.0,FQCH 281200Z
+MPM  FQMA,Maputo Airport,37.0,FQMA 281200Z
+VJB  FQXA,Xai-Xai Airport,37.0,FQXA 281200Z
+OODQ,,36.0,OODQ 281150Z
+VVZ  DAAP,Illizi Takhamalt Airport,36.0,DAAP 281200Z
+INZ  DAUI,In Salah Airport,36.0,DAUI 281200Z
+YOL  DNYO,Yola Airport,36.0,DNYO 281200Z
+NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 281200Z
+HDS  FAHS,Hoedspruit Air Force Base Airport,36.0,FAHS 281200Z
+GOU  FKKR,Garoua International Airport,36.0,FKKR 281200Z
+UEL  FQQL,Quelimane Airport,36.0,FQQL 281200Z
+NDJ  FTTJ,N'Djamena International Airport,36.0,FTTJ 281200Z
+BLZ  FWCL,Chileka International Airport,36.0,FWCL 281200Z
+NIX  GANR,Nioro du Sahel Airport,36.0,GANR 281200Z
+TOM  GATB,Timbuktu Airport,36.0,GATB 281200Z
+GOOG,,36.0,GOOG 281200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,36.0,OEYN 281200Z
+TIR  VOTP,Tirupati Airport,35.0,VOTP 281130Z
+OUA  DFFD,Ouagadougou Airport,35.0,DFFD 281200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,35.0,DNSO 281200Z
+ZND  DRZR,Zinder Airport,35.0,DRZ
+SHO  FDSK,King Mswati III International Airport,35.0,FDSK 281200Z
+SRH  FTTA,Sarh Airport,35.0,FTTA 281200Z
+BFO  FVCZ,Buffalo Range Airport,35.0,FVCZ
+VFA  FVFA,Victoria Falls International Airport,35.0,FVFA 281200Z
+MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 281200Z
+TUD  GOTT,Tambacounda Airport,35.0,GOTT 281200Z
+JIB  HDAM,Djibouti-Ambouli Airport,35.0,HDAM 281200Z
+GIZ  OEGN,Jizan Regional Airport,35.0,OEGN 281200Z
+OHS  OOSH,Sohar Airport,34.0,OOSH 281150Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,34.0,DNAA 281200Z
+DNKT,,34.0,DNKT 281200Z
+MFQ  DRRM,Maradi Airport,34.0,DRRM 281200Z
+THZ  DRRT,Tahoua Airport,34.0,DRRT 281200Z
+AJY  DRZA,Mano Dayak International Airport,34.0,DRZ
+DRZF,Diffa Airport,34.0,DRZ
+MQP  FAKN,Kruger Mpumalanga International Airport,34.0,FAKN 281200Z
+MQQ  FTTD,Moundou Airport,34.0,FTTD 281200Z
+NDU  FYRU,Rundu Airport,34.0,FYRU 281200Z
+BKO  GABS,Modibo Keita International Airport,34.0,GABS 281200Z
+KLC  GOOK,Kaolack Airport,34.0,GOOK 281200Z
+XLS  GOSS,Saint Louis Airport,34.0,GOSS 281200Z
+KGG  GOTK,Kédougou Airport,34.0,GOTK 281200Z
