@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BBK  FBKE,Kasane Airport,37.0,FBKE 281200Z
-FBPM,,37.0,FBPM 281200Z
-VPY  FQCH,Chimoio Airport,37.0,FQCH 281200Z
-MPM  FQMA,Maputo Airport,37.0,FQMA 281200Z
-VJB  FQXA,Xai-Xai Airport,37.0,FQXA 281200Z
-OODQ,,36.0,OODQ 281150Z
-VVZ  DAAP,Illizi Takhamalt Airport,36.0,DAAP 281200Z
-INZ  DAUI,In Salah Airport,36.0,DAUI 281200Z
-YOL  DNYO,Yola Airport,36.0,DNYO 281200Z
-NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 281200Z
-HDS  FAHS,Hoedspruit Air Force Base Airport,36.0,FAHS 281200Z
-GOU  FKKR,Garoua International Airport,36.0,FKKR 281200Z
-UEL  FQQL,Quelimane Airport,36.0,FQQL 281200Z
-NDJ  FTTJ,N'Djamena International Airport,36.0,FTTJ 281200Z
-BLZ  FWCL,Chileka International Airport,36.0,FWCL 281200Z
-NIX  GANR,Nioro du Sahel Airport,36.0,GANR 281200Z
-TOM  GATB,Timbuktu Airport,36.0,GATB 281200Z
-GOOG,,36.0,GOOG 281200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,36.0,OEYN 281200Z
-TIR  VOTP,Tirupati Airport,35.0,VOTP 281130Z
-OUA  DFFD,Ouagadougou Airport,35.0,DFFD 281200Z
-SKO  DNSO,Sadiq Abubakar III International Airport,35.0,DNSO 281200Z
-ZND  DRZR,Zinder Airport,35.0,DRZ
-SHO  FDSK,King Mswati III International Airport,35.0,FDSK 281200Z
-SRH  FTTA,Sarh Airport,35.0,FTTA 281200Z
-BFO  FVCZ,Buffalo Range Airport,35.0,FVCZ
-VFA  FVFA,Victoria Falls International Airport,35.0,FVFA 281200Z
-MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 281200Z
-TUD  GOTT,Tambacounda Airport,35.0,GOTT 281200Z
-JIB  HDAM,Djibouti-Ambouli Airport,35.0,HDAM 281200Z
-GIZ  OEGN,Jizan Regional Airport,35.0,OEGN 281200Z
-OHS  OOSH,Sohar Airport,34.0,OOSH 281150Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,34.0,DNAA 281200Z
-DNKT,,34.0,DNKT 281200Z
-MFQ  DRRM,Maradi Airport,34.0,DRRM 281200Z
-THZ  DRRT,Tahoua Airport,34.0,DRRT 281200Z
-AJY  DRZA,Mano Dayak International Airport,34.0,DRZ
-DRZF,Diffa Airport,34.0,DRZ
-MQP  FAKN,Kruger Mpumalanga International Airport,34.0,FAKN 281200Z
-MQQ  FTTD,Moundou Airport,34.0,FTTD 281200Z
-NDU  FYRU,Rundu Airport,34.0,FYRU 281200Z
-BKO  GABS,Modibo Keita International Airport,34.0,GABS 281200Z
-KLC  GOOK,Kaolack Airport,34.0,GOOK 281200Z
-XLS  GOSS,Saint Louis Airport,34.0,GOSS 281200Z
-KGG  GOTK,Kédougou Airport,34.0,GOTK 281200Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,33.0,MMHO 290040Z
+LAP  MMLP,Manuel Márquez de León International Airport,33.0,MMLP 290046Z
+PTTP,,33.0,PTTP 290054Z
+FUN  NGFU,Funafuti International Airport,33.0,NGFU 290100Z
+THE  SBTE,Senador Petrônio Portela Airport,33.0,SBTE 290100Z
+DRW  YPDN,Darwin International Airport,33.0,YPDN 290100Z
+PMV  SVMG,Del Caribe Santiago Mariño International Airport,33.0,SVMG 290103Z
+PNI  PTPN,Pohnpei International Airport,32.0,PTPN 290057Z
+MDC  WAMM,Sam Ratulangi Airport,32.0,WAMM 290100Z
+HID  YHID,Horn Island Airport,32.0,YHID 290100Z
+LEA  YPLM,Learmonth Airport,32.0,YPLM 290100Z
+LTO  MMLT,Loreto International Airport,31.0,MMLT 290040Z
+SJD  MMSD,Los Cabos International Airport,31.0,MMSD 290040Z
+ZIH  MMZH,Ixtapa Zihuatanejo International Airport,31.0,MMZ
+MMSL,Cabo San Lucas International Airport,31.0,MMSL 290045Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,31.0,KPHX 290051Z
+TKK  PTKK,Chuuk International Airport,31.0,PTKK 290052Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 290054Z
+PYE  NCPY,Tongareva Airport,31.0,NCPY 290200Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 290100Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 290100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 290100Z
+KWA  PKWA,Bucholz Army Air Field,31.0,PKWA 290100Z
+JDO  SBJU,Orlando Bezerra de Menezes Airport,31.0,SBJU 290100Z
+UPG  WAAA,Hasanuddin International Airport,31.0,WAAA 290100Z
+BIK  WABB,Frans Kaisiepo Airport,31.0,WABB 290100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 290100Z
+SUB  WARR,Juanda International Airport,31.0,WARR 290100Z
+SDK  WBKS,Sandakan Airport,31.0,WBKS 290100Z
+TNJ  WIDN,Raja Haji Fisabilillah International Airport,31.0,WIDN 290100Z
+CGK  WIII,Soekarno-Hatta International Airport,31.0,WIII 290100Z
+QPG  WSAP,Paya Lebar Air Base,31.0,WSAP 290100Z
+XSP  WSSL,Seletar Airport,31.0,WSSL 290100Z
+ASP  YBAS,Alice Springs Airport,31.0,YBAS 290100Z
+BME  YBRM,Broome International Airport,31.0,YBRM 290100Z
+DCN  YCIN,RAAF Base Curtin,31.0,YCIN 290100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 290100Z
+CUL  MMCL,Bachigualato Federal International Airport,30.0,MMCL 290045Z
+KCHD,Chandler Municipal Airport,30.0,KCHD 290047Z
+KGEU,Glendale Municipal Airport,30.0,KGEU 290048Z
+PPG  NSTU,Pago Pago International Airport,30.0,NSTU 290050Z
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 290050Z
+PKMR,,30.0,PKMR 290051Z
+MSC  KFFZ,Falcon Field,30.0,KFFZ
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 290054Z
