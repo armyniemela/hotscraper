@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MZI  GAMB,Mopti Airport,37.0,GAMB 301200Z
-NIX  GANR,Nioro du Sahel Airport,37.0,GANR 301200Z
-TOM  GATB,Timbuktu Airport,37.0,GATB 301200Z
-MAX  GOSM,Ouro Sogui Airport,37.0,GOSM 301200Z
-OOAD,,36.0,OOAD 301150Z
-YOL  DNYO,Yola Airport,36.0,DNYO 301200Z
-SRH  FTTA,Sarh Airport,36.0,FTTA 301200Z
-MQQ  FTTD,Moundou Airport,36.0,FTTD 301200Z
-GAKD,,36.0,GAKD 301200Z
-POD  GOSP,Podor Airport,36.0,GOSP 301200Z
-TUD  GOTT,Tambacounda Airport,36.0,GOTT 301200Z
-INZ  DAUI,In Salah Airport,35.0,DAUI 301200Z
-OUA  DFFD,Ouagadougou Airport,35.0,DFFD 301200Z
-DNGO,,35.0,DNGO 301200Z
-BBK  FBKE,Kasane Airport,35.0,FBKE 301200Z
-MUB  FBMN,Maun Airport,35.0,FBMN 301200Z
-FBPM,,35.0,FBPM 301200Z
-MFU  FLMF,Mfuwe Airport,35.0,FLMF 301200Z
-BKO  GABS,Modibo Keita International Airport,35.0,GABS 301200Z
-KGG  GOTK,Kédougou Airport,35.0,GOTK 301200Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,35.0,GQNO 301200Z
-JED  OEJN,King Abdulaziz International Airport,35.0,OEJN 301200Z
-IHR  OIZI,Iran Shahr Airport,35.0,OIZ
-JAI  VIJP,Jaipur International Airport,35.0,VIJP 301200Z
-HME  DAUH,Oued Irara Airport,34.0,DAUH 301200Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,34.0,DNAA 301200Z
-DNKT,,34.0,DNKT 301200Z
-ZND  DRZR,Zinder Airport,34.0,DRZ
-MJN  FMNM,Amborovy Airport,34.0,FMNM 301200Z
-VPY  FQCH,Chimoio Airport,34.0,FQCH 301200Z
-NDJ  FTTJ,N'Djamena International Airport,34.0,FTTJ 301200Z
-NDU  FYRU,Rundu Airport,34.0,FYRU 301200Z
-KLC  GOOK,Kaolack Airport,34.0,GOOK 301200Z
-XLS  GOSS,Saint Louis Airport,34.0,GOSS 301200Z
-SHW  OESH,Sharurah Airport,34.0,OESH 301200Z
-WAE  OEWD,Wadi Al Dawasir Airport,34.0,OEWD 301200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,34.0,OEYN 301200Z
-BND  OIKB,Bandar Abbas International Airport,34.0,OIKB 301200Z
-LFM  OISR,Lamerd Airport,34.0,OISR 301200Z
-GXF  OYSY,Sayun International Airport,34.0,OYSY 301200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,34.0,VAAH 301200Z
-BDQ  VABO,Vadodara Airport,34.0,VABO 301200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,34.0,OEMA 301213Z
-KHS  OOKB,Khasab Air Base,33.0,OOKB 301150Z
-VVZ  DAAP,Illizi Takhamalt Airport,33.0,DAAP 301200Z
+DCN  YCIN,RAAF Base Curtin,33.0,YCIN 310100Z
+LBS  NFNL,Labasa Airport,32.0,NFNL 310100Z
+BVB  SBBV,Atlas Brasil Cantanhede Airport,32.0,SBBV 310100Z
+BIK  WABB,Frans Kaisiepo Airport,32.0,WABB 310100Z
+MDC  WAMM,Sam Ratulangi Airport,32.0,WAMM 310100Z
+KOE  WATT,El Tari Airport,32.0,WATT 310100Z
+WTB  YBWW,Toowoomba Wellcamp Airport,32.0,YBWW 310100Z
+NLD  MMNL,Quetzalcóatl International Airport,31.0,MMNL 310040Z
+TKK  PTKK,Chuuk International Airport,31.0,PTKK 310050Z
+COT  KCOT,Cotulla-La Salle County Airport,31.0,KCOT 310053Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 310054Z
+KAPY,Zapata County Airport,31.0,KAPY 310055Z
+LRD  KLRD,Laredo International Airport,31.0,KLRD 310056Z
+HIR  AGGH,Honiara International Airport,31.0,AGGH 310100Z
+POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 310100Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 310100Z
+CXI  PLCH,Cassidy International Airport,31.0,PLCH 310100Z
+DVO  RPMD,Francisco Bangoy International Airport,31.0,RPMD 310100Z
+GES  RPMR,General Santos International Airport,31.0,RPMR 310100Z
+ASU  SGAS,Silvio Pettirossi International Airport,31.0,SGAS 310100Z
+SMR  SKSM,Simón Bolívar International Airport,31.0,SKSM 310100Z
+WAHS,,31.0,WAHS 310100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 310100Z
+SUB  WARR,Juanda International Airport,31.0,WARR 310100Z
+QPG  WSAP,Paya Lebar Air Base,31.0,WSAP 310100Z
+BME  YBRM,Broome International Airport,31.0,YBRM 310100Z
+LEA  YPLM,Learmonth Airport,31.0,YPLM 310100Z
+HID  YHID,Horn Island Airport,31.0,YHID 310105Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 310037Z
+ADS  KADS,Addison Airport,30.0,KADS 310047Z
+ZIH  MMZH,Ixtapa Zihuatanejo International Airport,30.0,MMZ
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 310050Z
+DAL  KDAL,Dallas Love Field,30.0,KDAL 310053Z
+JRF  PHJR,Kalaeloa Airport,30.0,PHJR 310053Z
+KPZZ,,30.0,KPZ
+NGF  PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,30.0,PHNG 310057Z
+INU  ANYN,Nauru International Airport,30.0,ANYN 310100Z
+MHX  NCMH,Manihiki Island Airport,30.0,NCMH 310100Z
+NCPL,,30.0,NCPL 310100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 310100Z
+FUN  NGFU,Funafuti International Airport,30.0,NGFU 310100Z
+APW  NSFA,Faleolo International Airport,30.0,NSFA 310100Z
+JED  OEJN,King Abdulaziz International Airport,30.0,OEJN 310100Z
+OKA  ROAH,Naha Airport,30.0,ROAH 310100Z
+MMD  ROMD,Minami-Daito Airport,30.0,ROMD 310100Z
