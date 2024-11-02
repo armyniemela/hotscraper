@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MDC  WAMM,Sam Ratulangi Airport,32.0,WAMM 020100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 020100Z
-LEA  YPLM,Learmonth Airport,32.0,YPLM 020100Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 020100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 020100Z
-UMR  YPWR,Woomera Airfield,32.0,YPWR 020100Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 020050Z
-TKK  PTKK,Chuuk International Airport,31.0,PTKK 020050Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 020052Z
-UAM  PGUA,Andersen Air Force Base,31.0,PGUA 020055Z
-MAJ  PKMJ,Marshall Islands International Airport,31.0,PKMJ 020055Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 020056Z
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 020100Z
-TRW  NGTA,Bonriki International Airport,31.0,NGTA 020100Z
-NOU  NWWW,La Tontouta International Airport,31.0,NWWW 020100Z
-KWA  PKWA,Bucholz Army Air Field,31.0,PKWA 020100Z
-MMD  ROMD,Minami-Daito Airport,31.0,ROMD 020100Z
-KTD  RORK,Kitadaito Airport,31.0,RORK 020100Z
-MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 020100Z
-GES  RPMR,General Santos International Airport,31.0,RPMR 020100Z
-BVB  SBBV,Atlas Brasil Cantanhede Airport,31.0,SBBV 020100Z
-MAO  SBEG,Eduardo Gomes International Airport,31.0,SBEG 020100Z
-JDO  SBJU,Orlando Bezerra de Menezes Airport,31.0,SBJU 020100Z
-THE  SBTE,Senador Petrônio Portela Airport,31.0,SBTE 020100Z
-BIK  WABB,Frans Kaisiepo Airport,31.0,WABB 020100Z
-LOP  WADL,Lombok International Airport,31.0,WADL 020100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 020100Z
-WAYY,,31.0,WAYY 020100Z
-MYY  WBGR,Miri Airport,31.0,WBGR 020100Z
-BKI  WBKK,Kota Kinabalu International Airport,31.0,WBKK 020100Z
-CGK  WIII,Soekarno-Hatta International Airport,31.0,WIII 020100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 020100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 020100Z
-KNX  YPKU,Kununurra Airport,31.0,YPKU 020100Z
-ZLO  MMZO,Playa De Oro International Airport,30.0,MMZ
-ZIH  MMZH,Ixtapa Zihuatanejo International Airport,30.0,MMZ
-YAP  PTYA,Yap International Airport,30.0,PTYA 020052Z
-JRF  PHJR,Kalaeloa Airport,30.0,PHJR 020053Z
-KOA  PHKO,Ellison Onizuka Kona International At Keahole Airport,30.0,PHKO 020053Z
-PKMR,,30.0,PKMR 020053Z
-KPZZ,,30.0,KPZ
-AWK  PWAK,Wake Island Airfield,30.0,PWAK 020055Z
-NCPL,,30.0,NCPL 020100Z
-NAN  NFFN,Nadi International Airport,30.0,NFFN 020100Z
-SUV  NFNA,Nausori International Airport,30.0,NFNA 020100Z
+UTN  FAUP,Pierre Van Ryneveld Airport,37.0,FAUP 021200Z
+FDMY,,37.0,FDMY 021200Z
+KMP  FYKT,Keetmanshoop Airport,37.0,FYKT 021200Z
+MZI  GAMB,Mopti Airport,37.0,GAMB 021200Z
+NIX  GANR,Nioro du Sahel Airport,37.0,GANR 021200Z
+POD  GOSP,Podor Airport,37.0,GOSP 021200Z
+WJR  HKWJ,Wajir Airport,37.0,HKWJ 021200Z
+OOAD,,36.0,OOAD 021150Z
+OUA  DFFD,Ouagadougou Airport,36.0,DFFD 021200Z
+NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 021200Z
+BFN  FABL,Bram Fischer International Airport,36.0,FABL 021200Z
+MQP  FAKN,Kruger Mpumalanga International Airport,36.0,FAKN 021200Z
+MBD  FAMM,Mmabatho International Airport,36.0,FAMM 021200Z
+NTY  FAPN,Pilanesberg International Airport,36.0,FAPN 021200Z
+GBE  FBSK,Sir Seretse Khama International Airport,36.0,FBSK 021200Z
+MPA  FYKM,Katima Mulilo Airport,36.0,FYKM 021200Z
+BKO  GABS,Modibo Keita International Airport,36.0,GABS 021200Z
+GAQ  GAGO,Gao Airport,36.0,GAGO 021200Z
+GAKD,,36.0,GAKD 021200Z
+ATR  GQPA,Atar International Airport,36.0,GQPA 021200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 021200Z
+AAN  OMAL,Al Ain International Airport,36.0,OMAL 021200Z
+XJD  OTBH,Al Udeid Air Base,35.0,OTBH 021155Z
+SKO  DNSO,Sadiq Abubakar III International Airport,35.0,DNSO 021200Z
+BBK  FBKE,Kasane Airport,35.0,FBKE 021200Z
+FBPM,,35.0,FBPM 021200Z
+MFU  FLMF,Mfuwe Airport,35.0,FLMF 021200Z
+TET  FQTT,Chingozi Airport,35.0,FQTT 021200Z
+DSS  GOBD,Blaise Diagne International Airport,35.0,GOBD 021200Z
+GOOD,,35.0,GOOD 021200Z
+MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 021200Z
+KGG  GOTK,Kédougou Airport,35.0,GOTK 021200Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,35.0,GQNO 021200Z
+JED  OEJN,King Abdulaziz International Airport,35.0,OEJN 021200Z
+OEMN,,35.0,OEMN 021200Z
+LFM  OISR,Lamerd Airport,35.0,OISR 021200Z
+IHR  OIZI,Iran Shahr Airport,35.0,OIZ
+BMW  DATM,Bordj Badji Mokhtar Airport,34.0,DATM 021200Z
+MXJ  DNMN,Minna Airport,34.0,DNMN 021200Z
+YOL  DNYO,Yola Airport,34.0,DNYO 021200Z
+PTG  FAPP,Polokwane International Airport,34.0,FAPP 021200Z
+MTS  FDMS,Matsapha Airport,34.0,FDMS 021200Z
+SHO  FDSK,King Mswati III International Airport,34.0,FDSK 021200Z
+VJB  FQXA,Xai-Xai Airport,34.0,FQXA 021200Z
+NDJ  FTTJ,N'Djamena International Airport,34.0,FTTJ 021200Z
