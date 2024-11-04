@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,36.0,YBMA 040100Z
-KNX  YPKU,Kununurra Airport,36.0,YPKU 040100Z
-KOE  WATT,El Tari Airport,34.0,WATT 040100Z
-PHE  YPPD,Port Hedland International Airport,34.0,YPPD 040100Z
-APW  NSFA,Faleolo International Airport,33.0,NSFA 040100Z
+TET  FQTT,Chingozi Airport,40.0,FQTT 041200Z
+NTY  FAPN,Pilanesberg International Airport,39.0,FAPN 041200Z
+FBPM,,39.0,FBPM 041200Z
+FDOT,,39.0,FDOT 041200Z
+GBE  FBSK,Sir Seretse Khama International Airport,38.0,FBSK 041200Z

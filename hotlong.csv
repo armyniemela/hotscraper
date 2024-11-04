@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MKQ  WAKK,Mopah Airport,32.0,WAKK 040100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 040100Z
-WTB  YBWW,Toowoomba Wellcamp Airport,32.0,YBWW 040100Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 040100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 040100Z
-TMW  YSTW,Tamworth Airport,32.0,YSTW 040100Z
-ZIH  MMZH,Ixtapa Zihuatanejo International Airport,31.0,MMZ
-LOV  MMMV,Monclova International Airport,31.0,MMMV 040043Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 040050Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 040050Z
-SPN  PGSN,Saipan International Airport,31.0,PGSN 040054Z
-KPZZ,,31.0,KPZ
-HIR  AGGH,Honiara International Airport,31.0,AGGH 040100Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 040100Z
-NCPL,,31.0,NCPL 040100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 040100Z
-ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
-STM  SBSN,Maestro Wilson Fonseca Airport,31.0,SBSN 040100Z
-THE  SBTE,Senador Petrônio Portela Airport,31.0,SBTE 040100Z
-BIK  WABB,Frans Kaisiepo Airport,31.0,WABB 040100Z
-DPS  WADD,Ngurah Rai (Bali) International Airport,31.0,WADD 040100Z
-LOP  WADL,Lombok International Airport,31.0,WADL 040100Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 040100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 040100Z
-YAMB,RAAF Base Amberley,31.0,YAMB 040100Z
-ASP  YBAS,Alice Springs Airport,31.0,YBAS 040100Z
-DCN  YCIN,RAAF Base Curtin,31.0,YCIN 040100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 040100Z
-AWK  PWAK,Wake Island Airfield,31.0,PWAK 040105Z
-NLD  MMNL,Quetzalcóatl International Airport,30.0,MMNL 040043Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 040052Z
-COT  KCOT,Cotulla-La Salle County Airport,30.0,KCOT 040053Z
-JRF  PHJR,Kalaeloa Airport,30.0,PHJR 040053Z
-HNL  PHNL,Daniel K Inouye International Airport,30.0,PHNL 040053Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 040054Z
-UAM  PGUA,Andersen Air Force Base,30.0,PGUA 040055Z
-PSE  TJPS,Mercedita Airport,30.0,TJPS 040055Z
-PKMR,,30.0,PKMR 040056Z
-NAN  NFFN,Nadi International Airport,30.0,NFFN 040100Z
-LBS  NFNL,Labasa Airport,30.0,NFNL 040100Z
-FUN  NGFU,Funafuti International Airport,30.0,NGFU 040100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 040100Z
-PPT  NTAA,Faa'a International Airport,30.0,NTAA 040100Z
-CXI  PLCH,Cassidy International Airport,30.0,PLCH 040100Z
-CRK  RPLC,Diosdado Macapagal International Airport,30.0,RPLC 040100Z
+FDMY,,38.0,FDMY 041200Z
+MAX  GOSM,Ouro Sogui Airport,38.0,GOSM 041200Z
+HDS  FAHS,Hoedspruit Air Force Base Airport,37.0,FAHS 041200Z
+BBK  FBKE,Kasane Airport,37.0,FBKE 041200Z
+MUB  FBMN,Maun Airport,37.0,FBMN 041200Z
+NIX  GANR,Nioro du Sahel Airport,37.0,GANR 041200Z
+GOOG,,37.0,GOOG 041200Z
+LOK  HKLO,Lodwar Airport,37.0,HKLO 041200Z
+HOF  OEAH,Al Ahsa Airport,37.0,OEAH 041200Z
+OOAD,,36.0,OOAD 041150Z
+MQP  FAKN,Kruger Mpumalanga International Airport,36.0,FAKN 041200Z
+SHO  FDSK,King Mswati III International Airport,36.0,FDSK 041200Z
+VJB  FQXA,Xai-Xai Airport,36.0,FQXA 041200Z
+MPA  FYKM,Katima Mulilo Airport,36.0,FYKM 041200Z
+MZI  GAMB,Mopti Airport,36.0,GAMB 041200Z
+TUD  GOTT,Tambacounda Airport,36.0,GOTT 041200Z
+GAS  HKGA,Garissa Airport,36.0,HKGA 041200Z
+DMM  OEDF,King Fahd International Airport,36.0,OEDF 041200Z
+LFM  OISR,Lamerd Airport,36.0,OISR 041200Z
+IHR  OIZI,Iran Shahr Airport,36.0,OIZ
+AAN  OMAL,Al Ain International Airport,36.0,OMAL 041200Z
+XJD  OTBH,Al Udeid Air Base,35.0,OTBH 041155Z
+OUA  DFFD,Ouagadougou Airport,35.0,DFFD 041200Z
+NIM  DRRN,Diori Hamani International Airport,35.0,DRRN 041200Z
+THZ  DRRT,Tahoua Airport,35.0,DRRT 041200Z
+HLA  FALA,Lanseria Airport,35.0,FALA 041200Z
+MBD  FAMM,Mmabatho International Airport,35.0,FAMM 041200Z
+PTG  FAPP,Polokwane International Airport,35.0,FAPP 041200Z
+MTS  FDMS,Matsapha Airport,35.0,FDMS 041200Z
+APL  FQNP,Nampula Airport,35.0,FQNP 041200Z
+SRH  FTTA,Sarh Airport,35.0,FTTA 041200Z
+MQQ  FTTD,Moundou Airport,35.0,FTTD 041200Z
+BKO  GABS,Modibo Keita International Airport,35.0,GABS 041200Z
+GAQ  GAGO,Gao Airport,35.0,GAGO 041200Z
+TOM  GATB,Timbuktu Airport,35.0,GATB 041200Z
+GOOD,,35.0,GOOD 041200Z
+POD  GOSP,Podor Airport,35.0,GOSP 041200Z
+AKW  OIAG,Aghajari Airport,35.0,OIAG 041200Z
+KQD3,,34.0,KQD3 041155Z
+BMW  DATM,Bordj Badji Mokhtar Airport,34.0,DATM 041200Z
+INZ  DAUI,In Salah Airport,34.0,DAUI 041200Z
+FAJB,,34.0,FAJB 041200Z
+FAVV,Vereeniging Airport,34.0,FAVV 041200Z
+NDJ  FTTJ,N'Djamena International Airport,34.0,FTTJ 041200Z
+GAKD,,34.0,GAKD 041200Z
