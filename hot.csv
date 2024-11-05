@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,37.0,YBMA 050100Z
-FOS  YFRT,Forrest Airport,36.0,YFRT 050100Z
-ASP  YBAS,Alice Springs Airport,35.0,YBAS 050100Z
-KNX  YPKU,Kununurra Airport,35.0,YPKU 050100Z
-UMR  YPWR,Woomera Airfield,35.0,YPWR 050100Z
+TET  FQTT,Chingozi Airport,43.0,FQTT 051200Z
+GOOG,,38.0,GOOG 051200Z
+OOAD,,37.0,OOAD 051150Z
+FBPM,,37.0,FBPM 051200Z
+MZI  GAMB,Mopti Airport,37.0,GAMB 051200Z
