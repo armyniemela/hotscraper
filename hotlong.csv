@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NIX  GANR,Nioro du Sahel Airport,37.0,GANR 051200Z
-ACZ  OIZB,Zabol Airport,37.0,OIZ
-GAKD,,36.0,GAKD 051200Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,36.0,GQNO 051200Z
-GAS  HKGA,Garissa Airport,36.0,HKGA 051200Z
-DMM  OEDF,King Fahd International Airport,36.0,OEDF 051200Z
-IHR  OIZI,Iran Shahr Airport,36.0,OIZ
-AAN  OMAL,Al Ain International Airport,36.0,OMAL 051200Z
-XJD  OTBH,Al Udeid Air Base,35.0,OTBH 051155Z
-OUA  DFFD,Ouagadougou Airport,35.0,DFFD 051200Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 051200Z
-BBK  FBKE,Kasane Airport,35.0,FBKE 051200Z
-VPE  FNGI,Ngjiva Pereira Airport,35.0,FNGI 051200Z
-APL  FQNP,Nampula Airport,35.0,FQNP 051200Z
-BLZ  FWCL,Chileka International Airport,35.0,FWCL 051200Z
-GAQ  GAGO,Gao Airport,35.0,GAGO 051200Z
-GOOD,,35.0,GOOD 051200Z
-MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 051200Z
-POD  GOSP,Podor Airport,35.0,GOSP 051200Z
-KGG  GOTK,Kédougou Airport,35.0,GOTK 051200Z
-TUD  GOTT,Tambacounda Airport,35.0,GOTT 051200Z
-LOK  HKLO,Lodwar Airport,35.0,HKLO 051200Z
-HOF  OEAH,Al Ahsa Airport,35.0,OEAH 051200Z
-OEMN,,35.0,OEMN 051200Z
-RKT  OMRK,Ras Al Khaimah International Airport,35.0,OMRK 051200Z
-OHS  OOSH,Sohar Airport,34.0,OOSH 051150Z
-YOL  DNYO,Yola Airport,34.0,DNYO 051200Z
-NIM  DRRN,Diori Hamani International Airport,34.0,DRRN 051200Z
-NTY  FAPN,Pilanesberg International Airport,34.0,FAPN 051200Z
-SRH  FTTA,Sarh Airport,34.0,FTTA 051200Z
-NDJ  FTTJ,N'Djamena International Airport,34.0,FTTJ 051200Z
-BKO  GABS,Modibo Keita International Airport,34.0,GABS 051200Z
-AGA  GMAD,Al Massira Airport,34.0,GMAD 051200Z
-ZIG  GOGG,Ziguinchor Airport,34.0,GOGG 051200Z
-KLC  GOOK,Kaolack Airport,34.0,GOOK 051200Z
-XLS  GOSS,Saint Louis Airport,34.0,GOSS 051200Z
-JRO  HTKJ,Kilimanjaro International Airport,34.0,HTKJ 051200Z
-HTMG,Morogoro Airport,34.0,HTMG 051200Z
-DXB  OMDB,Dubai International Airport,34.0,OMDB 051230Z
-DWC  OMDW,Al Maktoum International Airport,34.0,OMDW 051230Z
-AKH  OEPS,Prince Sultan Air Base,33.0,OEPS 051155Z
-BMW  DATM,Bordj Badji Mokhtar Airport,33.0,DATM 051200Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,33.0,DAUA 051200Z
-BOY  DFOO,Bobo Dioulasso Airport,33.0,DFOO 051200Z
-BNI  DNBE,Benin Airport,33.0,DNBE 051200Z
+DCN  YCIN,RAAF Base Curtin,34.0,YCIN 060100Z
+POM  AYPY,Port Moresby Jacksons International Airport,33.0,AYPY 060100Z
+WTB  YBWW,Toowoomba Wellcamp Airport,33.0,YBWW 060100Z
+DRW  YPDN,Darwin International Airport,33.0,YPDN 060100Z
+KTR  YPTN,Tindal Airport,33.0,YPTN 060100Z
+TKK  PTKK,Chuuk International Airport,32.0,PTKK 060050Z
+KSA  PTSA,Kosrae International Airport,32.0,PTSA 060050Z
+PNI  PTPN,Pohnpei International Airport,32.0,PTPN 060058Z
+JDO  SBJU,Orlando Bezerra de Menezes Airport,32.0,SBJU 060100Z
+LOP  WADL,Lombok International Airport,32.0,WADL 060100Z
+DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 060100Z
+MKQ  WAKK,Mopah Airport,32.0,WAKK 060100Z
+ASP  YBAS,Alice Springs Airport,32.0,YBAS 060100Z
+HID  YHID,Horn Island Airport,32.0,YHID 060100Z
+AVV  YMAV,Avalon Airport,32.0,YMAV 060100Z
+TMW  YSTW,Tamworth Airport,32.0,YSTW 060100Z
+CME  MMCE,Ciudad del Carmen International Airport,31.0,MMCE 060045Z
+YAP  PTYA,Yap International Airport,31.0,PTYA 060052Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 060054Z
+AWK  PWAK,Wake Island Airfield,31.0,PWAK 060055Z
+PSE  TJPS,Mercedita Airport,31.0,TJPS 060055Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 060100Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 060100Z
+BVB  SBBV,Atlas Brasil Cantanhede Airport,31.0,SBBV 060100Z
+THE  SBTE,Senador Petrônio Portela Airport,31.0,SBTE 060100Z
+MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 060100Z
+SUB  WARR,Juanda International Airport,31.0,WARR 060100Z
+WAYY,,31.0,WAYY 060100Z
+YAMB,RAAF Base Amberley,31.0,YAMB 060100Z
+ROK  YBRK,Rockhampton Airport,31.0,YBRK 060100Z
+BME  YBRM,Broome International Airport,31.0,YBRM 060100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 060100Z
+DBO  YSDU,Dubbo City Regional Airport,31.0,YSDU 060100Z
+MAJ  PKMJ,Marshall Islands International Airport,31.0,PKMJ 060113Z
+OGG  PHOG,Kahului Airport,30.0,PHOG 060054Z
+KPZZ,,30.0,KPZ
+TIQ  PGWT,Tinian International Airport,30.0,PGWT 060055Z
+PKMR,,30.0,PKMR 060058Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 060100Z
+PPT  NTAA,Faa'a International Airport,30.0,NTAA 060100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 060100Z
+DVO  RPMD,Francisco Bangoy International Airport,30.0,RPMD 060100Z
+GES  RPMR,General Santos International Airport,30.0,RPMR 060100Z
+ZAM  RPMZ,Zamboanga International Airport,30.0,RPMZ
+CEB  RPVM,Mactan Cebu International Airport,30.0,RPVM 060100Z
