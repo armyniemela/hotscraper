@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ROK  YBRK,Rockhampton Airport,33.0,YBRK 090100Z
-GLT  YGLA,Gladstone Airport,33.0,YGLA 090100Z
-KSA  PTSA,Kosrae International Airport,32.0,PTSA 090050Z
-POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 090100Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 090100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 090100Z
-MDC  WAMM,Sam Ratulangi Airport,32.0,WAMM 090100Z
-SUB  WARR,Juanda International Airport,32.0,WARR 090100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 090100Z
-DCN  YCIN,RAAF Base Curtin,32.0,YCIN 090100Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 090100Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 090100Z
-PKMR,,31.0,PKMR 090052Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 090054Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 090100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 090100Z
-CXI  PLCH,Cassidy International Airport,31.0,PLCH 090100Z
-MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 090100Z
-CEB  RPVM,Mactan Cebu International Airport,31.0,RPVM 090100Z
-THE  SBTE,Senador Petrônio Portela Airport,31.0,SBTE 090100Z
-LOP  WADL,Lombok International Airport,31.0,WADL 090100Z
-WAHS,,31.0,WAHS 090100Z
-MKQ  WAKK,Mopah Airport,31.0,WAKK 090100Z
-WAYY,,31.0,WAYY 090100Z
-YAMB,RAAF Base Amberley,31.0,YAMB 090100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 090100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 090100Z
-ZIH  MMZH,Ixtapa Zihuatanejo International Airport,30.0,MMZ
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 090050Z
-PTTP,,30.0,PTTP 090050Z
-BKH  PHBK,Barking Sands Airport,30.0,PHBK 090051Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 090054Z
-KPZZ,,30.0,KPZ
-TIQ  PGWT,Tinian International Airport,30.0,PGWT 090055Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 090055Z
-LAE  AYNZ,Nadzab Airport,30.0,AYNZ
-PYE  NCPY,Tongareva Airport,30.0,NCPY 090100Z
-PPT  NTAA,Faa'a International Airport,30.0,NTAA 090100Z
-KWA  PKWA,Bucholz Army Air Field,30.0,PKWA 090100Z
-SFS  RPLB,Subic Bay International Airport,30.0,RPLB 090100Z
-DVO  RPMD,Francisco Bangoy International Airport,30.0,RPMD 090100Z
-GES  RPMR,General Santos International Airport,30.0,RPMR 090100Z
-ZAM  RPMZ,Zamboanga International Airport,30.0,RPMZ
-DGT  RPVD,Sibulan Airport,30.0,RPVD 090100Z
-PPS  RPVP,Puerto Princesa Airport,30.0,RPVP 090100Z
+MPA  FYKM,Katima Mulilo Airport,36.0,FYKM 091200Z
+MZI  GAMB,Mopti Airport,36.0,GAMB 091200Z
+GOOD,,36.0,GOOD 091200Z
+TUD  GOTT,Tambacounda Airport,36.0,GOTT 091200Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,36.0,GQNO 091200Z
+OEMN,,36.0,OEMN 091200Z
+IHR  OIZI,Iran Shahr Airport,36.0,OIZ
+OOAD,,35.0,OOAD 091150Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 091200Z
+MFU  FLMF,Mfuwe Airport,35.0,FLMF 091200Z
+TET  FQTT,Chingozi Airport,35.0,FQTT 091200Z
+MQQ  FTTD,Moundou Airport,35.0,FTTD 091200Z
+NIX  GANR,Nioro du Sahel Airport,35.0,GANR 091200Z
+EUN  GMML,Hassan I Airport,35.0,GMML 091200Z
+DSS  GOBD,Blaise Diagne International Airport,35.0,GOBD 091200Z
+MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 091200Z
+LOK  HKLO,Lodwar Airport,35.0,HKLO 091200Z
+WJR  HKWJ,Wajir Airport,35.0,HKWJ 091200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,35.0,OEMA 091200Z
+OUA  DFFD,Ouagadougou Airport,34.0,DFFD 091200Z
+QOW  DNIM,Sam Mbakwe International Airport,34.0,DNIM 091200Z
+YOL  DNYO,Yola Airport,34.0,DNYO 091200Z
+NIM  DRRN,Diori Hamani International Airport,34.0,DRRN 091200Z
+UTN  FAUP,Pierre Van Ryneveld Airport,34.0,FAUP 091200Z
+BFO  FVCZ,Buffalo Range Airport,34.0,FVCZ
+VFA  FVFA,Victoria Falls International Airport,34.0,FVFA 091200Z
+KMP  FYKT,Keetmanshoop Airport,34.0,FYKT 091200Z
+GAQ  GAGO,Gao Airport,34.0,GAGO 091200Z
+GAKD,,34.0,GAKD 091200Z
+AGA  GMAD,Al Massira Airport,34.0,GMAD 091200Z
+ZIG  GOGG,Ziguinchor Airport,34.0,GOGG 091200Z
+JIB  HDAM,Djibouti-Ambouli Airport,34.0,HDAM 091200Z
+GIZ  OEGN,Jizan Regional Airport,34.0,OEGN 091200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,34.0,OEYN 091200Z
+LFM  OISR,Lamerd Airport,34.0,OISR 091200Z
+XJD  OTBH,Al Udeid Air Base,33.0,OTBH 091155Z
+BOY  DFOO,Bobo Dioulasso Airport,33.0,DFOO 091200Z
+ENU  DNEN,Akanu Ibiam International Airport,33.0,DNEN 091200Z
+ILR  DNIL,Ilorin International Airport,33.0,DNIL 091200Z
+LRL  DXNG,Niamtougou International Airport,33.0,DXNG 091200Z
+DXSK,Sokodé Airport,33.0,DXSK 091200Z
+DIE  FMNA,Arrachart Airport,33.0,FMNA 091200Z
+NDJ  FTTJ,N'Djamena International Airport,33.0,FTTJ 091200Z
+BKO  GABS,Modibo Keita International Airport,33.0,GABS 091200Z
+BJL  GBYD,Banjul International Airport,33.0,GBYD 091200Z
