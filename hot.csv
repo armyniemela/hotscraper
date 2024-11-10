@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,38.0,YBMA 100100Z
-KNX  YPKU,Kununurra Airport,36.0,YPKU 100100Z
-PHE  YPPD,Port Hedland International Airport,36.0,YPPD 100100Z
-KOE  WATT,El Tari Airport,35.0,WATT 100100Z
-DCN  YCIN,RAAF Base Curtin,34.0,YCIN 100100Z
+AUN  KAUN,Auburn Municipal Airport,46.0,KAUN 101215Z
+TET  FQTT,Chingozi Airport,39.0,FQTT 101200Z
+BFO  FVCZ,Buffalo Range Airport,39.0,FVCZ
+GOOG,,36.0,GOOG 101200Z
+KLC  GOOK,Kaolack Airport,36.0,GOOK 101200Z
