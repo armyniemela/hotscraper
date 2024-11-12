@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MQQ  FTTD,Moundou Airport,36.0,FTTD 111200Z
-TUD  GOTT,Tambacounda Airport,36.0,GOTT 111200Z
-AKW  OIAG,Aghajari Airport,36.0,OIAG 111200Z
-OKAS,Ali Al Salem Air Base,35.0,OKAS 111155Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 111200Z
-ILR  DNIL,Ilorin International Airport,35.0,DNIL 111200Z
-YOL  DNYO,Yola Airport,35.0,DNYO 111200Z
-UEL  FQQL,Quelimane Airport,35.0,FQQL 111200Z
-NDJ  FTTJ,N'Djamena International Airport,35.0,FTTJ 111200Z
-MVZ  FVMV,Masvingo International Airport,35.0,FVMV 111200Z
-MZI  GAMB,Mopti Airport,35.0,GAMB 111200Z
-NIX  GANR,Nioro du Sahel Airport,35.0,GANR 111200Z
-DSS  GOBD,Blaise Diagne International Airport,35.0,GOBD 111200Z
-GOOD,,35.0,GOOD 111200Z
-GOOG,,35.0,GOOG 111200Z
-MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 111200Z
-XLS  GOSS,Saint Louis Airport,35.0,GOSS 111200Z
-KGG  GOTK,Kédougou Airport,35.0,GOTK 111200Z
-LOK  HKLO,Lodwar Airport,35.0,HKLO 111200Z
-DMM  OEDF,King Fahd International Airport,35.0,OEDF 111200Z
-OEMN,,35.0,OEMN 111200Z
-MRX  OIAM,Mahshahr Airport,35.0,OIAM 111200Z
-AWZ  OIAW,Ahwaz Airport,35.0,OIAW 111200Z
-OOAD,,34.0,OOAD 111150Z
-OUA  DFFD,Ouagadougou Airport,34.0,DFFD 111200Z
-QOW  DNIM,Sam Mbakwe International Airport,34.0,DNIM 111200Z
-BLZ  FWCL,Chileka International Airport,34.0,FWCL 111200Z
-BKO  GABS,Modibo Keita International Airport,34.0,GABS 111200Z
-GAQ  GAGO,Gao Airport,34.0,GAGO 111200Z
-GAKD,,34.0,GAKD 111200Z
-ZIG  GOGG,Ziguinchor Airport,34.0,GOGG 111200Z
-KLC  GOOK,Kaolack Airport,34.0,GOOK 111200Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,34.0,GQNO 111200Z
-HOF  OEAH,Al Ahsa Airport,34.0,OEAH 111200Z
-GIZ  OEGN,Jizan Regional Airport,34.0,OEGN 111200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,34.0,OEMA 111200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,34.0,OEYN 111200Z
-ABD  OIAA,Abadan Airport,34.0,OIAA 111200Z
-BND  OIKB,Bandar Abbas International Airport,34.0,OIKB 111200Z
-LFM  OISR,Lamerd Airport,34.0,OISR 111200Z
-AAN  OMAL,Al Ain International Airport,34.0,OMAL 111200Z
-BSR  ORMM,Basrah International Airport,34.0,ORMM 111200Z
-XJD  OTBH,Al Udeid Air Base,33.0,OTBH 111155Z
-BNI  DNBE,Benin Airport,33.0,DNBE 111200Z
-ENU  DNEN,Akanu Ibiam International Airport,33.0,DNEN 111200Z
+KTR  YPTN,Tindal Airport,34.0,YPTN 120100Z
+BME  YBRM,Broome International Airport,33.0,YBRM 120100Z
+DRW  YPDN,Darwin International Airport,33.0,YPDN 120100Z
+LAE  AYNZ,Nadzab Airport,32.0,AYNZ
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 120100Z
+NOU  NWWW,La Tontouta International Airport,32.0,NWWW 120100Z
+DVO  RPMD,Francisco Bangoy International Airport,32.0,RPMD 120100Z
+KOE  WATT,El Tari Airport,32.0,WATT 120100Z
+HID  YHID,Horn Island Airport,32.0,YHID 120100Z
+GOV  YPGV,Gove Airport,32.0,YPGV 120100Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 120050Z
+ROR  PTRO,Babelthuap Airport,31.0,PTRO 120050Z
+PTTP,,31.0,PTTP 120050Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 120051Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 120052Z
+AWK  PWAK,Wake Island Airfield,31.0,PWAK 120055Z
+HIR  AGGH,Honiara International Airport,31.0,AGGH 120100Z
+POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 120100Z
+LBS  NFNL,Labasa Airport,31.0,NFNL 120100Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 120100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 120100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 120100Z
+MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 120100Z
+ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
+DGT  RPVD,Sibulan Airport,31.0,RPVD 120100Z
+JDO  SBJU,Orlando Bezerra de Menezes Airport,31.0,SBJU 120100Z
+PQC  VVPQ,Phu Quoc International Airport,31.0,VVPQ 120100Z
+LOP  WADL,Lombok International Airport,31.0,WADL 120100Z
+MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 120100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 120100Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 120100Z
+ZIH  MMZH,Ixtapa Zihuatanejo International Airport,30.0,MMZ
+YAP  PTYA,Yap International Airport,30.0,PTYA 120050Z
+JRF  PHJR,Kalaeloa Airport,30.0,PHJR 120053Z
+KPZZ,,30.0,KPZ
+PSE  TJPS,Mercedita Airport,30.0,TJPS 120055Z
+PKMR,,30.0,PKMR 120057Z
+BOB  NTTB,Bora Bora Airport,30.0,NTTB 120100Z
+SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 120100Z
+VLI  NVVV,Bauerfield International Airport,30.0,NVVV 120100Z
+KWA  PKWA,Bucholz Army Air Field,30.0,PKWA 120100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 120100Z
+SFS  RPLB,Subic Bay International Airport,30.0,RPLB 120100Z
+CRK  RPLC,Diosdado Macapagal International Airport,30.0,RPLC 120100Z
+GES  RPMR,General Santos International Airport,30.0,RPMR 120100Z
