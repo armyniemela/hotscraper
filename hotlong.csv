@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-SKO  DNSO,Sadiq Abubakar III International Airport,36.0,DNSO 131200Z
-NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 131200Z
-SRH  FTTA,Sarh Airport,36.0,FTTA 131200Z
-GAQ  GAGO,Gao Airport,36.0,GAGO 131200Z
-MZI  GAMB,Mopti Airport,36.0,GAMB 131200Z
-NIX  GANR,Nioro du Sahel Airport,36.0,GANR 131200Z
-OEMN,,36.0,OEMN 131200Z
-OUA  DFFD,Ouagadougou Airport,35.0,DFFD 131200Z
-ENU  DNEN,Akanu Ibiam International Airport,35.0,DNEN 131200Z
-DNGO,,35.0,DNGO 131200Z
-QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 131200Z
-THZ  DRRT,Tahoua Airport,35.0,DRRT 131200Z
-ZND  DRZR,Zinder Airport,35.0,DRZ
-MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 131200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,35.0,OEYN 131200Z
-ISA  YBMA,Mount Isa Airport,35.0,YBMA 131200Z
-OOAD,,34.0,OOAD 131150Z
-BNI  DNBE,Benin Airport,34.0,DNBE 131200Z
-IBA  DNIB,Ibadan Airport,34.0,DNIB 131200Z
-MFQ  DRRM,Maradi Airport,34.0,DRRM 131200Z
-DXSK,Sokodé Airport,34.0,DXSK 131200Z
-BZV  FCBB,Maya-Maya Airport,34.0,FCBB 131200Z
-APL  FQNP,Nampula Airport,34.0,FQNP 131200Z
-BKO  GABS,Modibo Keita International Airport,34.0,GABS 131200Z
-KLC  GOOK,Kaolack Airport,34.0,GOOK 131200Z
-TUD  GOTT,Tambacounda Airport,34.0,GOTT 131200Z
-ATR  GQPA,Atar International Airport,34.0,GQPA 131200Z
-WJR  HKWJ,Wajir Airport,34.0,HKWJ 131200Z
-HOF  OEAH,Al Ahsa Airport,34.0,OEAH 131200Z
-XJD  OTBH,Al Udeid Air Base,33.0,OTBH 131155Z
-BOY  DFOO,Bobo Dioulasso Airport,33.0,DFOO 131200Z
-ZAR  DNZA,Zaria Airport,33.0,DNZ
-AJY  DRZA,Mano Dayak International Airport,33.0,DRZ
-DRZF,Diffa Airport,33.0,DRZ
-LRL  DXNG,Niamtougou International Airport,33.0,DXNG 131200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,33.0,FAUP 131200Z
-OLL  FCOD,Oyo Ollombo Airport,33.0,FCOD 131200Z
-MJN  FMNM,Amborovy Airport,33.0,FMNM 131200Z
-FTU  FMSD,Tôlanaro Airport,33.0,FMSD 131200Z
-MVB  FOON,M'Vengue El Hadj Omar Bongo Ondimba International Airport,33.0,FOON 131200Z
-UEL  FQQL,Quelimane Airport,33.0,FQQL 131200Z
-GAKD,,33.0,GAKD 131200Z
-TOM  GATB,Timbuktu Airport,33.0,GATB 131200Z
-GOOD,,33.0,GOOD 131200Z
-GAS  HKGA,Garissa Airport,33.0,HKGA 131200Z
+ROK  YBRK,Rockhampton Airport,34.0,YBRK 140100Z
+BME  YBRM,Broome International Airport,34.0,YBRM 140100Z
+DCN  YCIN,RAAF Base Curtin,33.0,YCIN 140100Z
+KNX  YPKU,Kununurra Airport,33.0,YPKU 140100Z
+INU  ANYN,Nauru International Airport,32.0,ANYN 140100Z
+POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 140100Z
+LBS  NFNL,Labasa Airport,32.0,NFNL 140100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 140100Z
+GES  RPMR,General Santos International Airport,32.0,RPMR 140100Z
+LOP  WADL,Lombok International Airport,32.0,WADL 140100Z
+DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 140100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 140100Z
+HID  YHID,Horn Island Airport,32.0,YHID 140100Z
+DRW  YPDN,Darwin International Airport,32.0,YPDN 140100Z
+GOV  YPGV,Gove Airport,32.0,YPGV 140100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 140100Z
+TKK  PTKK,Chuuk International Airport,31.0,PTKK 140050Z
+ROR  PTRO,Babelthuap Airport,31.0,PTRO 140050Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 140054Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 140055Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 140100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 140100Z
+ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
+DGT  RPVD,Sibulan Airport,31.0,RPVD 140100Z
+DPS  WADD,Ngurah Rai (Bali) International Airport,31.0,WADD 140100Z
+MKQ  WAKK,Mopah Airport,31.0,WAKK 140100Z
+MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 140100Z
+WAHS,,30.0,WAHS 140030Z
+NGF  PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,30.0,PHNG 140057Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 140100Z
+NAN  NFFN,Nadi International Airport,30.0,NFFN 140100Z
+TAH  NVVW,Tanna Airport,30.0,NVVW 140100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 140100Z
+TSA  RCSS,Taipei Songshan Airport,30.0,RCSS 140100Z
+TPE  RCTP,Taiwan Taoyuan International Airport,30.0,RCTP 140100Z
+TRA  RORT,Tarama Airport,30.0,RORT 140100Z
+SFS  RPLB,Subic Bay International Airport,30.0,RPLB 140100Z
+DVO  RPMD,Francisco Bangoy International Airport,30.0,RPMD 140100Z
+PPS  RPVP,Puerto Princesa Airport,30.0,RPVP 140100Z
+THE  SBTE,Senador Petrônio Portela Airport,30.0,SBTE 140100Z
+BKK  VTBS,Suvarnabhumi Airport,30.0,VTBS 140100Z
+UPG  WAAA,Hasanuddin International Airport,30.0,WAAA 140100Z
+BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 140100Z
+BPN  WALL,Sultan Aji Muhamad Sulaiman Airport,30.0,WALL 140100Z
+WAQQ,,30.0,WAQQ 140100Z
