@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HIR  AGGH,Honiara International Airport,32.0,AGGH 180100Z
-NAN  NFFN,Nadi International Airport,32.0,NFFN 180100Z
-TRW  NGTA,Bonriki International Airport,32.0,NGTA 180100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 180100Z
-DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 180100Z
-MKQ  WAKK,Mopah Airport,32.0,WAKK 180100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 180100Z
-CNS  YBCS,Cairns International Airport,32.0,YBCS 180100Z
-GET  YGEL,Geraldton Airport,32.0,YGEL 180100Z
-HID  YHID,Horn Island Airport,32.0,YHID 180100Z
-GOV  YPGV,Gove Airport,32.0,YPGV 180100Z
-TKK  PTKK,Chuuk International Airport,31.0,PTKK 180050Z
-PTTP,,31.0,PTTP 180051Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 180052Z
-YAP  PTYA,Yap International Airport,31.0,PTYA 180052Z
-AWK  PWAK,Wake Island Airfield,31.0,PWAK 180055Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 180100Z
-CXI  PLCH,Cassidy International Airport,31.0,PLCH 180100Z
-GES  RPMR,General Santos International Airport,31.0,RPMR 180100Z
-DGT  RPVD,Sibulan Airport,31.0,RPVD 180100Z
-CEB  RPVM,Mactan Cebu International Airport,31.0,RPVM 180100Z
-LOP  WADL,Lombok International Airport,31.0,WADL 180100Z
-WAYY,,31.0,WAYY 180100Z
-BKI  WBKK,Kota Kinabalu International Airport,31.0,WBKK 180100Z
-BME  YBRM,Broome International Airport,31.0,YBRM 180100Z
-UPG  WAAA,Hasanuddin International Airport,31.0,WAAA 180130Z
-WAHS,,31.0,WAHS 180130Z
-SUB  WARR,Juanda International Airport,31.0,WARR 180130Z
-COT  KCOT,Cotulla-La Salle County Airport,30.0,KCOT 180053Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 180054Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 180054Z
-KSA  PTSA,Kosrae International Airport,30.0,PTSA 180055Z
-INU  ANYN,Nauru International Airport,30.0,ANYN 180100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 180100Z
-SUV  NFNA,Nausori International Airport,30.0,NFNA 180100Z
-TVU  NFNM,Matei Airport,30.0,NFNM 180100Z
-SVU  NFNS,Savusavu Airport,30.0,NFNS 180100Z
-BOB  NTTB,Bora Bora Airport,30.0,NTTB 180100Z
-SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 180100Z
-VLI  NVVV,Bauerfield International Airport,30.0,NVVV 180100Z
-MNL  RPLL,Ninoy Aquino International Airport,30.0,RPLL 180100Z
-DVO  RPMD,Francisco Bangoy International Airport,30.0,RPMD 180100Z
-ZAM  RPMZ,Zamboanga International Airport,30.0,RPMZ
-BVB  SBBV,Atlas Brasil Cantanhede Airport,30.0,SBBV 180100Z
-USM  VTSM,Samui Airport,30.0,VTSM 180100Z
+KMP  FYKT,Keetmanshoop Airport,36.0,FYKT 181200Z
+NIX  GANR,Nioro du Sahel Airport,36.0,GANR 181200Z
+GOOG,,36.0,GOOG 181200Z
+TUD  GOTT,Tambacounda Airport,36.0,GOTT 181200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 181200Z
+QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 181200Z
+KIM  FAKM,Kimberley Airport,35.0,FAKM 181200Z
+MBD  FAMM,Mmabatho International Airport,35.0,FAMM 181200Z
+NTY  FAPN,Pilanesberg International Airport,35.0,FAPN 181200Z
+GBE  FBSK,Sir Seretse Khama International Airport,35.0,FBSK 181200Z
+APL  FQNP,Nampula Airport,35.0,FQNP 181200Z
+SRH  FTTA,Sarh Airport,35.0,FTTA 181200Z
+NDU  FYRU,Rundu Airport,35.0,FYRU 181200Z
+GAKD,,35.0,GAKD 181200Z
+MZI  GAMB,Mopti Airport,35.0,GAMB 181200Z
+MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 181200Z
+KGG  GOTK,Kédougou Airport,35.0,GOTK 181200Z
+GAS  HKGA,Garissa Airport,35.0,HKGA 181200Z
+WJR  HKWJ,Wajir Airport,35.0,HKWJ 181200Z
+OEMN,,35.0,OEMN 181200Z
+MXJ  DNMN,Minna Airport,34.0,DNMN 181200Z
+YOL  DNYO,Yola Airport,34.0,DNYO 181200Z
+NIM  DRRN,Diori Hamani International Airport,34.0,DRRN 181200Z
+HDS  FAHS,Hoedspruit Air Force Base Airport,34.0,FAHS 181200Z
+MTS  FDMS,Matsapha Airport,34.0,FDMS 181200Z
+VJB  FQXA,Xai-Xai Airport,34.0,FQXA 181200Z
+NDJ  FTTJ,N'Djamena International Airport,34.0,FTTJ 181200Z
+BKO  GABS,Modibo Keita International Airport,34.0,GABS 181200Z
+GOGK,,34.0,GOGK 181200Z
+GOOD,,34.0,GOOD 181200Z
+KLC  GOOK,Kaolack Airport,34.0,GOOK 181200Z
+POD  GOSP,Podor Airport,34.0,GOSP 181200Z
+DMM  OEDF,King Fahd International Airport,34.0,OEDF 181200Z
+OUA  DFFD,Ouagadougou Airport,33.0,DFFD 181200Z
+ENU  DNEN,Akanu Ibiam International Airport,33.0,DNEN 181200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,33.0,DNSO 181200Z
+FBPM,,33.0,FBPM 181200Z
+MJN  FMNM,Amborovy Airport,33.0,FMNM 181200Z
+GFY  FYGF,Grootfontein Airport,33.0,FYGF 181200Z
+OND  FYOA,Ondangwa Airport,33.0,FYOA 181200Z
+ZIG  GOGG,Ziguinchor Airport,33.0,GOGG 181200Z
+HOF  OEAH,Al Ahsa Airport,33.0,OEAH 181200Z
+GIZ  OEGN,Jizan Regional Airport,33.0,OEGN 181200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,33.0,OEPA 181200Z
+SHW  OESH,Sharurah Airport,33.0,OESH 181200Z
