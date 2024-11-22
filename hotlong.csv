@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 211200Z
-QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 211200Z
-FBPM,,35.0,FBPM 211200Z
-SRH  FTTA,Sarh Airport,35.0,FTTA 211200Z
-MQQ  FTTD,Moundou Airport,35.0,FTTD 211200Z
-OND  FYOA,Ondangwa Airport,35.0,FYOA 211200Z
-GAKD,,35.0,GAKD 211200Z
-MZI  GAMB,Mopti Airport,35.0,GAMB 211200Z
-NIX  GANR,Nioro du Sahel Airport,35.0,GANR 211200Z
-GOOG,,35.0,GOOG 211200Z
-MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 211200Z
-LOK  HKLO,Lodwar Airport,35.0,HKLO 211200Z
-OUA  DFFD,Ouagadougou Airport,34.0,DFFD 211200Z
-ILR  DNIL,Ilorin International Airport,34.0,DNIL 211200Z
-YOL  DNYO,Yola Airport,34.0,DNYO 211200Z
-GBE  FBSK,Sir Seretse Khama International Airport,34.0,FBSK 211200Z
-MJN  FMNM,Amborovy Airport,34.0,FMNM 211200Z
-KMP  FYKT,Keetmanshoop Airport,34.0,FYKT 211200Z
-NDU  FYRU,Rundu Airport,34.0,FYRU 211200Z
-BKO  GABS,Modibo Keita International Airport,34.0,GABS 211200Z
-DSS  GOBD,Blaise Diagne International Airport,34.0,GOBD 211200Z
-KLC  GOOK,Kaolack Airport,34.0,GOOK 211200Z
-KGG  GOTK,Kédougou Airport,34.0,GOTK 211200Z
-TUD  GOTT,Tambacounda Airport,34.0,GOTT 211200Z
-GAS  HKGA,Garissa Airport,34.0,HKGA 211200Z
-OEMN,,34.0,OEMN 211200Z
-BOY  DFOO,Bobo Dioulasso Airport,33.0,DFOO 211200Z
-BNI  DNBE,Benin Airport,33.0,DNBE 211200Z
-CBQ  DNCA,Margaret Ekpo International Airport,33.0,DNCA 211200Z
-LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 211200Z
-PHC  DNPO,Port Harcourt International Airport,33.0,DNPO 211200Z
-SKO  DNSO,Sadiq Abubakar III International Airport,33.0,DNSO 211200Z
-NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 211200Z
-DXSK,Sokodé Airport,33.0,DXSK 211200Z
-NTY  FAPN,Pilanesberg International Airport,33.0,FAPN 211200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,33.0,FAUP 211200Z
-ZIG  GOGG,Ziguinchor Airport,33.0,GOGG 211200Z
-GOGK,,33.0,GOGK 211200Z
-GOOD,,33.0,GOOD 211200Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,33.0,GQNO 211200Z
-HTMG,Morogoro Airport,33.0,HTMG 211200Z
-HOF  OEAH,Al Ahsa Airport,33.0,OEAH 211200Z
-GIZ  OEGN,Jizan Regional Airport,33.0,OEGN 211200Z
-KQD3,,32.0,KQD3 211155Z
-COO  DBBB,Cadjehoun Airport,32.0,DBBB 211200Z
+ISA  YBMA,Mount Isa Airport,33.0,YBMA 220030Z
+PHE  YPPD,Port Hedland International Airport,33.0,YPPD 220030Z
+DJJ  WAJJ,Sentani International Airport,33.0,WAJJ 220100Z
+KOE  WATT,El Tari Airport,33.0,WATT 220100Z
+BME  YBRM,Broome International Airport,32.0,YBRM 220030Z
+HID  YHID,Horn Island Airport,32.0,YHID 220030Z
+GOV  YPGV,Gove Airport,32.0,YPGV 220030Z
+TKK  PTKK,Chuuk International Airport,32.0,PTKK 220053Z
+INU  ANYN,Nauru International Airport,32.0,ANYN 220100Z
+TRW  NGTA,Bonriki International Airport,32.0,NGTA 220100Z
+NOU  NWWW,La Tontouta International Airport,32.0,NWWW 220100Z
+MKQ  WAKK,Mopah Airport,32.0,WAKK 220100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 220100Z
+DCN  YCIN,RAAF Base Curtin,31.0,YCIN 220030Z
+KTR  YPTN,Tindal Airport,31.0,YPTN 220030Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 220054Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 220054Z
+YAP  PTYA,Yap International Airport,31.0,PTYA 220054Z
+HIR  AGGH,Honiara International Airport,31.0,AGGH 220100Z
+LBS  NFNL,Labasa Airport,31.0,NFNL 220100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 220100Z
+MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 220100Z
+DGT  RPVD,Sibulan Airport,31.0,RPVD 220100Z
+PPS  RPVP,Puerto Princesa Airport,31.0,RPVP 220100Z
+THE  SBTE,Senador Petrônio Portela Airport,31.0,SBTE 220100Z
+LOP  WADL,Lombok International Airport,31.0,WADL 220100Z
+BWN  WBSB,Brunei International Airport,31.0,WBSB 220100Z
+WAYY,,30.0,WAYY 220030Z
+DRW  YPDN,Darwin International Airport,30.0,YPDN 220030Z
+ZIH  MMZH,Ixtapa Zihuatanejo International Airport,30.0,MMZ
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 220054Z
+TIQ  PGWT,Tinian International Airport,30.0,PGWT 220055Z
+AWK  PWAK,Wake Island Airfield,30.0,PWAK 220055Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 220100Z
+NAN  NFFN,Nadi International Airport,30.0,NFFN 220100Z
+TVU  NFNM,Matei Airport,30.0,NFNM 220100Z
+KWA  PKWA,Bucholz Army Air Field,30.0,PKWA 220100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 220100Z
+DVO  RPMD,Francisco Bangoy International Airport,30.0,RPMD 220100Z
+GES  RPMR,General Santos International Airport,30.0,RPMR 220100Z
+ZAM  RPMZ,Zamboanga International Airport,30.0,RPMZ
+CEB  RPVM,Mactan Cebu International Airport,30.0,RPVM 220100Z
+BVB  SBBV,Atlas Brasil Cantanhede Airport,30.0,SBBV 220100Z
+CGB  SBCY,Marechal Rondon Airport,30.0,SBCY 220100Z
+JDO  SBJU,Orlando Bezerra de Menezes Airport,30.0,SBJU 220100Z
