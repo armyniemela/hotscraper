@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-SRH  FTTA,Sarh Airport,36.0,FTTA 231200Z
-GAQ  GAGO,Gao Airport,36.0,GAGO 231200Z
-MZI  GAMB,Mopti Airport,36.0,GAMB 231200Z
-DSS  GOBD,Blaise Diagne International Airport,36.0,GOBD 231200Z
-GOOD,,36.0,GOOD 231200Z
-GOOG,,36.0,GOOG 231200Z
-TUD  GOTT,Tambacounda Airport,36.0,GOTT 231200Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 231200Z
-ILR  DNIL,Ilorin International Airport,35.0,DNIL 231200Z
-YOL  DNYO,Yola Airport,35.0,DNYO 231200Z
-NIM  DRRN,Diori Hamani International Airport,35.0,DRRN 231200Z
-HDS  FAHS,Hoedspruit Air Force Base Airport,35.0,FAHS 231200Z
-KIM  FAKM,Kimberley Airport,35.0,FAKM 231200Z
-GBE  FBSK,Sir Seretse Khama International Airport,35.0,FBSK 231200Z
-MPA  FYKM,Katima Mulilo Airport,35.0,FYKM 231200Z
-GAKD,,35.0,GAKD 231200Z
-NIX  GANR,Nioro du Sahel Airport,35.0,GANR 231200Z
-ZIG  GOGG,Ziguinchor Airport,35.0,GOGG 231200Z
-XLS  GOSS,Saint Louis Airport,35.0,GOSS 231200Z
-KGG  GOTK,Kédougou Airport,35.0,GOTK 231200Z
-HTMG,Morogoro Airport,35.0,HTMG 231200Z
-OUA  DFFD,Ouagadougou Airport,34.0,DFFD 231200Z
-SKO  DNSO,Sadiq Abubakar III International Airport,34.0,DNSO 231200Z
-DXSK,Sokodé Airport,34.0,DXSK 231200Z
-MBD  FAMM,Mmabatho International Airport,34.0,FAMM 231200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,34.0,FAUP 231200Z
-BBK  FBKE,Kasane Airport,34.0,FBKE 231200Z
-SHO  FDSK,King Mswati III International Airport,34.0,FDSK 231200Z
-INH  FQIN,Inhambane Airport,34.0,FQIN 231200Z
-APL  FQNP,Nampula Airport,34.0,FQNP 231200Z
-UEL  FQQL,Quelimane Airport,34.0,FQQL 231200Z
-NDJ  FTTJ,N'Djamena International Airport,34.0,FTTJ 231200Z
-MVZ  FVMV,Masvingo International Airport,34.0,FVMV 231200Z
-BKO  GABS,Modibo Keita International Airport,34.0,GABS 231200Z
-MAX  GOSM,Ouro Sogui Airport,34.0,GOSM 231200Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,34.0,GQNO 231200Z
-OEMN,,34.0,OEMN 231200Z
-AKR  DNAK,Akure Airport,33.0,DNAK 231200Z
-LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 231200Z
-PHC  DNPO,Port Harcourt International Airport,33.0,DNPO 231200Z
-THZ  DRRT,Tahoua Airport,33.0,DRRT 231200Z
-LRL  DXNG,Niamtougou International Airport,33.0,DXNG 231200Z
-BFN  FABL,Bram Fischer International Airport,33.0,FABL 231200Z
-HLA  FALA,Lanseria Airport,33.0,FALA 231200Z
-FBPM,,33.0,FBPM 231200Z
+HID  YHID,Horn Island Airport,33.0,YHID 240100Z
+PHE  YPPD,Port Hedland International Airport,33.0,YPPD 240100Z
+XRH  YSRI,RAAF Base Richmond,33.0,YSRI 240100Z
+LBS  NFNL,Labasa Airport,32.0,NFNL 240100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 240100Z
+TRW  NGTA,Bonriki International Airport,32.0,NGTA 240100Z
+DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 240100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 240100Z
+BME  YBRM,Broome International Airport,32.0,YBRM 240100Z
+GOV  YPGV,Gove Airport,32.0,YPGV 240100Z
+LOP  WADL,Lombok International Airport,32.0,WADL 240130Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 240054Z
+TIQ  PGWT,Tinian International Airport,31.0,PGWT 240056Z
+HIR  AGGH,Honiara International Airport,31.0,AGGH 240100Z
+LAE  AYNZ,Nadzab Airport,31.0,AYNZ
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 240100Z
+CXI  PLCH,Cassidy International Airport,31.0,PLCH 240100Z
+ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
+PPS  RPVP,Puerto Princesa Airport,31.0,RPVP 240100Z
+THE  SBTE,Senador Petrônio Portela Airport,31.0,SBTE 240100Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 240100Z
+TSV  YBTL,Townsville Airport,31.0,YBTL 240100Z
+DBO  YSDU,Dubbo City Regional Airport,31.0,YSDU 240100Z
+DPS  WADD,Ngurah Rai (Bali) International Airport,31.0,WADD 240130Z
+CGK  WIII,Soekarno-Hatta International Airport,31.0,WIII 240130Z
+PTTP,,30.0,PTTP 240050Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 240051Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 240054Z
+AWK  PWAK,Wake Island Airfield,30.0,PWAK 240055Z
+INU  ANYN,Nauru International Airport,30.0,ANYN 240100Z
+AIU  NCAT,Enua Airport,30.0,NCAT 240100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 240100Z
+PPT  NTAA,Faa'a International Airport,30.0,NTAA 240100Z
+BOB  NTTB,Bora Bora Airport,30.0,NTTB 240100Z
+MNL  RPLL,Ninoy Aquino International Airport,30.0,RPLL 240100Z
+DVO  RPMD,Francisco Bangoy International Airport,30.0,RPMD 240100Z
+GES  RPMR,General Santos International Airport,30.0,RPMR 240100Z
+DGT  RPVD,Sibulan Airport,30.0,RPVD 240100Z
+CEB  RPVM,Mactan Cebu International Airport,30.0,RPVM 240100Z
+BVB  SBBV,Atlas Brasil Cantanhede Airport,30.0,SBBV 240100Z
+JDO  SBJU,Orlando Bezerra de Menezes Airport,30.0,SBJU 240100Z
+ASU  SGAS,Silvio Pettirossi International Airport,30.0,SGAS 240100Z
+WAHS,,30.0,WAHS 240100Z
+BPN  WALL,Sultan Aji Muhamad Sulaiman Airport,30.0,WALL 240100Z
+MYY  WBGR,Miri Airport,30.0,WBGR 240100Z
