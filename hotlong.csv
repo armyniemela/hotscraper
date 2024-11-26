@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MTS  FDMS,Matsapha Airport,36.0,FDMS 251200Z
-SHO  FDSK,King Mswati III International Airport,36.0,FDSK 251200Z
-GAQ  GAGO,Gao Airport,36.0,GAGO 251200Z
-NIX  GANR,Nioro du Sahel Airport,36.0,GANR 251200Z
-OUA  DFFD,Ouagadougou Airport,35.0,DFFD 251200Z
-ENU  DNEN,Akanu Ibiam International Airport,35.0,DNEN 251200Z
-QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 251200Z
-NIM  DRRN,Diori Hamani International Airport,35.0,DRRN 251200Z
-DXSK,Sokodé Airport,35.0,DXSK 251200Z
-HDS  FAHS,Hoedspruit Air Force Base Airport,35.0,FAHS 251200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,35.0,FAUP 251200Z
-VPE  FNGI,Ngjiva Pereira Airport,35.0,FNGI 251200Z
-APL  FQNP,Nampula Airport,35.0,FQNP 251200Z
-TET  FQTT,Chingozi Airport,35.0,FQTT 251200Z
-MQQ  FTTD,Moundou Airport,35.0,FTTD 251200Z
-BFO  FVCZ,Buffalo Range Airport,35.0,FVCZ
-GAKD,,35.0,GAKD 251200Z
-MZI  GAMB,Mopti Airport,35.0,GAMB 251200Z
-GOGK,,35.0,GOGK 251200Z
-GOOD,,35.0,GOOD 251200Z
-GOOG,,35.0,GOOG 251200Z
-MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 251200Z
-KGG  GOTK,Kédougou Airport,35.0,GOTK 251200Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,35.0,GQNO 251200Z
-HTMG,Morogoro Airport,35.0,HTMG 251200Z
-AKR  DNAK,Akure Airport,34.0,DNAK 251200Z
-ILR  DNIL,Ilorin International Airport,34.0,DNIL 251200Z
-PHC  DNPO,Port Harcourt International Airport,34.0,DNPO 251200Z
-MQP  FAKN,Kruger Mpumalanga International Airport,34.0,FAKN 251200Z
-MFU  FLMF,Mfuwe Airport,34.0,FLMF 251200Z
-VJB  FQXA,Xai-Xai Airport,34.0,FQXA 251200Z
-SRH  FTTA,Sarh Airport,34.0,FTTA 251200Z
-BKO  GABS,Modibo Keita International Airport,34.0,GABS 251200Z
-KLC  GOOK,Kaolack Airport,34.0,GOOK 251200Z
-POD  GOSP,Podor Airport,34.0,GOSP 251200Z
-XLS  GOSS,Saint Louis Airport,34.0,GOSS 251200Z
-SHW  OESH,Sharurah Airport,34.0,OESH 251200Z
-BOY  DFOO,Bobo Dioulasso Airport,33.0,DFOO 251200Z
-BNI  DNBE,Benin Airport,33.0,DNBE 251200Z
-LRL  DXNG,Niamtougou International Airport,33.0,DXNG 251200Z
-LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 251200Z
-BFN  FABL,Bram Fischer International Airport,33.0,FABL 251200Z
-MBD  FAMM,Mmabatho International Airport,33.0,FAMM 251200Z
-NTY  FAPN,Pilanesberg International Airport,33.0,FAPN 251200Z
-MPM  FQMA,Maputo Airport,33.0,FQMA 251200Z
+DCN  YCIN,RAAF Base Curtin,33.0,YCIN 260100Z
+NTL  YWLM,Newcastle Airport,33.0,YWLM 260100Z
+KSA  PTSA,Kosrae International Airport,32.0,PTSA 260050Z
+HIR  AGGH,Honiara International Airport,32.0,AGGH 260100Z
+INU  ANYN,Nauru International Airport,32.0,ANYN 260100Z
+LAE  AYNZ,Nadzab Airport,32.0,AYNZ
+POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 260100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 260100Z
+KOE  WATT,El Tari Airport,32.0,WATT 260100Z
+HID  YHID,Horn Island Airport,32.0,YHID 260100Z
+DRW  YPDN,Darwin International Airport,32.0,YPDN 260100Z
+PHE  YPPD,Port Hedland International Airport,32.0,YPPD 260100Z
+DBO  YSDU,Dubbo City Regional Airport,32.0,YSDU 260100Z
+TKK  PTKK,Chuuk International Airport,31.0,PTKK 260051Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 260054Z
+AWK  PWAK,Wake Island Airfield,31.0,PWAK 260055Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 260100Z
+NAN  NFFN,Nadi International Airport,31.0,NFFN 260100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 260100Z
+NOU  NWWW,La Tontouta International Airport,31.0,NWWW 260100Z
+MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 260100Z
+DGT  RPVD,Sibulan Airport,31.0,RPVD 260100Z
+PPS  RPVP,Puerto Princesa Airport,31.0,RPVP 260100Z
+STM  SBSN,Maestro Wilson Fonseca Airport,31.0,SBSN 260100Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 260100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 260100Z
+WAYY,,31.0,WAYY 260100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 260100Z
+SYD  YSSY,Sydney Kingsford Smith International Airport,31.0,YSSY 260100Z
+TMW  YSTW,Tamworth Airport,31.0,YSTW 260100Z
+PPG  NSTU,Pago Pago International Airport,30.0,NSTU 260054Z
+SPN  PGSN,Saipan International Airport,30.0,PGSN 260054Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 260054Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 260054Z
+PTTP,,30.0,PTTP 260055Z
+NGF  PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,30.0,PHNG 260057Z
+LBS  NFNL,Labasa Airport,30.0,NFNL 260100Z
+WLS  NLWW,Hihifo Airport,30.0,NLWW 260100Z
+PPT  NTAA,Faa'a International Airport,30.0,NTAA 260100Z
+BOB  NTTB,Bora Bora Airport,30.0,NTTB 260100Z
+SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 260100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 260100Z
+SFS  RPLB,Subic Bay International Airport,30.0,RPLB 260100Z
+LAO  RPLI,Laoag International Airport,30.0,RPLI 260100Z
+DVO  RPMD,Francisco Bangoy International Airport,30.0,RPMD 260100Z
