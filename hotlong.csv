@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NOU  NWWW,La Tontouta International Airport,33.0,NWWW 270100Z
-KOE  WATT,El Tari Airport,33.0,WATT 270100Z
-WAYY,,33.0,WAYY 270100Z
-ISA  YBMA,Mount Isa Airport,33.0,YBMA 270100Z
-PHE  YPPD,Port Hedland International Airport,33.0,YPPD 270100Z
-TMW  YSTW,Tamworth Airport,33.0,YSTW 270100Z
-INU  ANYN,Nauru International Airport,32.0,ANYN 270100Z
-TRW  NGTA,Bonriki International Airport,32.0,NGTA 270100Z
-ZAM  RPMZ,Zamboanga International Airport,32.0,RPMZ
-MKQ  WAKK,Mopah Airport,32.0,WAKK 270100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 270100Z
-CNS  YBCS,Cairns International Airport,32.0,YBCS 270100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 270100Z
-DCN  YCIN,RAAF Base Curtin,32.0,YCIN 270100Z
-HID  YHID,Horn Island Airport,32.0,YHID 270100Z
-GOV  YPGV,Gove Airport,32.0,YPGV 270100Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 270051Z
-PTTP,,31.0,PTTP 270052Z
-SPN  PGSN,Saipan International Airport,31.0,PGSN 270054Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 270100Z
-SUV  NFNA,Nausori International Airport,31.0,NFNA 270100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 270100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 270100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 270100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 270100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 270100Z
-GES  RPMR,General Santos International Airport,31.0,RPMR 270100Z
-CEB  RPVM,Mactan Cebu International Airport,31.0,RPVM 270100Z
-PPS  RPVP,Puerto Princesa Airport,31.0,RPVP 270100Z
-BAU  SBBU,Bauru Airport,31.0,SBBU 270100Z
-STM  SBSN,Maestro Wilson Fonseca Airport,31.0,SBSN 270100Z
-THE  SBTE,Senador Petrônio Portela Airport,31.0,SBTE 270100Z
-BIK  WABB,Frans Kaisiepo Airport,31.0,WABB 270100Z
-MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 270100Z
-ROK  YBRK,Rockhampton Airport,31.0,YBRK 270100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 270100Z
-KTR  YPTN,Tindal Airport,31.0,YPTN 270100Z
-LOP  WADL,Lombok International Airport,31.0,WADL 270130Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 270054Z
-AWK  PWAK,Wake Island Airfield,30.0,PWAK 270055Z
-LAE  AYNZ,Nadzab Airport,30.0,AYNZ
-NCPL,,30.0,NCPL 270100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 270100Z
-SVU  NFNS,Savusavu Airport,30.0,NFNS 270100Z
-TAH  NVVW,Tanna Airport,30.0,NVVW 270100Z
+BEW  FQBR,Beira Airport,36.0,FQBR 271200Z
+MPM  FQMA,Maputo Airport,36.0,FQMA 271200Z
+XLS  GOSS,Saint Louis Airport,36.0,GOSS 271200Z
+MQP  FAKN,Kruger Mpumalanga International Airport,35.0,FAKN 271200Z
+APL  FQNP,Nampula Airport,35.0,FQNP 271200Z
+GFY  FYGF,Grootfontein Airport,35.0,FYGF 271200Z
+OND  FYOA,Ondangwa Airport,35.0,FYOA 271200Z
+NDU  FYRU,Rundu Airport,35.0,FYRU 271200Z
+NIX  GANR,Nioro du Sahel Airport,35.0,GANR 271200Z
+DSS  GOBD,Blaise Diagne International Airport,35.0,GOBD 271200Z
+GOOD,,35.0,GOOD 271200Z
+GOOG,,35.0,GOOG 271200Z
+KLC  GOOK,Kaolack Airport,35.0,GOOK 271200Z
+MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 271200Z
+TUD  GOTT,Tambacounda Airport,35.0,GOTT 271200Z
+PTG  FAPP,Polokwane International Airport,34.0,FAPP 271200Z
+MUB  FBMN,Maun Airport,34.0,FBMN 271200Z
+GBE  FBSK,Sir Seretse Khama International Airport,34.0,FBSK 271200Z
+MQQ  FTTD,Moundou Airport,34.0,FTTD 271200Z
+GAKD,,34.0,GAKD 271200Z
+MZI  GAMB,Mopti Airport,34.0,GAMB 271200Z
+KGG  GOTK,Kédougou Airport,34.0,GOTK 271200Z
+WJR  HKWJ,Wajir Airport,34.0,HKWJ 271200Z
+HTMG,Morogoro Airport,34.0,HTMG 271200Z
+SHW  OESH,Sharurah Airport,34.0,OESH 271200Z
+WAE  OEWD,Wadi Al Dawasir Airport,34.0,OEWD 271200Z
+SBJR,Jacarepaguá - Roberto Marinho Airport,34.0,SBJR 271200Z
+XJD  OTBH,Al Udeid Air Base,33.0,OTBH 271155Z
+LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 271200Z
+SMS  FMMS,Sainte Marie Airport,33.0,FMMS 271200Z
+MJN  FMNM,Amborovy Airport,33.0,FMNM 271200Z
+VPY  FQCH,Chimoio Airport,33.0,FQCH 271200Z
+SRH  FTTA,Sarh Airport,33.0,FTTA 271200Z
+BFO  FVCZ,Buffalo Range Airport,33.0,FVCZ
+VFA  FVFA,Victoria Falls International Airport,33.0,FVFA 271200Z
+MVZ  FVMV,Masvingo International Airport,33.0,FVMV 271200Z
+MPA  FYKM,Katima Mulilo Airport,33.0,FYKM 271200Z
+BKO  GABS,Modibo Keita International Airport,33.0,GABS 271200Z
+OXB  GGOV,Osvaldo Vieira International Airport,33.0,GGOV 271200Z
+ZIG  GOGG,Ziguinchor Airport,33.0,GOGG 271200Z
+GOGK,,33.0,GOGK 271200Z
+DAR  HTDA,Julius Nyerere International Airport,33.0,HTDA 271200Z
+JRO  HTKJ,Kilimanjaro International Airport,33.0,HTKJ 271200Z
+SGX  HTSO,Songea Airport,33.0,HTSO 271200Z
+HOF  OEAH,Al Ahsa Airport,33.0,OEAH 271200Z
