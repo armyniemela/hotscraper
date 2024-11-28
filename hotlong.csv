@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-INU  ANYN,Nauru International Airport,32.0,ANYN 280100Z
-POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 280100Z
-TRW  NGTA,Bonriki International Airport,32.0,NGTA 280100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 280100Z
-PPS  RPVP,Puerto Princesa Airport,32.0,RPVP 280100Z
-BAU  SBBU,Bauru Airport,32.0,SBBU 280100Z
-WAHS,,32.0,WAHS 280100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 280100Z
-CNS  YBCS,Cairns International Airport,32.0,YBCS 280100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 280100Z
-SPN  PGSN,Saipan International Airport,31.0,PGSN 280054Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 280100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 280100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 280100Z
-CXI  PLCH,Cassidy International Airport,31.0,PLCH 280100Z
-ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
-DGT  RPVD,Sibulan Airport,31.0,RPVD 280100Z
-LDB  SBLO,Governador José Richa Airport,31.0,SBLO 280100Z
-THE  SBTE,Senador Petrônio Portela Airport,31.0,SBTE 280100Z
-UPG  WAAA,Hasanuddin International Airport,31.0,WAAA 280100Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 280100Z
-MKQ  WAKK,Mopah Airport,31.0,WAKK 280100Z
-MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 280100Z
-WAYY,,31.0,WAYY 280100Z
-ROK  YBRK,Rockhampton Airport,31.0,YBRK 280100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 280100Z
-HID  YHID,Horn Island Airport,31.0,YHID 280100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 280100Z
-PPG  NSTU,Pago Pago International Airport,30.0,NSTU 280050Z
-PKMR,,30.0,PKMR 280050Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 280054Z
-TIQ  PGWT,Tinian International Airport,30.0,PGWT 280055Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 280055Z
-NGF  PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,30.0,PHNG 280057Z
-LBS  NFNL,Labasa Airport,30.0,NFNL 280100Z
-APW  NSFA,Faleolo International Airport,30.0,NSFA 280100Z
-PPT  NTAA,Faa'a International Airport,30.0,NTAA 280100Z
-BOB  NTTB,Bora Bora Airport,30.0,NTTB 280100Z
-SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 280100Z
-VLI  NVVV,Bauerfield International Airport,30.0,NVVV 280100Z
-SFS  RPLB,Subic Bay International Airport,30.0,RPLB 280100Z
-MNL  RPLL,Ninoy Aquino International Airport,30.0,RPLL 280100Z
-GES  RPMR,General Santos International Airport,30.0,RPMR 280100Z
-CEB  RPVM,Mactan Cebu International Airport,30.0,RPVM 280100Z
-CGB  SBCY,Marechal Rondon Airport,30.0,SBCY 280100Z
+BEW  FQBR,Beira Airport,35.0,FQBR 281200Z
+BLZ  FWCL,Chileka International Airport,35.0,FWCL 281200Z
+OND  FYOA,Ondangwa Airport,35.0,FYOA 281200Z
+DSS  GOBD,Blaise Diagne International Airport,35.0,GOBD 281200Z
+GOOD,,35.0,GOOD 281200Z
+GOOG,,35.0,GOOG 281200Z
+KLC  GOOK,Kaolack Airport,35.0,GOOK 281200Z
+XLS  GOSS,Saint Louis Airport,35.0,GOSS 281200Z
+TUD  GOTT,Tambacounda Airport,35.0,GOTT 281200Z
+SSZ  SBST,Base Aérea de Santos Airport,35.0,SBST 281200Z
+HWN  FVWN,Hwange National Park Airport,34.0,FVWN 281200Z
+MPA  FYKM,Katima Mulilo Airport,34.0,FYKM 281200Z
+NDU  FYRU,Rundu Airport,34.0,FYRU 281200Z
+NIX  GANR,Nioro du Sahel Airport,34.0,GANR 281200Z
+ZIG  GOGG,Ziguinchor Airport,34.0,GOGG 281200Z
+MAX  GOSM,Ouro Sogui Airport,34.0,GOSM 281200Z
+KGG  GOTK,Kédougou Airport,34.0,GOTK 281200Z
+SBAF,Campo Délio Jardim de Mattos Airport,34.0,SBAF 281200Z
+COO  DBBB,Cadjehoun Airport,33.0,DBBB 281200Z
+LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 281200Z
+VPE  FNGI,Ngjiva Pereira Airport,33.0,FNGI 281200Z
+SRH  FTTA,Sarh Airport,33.0,FTTA 281200Z
+VFA  FVFA,Victoria Falls International Airport,33.0,FVFA 281200Z
+LLW  FWKI,Lilongwe International Airport,33.0,FWKI 281200Z
+GAKD,,33.0,GAKD 281200Z
+BJL  GBYD,Banjul International Airport,33.0,GBYD 281200Z
+GOGK,,33.0,GOGK 281200Z
+CSK  GOGS,Cap Skirring Airport,33.0,GOGS 281200Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,33.0,GQNO 281200Z
+GAS  HKGA,Garissa Airport,33.0,HKGA 281200Z
+MBA  HKMO,Mombasa Moi International Airport,33.0,HKMO 281200Z
+GIZ  OEGN,Jizan Regional Airport,33.0,OEGN 281200Z
+OEMN,,33.0,OEMN 281200Z
+SHW  OESH,Sharurah Airport,33.0,OESH 281200Z
+SNZ  SBSC,Santa Cruz Air Force Base,33.0,SBSC 281200Z
+ACC  DGAA,Kotoka International Airport,32.0,DGAA 281200Z
+LOS  DNMM,Murtala Muhammed International Airport,32.0,DNMM 281200Z
+BBK  FBKE,Kasane Airport,32.0,FBKE 281200Z
+MQQ  FTTD,Moundou Airport,32.0,FTTD 281200Z
+GFY  FYGF,Grootfontein Airport,32.0,FYGF 281200Z
+OXB  GGOV,Osvaldo Vieira International Airport,32.0,GGOV 281200Z
+ROB  GLRB,Roberts International Airport,32.0,GLRB 281200Z
+POD  GOSP,Podor Airport,32.0,GOSP 281200Z
+MYD  HKML,Malindi Airport,32.0,HKML 281200Z
+FJR  OMFJ,Fujairah International Airport,32.0,OMFJ 281200Z
