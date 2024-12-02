@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 011200Z
-BNI  DNBE,Benin Airport,35.0,DNBE 011200Z
-LFW  DXXX,Lomé-Tokoin Airport,35.0,DXXX 011200Z
-NTY  FAPN,Pilanesberg International Airport,35.0,FAPN 011200Z
-GBE  FBSK,Sir Seretse Khama International Airport,35.0,FBSK 011200Z
-GFY  FYGF,Grootfontein Airport,35.0,FYGF 011200Z
-KMP  FYKT,Keetmanshoop Airport,35.0,FYKT 011200Z
-COO  DBBB,Cadjehoun Airport,34.0,DBBB 011200Z
-PHC  DNPO,Port Harcourt International Airport,34.0,DNPO 011200Z
-YOL  DNYO,Yola Airport,34.0,DNYO 011200Z
-MUB  FBMN,Maun Airport,34.0,FBMN 011200Z
-TET  FQTT,Chingozi Airport,34.0,FQTT 011200Z
-SRH  FTTA,Sarh Airport,34.0,FTTA 011200Z
-MQQ  FTTD,Moundou Airport,34.0,FTTD 011200Z
-ERS  FYWE,Eros Airport,34.0,FYWE 011200Z
-WDH  FYWH,Hosea Kutako International Airport,34.0,FYWH 011200Z
-SLL  OOSA,Salalah Airport,33.0,OOSA 011150Z
-ACC  DGAA,Kotoka International Airport,33.0,DGAA 011200Z
-CBQ  DNCA,Margaret Ekpo International Airport,33.0,DNCA 011200Z
-ENU  DNEN,Akanu Ibiam International Airport,33.0,DNEN 011200Z
-LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 011200Z
-MBD  FAMM,Mmabatho International Airport,33.0,FAMM 011200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,33.0,FAUP 011200Z
-FBPM,,33.0,FBPM 011200Z
-OLL  FCOD,Oyo Ollombo Airport,33.0,FCOD 011200Z
-KLC  GOOK,Kaolack Airport,33.0,GOOK 011200Z
-KGG  GOTK,Kédougou Airport,33.0,GOTK 011200Z
-TUD  GOTT,Tambacounda Airport,33.0,GOTT 011200Z
-GAS  HKGA,Garissa Airport,33.0,HKGA 011200Z
-LOK  HKLO,Lodwar Airport,33.0,HKLO 011200Z
-WJR  HKWJ,Wajir Airport,33.0,HKWJ 011200Z
-DXSK,Sokodé Airport,32.0,DXSK 011200Z
-BFN  FABL,Bram Fischer International Airport,32.0,FABL 011200Z
-HDS  FAHS,Hoedspruit Air Force Base Airport,32.0,FAHS 011200Z
-MVB  FOON,M'Vengue El Hadj Omar Bongo Ondimba International Airport,32.0,FOON 011200Z
-MZI  GAMB,Mopti Airport,32.0,GAMB 011200Z
-GOOD,,32.0,GOOD 011200Z
-GOOG,,32.0,GOOG 011200Z
-DKR  GOOY,Léopold Sédar Senghor International Airport,32.0,GOOY 011200Z
-MAX  GOSM,Ouro Sogui Airport,32.0,GOSM 011200Z
-LAU  HKLU,Manda Airstrip,32.0,HKLU 011200Z
-GIZ  OEGN,Jizan Regional Airport,32.0,OEGN 011200Z
-MVF  SBMS,Dix-Sept Rosado Airport,32.0,SBMS 011200Z
-ROB  GLRB,Roberts International Airport,32.0,GLRB 011230Z
-OUA  DFFD,Ouagadougou Airport,31.0,DFFD 011200Z
+NOU  NWWW,La Tontouta International Airport,33.0,NWWW 020100Z
+BME  YBRM,Broome International Airport,33.0,YBRM 020100Z
+DCN  YCIN,RAAF Base Curtin,33.0,YCIN 020100Z
+GOV  YPGV,Gove Airport,33.0,YPGV 020100Z
+NTL  YWLM,Newcastle Airport,33.0,YWLM 020100Z
+KSA  PTSA,Kosrae International Airport,32.0,PTSA 020050Z
+PNI  PTPN,Pohnpei International Airport,32.0,PTPN 020052Z
+PTTP,,32.0,PTTP 020055Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 020100Z
+TRW  NGTA,Bonriki International Airport,32.0,NGTA 020100Z
+APW  NSFA,Faleolo International Airport,32.0,NSFA 020100Z
+CNS  YBCS,Cairns International Airport,32.0,YBCS 020100Z
+DRW  YPDN,Darwin International Airport,32.0,YPDN 020100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 020100Z
+DBO  YSDU,Dubbo City Regional Airport,32.0,YSDU 020100Z
+SYD  YSSY,Sydney Kingsford Smith International Airport,32.0,YSSY 020100Z
+TMW  YSTW,Tamworth Airport,32.0,YSTW 020100Z
+SBCO,Canoas Air Force Base,32.0,SBCO 020102Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 020054Z
+YAP  PTYA,Yap International Airport,31.0,PTYA 020056Z
+HIR  AGGH,Honiara International Airport,31.0,AGGH 020100Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 020100Z
+LAE  AYNZ,Nadzab Airport,31.0,AYNZ
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 020100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 020100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 020100Z
+TAH  NVVW,Tanna Airport,31.0,NVVW 020100Z
+PSS  SARP,Libertador Gral D Jose De San Martin Airport,31.0,SARP 020100Z
+BAU  SBBU,Bauru Airport,31.0,SBBU 020100Z
+JDO  SBJU,Orlando Bezerra de Menezes Airport,31.0,SBJU 020100Z
+THE  SBTE,Senador Petrônio Portela Airport,31.0,SBTE 020100Z
+BIK  WABB,Frans Kaisiepo Airport,31.0,WABB 020100Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 020100Z
+KOE  WATT,El Tari Airport,31.0,WATT 020100Z
+BKI  WBKK,Kota Kinabalu International Airport,31.0,WBKK 020100Z
+KNX  YPKU,Kununurra Airport,31.0,YPKU 020100Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 020053Z
+TIQ  PGWT,Tinian International Airport,30.0,PGWT 020055Z
+AWK  PWAK,Wake Island Airfield,30.0,PWAK 020055Z
+NCPL,,30.0,NCPL 020100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 020100Z
+NAN  NFFN,Nadi International Airport,30.0,NFFN 020100Z
+SUV  NFNA,Nausori International Airport,30.0,NFNA 020100Z
+LBS  NFNL,Labasa Airport,30.0,NFNL 020100Z
+SVU  NFNS,Savusavu Airport,30.0,NFNS 020100Z
