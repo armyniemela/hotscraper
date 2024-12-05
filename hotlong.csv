@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-DCN  YCIN,RAAF Base Curtin,33.0,YCIN 040100Z
-KSA  PTSA,Kosrae International Airport,32.0,PTSA 040059Z
-HIR  AGGH,Honiara International Airport,32.0,AGGH 040100Z
-MHX  NCMH,Manihiki Island Airport,32.0,NCMH 040100Z
-TRW  NGTA,Bonriki International Airport,32.0,NGTA 040100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 040100Z
-ISA  YBMA,Mount Isa Airport,32.0,YBMA 040100Z
-ROK  YBRK,Rockhampton Airport,32.0,YBRK 040100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 040100Z
-GLT  YGLA,Gladstone Airport,32.0,YGLA 040100Z
-HID  YHID,Horn Island Airport,32.0,YHID 040100Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 040100Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 040052Z
-NGF  PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,31.0,PHNG 040057Z
-PTTP,,31.0,PTTP 040057Z
-PKMR,,31.0,PKMR 040058Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 040100Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-NAN  NFFN,Nadi International Airport,31.0,NFFN 040100Z
-SUV  NFNA,Nausori International Airport,31.0,NFNA 040100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 040100Z
-ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
-STM  SBSN,Maestro Wilson Fonseca Airport,31.0,SBSN 040100Z
-KOE  WATT,El Tari Airport,31.0,WATT 040100Z
-WAYY,,31.0,WAYY 040100Z
-FOS  YFRT,Forrest Airport,31.0,YFRT 040100Z
-PHE  YPPD,Port Hedland International Airport,31.0,YPPD 040100Z
-TMW  YSTW,Tamworth Airport,31.0,YSTW 040100Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 040050Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 040054Z
-AWK  PWAK,Wake Island Airfield,30.0,PWAK 040055Z
-NCPL,,30.0,NCPL 040100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 040100Z
-SVU  NFNS,Savusavu Airport,30.0,NFNS 040100Z
-BOB  NTTB,Bora Bora Airport,30.0,NTTB 040100Z
-SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 040100Z
-VLI  NVVV,Bauerfield International Airport,30.0,NVVV 040100Z
-TAH  NVVW,Tanna Airport,30.0,NVVW 040100Z
-CXI  PLCH,Cassidy International Airport,30.0,PLCH 040100Z
-MNL  RPLL,Ninoy Aquino International Airport,30.0,RPLL 040100Z
-DVO  RPMD,Francisco Bangoy International Airport,30.0,RPMD 040100Z
-GES  RPMR,General Santos International Airport,30.0,RPMR 040100Z
-CEB  RPVM,Mactan Cebu International Airport,30.0,RPVM 040100Z
-SMR  SKSM,Simón Bolívar International Airport,30.0,SKSM 040100Z
-DPS  WADD,Ngurah Rai (Bali) International Airport,30.0,WADD 040100Z
+DRW  YPDN,Darwin International Airport,33.0,YPDN 050100Z
+KNX  YPKU,Kununurra Airport,33.0,YPKU 050100Z
+KSA  PTSA,Kosrae International Airport,32.0,PTSA 050050Z
+PNI  PTPN,Pohnpei International Airport,32.0,PTPN 050055Z
+POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 050100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 050100Z
+TRW  NGTA,Bonriki International Airport,32.0,NGTA 050100Z
+ZAM  RPMZ,Zamboanga International Airport,32.0,RPMZ
+DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 050100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 050100Z
+BME  YBRM,Broome International Airport,32.0,YBRM 050100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 050100Z
+PTTP,,31.0,PTTP 050052Z
+YAP  PTYA,Yap International Airport,31.0,PTYA 050053Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 050054Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 050100Z
+NAN  NFFN,Nadi International Airport,31.0,NFFN 050100Z
+SUV  NFNA,Nausori International Airport,31.0,NFNA 050100Z
+LBS  NFNL,Labasa Airport,31.0,NFNL 050100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 050100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 050100Z
+STM  SBSN,Maestro Wilson Fonseca Airport,31.0,SBSN 050100Z
+MKQ  WAKK,Mopah Airport,31.0,WAKK 050100Z
+ISA  YBMA,Mount Isa Airport,31.0,YBMA 050100Z
+ROK  YBRK,Rockhampton Airport,31.0,YBRK 050100Z
+HID  YHID,Horn Island Airport,31.0,YHID 050100Z
+TMW  YSTW,Tamworth Airport,31.0,YSTW 050100Z
+PPG  NSTU,Pago Pago International Airport,30.0,NSTU 050050Z
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 050050Z
+AWK  PWAK,Wake Island Airfield,30.0,PWAK 050055Z
+PKMR,,30.0,PKMR 050056Z
+LAE  AYNZ,Nadzab Airport,30.0,AYNZ
+SVU  NFNS,Savusavu Airport,30.0,NFNS 050100Z
+WLS  NLWW,Hihifo Airport,30.0,NLWW 050100Z
+APW  NSFA,Faleolo International Airport,30.0,NSFA 050100Z
+PPT  NTAA,Faa'a International Airport,30.0,NTAA 050100Z
+SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 050100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 050100Z
+MNL  RPLL,Ninoy Aquino International Airport,30.0,RPLL 050100Z
+DVO  RPMD,Francisco Bangoy International Airport,30.0,RPMD 050100Z
+GES  RPMR,General Santos International Airport,30.0,RPMR 050100Z
+DGT  RPVD,Sibulan Airport,30.0,RPVD 050100Z
+CEB  RPVM,Mactan Cebu International Airport,30.0,RPVM 050100Z
+PPS  RPVP,Puerto Princesa Airport,30.0,RPVP 050100Z
+SMR  SKSM,Simón Bolívar International Airport,30.0,SKSM 050100Z

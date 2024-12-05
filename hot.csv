@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-POM  AYPY,Port Moresby Jacksons International Airport,34.0,AYPY 040100Z
-NOU  NWWW,La Tontouta International Airport,34.0,NWWW 040100Z
-KNX  YPKU,Kununurra Airport,34.0,YPKU 040100Z
-LBS  NFNL,Labasa Airport,33.0,NFNL 040100Z
-ASP  YBAS,Alice Springs Airport,33.0,YBAS 040100Z
+ASP  YBAS,Alice Springs Airport,37.0,YBAS 050100Z
+UMR  YPWR,Woomera Airfield,36.0,YPWR 050100Z
+ADL  YPAD,Adelaide International Airport,35.0,YPAD 050100Z
+DCN  YCIN,RAAF Base Curtin,34.0,YCIN 050100Z
+NOU  NWWW,La Tontouta International Airport,33.0,NWWW 050100Z
