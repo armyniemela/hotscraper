@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MQP  FAKN,Kruger Mpumalanga International Airport,37.0,FAKN 051200Z
-NTY  FAPN,Pilanesberg International Airport,37.0,FAPN 051200Z
-SHO  FDSK,King Mswati III International Airport,37.0,FDSK 051200Z
-SRH  FTTA,Sarh Airport,36.0,FTTA 051200Z
-NDU  FYRU,Rundu Airport,36.0,FYRU 051200Z
-LOK  HKLO,Lodwar Airport,35.0,HKLO 051200Z
-KGYF,,35.0,KGYF 051215Z
-PTG  FAPP,Polokwane International Airport,34.0,FAPP 051200Z
-PRY  FAWB,Wonderboom Airport,34.0,FAWB 051200Z
-UEL  FQQL,Quelimane Airport,34.0,FQQL 051200Z
-FVJN,,34.0,FVJN 051200Z
-ERS  FYWE,Eros Airport,34.0,FYWE 051200Z
-WDH  FYWH,Hosea Kutako International Airport,34.0,FYWH 051200Z
-GAS  HKGA,Garissa Airport,34.0,HKGA 051200Z
-WJR  HKWJ,Wajir Airport,34.0,HKWJ 051200Z
-UMR  YPWR,Woomera Airfield,34.0,YPWR 051200Z
-FABM,Bethlehem Airport,34.0,FABM 051211Z
-COO  DBBB,Cadjehoun Airport,33.0,DBBB 051200Z
-LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 051200Z
-LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 051200Z
-KIM  FAKM,Kimberley Airport,33.0,FAKM 051200Z
-MBD  FAMM,Mmabatho International Airport,33.0,FAMM 051200Z
-VPE  FNGI,Ngjiva Pereira Airport,33.0,FNGI 051200Z
-VPY  FQCH,Chimoio Airport,33.0,FQCH 051200Z
-NDJ  FTTJ,N'Djamena International Airport,33.0,FTTJ 051200Z
-FVRG,,33.0,FVRG 051200Z
-MZI  GAMB,Mopti Airport,33.0,GAMB 051200Z
-SLL  OOSA,Salalah Airport,32.0,OOSA 051150Z
-OUA  DFFD,Ouagadougou Airport,32.0,DFFD 051200Z
-ACC  DGAA,Kotoka International Airport,32.0,DGAA 051200Z
-NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 051200Z
-DXSK,Sokodé Airport,32.0,DXSK 051200Z
-HLA  FALA,Lanseria Airport,32.0,FALA 051200Z
-WKF  FAWK,Waterkloof Air Force Base,32.0,FAWK 051200Z
-KMP  FYKT,Keetmanshoop Airport,32.0,FYKT 051200Z
-CKY  GUCY,Conakry International Airport,32.0,GUCY 051200Z
-HTMG,Morogoro Airport,32.0,HTMG 051200Z
-OEMN,,32.0,OEMN 051200Z
-VOTK,,32.0,VOTK 051200Z
-ADL  YPAD,Adelaide International Airport,32.0,YPAD 051200Z
-ROB  GLRB,Roberts International Airport,32.0,GLRB 051230Z
-KLH  VAKP,Kolhapur Airport,31.0,VAKP 051130Z
-TIR  VOTP,Tirupati Airport,31.0,VOTP 051130Z
-NKW  FJDG,Diego Garcia Naval Support Facility,31.0,FJDG 051155Z
-LRL  DXNG,Niamtougou International Airport,31.0,DXNG 051200Z
+POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 060100Z
+TRW  NGTA,Bonriki International Airport,32.0,NGTA 060100Z
+NOU  NWWW,La Tontouta International Airport,32.0,NWWW 060100Z
+ISA  YBMA,Mount Isa Airport,32.0,YBMA 060100Z
+ROK  YBRK,Rockhampton Airport,32.0,YBRK 060100Z
+BME  YBRM,Broome International Airport,32.0,YBRM 060100Z
+DBO  YSDU,Dubbo City Regional Airport,32.0,YSDU 060100Z
+TMW  YSTW,Tamworth Airport,32.0,YSTW 060100Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 060051Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 060054Z
+PTTP,,31.0,PTTP 060055Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 060100Z
+NCPL,,31.0,NCPL 060100Z
+RTA  NFNR,Rotuma Airport,31.0,NFNR 060100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 060100Z
+PPT  NTAA,Faa'a International Airport,31.0,NTAA 060100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 060100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 060100Z
+ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
+BIK  WABB,Frans Kaisiepo Airport,31.0,WABB 060100Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 060100Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 060100Z
+DRW  YPDN,Darwin International Airport,31.0,YPDN 060100Z
+XRH  YSRI,RAAF Base Richmond,31.0,YSRI 060100Z
+LOP  WADL,Lombok International Airport,31.0,WADL 060130Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 060050Z
+KSA  PTSA,Kosrae International Airport,30.0,PTSA 060052Z
+WLS  NLWW,Hihifo Airport,30.0,NLWW 060100Z
+TAH  NVVW,Tanna Airport,30.0,NVVW 060100Z
+LAO  RPLI,Laoag International Airport,30.0,RPLI 060100Z
+MNL  RPLL,Ninoy Aquino International Airport,30.0,RPLL 060100Z
+DVO  RPMD,Francisco Bangoy International Airport,30.0,RPMD 060100Z
+GES  RPMR,General Santos International Airport,30.0,RPMR 060100Z
+DGT  RPVD,Sibulan Airport,30.0,RPVD 060100Z
+CEB  RPVM,Mactan Cebu International Airport,30.0,RPVM 060100Z
+MKQ  WAKK,Mopah Airport,30.0,WAKK 060100Z
+MDC  WAMM,Sam Ratulangi Airport,30.0,WAMM 060100Z
+KUD  WBKT,Kudat Airport,30.0,WBKT 060100Z
+YAMB,RAAF Base Amberley,30.0,YAMB 060100Z
+GLT  YGLA,Gladstone Airport,30.0,YGLA 060100Z
+MEL  YMML,Melbourne International Airport,30.0,YMML 060100Z
+ADL  YPAD,Adelaide International Airport,30.0,YPAD 060100Z
+KNX  YPKU,Kununurra Airport,30.0,YPKU 060100Z
+LEA  YPLM,Learmonth Airport,30.0,YPLM 060100Z
+KTR  YPTN,Tindal Airport,30.0,YPTN 060100Z
