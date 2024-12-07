@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BME  YBRM,Broome International Airport,33.0,YBRM 070100Z
-DCN  YCIN,RAAF Base Curtin,33.0,YCIN 070100Z
-NCPL,,32.0,NCPL 070100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 070100Z
-ASP  YBAS,Alice Springs Airport,32.0,YBAS 070100Z
-ROK  YBRK,Rockhampton Airport,32.0,YBRK 070100Z
-NTL  YWLM,Newcastle Airport,32.0,YWLM 070100Z
-TKK  PTKK,Chuuk International Airport,31.0,PTKK 070050Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 070100Z
-MUB  FBMN,Maun Airport,31.0,FBMN 070100Z
-SUV  NFNA,Nausori International Airport,31.0,NFNA 070100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 070100Z
-TRW  NGTA,Bonriki International Airport,31.0,NGTA 070100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 070100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 070100Z
-CEB  RPVM,Mactan Cebu International Airport,31.0,RPVM 070100Z
-WAYY,,31.0,WAYY 070100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 070100Z
-LEA  YPLM,Learmonth Airport,31.0,YPLM 070100Z
-PPG  NSTU,Pago Pago International Airport,30.0,NSTU 070050Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 070054Z
-AIU  NCAT,Enua Airport,30.0,NCAT 070100Z
-MHX  NCMH,Manihiki Island Airport,30.0,NCMH 070100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 070100Z
-NAN  NFFN,Nadi International Airport,30.0,NFFN 070100Z
-SVU  NFNS,Savusavu Airport,30.0,NFNS 070100Z
-BOB  NTTB,Bora Bora Airport,30.0,NTTB 070100Z
-SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 070100Z
-CXI  PLCH,Cassidy International Airport,30.0,PLCH 070100Z
-MNL  RPLL,Ninoy Aquino International Airport,30.0,RPLL 070100Z
-ZAM  RPMZ,Zamboanga International Airport,30.0,RPMZ
-DGT  RPVD,Sibulan Airport,30.0,RPVD 070100Z
-FMA  SARF,Formosa Airport,30.0,SARF 070100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",30.0,WAPP 070100Z
-MYY  WBGR,Miri Airport,30.0,WBGR 070100Z
-BWN  WBSB,Brunei International Airport,30.0,WBSB 070100Z
-QPG  WSAP,Paya Lebar Air Base,30.0,WSAP 070100Z
-YCFS,,30.0,YCFS 070100Z
-GLT  YGLA,Gladstone Airport,30.0,YGLA 070100Z
-HID  YHID,Horn Island Airport,30.0,YHID 070100Z
-KTR  YPTN,Tindal Airport,30.0,YPTN 070100Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 070123Z
-UPG  WAAA,Hasanuddin International Airport,30.0,WAAA 070130Z
-BDJ  WAOO,Syamsudin Noor Airport,30.0,WAOO 070130Z
+NTY  FAPN,Pilanesberg International Airport,39.0,FAPN 071200Z
+BFO  FVCZ,Buffalo Range Airport,39.0,FVCZ
+VFA  FVFA,Victoria Falls International Airport,39.0,FVFA 071200Z
+HWN  FVWN,Hwange National Park Airport,39.0,FVWN 071200Z
+BBK  FBKE,Kasane Airport,38.0,FBKE 071200Z
+FBPM,,38.0,FBPM 071200Z
+MBD  FAMM,Mmabatho International Airport,37.0,FAMM 071200Z
+VPE  FNGI,Ngjiva Pereira Airport,37.0,FNGI 071200Z
+GFY  FYGF,Grootfontein Airport,37.0,FYGF 071200Z
+VPY  FQCH,Chimoio Airport,36.0,FQCH 071200Z
+AEH  FTTC,Abeche Airport,36.0,FTTC 071200Z
+SBJR,Jacarepaguá - Roberto Marinho Airport,36.0,SBJR 071200Z
+MEA  SBME,Macaé Airport,36.0,SBME 071200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 071200Z
+IBA  DNIB,Ibadan Airport,35.0,DNIB 071200Z
+QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 071200Z
+KIM  FAKM,Kimberley Airport,35.0,FAKM 071200Z
+HLA  FALA,Lanseria Airport,35.0,FALA 071200Z
+APL  FQNP,Nampula Airport,35.0,FQNP 071200Z
+SRH  FTTA,Sarh Airport,35.0,FTTA 071200Z
+FVJN,,35.0,FVJN 071200Z
+MVZ  FVMV,Masvingo International Airport,35.0,FVMV 071200Z
+KMP  FYKT,Keetmanshoop Airport,35.0,FYKT 071200Z
+ERS  FYWE,Eros Airport,35.0,FYWE 071200Z
+WDH  FYWH,Hosea Kutako International Airport,35.0,FYWH 071200Z
+LOK  HKLO,Lodwar Airport,35.0,HKLO 071200Z
+LOS  DNMM,Murtala Muhammed International Airport,34.0,DNMM 071200Z
+PHC  DNPO,Port Harcourt International Airport,34.0,DNPO 071200Z
+FAJB,,34.0,FAJB 071200Z
+FAVV,Vereeniging Airport,34.0,FAVV 071200Z
+PRY  FAWB,Wonderboom Airport,34.0,FAWB 071200Z
+FLKK,,34.0,FLKK 071200Z
+INH  FQIN,Inhambane Airport,34.0,FQIN 071200Z
+WJR  HKWJ,Wajir Airport,34.0,HKWJ 071200Z
+OEMN,,34.0,OEMN 071200Z
+SBAF,Campo Délio Jardim de Mattos Airport,34.0,SBAF 071200Z
+SLL  OOSA,Salalah Airport,33.0,OOSA 071150Z
+COO  DBBB,Cadjehoun Airport,33.0,DBBB 071200Z
+CBQ  DNCA,Margaret Ekpo International Airport,33.0,DNCA 071200Z
+MXJ  DNMN,Minna Airport,33.0,DNMN 071200Z
+YOL  DNYO,Yola Airport,33.0,DNYO 071200Z
+DXSK,Sokodé Airport,33.0,DXSK 071200Z
+LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 071200Z
+BFN  FABL,Bram Fischer International Airport,33.0,FABL 071200Z
+FASI,Springs Airfield,33.0,FASI 071200Z
