@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-FBPM,,39.0,FBPM 061200Z
-BBK  FBKE,Kasane Airport,38.0,FBKE 061200Z
-NDU  FYRU,Rundu Airport,38.0,FYRU 061200Z
-PTG  FAPP,Polokwane International Airport,37.0,FAPP 061200Z
-GFY  FYGF,Grootfontein Airport,37.0,FYGF 061200Z
-QOW  DNIM,Sam Mbakwe International Airport,36.0,DNIM 061200Z
-UEL  FQQL,Quelimane Airport,36.0,FQQL 061200Z
-SRH  FTTA,Sarh Airport,36.0,FTTA 061200Z
-YOL  DNYO,Yola Airport,35.0,DNYO 061200Z
-MBD  FAMM,Mmabatho International Airport,35.0,FAMM 061200Z
-VPE  FNGI,Ngjiva Pereira Airport,35.0,FNGI 061200Z
-VPY  FQCH,Chimoio Airport,35.0,FQCH 061200Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,34.0,DNAA 061200Z
-MXJ  DNMN,Minna Airport,34.0,DNMN 061200Z
-QRA  FAGM,Rand Airport,34.0,FAGM 061200Z
-FAJB,,34.0,FAJB 061200Z
-MQP  FAKN,Kruger Mpumalanga International Airport,34.0,FAKN 061200Z
-HLA  FALA,Lanseria Airport,34.0,FALA 061200Z
-ILR  DNIL,Ilorin International Airport,33.0,DNIL 061200Z
-FAVV,Vereeniging Airport,33.0,FAVV 061200Z
-WKF  FAWK,Waterkloof Air Force Base,33.0,FAWK 061200Z
-BEW  FQBR,Beira Airport,33.0,FQBR 061200Z
-FVRG,,33.0,FVRG 061200Z
-ERS  FYWE,Eros Airport,33.0,FYWE 061200Z
-OEMN,,33.0,OEMN 061200Z
-NKW  FJDG,Diego Garcia Naval Support Facility,32.0,FJDG 061155Z
-COO  DBBB,Cadjehoun Airport,32.0,DBBB 061200Z
-OUA  DFFD,Ouagadougou Airport,32.0,DFFD 061200Z
-DNGO,,32.0,DNGO 061200Z
-LOS  DNMM,Murtala Muhammed International Airport,32.0,DNMM 061200Z
-NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 061200Z
-LFW  DXXX,Lomé-Tokoin Airport,32.0,DXXX 061200Z
-KIM  FAKM,Kimberley Airport,32.0,FAKM 061200Z
-FASI,Springs Airfield,32.0,FASI 061200Z
-BZV  FCBB,Maya-Maya Airport,32.0,FCBB 061200Z
-SHO  FDSK,King Mswati III International Airport,32.0,FDSK 061200Z
-DIE  FMNA,Arrachart Airport,32.0,FMNA 061200Z
-FTU  FMSD,Tôlanaro Airport,32.0,FMSD 061200Z
-NDJ  FTTJ,N'Djamena International Airport,32.0,FTTJ 061200Z
-GIZ  OEGN,Jizan Regional Airport,32.0,OEGN 061200Z
-SNZ  SBSC,Santa Cruz Air Force Base,32.0,SBSC 061200Z
-VOTK,,32.0,VOTK 061200Z
-ASU  SGAS,Silvio Pettirossi International Airport,32.0,SGAS 061230Z
-VGA  VOBZ,Vijayawada Airport,31.0,VOBZ
-CJB  VOCB,Coimbatore International Airport,31.0,VOCB 061130Z
+BME  YBRM,Broome International Airport,33.0,YBRM 070100Z
+DCN  YCIN,RAAF Base Curtin,33.0,YCIN 070100Z
+NCPL,,32.0,NCPL 070100Z
+NOU  NWWW,La Tontouta International Airport,32.0,NWWW 070100Z
+ASP  YBAS,Alice Springs Airport,32.0,YBAS 070100Z
+ROK  YBRK,Rockhampton Airport,32.0,YBRK 070100Z
+NTL  YWLM,Newcastle Airport,32.0,YWLM 070100Z
+TKK  PTKK,Chuuk International Airport,31.0,PTKK 070050Z
+LAE  AYNZ,Nadzab Airport,31.0,AYNZ
+POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 070100Z
+MUB  FBMN,Maun Airport,31.0,FBMN 070100Z
+SUV  NFNA,Nausori International Airport,31.0,NFNA 070100Z
+TVU  NFNM,Matei Airport,31.0,NFNM 070100Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 070100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 070100Z
+PPT  NTAA,Faa'a International Airport,31.0,NTAA 070100Z
+CEB  RPVM,Mactan Cebu International Airport,31.0,RPVM 070100Z
+WAYY,,31.0,WAYY 070100Z
+TSV  YBTL,Townsville Airport,31.0,YBTL 070100Z
+LEA  YPLM,Learmonth Airport,31.0,YPLM 070100Z
+PPG  NSTU,Pago Pago International Airport,30.0,NSTU 070050Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 070054Z
+AIU  NCAT,Enua Airport,30.0,NCAT 070100Z
+MHX  NCMH,Manihiki Island Airport,30.0,NCMH 070100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 070100Z
+NAN  NFFN,Nadi International Airport,30.0,NFFN 070100Z
+SVU  NFNS,Savusavu Airport,30.0,NFNS 070100Z
+BOB  NTTB,Bora Bora Airport,30.0,NTTB 070100Z
+SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 070100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 070100Z
+MNL  RPLL,Ninoy Aquino International Airport,30.0,RPLL 070100Z
+ZAM  RPMZ,Zamboanga International Airport,30.0,RPMZ
+DGT  RPVD,Sibulan Airport,30.0,RPVD 070100Z
+FMA  SARF,Formosa Airport,30.0,SARF 070100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",30.0,WAPP 070100Z
+MYY  WBGR,Miri Airport,30.0,WBGR 070100Z
+BWN  WBSB,Brunei International Airport,30.0,WBSB 070100Z
+QPG  WSAP,Paya Lebar Air Base,30.0,WSAP 070100Z
+YCFS,,30.0,YCFS 070100Z
+GLT  YGLA,Gladstone Airport,30.0,YGLA 070100Z
+HID  YHID,Horn Island Airport,30.0,YHID 070100Z
+KTR  YPTN,Tindal Airport,30.0,YPTN 070100Z
+SPN  PGSN,Saipan International Airport,30.0,PGSN 070123Z
+UPG  WAAA,Hasanuddin International Airport,30.0,WAAA 070130Z
+BDJ  WAOO,Syamsudin Noor Airport,30.0,WAOO 070130Z
