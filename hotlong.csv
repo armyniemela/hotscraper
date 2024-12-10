@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HDS  FAHS,Hoedspruit Air Force Base Airport,36.0,FAHS 091200Z
-MUB  FBMN,Maun Airport,36.0,FBMN 091200Z
-VPE  FNGI,Ngjiva Pereira Airport,36.0,FNGI 091200Z
-SRH  FTTA,Sarh Airport,36.0,FTTA 091200Z
-QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 091200Z
-PHC  DNPO,Port Harcourt International Airport,35.0,DNPO 091200Z
-BBK  FBKE,Kasane Airport,35.0,FBKE 091200Z
-AEH  FTTC,Abeche Airport,35.0,FTTC 091200Z
-MQQ  FTTD,Moundou Airport,35.0,FTTD 091200Z
-NDJ  FTTJ,N'Djamena International Airport,35.0,FTTJ 091200Z
-ERS  FYWE,Eros Airport,35.0,FYWE 091200Z
-GAS  HKGA,Garissa Airport,35.0,HKGA 091200Z
-LOK  HKLO,Lodwar Airport,35.0,HKLO 091200Z
-YOL  DNYO,Yola Airport,34.0,DNYO 091200Z
-MQP  FAKN,Kruger Mpumalanga International Airport,34.0,FAKN 091200Z
-MBD  FAMM,Mmabatho International Airport,34.0,FAMM 091200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,34.0,OEYN 091200Z
-COO  DBBB,Cadjehoun Airport,33.0,DBBB 091200Z
-CBQ  DNCA,Margaret Ekpo International Airport,33.0,DNCA 091200Z
-IBA  DNIB,Ibadan Airport,33.0,DNIB 091200Z
-ILR  DNIL,Ilorin International Airport,33.0,DNIL 091200Z
-LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 091200Z
-FBPM,,33.0,FBPM 091200Z
-SHO  FDSK,King Mswati III International Airport,33.0,FDSK 091200Z
-DZA  FMCZ,Dzaoudzi Pamandzi International Airport,33.0,FMCZ
-DIE  FMNA,Arrachart Airport,33.0,FMNA 091200Z
-BEW  FQBR,Beira Airport,33.0,FQBR 091200Z
-MNC  FQNC,Nacala Airport,33.0,FQNC 091200Z
-APL  FQNP,Nampula Airport,33.0,FQNP 091200Z
-OEMN,,33.0,OEMN 091200Z
-ACC  DGAA,Kotoka International Airport,32.0,DGAA 091200Z
-BNI  DNBE,Benin Airport,32.0,DNBE 091200Z
-LRL  DXNG,Niamtougou International Airport,32.0,DXNG 091200Z
-DXSK,Sokodé Airport,32.0,DXSK 091200Z
-UTT  FAUT,K. D. Matanzima Airport,32.0,FAUT 091200Z
-GBE  FBSK,Sir Seretse Khama International Airport,32.0,FBSK 091200Z
-MJN  FMNM,Amborovy Airport,32.0,FMNM 091200Z
-VPY  FQCH,Chimoio Airport,32.0,FQCH 091200Z
-INH  FQIN,Inhambane Airport,32.0,FQIN 091200Z
-POL  FQPB,Pemba Airport,32.0,FQPB 091200Z
-UEL  FQQL,Quelimane Airport,32.0,FQQL 091200Z
-VJB  FQXA,Xai-Xai Airport,32.0,FQXA 091200Z
-FIH  FZAA,Ndjili International Airport,32.0,FZ
-KLC  GOOK,Kaolack Airport,32.0,GOOK 091200Z
-TUD  GOTT,Tambacounda Airport,32.0,GOTT 091200Z
+ROK  YBRK,Rockhampton Airport,33.0,YBRK 100100Z
+BME  YBRM,Broome International Airport,33.0,YBRM 100100Z
+DCN  YCIN,RAAF Base Curtin,33.0,YCIN 100100Z
+GET  YGEL,Geraldton Airport,33.0,YGEL 100100Z
+HID  YHID,Horn Island Airport,33.0,YHID 100100Z
+KNX  YPKU,Kununurra Airport,33.0,YPKU 100100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 100100Z
+TAH  NVVW,Tanna Airport,32.0,NVVW 100100Z
+ASP  YBAS,Alice Springs Airport,32.0,YBAS 100100Z
+GOV  YPGV,Gove Airport,32.0,YPGV 100100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 100100Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 100050Z
+TKK  PTKK,Chuuk International Airport,31.0,PTKK 100053Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 100057Z
+POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 100100Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 100100Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 100100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 100100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 100100Z
+SDK  WBKS,Sandakan Airport,31.0,WBKS 100100Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 100100Z
+GLT  YGLA,Gladstone Airport,31.0,YGLA 100100Z
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 100050Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 100053Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 100054Z
+PTTP,,30.0,PTTP 100054Z
+AWK  PWAK,Wake Island Airfield,30.0,PWAK 100055Z
+NCPL,,30.0,NCPL 100100Z
+TBU  NFTF,Fua'amotu International Airport,30.0,NFTF 100100Z
+BOB  NTTB,Bora Bora Airport,30.0,NTTB 100100Z
+SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 100100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 100100Z
+LAO  RPLI,Laoag International Airport,30.0,RPLI 100100Z
+GES  RPMR,General Santos International Airport,30.0,RPMR 100100Z
+DGT  RPVD,Sibulan Airport,30.0,RPVD 100100Z
+STM  SBSN,Maestro Wilson Fonseca Airport,30.0,SBSN 100100Z
+THE  SBTE,Senador Petrônio Portela Airport,30.0,SBTE 100100Z
+GIR  SKGI,Santiago Vila Airport,30.0,SKGI 100100Z
+NVA  SKNV,Benito Salas Airport,30.0,SKNV 100100Z
+DJJ  WAJJ,Sentani International Airport,30.0,WAJJ 100100Z
+WAQQ,,30.0,WAQQ 100100Z
+KOE  WATT,El Tari Airport,30.0,WATT 100100Z
+BKI  WBKK,Kota Kinabalu International Airport,30.0,WBKK 100100Z
+TSV  YBTL,Townsville Airport,30.0,YBTL 100100Z
+DRW  YPDN,Darwin International Airport,30.0,YPDN 100100Z
