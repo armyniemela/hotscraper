@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LBS  NFNL,Labasa Airport,33.0,NFNL 140100Z
-GOV  YPGV,Gove Airport,33.0,YPGV 140100Z
-KNX  YPKU,Kununurra Airport,33.0,YPKU 140100Z
-KTR  YPTN,Tindal Airport,33.0,YPTN 140100Z
-PTTP,,32.0,PTTP 140056Z
-TRW  NGTA,Bonriki International Airport,32.0,NGTA 140100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 140100Z
-MKQ  WAKK,Mopah Airport,32.0,WAKK 140100Z
-WAYY,,32.0,WAYY 140100Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 140100Z
-DBO  YSDU,Dubbo City Regional Airport,32.0,YSDU 140100Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 140053Z
-GUM  PGUM,Antonio B. Won Pat International Airport,31.0,PGUM 140054Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 140100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 140100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 140100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 140100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 140100Z
-VLI  NVVV,Bauerfield International Airport,31.0,NVVV 140100Z
-TAH  NVVW,Tanna Airport,31.0,NVVW 140100Z
-ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
-JDO  SBJU,Orlando Bezerra de Menezes Airport,31.0,SBJU 140100Z
-PNZ  SBPL,Senador Nilo Coelho Airport,31.0,SBPL 140100Z
-BME  YBRM,Broome International Airport,31.0,YBRM 140100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 140100Z
-HID  YHID,Horn Island Airport,31.0,YHID 140100Z
-LEA  YPLM,Learmonth Airport,31.0,YPLM 140100Z
-PPG  NSTU,Pago Pago International Airport,30.0,NSTU 140050Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 140050Z
-PKMR,,30.0,PKMR 140051Z
-AWK  PWAK,Wake Island Airfield,30.0,PWAK 140055Z
-TVU  NFNM,Matei Airport,30.0,NFNM 140100Z
-SVU  NFNS,Savusavu Airport,30.0,NFNS 140100Z
-KWA  PKWA,Bucholz Army Air Field,30.0,PKWA 140100Z
-MNL  RPLL,Ninoy Aquino International Airport,30.0,RPLL 140100Z
-DGT  RPVD,Sibulan Airport,30.0,RPVD 140100Z
-CEB  RPVM,Mactan Cebu International Airport,30.0,RPVM 140100Z
-THE  SBTE,Senador Petrônio Portela Airport,30.0,SBTE 140100Z
-BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 140100Z
-LOP  WADL,Lombok International Airport,30.0,WADL 140100Z
-DJJ  WAJJ,Sentani International Airport,30.0,WAJJ 140100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",30.0,WAPP 140100Z
-YAMB,RAAF Base Amberley,30.0,YAMB 140100Z
-CNS  YBCS,Cairns International Airport,30.0,YBCS 140100Z
-ROK  YBRK,Rockhampton Airport,30.0,YBRK 140100Z
+BFO  FVCZ,Buffalo Range Airport,38.0,FVCZ
+KAB  FVKB,Kariba International Airport,38.0,FVKB 141200Z
+MFU  FLMF,Mfuwe Airport,37.0,FLMF 141200Z
+TUD  GOTT,Tambacounda Airport,37.0,GOTT 141200Z
+MBD  FAMM,Mmabatho International Airport,36.0,FAMM 141200Z
+APL  FQNP,Nampula Airport,36.0,FQNP 141200Z
+FVJN,,36.0,FVJN 141200Z
+MZI  GAMB,Mopti Airport,36.0,GAMB 141200Z
+GOOD,,36.0,GOOD 141200Z
+GOOG,,36.0,GOOG 141200Z
+KLC  GOOK,Kaolack Airport,36.0,GOOK 141200Z
+DKR  GOOY,Léopold Sédar Senghor International Airport,36.0,GOOY 141200Z
+KGG  GOTK,Kédougou Airport,36.0,GOTK 141200Z
+WJR  HKWJ,Wajir Airport,36.0,HKWJ 141200Z
+OUA  DFFD,Ouagadougou Airport,35.0,DFFD 141200Z
+DXSK,Sokodé Airport,35.0,DXSK 141200Z
+FAVV,Vereeniging Airport,35.0,FAVV 141200Z
+SRH  FTTA,Sarh Airport,35.0,FTTA 141200Z
+VFA  FVFA,Victoria Falls International Airport,35.0,FVFA 141200Z
+MVZ  FVMV,Masvingo International Airport,35.0,FVMV 141200Z
+GAKD,,35.0,GAKD 141200Z
+NIX  GANR,Nioro du Sahel Airport,35.0,GANR 141200Z
+GOGK,,35.0,GOGK 141200Z
+XLS  GOSS,Saint Louis Airport,35.0,GOSS 141200Z
+BOY  DFOO,Bobo Dioulasso Airport,34.0,DFOO 141200Z
+KIM  FAKM,Kimberley Airport,34.0,FAKM 141200Z
+FASI,Springs Airfield,34.0,FASI 141200Z
+VPY  FQCH,Chimoio Airport,34.0,FQCH 141200Z
+MQQ  FTTD,Moundou Airport,34.0,FTTD 141200Z
+BLZ  FWCL,Chileka International Airport,34.0,FWCL 141200Z
+MPA  FYKM,Katima Mulilo Airport,34.0,FYKM 141200Z
+NDU  FYRU,Rundu Airport,34.0,FYRU 141200Z
+ERS  FYWE,Eros Airport,34.0,FYWE 141200Z
+BKO  GABS,Modibo Keita International Airport,34.0,GABS 141200Z
+DSS  GOBD,Blaise Diagne International Airport,34.0,GOBD 141200Z
+ZIG  GOGG,Ziguinchor Airport,34.0,GOGG 141200Z
+MAX  GOSM,Ouro Sogui Airport,34.0,GOSM 141200Z
+ATR  GQPA,Atar International Airport,34.0,GQPA 141200Z
+GAS  HKGA,Garissa Airport,34.0,HKGA 141200Z
+HLA  FALA,Lanseria Airport,34.0,FALA 141201Z
+MBA  HKMO,Mombasa Moi International Airport,33.0,HKMO 141130Z
+LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 141200Z
+NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 141200Z
+THZ  DRRT,Tahoua Airport,33.0,DRRT 141200Z
+LRL  DXNG,Niamtougou International Airport,33.0,DXNG 141200Z
