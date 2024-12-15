@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KNX  YPKU,Kununurra Airport,34.0,YPKU 150100Z
-POM  AYPY,Port Moresby Jacksons International Airport,33.0,AYPY 150100Z
-NOU  NWWW,La Tontouta International Airport,33.0,NWWW 150100Z
-ADL  YPAD,Adelaide International Airport,33.0,YPAD 150100Z
-GOV  YPGV,Gove Airport,33.0,YPGV 150100Z
-KGI  YPKG,Kalgoorlie Boulder Airport,33.0,YPKG 150100Z
-KTR  YPTN,Tindal Airport,33.0,YPTN 150100Z
-DBO  YSDU,Dubbo City Regional Airport,33.0,YSDU 150100Z
-HUX  MMBT,Bahías de Huatulco International Airport,32.0,MMBT 150045Z
-PNI  PTPN,Pohnpei International Airport,32.0,PTPN 150054Z
-HIR  AGGH,Honiara International Airport,32.0,AGGH 150100Z
-LAE  AYNZ,Nadzab Airport,32.0,AYNZ
-VLI  NVVV,Bauerfield International Airport,32.0,NVVV 150100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 150100Z
-CNS  YBCS,Cairns International Airport,32.0,YBCS 150100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 150100Z
-DCN  YCIN,RAAF Base Curtin,32.0,YCIN 150100Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 150100Z
-LEA  YPLM,Learmonth Airport,32.0,YPLM 150100Z
-PTTP,,31.0,PTTP 150050Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 150100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 150100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 150100Z
-TAH  NVVW,Tanna Airport,31.0,NVVW 150100Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 150100Z
-MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 150100Z
-ROK  YBRK,Rockhampton Airport,31.0,YBRK 150100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 150100Z
-PHE  YPPD,Port Hedland International Airport,31.0,YPPD 150100Z
-CBR  YSCB,Canberra International Airport,31.0,YSCB 150100Z
-PKMR,,30.0,PKMR 150051Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 150054Z
-NCPL,,30.0,NCPL 150100Z
-SUV  NFNA,Nausori International Airport,30.0,NFNA 150100Z
-SVU  NFNS,Savusavu Airport,30.0,NFNS 150100Z
-TBU  NFTF,Fua'amotu International Airport,30.0,NFTF 150100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 150100Z
-APW  NSFA,Faleolo International Airport,30.0,NSFA 150100Z
-CXI  PLCH,Cassidy International Airport,30.0,PLCH 150100Z
-GES  RPMR,General Santos International Airport,30.0,RPMR 150100Z
-ZAM  RPMZ,Zamboanga International Airport,30.0,RPMZ
-BVB  SBBV,Atlas Brasil Cantanhede Airport,30.0,SBBV 150100Z
-THE  SBTE,Senador Petrônio Portela Airport,30.0,SBTE 150100Z
-GIR  SKGI,Santiago Vila Airport,30.0,SKGI 150100Z
-LOP  WADL,Lombok International Airport,30.0,WADL 150100Z
+GOOG,,37.0,GOOG 151200Z
+LOK  HKLO,Lodwar Airport,37.0,HKLO 151200Z
+MPA  FYKM,Katima Mulilo Airport,36.0,FYKM 151200Z
+GAKD,,36.0,GAKD 151200Z
+DSS  GOBD,Blaise Diagne International Airport,36.0,GOBD 151200Z
+KLC  GOOK,Kaolack Airport,36.0,GOOK 151200Z
+DKR  GOOY,Léopold Sédar Senghor International Airport,36.0,GOOY 151200Z
+FOS  YFRT,Forrest Airport,36.0,YFRT 151200Z
+UMR  YPWR,Woomera Airfield,36.0,YPWR 151200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 151200Z
+MFU  FLMF,Mfuwe Airport,35.0,FLMF 151200Z
+NIX  GANR,Nioro du Sahel Airport,35.0,GANR 151200Z
+MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 151200Z
+XLS  GOSS,Saint Louis Airport,35.0,GOSS 151200Z
+KGG  GOTK,Kédougou Airport,35.0,GOTK 151200Z
+AKR  DNAK,Akure Airport,34.0,DNAK 151200Z
+BNI  DNBE,Benin Airport,34.0,DNBE 151200Z
+PHC  DNPO,Port Harcourt International Airport,34.0,DNPO 151200Z
+YOL  DNYO,Yola Airport,34.0,DNYO 151200Z
+BFN  FABL,Bram Fischer International Airport,34.0,FABL 151200Z
+UTN  FAUP,Pierre Van Ryneveld Airport,34.0,FAUP 151200Z
+GBE  FBSK,Sir Seretse Khama International Airport,34.0,FBSK 151200Z
+VPE  FNGI,Ngjiva Pereira Airport,34.0,FNGI 151200Z
+SRH  FTTA,Sarh Airport,34.0,FTTA 151200Z
+MQQ  FTTD,Moundou Airport,34.0,FTTD 151200Z
+HWN  FVWN,Hwange National Park Airport,34.0,FVWN 151200Z
+BKO  GABS,Modibo Keita International Airport,34.0,GABS 151200Z
+MZI  GAMB,Mopti Airport,34.0,GAMB 151200Z
+ZIG  GOGG,Ziguinchor Airport,34.0,GOGG 151200Z
+GOGK,,34.0,GOGK 151200Z
+POD  GOSP,Podor Airport,34.0,GOSP 151200Z
+JED  OEJN,King Abdulaziz International Airport,34.0,OEJN 151200Z
+OUA  DFFD,Ouagadougou Airport,33.0,DFFD 151200Z
+BOY  DFOO,Bobo Dioulasso Airport,33.0,DFOO 151200Z
+CBQ  DNCA,Margaret Ekpo International Airport,33.0,DNCA 151200Z
+DLA  FKKD,Douala International Airport,33.0,FKKD 151200Z
+MJN  FMNM,Amborovy Airport,33.0,FMNM 151200Z
+UEL  FQQL,Quelimane Airport,33.0,FQQL 151200Z
+VFA  FVFA,Victoria Falls International Airport,33.0,FVFA 151200Z
+KMP  FYKT,Keetmanshoop Airport,33.0,FYKT 151200Z
+ERS  FYWE,Eros Airport,33.0,FYWE 151200Z
+WDH  FYWH,Hosea Kutako International Airport,33.0,FYWH 151200Z
+GAS  HKGA,Garissa Airport,33.0,HKGA 151200Z
+ASP  YBAS,Alice Springs Airport,33.0,YBAS 151200Z
+NKW  FJDG,Diego Garcia Naval Support Facility,32.0,FJDG 151155Z
