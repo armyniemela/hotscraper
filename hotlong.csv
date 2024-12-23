@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-JAD  YPJT,Perth Jandakot Airport,35.0,YPJT 230100Z
-LEA  YPLM,Learmonth Airport,35.0,YPLM 230100Z
-BME  YBRM,Broome International Airport,34.0,YBRM 230100Z
-NTL  YWLM,Newcastle Airport,34.0,YWLM 230100Z
-SVU  NFNS,Savusavu Airport,33.0,NFNS 230100Z
-FUN  NGFU,Funafuti International Airport,33.0,NGFU 230100Z
-DJJ  WAJJ,Sentani International Airport,33.0,WAJJ 230100Z
-TMW  YSTW,Tamworth Airport,33.0,YSTW 230100Z
-PNI  PTPN,Pohnpei International Airport,32.0,PTPN 230052Z
-PTTP,,32.0,PTTP 230052Z
-POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 230100Z
-APW  NSFA,Faleolo International Airport,32.0,NSFA 230100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 230100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 230100Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 230050Z
-PKMR,,31.0,PKMR 230054Z
-NCPL,,31.0,NCPL 230100Z
-SUV  NFNA,Nausori International Airport,31.0,NFNA 230100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 230100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 230100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 230100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 230100Z
-MKQ  WAKK,Mopah Airport,31.0,WAKK 230100Z
-WAYY,,31.0,WAYY 230100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 230100Z
-HID  YHID,Horn Island Airport,31.0,YHID 230100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 230100Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 230050Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 230050Z
-ZLO  MMZO,Playa De Oro International Airport,30.0,MMZ
-INU  ANYN,Nauru International Airport,30.0,ANYN 230100Z
-NAN  NFFN,Nadi International Airport,30.0,NFFN 230100Z
-HPA  NFTL,Lifuka Island Airport,30.0,NFTL 230100Z
-VAV  NFTV,Vava'u International Airport,30.0,NFTV 230100Z
-IUE  NIUE,Niue International Airport,30.0,NIUE 230100Z
-VLI  NVVV,Bauerfield International Airport,30.0,NVVV 230100Z
-KWA  PKWA,Bucholz Army Air Field,30.0,PKWA 230100Z
-MDZ  SAME,El Plumerillo Airport,30.0,SAME 230100Z
-BVB  SBBV,Atlas Brasil Cantanhede Airport,30.0,SBBV 230100Z
-JDO  SBJU,Orlando Bezerra de Menezes Airport,30.0,SBJU 230100Z
-STM  SBSN,Maestro Wilson Fonseca Airport,30.0,SBSN 230100Z
-DPS  WADD,Ngurah Rai (Bali) International Airport,30.0,WADD 230100Z
-LOP  WADL,Lombok International Airport,30.0,WADL 230100Z
-WAHS,,30.0,WAHS 230100Z
-MDC  WAMM,Sam Ratulangi Airport,30.0,WAMM 230100Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 231200Z
+BEW  FQBR,Beira Airport,35.0,FQBR 231200Z
+APL  FQNP,Nampula Airport,35.0,FQNP 231200Z
+SRH  FTTA,Sarh Airport,35.0,FTTA 231200Z
+BLZ  FWCL,Chileka International Airport,35.0,FWCL 231200Z
+GAS  HKGA,Garissa Airport,35.0,HKGA 231200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,34.0,DNAA 231200Z
+BNI  DNBE,Benin Airport,34.0,DNBE 231200Z
+QOW  DNIM,Sam Mbakwe International Airport,34.0,DNIM 231200Z
+LOS  DNMM,Murtala Muhammed International Airport,34.0,DNMM 231200Z
+LFW  DXXX,Lomé-Tokoin Airport,34.0,DXXX 231200Z
+HDS  FAHS,Hoedspruit Air Force Base Airport,34.0,FAHS 231200Z
+SHO  FDSK,King Mswati III International Airport,34.0,FDSK 231200Z
+INH  FQIN,Inhambane Airport,34.0,FQIN 231200Z
+COO  DBBB,Cadjehoun Airport,33.0,DBBB 231200Z
+ACC  DGAA,Kotoka International Airport,33.0,DGAA 231200Z
+AKR  DNAK,Akure Airport,33.0,DNAK 231200Z
+KIM  FAKM,Kimberley Airport,33.0,FAKM 231200Z
+FTU  FMSD,Tôlanaro Airport,33.0,FMSD 231200Z
+AEH  FTTC,Abeche Airport,33.0,FTTC 231200Z
+KMP  FYKT,Keetmanshoop Airport,33.0,FYKT 231200Z
+WJR  HKWJ,Wajir Airport,33.0,HKWJ 231200Z
+PHE  YPPD,Port Hedland International Airport,33.0,YPPD 231200Z
+ROB  GLRB,Roberts International Airport,33.0,GLRB 231230Z
+ABJ  DIAP,Port Bouet Airport,32.0,DIAP 231200Z
+YOL  DNYO,Yola Airport,32.0,DNYO 231200Z
+DXSK,Sokodé Airport,32.0,DXSK 231200Z
+UTN  FAUP,Pierre Van Ryneveld Airport,32.0,FAUP 231200Z
+MTS  FDMS,Matsapha Airport,32.0,FDMS 231200Z
+FLKK,,32.0,FLKK 231200Z
+SMS  FMMS,Sainte Marie Airport,32.0,FMMS 231200Z
+MJN  FMNM,Amborovy Airport,32.0,FMNM 231200Z
+MBA  HKMO,Mombasa Moi International Airport,32.0,HKMO 231200Z
+KGI  YPKG,Kalgoorlie Boulder Airport,32.0,YPKG 231200Z
+LEA  YPLM,Learmonth Airport,32.0,YPLM 231200Z
+LRL  DXNG,Niamtougou International Airport,31.0,DXNG 231200Z
+MQP  FAKN,Kruger Mpumalanga International Airport,31.0,FAKN 231200Z
+OLL  FCOD,Oyo Ollombo Airport,31.0,FCOD 231200Z
+PNR  FCPP,Pointe Noire Airport,31.0,FCPP 231200Z
+TNR  FMMI,Ivato Airport,31.0,FMMI 231200Z
+TMM  FMMT,Toamasina Airport,31.0,FMMT 231200Z
+CAB  FNCA,Cabinda Airport,31.0,FNCA 231200Z
+MVB  FOON,M'Vengue El Hadj Omar Bongo Ondimba International Airport,31.0,FOON 231200Z
+MNC  FQNC,Nacala Airport,31.0,FQNC 231200Z
+POL  FQPB,Pemba Airport,31.0,FQPB 231200Z
