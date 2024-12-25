@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KMP  FYKT,Keetmanshoop Airport,35.0,FYKT 241200Z
-FACV,Calvinia Airport,34.0,FACV 241146Z
-KIM  FAKM,Kimberley Airport,34.0,FAKM 241200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,34.0,FAUP 241200Z
-BEW  FQBR,Beira Airport,34.0,FQBR 241200Z
-BLZ  FWCL,Chileka International Airport,34.0,FWCL 241200Z
-WJR  HKWJ,Wajir Airport,34.0,HKWJ 241200Z
-ACC  DGAA,Kotoka International Airport,33.0,DGAA 241200Z
-ILR  DNIL,Ilorin International Airport,33.0,DNIL 241200Z
-LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 241200Z
-YOL  DNYO,Yola Airport,33.0,DNYO 241200Z
-DXSK,Sokodé Airport,33.0,DXSK 241200Z
-SMS  FMMS,Sainte Marie Airport,33.0,FMMS 241200Z
-FTU  FMSD,Tôlanaro Airport,33.0,FMSD 241200Z
-VNX  FQVL,Vilankulo Airport,33.0,FQVL 241200Z
-AEH  FTTC,Abeche Airport,33.0,FTTC 241200Z
-LRL  DXNG,Niamtougou International Airport,32.0,DXNG 241200Z
-LFW  DXXX,Lomé-Tokoin Airport,32.0,DXXX 241200Z
-MUB  FBMN,Maun Airport,32.0,FBMN 241200Z
-TNR  FMMI,Ivato Airport,32.0,FMMI 241200Z
-DIE  FMNA,Arrachart Airport,32.0,FMNA 241200Z
-TET  FQTT,Chingozi Airport,32.0,FQTT 241200Z
-MQQ  FTTD,Moundou Airport,32.0,FTTD 241200Z
-OND  FYOA,Ondangwa Airport,32.0,FYOA 241200Z
-CKY  GUCY,Conakry International Airport,32.0,GUCY 241200Z
-GAS  HKGA,Garissa Airport,32.0,HKGA 241200Z
-DAR  HTDA,Julius Nyerere International Airport,32.0,HTDA 241200Z
-HTMG,Morogoro Airport,32.0,HTMG 241200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,32.0,VOTR 241200Z
-ISA  YBMA,Mount Isa Airport,32.0,YBMA 241200Z
-ROB  GLRB,Roberts International Airport,32.0,GLRB 241230Z
-COO  DBBB,Cadjehoun Airport,31.0,DBBB 241200Z
-OUA  DFFD,Ouagadougou Airport,31.0,DFFD 241200Z
-ABJ  DIAP,Port Bouet Airport,31.0,DIAP 241200Z
-KAD  DNKA,Kaduna Airport,31.0,DNKA 241200Z
-SDB  FALW,Langebaanweg Airport,31.0,FALW 241200Z
-FBPM,,31.0,FBPM 241200Z
-DZA  FMCZ,Dzaoudzi Pamandzi International Airport,31.0,FMCZ
-ZSE  FMEP,Pierrefonds Airport,31.0,FMEP 241200Z
-TMM  FMMT,Toamasina Airport,31.0,FMMT 241200Z
-MJN  FMNM,Amborovy Airport,31.0,FMNM 241200Z
-MNC  FQNC,Nacala Airport,31.0,FQNC 241200Z
-POL  FQPB,Pemba Airport,31.0,FQPB 241200Z
-GFY  FYGF,Grootfontein Airport,31.0,FYGF 241200Z
-ERS  FYWE,Eros Airport,31.0,FYWE 241200Z
+DCN  YCIN,RAAF Base Curtin,33.0,YCIN 250100Z
+UMR  YPWR,Woomera Airfield,33.0,YPWR 250100Z
+PTTP,,32.0,PTTP 250054Z
+MHX  NCMH,Manihiki Island Airport,32.0,NCMH 250100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 250100Z
+WLS  NLWW,Hihifo Airport,32.0,NLWW 250100Z
+APW  NSFA,Faleolo International Airport,32.0,NSFA 250100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 250100Z
+CNS  YBCS,Cairns International Airport,32.0,YBCS 250100Z
+HID  YHID,Horn Island Airport,32.0,YHID 250100Z
+ADL  YPAD,Adelaide International Airport,32.0,YPAD 250100Z
+GOV  YPGV,Gove Airport,32.0,YPGV 250100Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 250056Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 250100Z
+HPA  NFTL,Lifuka Island Airport,31.0,NFTL 250100Z
+STM  SBSN,Maestro Wilson Fonseca Airport,31.0,SBSN 250100Z
+MKQ  WAKK,Mopah Airport,31.0,WAKK 250100Z
+MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 250100Z
+WAYY,,31.0,WAYY 250100Z
+TSV  YBTL,Townsville Airport,31.0,YBTL 250100Z
+KNX  YPKU,Kununurra Airport,31.0,YPKU 250100Z
+LEA  YPLM,Learmonth Airport,31.0,YPLM 250100Z
+KTR  YPTN,Tindal Airport,31.0,YPTN 250100Z
+TMW  YSTW,Tamworth Airport,31.0,YSTW 250100Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 250053Z
+SPN  PGSN,Saipan International Airport,30.0,PGSN 250054Z
+AWK  PWAK,Wake Island Airfield,30.0,PWAK 250055Z
+NCPL,,30.0,NCPL 250100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 250100Z
+LBS  NFNL,Labasa Airport,30.0,NFNL 250100Z
+TVU  NFNM,Matei Airport,30.0,NFNM 250100Z
+SVU  NFNS,Savusavu Airport,30.0,NFNS 250100Z
+TBU  NFTF,Fua'amotu International Airport,30.0,NFTF 250100Z
+VAV  NFTV,Vava'u International Airport,30.0,NFTV 250100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 250100Z
+PPT  NTAA,Faa'a International Airport,30.0,NTAA 250100Z
+BOB  NTTB,Bora Bora Airport,30.0,NTTB 250100Z
+PNZ  SBPL,Senador Nilo Coelho Airport,30.0,SBPL 250100Z
+BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 250100Z
+KOE  WATT,El Tari Airport,30.0,WATT 250100Z
+BKI  WBKK,Kota Kinabalu International Airport,30.0,WBKK 250100Z
+OGG  PHOG,Kahului Airport,29.0,PHOG 250054Z
+PKMR,,29.0,PKMR 250054Z
+YAP  PTYA,Yap International Airport,29.0,PTYA 250054Z
+HIR  AGGH,Honiara International Airport,29.0,AGGH 250100Z
