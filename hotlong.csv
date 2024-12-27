@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LFW  DXXX,Lomé-Tokoin Airport,34.0,DXXX 261200Z
-UTT  FAUT,K. D. Matanzima Airport,34.0,FAUT 261200Z
-APL  FQNP,Nampula Airport,34.0,FQNP 261200Z
-UEL  FQQL,Quelimane Airport,34.0,FQQL 261200Z
-MQQ  FTTD,Moundou Airport,34.0,FTTD 261200Z
-TUD  GOTT,Tambacounda Airport,34.0,GOTT 261200Z
-CKY  GUCY,Conakry International Airport,34.0,GUCY 261200Z
-DXSK,Sokodé Airport,33.0,DXSK 261200Z
-KIM  FAKM,Kimberley Airport,33.0,FAKM 261200Z
-MNC  FQNC,Nacala Airport,33.0,FQNC 261200Z
-ROB  GLRB,Roberts International Airport,33.0,GLRB 261200Z
-KGG  GOTK,Kédougou Airport,33.0,GOTK 261200Z
-GAS  HKGA,Garissa Airport,33.0,HKGA 261200Z
-LAU  HKLU,Manda Airstrip,33.0,HKLU 261200Z
-ISA  YBMA,Mount Isa Airport,33.0,YBMA 261200Z
-COO  DBBB,Cadjehoun Airport,32.0,DBBB 261200Z
-LRL  DXNG,Niamtougou International Airport,32.0,DXNG 261200Z
-FDBB,,32.0,FDBB 261200Z
-MJN  FMNM,Amborovy Airport,32.0,FMNM 261200Z
-BKO  GABS,Modibo Keita International Airport,32.0,GABS 261200Z
-GAKD,,32.0,GAKD 261200Z
-MZI  GAMB,Mopti Airport,32.0,GAMB 261200Z
-NIX  GANR,Nioro du Sahel Airport,32.0,GANR 261200Z
-OXB  GGOV,Osvaldo Vieira International Airport,32.0,GGOV 261200Z
-MAX  GOSM,Ouro Sogui Airport,32.0,GOSM 261200Z
-DAR  HTDA,Julius Nyerere International Airport,32.0,HTDA 261200Z
-HTMG,Morogoro Airport,32.0,HTMG 261200Z
-MYW  HTMT,Mtwara Airport,32.0,HTMT 261200Z
-MVF  SBMS,Dix-Sept Rosado Airport,32.0,SBMS 261200Z
-OUA  DFFD,Ouagadougou Airport,31.0,DFFD 261200Z
-BOY  DFOO,Bobo Dioulasso Airport,31.0,DFOO 261200Z
-ABJ  DIAP,Port Bouet Airport,31.0,DIAP 261200Z
-NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 261200Z
-CPT  FACT,Cape Town International Airport,31.0,FACT 261200Z
-TMM  FMMT,Toamasina Airport,31.0,FMMT 261200Z
-DIE  FMNA,Arrachart Airport,31.0,FMNA 261200Z
-CAB  FNCA,Cabinda Airport,31.0,FNCA 261200Z
-LAD  FNLU,Quatro de Fevereiro Airport,31.0,FNLU 261200Z
-BEW  FQBR,Beira Airport,31.0,FQBR 261200Z
-POL  FQPB,Pemba Airport,31.0,FQPB 261200Z
-NDJ  FTTJ,N'Djamena International Airport,31.0,FTTJ 261200Z
-LLW  FWKI,Lilongwe International Airport,31.0,FWKI 261200Z
-ZIG  GOGG,Ziguinchor Airport,31.0,GOGG 261200Z
-GOGK,,31.0,GOGK 261200Z
-NZE  GUNZ,Nzérékoré Airport,31.0,GUNZ
+XRH  YSRI,RAAF Base Richmond,34.0,YSRI 270103Z
+POM  AYPY,Port Moresby Jacksons International Airport,33.0,AYPY 270100Z
+BME  YBRM,Broome International Airport,33.0,YBRM 270100Z
+DCN  YCIN,RAAF Base Curtin,33.0,YCIN 270100Z
+GOV  YPGV,Gove Airport,33.0,YPGV 270100Z
+DBO  YSDU,Dubbo City Regional Airport,33.0,YSDU 270100Z
+SYD  YSSY,Sydney Kingsford Smith International Airport,33.0,YSSY 270100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 270100Z
+DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 270100Z
+HID  YHID,Horn Island Airport,32.0,YHID 270100Z
+DRW  YPDN,Darwin International Airport,32.0,YPDN 270100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 270100Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 270051Z
+LAE  AYNZ,Nadzab Airport,31.0,AYNZ
+SVU  NFNS,Savusavu Airport,31.0,NFNS 270100Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 270100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 270100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 270100Z
+NQN  SAZN,Presidente Peron Airport,31.0,SAZ
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 270100Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 270051Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 270054Z
+INU  ANYN,Nauru International Airport,30.0,ANYN 270100Z
+AIU  NCAT,Enua Airport,30.0,NCAT 270100Z
+MHX  NCMH,Manihiki Island Airport,30.0,NCMH 270100Z
+NCPL,,30.0,NCPL 270100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 270100Z
+LBS  NFNL,Labasa Airport,30.0,NFNL 270100Z
+VAV  NFTV,Vava'u International Airport,30.0,NFTV 270100Z
+PPT  NTAA,Faa'a International Airport,30.0,NTAA 270100Z
+NOU  NWWW,La Tontouta International Airport,30.0,NWWW 270100Z
+THE  SBTE,Senador Petrônio Portela Airport,30.0,SBTE 270100Z
+BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 270100Z
+KOE  WATT,El Tari Airport,30.0,WATT 270100Z
+WAYY,,30.0,WAYY 270100Z
+CNS  YBCS,Cairns International Airport,30.0,YBCS 270100Z
+ROK  YBRK,Rockhampton Airport,30.0,YBRK 270100Z
+TSV  YBTL,Townsville Airport,30.0,YBTL 270100Z
+WTB  YBWW,Toowoomba Wellcamp Airport,30.0,YBWW 270100Z
+GLT  YGLA,Gladstone Airport,30.0,YGLA 270100Z
+MKQ  WAKK,Mopah Airport,29.0,WAKK 270030Z
+PNI  PTPN,Pohnpei International Airport,29.0,PTPN 270052Z
+TKK  PTKK,Chuuk International Airport,29.0,PTKK 270053Z
+PTTP,,29.0,PTTP 270054Z
+TIQ  PGWT,Tinian International Airport,29.0,PGWT 270055Z
