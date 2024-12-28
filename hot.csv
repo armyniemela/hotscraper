@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,34.0,YBMA 280100Z
-PHE  YPPD,Port Hedland International Airport,34.0,YPPD 280100Z
-KNX  YPKU,Kununurra Airport,33.0,YPKU 280100Z
-KTR  YPTN,Tindal Airport,33.0,YPTN 280100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 280100Z
+TET  FQTT,Chingozi Airport,40.0,FQTT 281200Z
+BFO  FVCZ,Buffalo Range Airport,36.0,FVCZ
+TUD  GOTT,Tambacounda Airport,36.0,GOTT 281200Z
+QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 281200Z
+APL  FQNP,Nampula Airport,35.0,FQNP 281200Z
