@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BME  YBRM,Broome International Airport,33.0,YBRM 310100Z
-UMR  YPWR,Woomera Airfield,33.0,YPWR 310100Z
-PPG  NSTU,Pago Pago International Airport,32.0,NSTU 310050Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 310100Z
-MKQ  WAKK,Mopah Airport,32.0,WAKK 310100Z
-KNX  YPKU,Kununurra Airport,32.0,YPKU 310100Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 310100Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-NCPL,,31.0,NCPL 310100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 310100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 310100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 310100Z
-NOU  NWWW,La Tontouta International Airport,31.0,NWWW 310100Z
-MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 310100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 310100Z
-CNS  YBCS,Cairns International Airport,31.0,YBCS 310100Z
-ROK  YBRK,Rockhampton Airport,31.0,YBRK 310100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 310100Z
-KTR  YPTN,Tindal Airport,31.0,YPTN 310100Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 310050Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 310050Z
-PNI  PTPN,Pohnpei International Airport,30.0,PTPN 310053Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 310054Z
-KGYF,,30.0,KGYF 310055Z
-AIU  NCAT,Enua Airport,30.0,NCAT 310100Z
-MHX  NCMH,Manihiki Island Airport,30.0,NCMH 310100Z
-MUK  NCMK,Mauke Airport,30.0,NCMK 310100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 310100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 310100Z
-BOB  NTTB,Bora Bora Airport,30.0,NTTB 310100Z
-ZAM  RPMZ,Zamboanga International Airport,30.0,RPMZ
-CEB  RPVM,Mactan Cebu International Airport,30.0,RPVM 310100Z
-BVB  SBBV,Atlas Brasil Cantanhede Airport,30.0,SBBV 310100Z
-JDO  SBJU,Orlando Bezerra de Menezes Airport,30.0,SBJU 310100Z
-THE  SBTE,Senador Petrônio Portela Airport,30.0,SBTE 310100Z
-BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 310100Z
-DJJ  WAJJ,Sentani International Airport,30.0,WAJJ 310100Z
-FOS  YFRT,Forrest Airport,30.0,YFRT 310100Z
-DRW  YPDN,Darwin International Airport,30.0,YPDN 310100Z
-DBO  YSDU,Dubbo City Regional Airport,30.0,YSDU 310100Z
-TMW  YSTW,Tamworth Airport,30.0,YSTW 310100Z
-ROR  PTRO,Babelthuap Airport,29.0,PTRO 310050Z
-KSA  PTSA,Kosrae International Airport,29.0,PTSA 310050Z
-AWK  PWAK,Wake Island Airfield,29.0,PWAK 310055Z
-PKMR,,29.0,PKMR 310057Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 311200Z
+MQQ  FTTD,Moundou Airport,35.0,FTTD 311200Z
+BEW  FQBR,Beira Airport,34.0,FQBR 311200Z
+VJB  FQXA,Xai-Xai Airport,34.0,FQXA 311200Z
+KMP  FYKT,Keetmanshoop Airport,34.0,FYKT 311200Z
+KGI  YPKG,Kalgoorlie Boulder Airport,34.0,YPKG 311200Z
+OUA  DFFD,Ouagadougou Airport,33.0,DFFD 311200Z
+QOW  DNIM,Sam Mbakwe International Airport,33.0,DNIM 311200Z
+LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 311200Z
+PHC  DNPO,Port Harcourt International Airport,33.0,DNPO 311200Z
+HDS  FAHS,Hoedspruit Air Force Base Airport,33.0,FAHS 311200Z
+SHO  FDSK,King Mswati III International Airport,33.0,FDSK 311200Z
+INH  FQIN,Inhambane Airport,33.0,FQIN 311200Z
+MPM  FQMA,Maputo Airport,33.0,FQMA 311200Z
+TET  FQTT,Chingozi Airport,33.0,FQTT 311200Z
+VNX  FQVL,Vilankulo Airport,33.0,FQVL 311200Z
+AEH  FTTC,Abeche Airport,33.0,FTTC 311200Z
+OND  FYOA,Ondangwa Airport,33.0,FYOA 311200Z
+KGG  GOTK,Kédougou Airport,33.0,GOTK 311200Z
+TUD  GOTT,Tambacounda Airport,33.0,GOTT 311200Z
+GAS  HKGA,Garissa Airport,33.0,HKGA 311200Z
+LEA  YPLM,Learmonth Airport,33.0,YPLM 311200Z
+ROB  GLRB,Roberts International Airport,33.0,GLRB 311230Z
+COK  VOCI,Cochin International Airport,32.0,VOCI 311130Z
+COO  DBBB,Cadjehoun Airport,32.0,DBBB 311200Z
+DNGO,,32.0,DNGO 311200Z
+DNSU,,32.0,DNSU 311200Z
+LFW  DXXX,Lomé-Tokoin Airport,32.0,DXXX 311200Z
+UTN  FAUP,Pierre Van Ryneveld Airport,32.0,FAUP 311200Z
+MTS  FDMS,Matsapha Airport,32.0,FDMS 311200Z
+FTU  FMSD,Tôlanaro Airport,32.0,FMSD 311200Z
+NDJ  FTTJ,N'Djamena International Airport,32.0,FTTJ 311200Z
+WDH  FYWH,Hosea Kutako International Airport,32.0,FYWH 311200Z
+OXB  GGOV,Osvaldo Vieira International Airport,32.0,GGOV 311200Z
+ZIG  GOGG,Ziguinchor Airport,32.0,GOGG 311200Z
+GOGK,,32.0,GOGK 311200Z
+CSK  GOGS,Cap Skirring Airport,32.0,GOGS 311200Z
+GOOD,,32.0,GOOD 311200Z
+KLC  GOOK,Kaolack Airport,32.0,GOOK 311200Z
+MBA  HKMO,Mombasa Moi International Airport,32.0,HKMO 311200Z
+JRO  HTKJ,Kilimanjaro International Airport,32.0,HTKJ 311200Z
+HTMG,Morogoro Airport,32.0,HTMG 311200Z
+PHE  YPPD,Port Hedland International Airport,32.0,YPPD 311200Z
+ASU  SGAS,Silvio Pettirossi International Airport,32.0,SGAS 311230Z
+ACC  DGAA,Kotoka International Airport,31.0,DGAA 311200Z
