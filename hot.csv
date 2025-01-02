@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,36.0,YBMA 020100Z
-GET  YGEL,Geraldton Airport,36.0,YGEL 020100Z
-LEA  YPLM,Learmonth Airport,35.0,YPLM 020100Z
-NOU  NWWW,La Tontouta International Airport,34.0,NWWW 020100Z
-ASP  YBAS,Alice Springs Airport,34.0,YBAS 020100Z
+UTN  FAUP,Pierre Van Ryneveld Airport,38.0,FAUP 021200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,36.0,DNAA 021200Z
+YOL  DNYO,Yola Airport,36.0,DNYO 021200Z
+KIM  FAKM,Kimberley Airport,36.0,FAKM 021200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 021200Z
