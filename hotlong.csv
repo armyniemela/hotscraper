@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NOU  NWWW,La Tontouta International Airport,34.0,NWWW 030100Z
-KNX  YPKU,Kununurra Airport,34.0,YPKU 030100Z
-UMR  YPWR,Woomera Airfield,33.0,YPWR 030100Z
-THE  SBTE,Senador Petrônio Portela Airport,32.0,SBTE 030100Z
-MKQ  WAKK,Mopah Airport,32.0,WAKK 030100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 030100Z
-DCN  YCIN,RAAF Base Curtin,32.0,YCIN 030100Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 030100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 030100Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 030100Z
-NCPL,,31.0,NCPL 030100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 030100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 030100Z
-VLI  NVVV,Bauerfield International Airport,31.0,NVVV 030100Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 030100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 030100Z
-WAYY,,31.0,WAYY 030100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 030100Z
-KGI  YPKG,Kalgoorlie Boulder Airport,31.0,YPKG 030100Z
-PPG  NSTU,Pago Pago International Airport,30.0,NSTU 030050Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 030050Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 030050Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 030052Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 030054Z
-PNI  PTPN,Pohnpei International Airport,30.0,PTPN 030055Z
-INU  ANYN,Nauru International Airport,30.0,ANYN 030100Z
-LBS  NFNL,Labasa Airport,30.0,NFNL 030100Z
-TVU  NFNM,Matei Airport,30.0,NFNM 030100Z
-SVU  NFNS,Savusavu Airport,30.0,NFNS 030100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 030100Z
-IUE  NIUE,Niue International Airport,30.0,NIUE 030100Z
-APW  NSFA,Faleolo International Airport,30.0,NSFA 030100Z
-KWA  PKWA,Bucholz Army Air Field,30.0,PKWA 030100Z
-ZAM  RPMZ,Zamboanga International Airport,30.0,RPMZ
-PSS  SARP,Libertador Gral D Jose De San Martin Airport,30.0,SARP 030100Z
-MVF  SBMS,Dix-Sept Rosado Airport,30.0,SBMS 030100Z
-BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 030100Z
-MDC  WAMM,Sam Ratulangi Airport,30.0,WAMM 030100Z
-KOE  WATT,El Tari Airport,30.0,WATT 030100Z
-HID  YHID,Horn Island Airport,30.0,YHID 030100Z
-ZIH  MMZH,Ixtapa Zihuatanejo International Airport,29.0,MMZ
-PTTP,,29.0,PTTP 030052Z
-TIQ  PGWT,Tinian International Airport,29.0,PGWT 030059Z
-LAE  AYNZ,Nadzab Airport,29.0,AYNZ
-ABJ  DIAP,Port Bouet Airport,29.0,DIAP 030100Z
+GAS  HKGA,Garissa Airport,36.0,HKGA 031200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 031200Z
+DNGO,,35.0,DNGO 031200Z
+UTT  FAUT,K. D. Matanzima Airport,35.0,FAUT 031200Z
+BGF  FEFF,Bangui M'Poko International Airport,35.0,FEFF 031200Z
+GOU  FKKR,Garoua International Airport,35.0,FKKR 031200Z
+AEH  FTTC,Abeche Airport,35.0,FTTC 031200Z
+NDJ  FTTJ,N'Djamena International Airport,35.0,FTTJ 031200Z
+WJR  HKWJ,Wajir Airport,35.0,HKWJ 031200Z
+KAD  DNKA,Kaduna Airport,34.0,DNKA 031200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,34.0,DNSO 031200Z
+DXSK,Sokodé Airport,34.0,DXSK 031200Z
+DLA  FKKD,Douala International Airport,34.0,FKKD 031200Z
+BEW  FQBR,Beira Airport,34.0,FQBR 031200Z
+TET  FQTT,Chingozi Airport,34.0,FQTT 031200Z
+VJB  FQXA,Xai-Xai Airport,34.0,FQXA 031200Z
+SRH  FTTA,Sarh Airport,34.0,FTTA 031200Z
+ACC  DGAA,Kotoka International Airport,33.0,DGAA 031200Z
+LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 031200Z
+ZAR  DNZA,Zaria Airport,33.0,DNZ
+BFN  FABL,Bram Fischer International Airport,33.0,FABL 031200Z
+SMS  FMMS,Sainte Marie Airport,33.0,FMMS 031200Z
+FTU  FMSD,Tôlanaro Airport,33.0,FMSD 031200Z
+INH  FQIN,Inhambane Airport,33.0,FQIN 031200Z
+APL  FQNP,Nampula Airport,33.0,FQNP 031200Z
+UEL  FQQL,Quelimane Airport,33.0,FQQL 031200Z
+MQQ  FTTD,Moundou Airport,33.0,FTTD 031200Z
+JED  OEJN,King Abdulaziz International Airport,33.0,OEJN 031200Z
+COO  DBBB,Cadjehoun Airport,32.0,DBBB 031200Z
+IBA  DNIB,Ibadan Airport,32.0,DNIB 031200Z
+ILR  DNIL,Ilorin International Airport,32.0,DNIL 031200Z
+DRZF,Diffa Airport,32.0,DRZ
+LRL  DXNG,Niamtougou International Airport,32.0,DXNG 031200Z
+LFW  DXXX,Lomé-Tokoin Airport,32.0,DXXX 031200Z
+DUR  FALE,King Shaka International Airport,32.0,FALE 031200Z
+SHO  FDSK,King Mswati III International Airport,32.0,FDSK 031200Z
+SSG  FGSL,Malabo Airport,32.0,FGSL 031200Z
+MVB  FOON,M'Vengue El Hadj Omar Bongo Ondimba International Airport,32.0,FOON 031200Z
+MPM  FQMA,Maputo Airport,32.0,FQMA 031200Z
+VNX  FQVL,Vilankulo Airport,32.0,FQVL 031200Z
+ROB  GLRB,Roberts International Airport,32.0,GLRB 031200Z
+MBA  HKMO,Mombasa Moi International Airport,32.0,HKMO 031200Z
+OEMN,,32.0,OEMN 031200Z
+SBJR,Jacarepaguá - Roberto Marinho Airport,32.0,SBJR 031200Z
+MVF  SBMS,Dix-Sept Rosado Airport,32.0,SBMS 031200Z
