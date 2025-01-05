@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MEL  YMML,Melbourne International Airport,34.0,YMML 050100Z
-KNX  YPKU,Kununurra Airport,34.0,YPKU 050100Z
-PHE  YPPD,Port Hedland International Airport,34.0,YPPD 050100Z
-BME  YBRM,Broome International Airport,33.0,YBRM 050100Z
-GOV  YPGV,Gove Airport,33.0,YPGV 050100Z
-DBO  YSDU,Dubbo City Regional Airport,33.0,YSDU 050100Z
-NCPL,,32.0,NCPL 050100Z
-MDZ  SAME,El Plumerillo Airport,32.0,SAME 050100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 050100Z
-XRH  YSRI,RAAF Base Richmond,32.0,YSRI 050100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 050100Z
-TAH  NVVW,Tanna Airport,31.0,NVVW 050100Z
-NQN  SAZN,Presidente Peron Airport,31.0,SAZ
-JDO  SBJU,Orlando Bezerra de Menezes Airport,31.0,SBJU 050100Z
-HID  YHID,Horn Island Airport,31.0,YHID 050100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 050100Z
-LEA  YPLM,Learmonth Airport,31.0,YPLM 050100Z
-CBR  YSCB,Canberra International Airport,31.0,YSCB 050100Z
-TMW  YSTW,Tamworth Airport,31.0,YSTW 050100Z
-NTL  YWLM,Newcastle Airport,31.0,YWLM 050100Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 050050Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 050052Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 050054Z
-INU  ANYN,Nauru International Airport,30.0,ANYN 050100Z
-LAE  AYNZ,Nadzab Airport,30.0,AYNZ
-POM  AYPY,Port Moresby Jacksons International Airport,30.0,AYPY 050100Z
-AIU  NCAT,Enua Airport,30.0,NCAT 050100Z
-MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 050100Z
-NAN  NFFN,Nadi International Airport,30.0,NFFN 050100Z
-SUV  NFNA,Nausori International Airport,30.0,NFNA 050100Z
-TVU  NFNM,Matei Airport,30.0,NFNM 050100Z
-SVU  NFNS,Savusavu Airport,30.0,NFNS 050100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 050100Z
-IUE  NIUE,Niue International Airport,30.0,NIUE 050100Z
-BOB  NTTB,Bora Bora Airport,30.0,NTTB 050100Z
-NOU  NWWW,La Tontouta International Airport,30.0,NWWW 050100Z
-CXI  PLCH,Cassidy International Airport,30.0,PLCH 050100Z
-ZAM  RPMZ,Zamboanga International Airport,30.0,RPMZ
-BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 050100Z
-DJJ  WAJJ,Sentani International Airport,30.0,WAJJ 050100Z
-MKQ  WAKK,Mopah Airport,30.0,WAKK 050100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",30.0,WAPP 050100Z
-CGK  WIII,Soekarno-Hatta International Airport,30.0,WIII 050100Z
-TSV  YBTL,Townsville Airport,30.0,YBTL 050100Z
-CCK  YPCC,Cocos (Keeling) Islands Airport,30.0,YPCC 050100Z
+WJR  HKWJ,Wajir Airport,36.0,HKWJ 051200Z
+LOS  DNMM,Murtala Muhammed International Airport,35.0,DNMM 051200Z
+BGF  FEFF,Bangui M'Poko International Airport,35.0,FEFF 051200Z
+BEW  FQBR,Beira Airport,35.0,FQBR 051200Z
+UEL  FQQL,Quelimane Airport,35.0,FQQL 051200Z
+AEH  FTTC,Abeche Airport,35.0,FTTC 051200Z
+MQQ  FTTD,Moundou Airport,35.0,FTTD 051200Z
+GAS  HKGA,Garissa Airport,35.0,HKGA 051200Z
+ASP  YBAS,Alice Springs Airport,35.0,YBAS 051200Z
+LRL  DXNG,Niamtougou International Airport,34.0,DXNG 051200Z
+DXSK,Sokodé Airport,34.0,DXSK 051200Z
+HDS  FAHS,Hoedspruit Air Force Base Airport,34.0,FAHS 051200Z
+DLA  FKKD,Douala International Airport,34.0,FKKD 051200Z
+APL  FQNP,Nampula Airport,34.0,FQNP 051200Z
+OUA  DFFD,Ouagadougou Airport,33.0,DFFD 051200Z
+ACC  DGAA,Kotoka International Airport,33.0,DGAA 051200Z
+LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 051200Z
+GOU  FKKR,Garoua International Airport,33.0,FKKR 051200Z
+VNX  FQVL,Vilankulo Airport,33.0,FQVL 051200Z
+ROB  GLRB,Roberts International Airport,33.0,GLRB 051200Z
+COO  DBBB,Cadjehoun Airport,32.0,DBBB 051200Z
+ABJ  DIAP,Port Bouet Airport,32.0,DIAP 051200Z
+SSG  FGSL,Malabo Airport,32.0,FGSL 051200Z
+MJN  FMNM,Amborovy Airport,32.0,FMNM 051200Z
+FTU  FMSD,Tôlanaro Airport,32.0,FMSD 051200Z
+VPY  FQCH,Chimoio Airport,32.0,FQCH 051200Z
+JED  OEJN,King Abdulaziz International Airport,32.0,OEJN 051200Z
+MVF  SBMS,Dix-Sept Rosado Airport,32.0,SBMS 051200Z
+BOY  DFOO,Bobo Dioulasso Airport,31.0,DFOO 051200Z
+NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 051200Z
+OLL  FCOD,Oyo Ollombo Airport,31.0,FCOD 051200Z
+NSI  FKYS,Yaoundé Nsimalen International Airport,31.0,FKYS 051200Z
+DZA  FMCZ,Dzaoudzi Pamandzi International Airport,31.0,FMCZ
+RUN  FMEE,Roland Garros Airport,31.0,FMEE 051200Z
+TMM  FMMT,Toamasina Airport,31.0,FMMT 051200Z
+DIE  FMNA,Arrachart Airport,31.0,FMNA 051200Z
+NDJ  FTTJ,N'Djamena International Airport,31.0,FTTJ 051200Z
+FIH  FZAA,Ndjili International Airport,31.0,FZ
+KGG  GOTK,Kédougou Airport,31.0,GOTK 051200Z
+NZE  GUNZ,Nzérékoré Airport,31.0,GUNZ
+MBA  HKMO,Mombasa Moi International Airport,31.0,HKMO 051200Z
+OEMN,,31.0,OEMN 051200Z
+PHB  SBPB,Prefeito Doutor João Silva Filho Airport,31.0,SBPB 051200Z
+ISA  YBMA,Mount Isa Airport,31.0,YBMA 051200Z
+BME  YBRM,Broome International Airport,31.0,YBRM 051200Z
