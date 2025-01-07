@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BEW  FQBR,Beira Airport,35.0,FQBR 061200Z
-SRH  FTTA,Sarh Airport,35.0,FTTA 061200Z
-GAS  HKGA,Garissa Airport,35.0,HKGA 061200Z
-WJR  HKWJ,Wajir Airport,35.0,HKWJ 061200Z
-ASP  YBAS,Alice Springs Airport,35.0,YBAS 061200Z
-LOS  DNMM,Murtala Muhammed International Airport,34.0,DNMM 061200Z
-MXJ  DNMN,Minna Airport,34.0,DNMN 061200Z
-YOL  DNYO,Yola Airport,34.0,DNYO 061200Z
-OUA  DFFD,Ouagadougou Airport,33.0,DFFD 061200Z
-ACC  DGAA,Kotoka International Airport,33.0,DGAA 061200Z
-IBA  DNIB,Ibadan Airport,33.0,DNIB 061200Z
-LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 061200Z
-KIM  FAKM,Kimberley Airport,33.0,FAKM 061200Z
-FTU  FMSD,Tôlanaro Airport,33.0,FMSD 061200Z
-INH  FQIN,Inhambane Airport,33.0,FQIN 061200Z
-APL  FQNP,Nampula Airport,33.0,FQNP 061200Z
-ROB  GLRB,Roberts International Airport,33.0,GLRB 061230Z
-COO  DBBB,Cadjehoun Airport,32.0,DBBB 061200Z
-BOY  DFOO,Bobo Dioulasso Airport,32.0,DFOO 061200Z
-ABJ  DIAP,Port Bouet Airport,32.0,DIAP 061200Z
-LRL  DXNG,Niamtougou International Airport,32.0,DXNG 061200Z
-DXSK,Sokodé Airport,32.0,DXSK 061200Z
-SMS  FMMS,Sainte Marie Airport,32.0,FMMS 061200Z
-LAD  FNLU,Quatro de Fevereiro Airport,32.0,FNLU 061200Z
-TET  FQTT,Chingozi Airport,32.0,FQTT 061200Z
-MVF  SBMS,Dix-Sept Rosado Airport,32.0,SBMS 061200Z
-BME  YBRM,Broome International Airport,32.0,YBRM 061200Z
-KNX  YPKU,Kununurra Airport,32.0,YPKU 061200Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 061200Z
-NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 061200Z
-HDS  FAHS,Hoedspruit Air Force Base Airport,31.0,FAHS 061200Z
-DZA  FMCZ,Dzaoudzi Pamandzi International Airport,31.0,FMCZ
-ZSE  FMEP,Pierrefonds Airport,31.0,FMEP 061200Z
-TMM  FMMT,Toamasina Airport,31.0,FMMT 061200Z
-MPM  FQMA,Maputo Airport,31.0,FQMA 061200Z
-NDJ  FTTJ,N'Djamena International Airport,31.0,FTTJ 061200Z
-MVZ  FVMV,Masvingo International Airport,31.0,FVMV 061200Z
-KGG  GOTK,Kédougou Airport,31.0,GOTK 061200Z
-TUD  GOTT,Tambacounda Airport,31.0,GOTT 061200Z
-MBA  HKMO,Mombasa Moi International Airport,31.0,HKMO 061200Z
-SBJR,Jacarepaguá - Roberto Marinho Airport,31.0,SBJR 061200Z
-PHB  SBPB,Prefeito Doutor João Silva Filho Airport,31.0,SBPB 061200Z
-VOTK,,31.0,VOTK 061200Z
-ISA  YBMA,Mount Isa Airport,31.0,YBMA 061200Z
-PER  YPPH,Perth International Airport,31.0,YPPH 061200Z
+LEA  YPLM,Learmonth Airport,33.0,YPLM 070100Z
+HIR  AGGH,Honiara International Airport,32.0,AGGH 070100Z
+NQN  SAZN,Presidente Peron Airport,32.0,SAZ
+JAD  YPJT,Perth Jandakot Airport,32.0,YPJT 070100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 070030Z
+WAYY,,31.0,WAYY 070030Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 070054Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 070100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 070100Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 070100Z
+MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 070100Z
+KOE  WATT,El Tari Airport,31.0,WATT 070100Z
+BME  YBRM,Broome International Airport,31.0,YBRM 070100Z
+TSV  YBTL,Townsville Airport,31.0,YBTL 070100Z
+DCN  YCIN,RAAF Base Curtin,31.0,YCIN 070100Z
+HID  YHID,Horn Island Airport,31.0,YHID 070100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 070100Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 070050Z
+PNI  PTPN,Pohnpei International Airport,30.0,PTPN 060050Z
+PKMR,,30.0,PKMR 070052Z
+TIQ  PGWT,Tinian International Airport,30.0,PGWT 070055Z
+BSG  FGBT,Bata Airport,30.0,FGBT 070100Z
+AIU  NCAT,Enua Airport,30.0,NCAT 070100Z
+MUK  NCMK,Mauke Airport,30.0,NCMK 070100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 070100Z
+PPT  NTAA,Faa'a International Airport,30.0,NTAA 070100Z
+BOB  NTTB,Bora Bora Airport,30.0,NTTB 070100Z
+NOU  NWWW,La Tontouta International Airport,30.0,NWWW 070100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 070100Z
+JDO  SBJU,Orlando Bezerra de Menezes Airport,30.0,SBJU 070100Z
+BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 070100Z
+MKQ  WAKK,Mopah Airport,30.0,WAKK 070100Z
+BKI  WBKK,Kota Kinabalu International Airport,30.0,WBKK 070100Z
+ROK  YBRK,Rockhampton Airport,30.0,YBRK 070100Z
+DRW  YPDN,Darwin International Airport,30.0,YPDN 070100Z
+KTR  YPTN,Tindal Airport,30.0,YPTN 070100Z
+KSA  PTSA,Kosrae International Airport,29.0,PTSA 070050Z
+YAP  PTYA,Yap International Airport,29.0,PTYA 070050Z
+NGF  PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,29.0,PHNG 070057Z
+POM  AYPY,Port Moresby Jacksons International Airport,29.0,AYPY 070100Z
+ABJ  DIAP,Port Bouet Airport,29.0,DIAP 070100Z
+MGS  NCMG,Mangaia Island Airport,29.0,NCMG 070100Z
+MOI  NCMR,Mitiaro Island Airport,29.0,NCMR 070100Z
+NCPL,,29.0,NCPL 070100Z
+PYE  NCPY,Tongareva Airport,29.0,NCPY 070100Z

@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-UEL  FQQL,Quelimane Airport,39.0,FQQL 061200Z
-BFO  FVCZ,Buffalo Range Airport,38.0,FVCZ
-LOK  HKLO,Lodwar Airport,36.0,HKLO 061200Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 061200Z
-QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 061200Z
+ISA  YBMA,Mount Isa Airport,38.0,YBMA 070100Z
+ASP  YBAS,Alice Springs Airport,35.0,YBAS 070100Z
+YPEA,RAAF Base Pearce,34.0,YPEA 070100Z
+KNX  YPKU,Kununurra Airport,34.0,YPKU 070100Z
+PER  YPPH,Perth International Airport,34.0,YPPH 070100Z
