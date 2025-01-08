@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BNI  DNBE,Benin Airport,35.0,DNBE 071200Z
-SRH  FTTA,Sarh Airport,35.0,FTTA 071200Z
-LOK  HKLO,Lodwar Airport,35.0,HKLO 071200Z
-WJR  HKWJ,Wajir Airport,35.0,HKWJ 071200Z
-OUA  DFFD,Ouagadougou Airport,34.0,DFFD 071200Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,34.0,DNAA 071200Z
-QOW  DNIM,Sam Mbakwe International Airport,34.0,DNIM 071200Z
-LOS  DNMM,Murtala Muhammed International Airport,34.0,DNMM 071200Z
-MXJ  DNMN,Minna Airport,34.0,DNMN 071200Z
-KIM  FAKM,Kimberley Airport,34.0,FAKM 071200Z
-ACC  DGAA,Kotoka International Airport,33.0,DGAA 071200Z
-AKR  DNAK,Akure Airport,33.0,DNAK 071200Z
-IBA  DNIB,Ibadan Airport,33.0,DNIB 071200Z
-PHC  DNPO,Port Harcourt International Airport,33.0,DNPO 071200Z
-YOL  DNYO,Yola Airport,33.0,DNYO 071200Z
-DXSK,Sokodé Airport,33.0,DXSK 071200Z
-LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 071200Z
-SMS  FMMS,Sainte Marie Airport,33.0,FMMS 071200Z
-DIE  FMNA,Arrachart Airport,33.0,FMNA 071200Z
-VPY  FQCH,Chimoio Airport,33.0,FQCH 071200Z
-INH  FQIN,Inhambane Airport,33.0,FQIN 071200Z
-VNX  FQVL,Vilankulo Airport,33.0,FQVL 071200Z
-MQQ  FTTD,Moundou Airport,33.0,FTTD 071200Z
-GAS  HKGA,Garissa Airport,33.0,HKGA 071200Z
-ASP  YBAS,Alice Springs Airport,33.0,YBAS 071200Z
-COO  DBBB,Cadjehoun Airport,32.0,DBBB 071200Z
-BOY  DFOO,Bobo Dioulasso Airport,32.0,DFOO 071200Z
-CBQ  DNCA,Margaret Ekpo International Airport,32.0,DNCA 071200Z
-LRL  DXNG,Niamtougou International Airport,32.0,DXNG 071200Z
-FTU  FMSD,Tôlanaro Airport,32.0,FMSD 071200Z
-LAD  FNLU,Quatro de Fevereiro Airport,32.0,FNLU 071200Z
-MPM  FQMA,Maputo Airport,32.0,FQMA 071200Z
-APL  FQNP,Nampula Airport,32.0,FQNP 071200Z
-AEH  FTTC,Abeche Airport,32.0,FTTC 071200Z
-TUD  GOTT,Tambacounda Airport,32.0,GOTT 071200Z
-ISA  YBMA,Mount Isa Airport,32.0,YBMA 071200Z
-BME  YBRM,Broome International Airport,32.0,YBRM 071200Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 071200Z
-ROB  GLRB,Roberts International Airport,31.0,GLRB 071130Z
-ABJ  DIAP,Port Bouet Airport,31.0,DIAP 071200Z
-NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 071200Z
-SSG  FGSL,Malabo Airport,31.0,FGSL 071200Z
-DZA  FMCZ,Dzaoudzi Pamandzi International Airport,31.0,FMCZ
-RUN  FMEE,Roland Garros Airport,31.0,FMEE 071200Z
-ZSE  FMEP,Pierrefonds Airport,31.0,FMEP 071200Z
+KNX  YPKU,Kununurra Airport,33.0,YPKU 080100Z
+HIR  AGGH,Honiara International Airport,32.0,AGGH 080100Z
+LBS  NFNL,Labasa Airport,32.0,NFNL 080100Z
+NQN  SAZN,Presidente Peron Airport,32.0,SAZ
+ASP  YBAS,Alice Springs Airport,32.0,YBAS 080100Z
+CNS  YBCS,Cairns International Airport,32.0,YBCS 080100Z
+HID  YHID,Horn Island Airport,32.0,YHID 080100Z
+ROR  PTRO,Babelthuap Airport,31.0,PTRO 080050Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 080054Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 080054Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 080055Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 080100Z
+AIU  NCAT,Enua Airport,31.0,NCAT 080100Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 080100Z
+PCR  SKPC,German Olano Airport,31.0,SKPC 080100Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 080100Z
+MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 080100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 080100Z
+TSV  YBTL,Townsville Airport,31.0,YBTL 080100Z
+DCN  YCIN,RAAF Base Curtin,31.0,YCIN 080100Z
+FOS  YFRT,Forrest Airport,31.0,YFRT 080100Z
+UMR  YPWR,Woomera Airfield,31.0,YPWR 080100Z
+BME  YBRM,Broome International Airport,31.0,YBRM 080112Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 080050Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 080054Z
+PTTP,,30.0,PTTP 080057Z
+LAE  AYNZ,Nadzab Airport,30.0,AYNZ
+MUK  NCMK,Mauke Airport,30.0,NCMK 080100Z
+NCPL,,30.0,NCPL 080100Z
+FUN  NGFU,Funafuti International Airport,30.0,NGFU 080100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 080100Z
+WLS  NLWW,Hihifo Airport,30.0,NLWW 080100Z
+BOB  NTTB,Bora Bora Airport,30.0,NTTB 080100Z
+NOU  NWWW,La Tontouta International Airport,30.0,NWWW 080100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,30.0,SKVP 080100Z
+BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 080100Z
+KOE  WATT,El Tari Airport,30.0,WATT 080100Z
+BKI  WBKK,Kota Kinabalu International Airport,30.0,WBKK 080100Z
+ROK  YBRK,Rockhampton Airport,30.0,YBRK 080100Z
+LOD  NVSG,Longana Airport,29.0,NVSG 08000Z
+ZLO  MMZO,Playa De Oro International Airport,29.0,MMZ
+TIQ  PGWT,Tinian International Airport,29.0,PGWT 080059Z
+ABJ  DIAP,Port Bouet Airport,29.0,DIAP 080100Z
+MGA  MNMG,Augusto C. Sandino (Managua) International Airport,29.0,MNMG 080100Z
+AIT  NCAI,Aitutaki Airport,29.0,NCAI 080100Z
