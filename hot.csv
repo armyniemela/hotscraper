@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,37.0,YBMA 090100Z
-PHE  YPPD,Port Hedland International Airport,36.0,YPPD 090100Z
-ASP  YBAS,Alice Springs Airport,35.0,YBAS 090100Z
-KNX  YPKU,Kununurra Airport,34.0,YPKU 090100Z
-UMR  YPWR,Woomera Airfield,34.0,YPWR 090100Z
+LOK  HKLO,Lodwar Airport,37.0,HKLO 091200Z
+GAS  HKGA,Garissa Airport,36.0,HKGA 091200Z
+BEW  FQBR,Beira Airport,35.0,FQBR 091200Z
+SRH  FTTA,Sarh Airport,35.0,FTTA 091200Z
+WJR  HKWJ,Wajir Airport,35.0,HKWJ 091200Z
