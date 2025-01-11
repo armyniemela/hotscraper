@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-UMR  YPWR,Woomera Airfield,34.0,YPWR 110100Z
-PHE  YPPD,Port Hedland International Airport,33.0,YPPD 110100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 110100Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 110100Z
-GOV  YPGV,Gove Airport,32.0,YPGV 110100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 110100Z
-MEL  YMML,Melbourne International Airport,31.0,YMML 110030Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 110100Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 110100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 110100Z
-KOE  WATT,El Tari Airport,31.0,WATT 110100Z
-CNS  YBCS,Cairns International Airport,31.0,YBCS 110100Z
-BME  YBRM,Broome International Airport,31.0,YBRM 110100Z
-DCN  YCIN,RAAF Base Curtin,31.0,YCIN 110100Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 110051Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 110051Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 110054Z
-PTTP,,30.0,PTTP 110054Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 110100Z
-SUV  NFNA,Nausori International Airport,30.0,NFNA 110100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 110100Z
-SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 110100Z
-PSS  SARP,Libertador Gral D Jose De San Martin Airport,30.0,SARP 110100Z
-BVB  SBBV,Atlas Brasil Cantanhede Airport,30.0,SBBV 110100Z
-ASU  SGAS,Silvio Pettirossi International Airport,30.0,SGAS 110100Z
-MKQ  WAKK,Mopah Airport,30.0,WAKK 110100Z
-WAYY,,30.0,WAYY 110100Z
-BWN  WBSB,Brunei International Airport,30.0,WBSB 110100Z
-TSV  YBTL,Townsville Airport,30.0,YBTL 110100Z
-HID  YHID,Horn Island Airport,30.0,YHID 110100Z
-TGZ  MMTG,Angel Albino Corzo International Airport,29.0,MMTG 110045Z
-KSA  PTSA,Kosrae International Airport,29.0,PTSA 110050Z
-JRF  PHJR,Kalaeloa Airport,29.0,PHJR 110053Z
-HNL  PHNL,Daniel K Inouye International Airport,29.0,PHNL 110053Z
-GUM  PGUM,Antonio B. Won Pat International Airport,29.0,PGUM 110054Z
-PNI  PTPN,Pohnpei International Airport,29.0,PTPN 110054Z
-AWK  PWAK,Wake Island Airfield,29.0,PWAK 110055Z
-POM  AYPY,Port Moresby Jacksons International Airport,29.0,AYPY 110100Z
-DZA  FMCZ,Dzaoudzi Pamandzi International Airport,29.0,FMCZ
-NCPL,,29.0,NCPL 110100Z
-NAN  NFFN,Nadi International Airport,29.0,NFFN 110100Z
-TVU  NFNM,Matei Airport,29.0,NFNM 110100Z
-VLI  NVVV,Bauerfield International Airport,29.0,NVVV 110100Z
-TAH  NVVW,Tanna Airport,29.0,NVVW 110100Z
+MJN  FMNM,Amborovy Airport,35.0,FMNM 111200Z
+WJR  HKWJ,Wajir Airport,35.0,HKWJ 111200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,34.0,DNAA 111200Z
+AKR  DNAK,Akure Airport,34.0,DNAK 111200Z
+IBA  DNIB,Ibadan Airport,34.0,DNIB 111200Z
+VPE  FNGI,Ngjiva Pereira Airport,34.0,FNGI 111200Z
+BEW  FQBR,Beira Airport,34.0,FQBR 111200Z
+VPY  FQCH,Chimoio Airport,34.0,FQCH 111200Z
+MNC  FQNC,Nacala Airport,34.0,FQNC 111200Z
+APL  FQNP,Nampula Airport,34.0,FQNP 111200Z
+BFO  FVCZ,Buffalo Range Airport,34.0,FVCZ
+ACC  DGAA,Kotoka International Airport,33.0,DGAA 111200Z
+TML  DGLE,Tamale Airport,33.0,DGLE 111200Z
+TKD  DGTK,Takoradi Airport,33.0,DGTK 111200Z
+QOW  DNIM,Sam Mbakwe International Airport,33.0,DNIM 111200Z
+LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 111200Z
+MXJ  DNMN,Minna Airport,33.0,DNMN 111200Z
+LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 111200Z
+INH  FQIN,Inhambane Airport,33.0,FQIN 111200Z
+SRH  FTTA,Sarh Airport,33.0,FTTA 111200Z
+KAB  FVKB,Kariba International Airport,33.0,FVKB 111200Z
+ASP  YBAS,Alice Springs Airport,33.0,YBAS 111200Z
+LEA  YPLM,Learmonth Airport,33.0,YPLM 111200Z
+COO  DBBB,Cadjehoun Airport,32.0,DBBB 111200Z
+CBQ  DNCA,Margaret Ekpo International Airport,32.0,DNCA 111200Z
+ILR  DNIL,Ilorin International Airport,32.0,DNIL 111200Z
+OLL  FCOD,Oyo Ollombo Airport,32.0,FCOD 111200Z
+SSG  FGSL,Malabo Airport,32.0,FGSL 111200Z
+ZSE  FMEP,Pierrefonds Airport,32.0,FMEP 111200Z
+FTU  FMSD,Tôlanaro Airport,32.0,FMSD 111200Z
+CAB  FNCA,Cabinda Airport,32.0,FNCA 111200Z
+POL  FQPB,Pemba Airport,32.0,FQPB 111200Z
+VNX  FQVL,Vilankulo Airport,32.0,FQVL 111200Z
+MQQ  FTTD,Moundou Airport,32.0,FTTD 111200Z
+GOGK,,32.0,GOGK 111200Z
+KLC  GOOK,Kaolack Airport,32.0,GOOK 111200Z
+TUD  GOTT,Tambacounda Airport,32.0,GOTT 111200Z
+KGI  YPKG,Kalgoorlie Boulder Airport,32.0,YPKG 111200Z
+PHE  YPPD,Port Hedland International Airport,32.0,YPPD 111200Z
+KMS  DGSI,Kumasi Airport,31.0,DGSI 111200Z
+DXSK,Sokodé Airport,31.0,DXSK 111200Z
+BFN  FABL,Bram Fischer International Airport,31.0,FABL 111200Z
+UTT  FAUT,K. D. Matanzima Airport,31.0,FAUT 111200Z
+PNR  FCPP,Pointe Noire Airport,31.0,FCPP 111200Z
+RUN  FMEE,Roland Garros Airport,31.0,FMEE 111200Z
