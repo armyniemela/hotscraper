@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-YAMB,RAAF Base Amberley,33.0,YAMB 160100Z
-ROK  YBRK,Rockhampton Airport,33.0,YBRK 160100Z
-GLT  YGLA,Gladstone Airport,33.0,YGLA 160100Z
-PPG  NSTU,Pago Pago International Airport,32.0,NSTU 160050Z
-LBS  NFNL,Labasa Airport,32.0,NFNL 160100Z
-DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 160100Z
-YBSU,,32.0,YBSU 160100Z
-WTB  YBWW,Toowoomba Wellcamp Airport,32.0,YBWW 160100Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 160052Z
-PTTP,,31.0,PTTP 160054Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 160055Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 160100Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 160100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 160100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 160100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 160100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 160100Z
-GIR  SKGI,Santiago Vila Airport,31.0,SKGI 160100Z
-ASP  YBAS,Alice Springs Airport,31.0,YBAS 160100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 160100Z
-LEA  YPLM,Learmonth Airport,31.0,YPLM 160100Z
-BNE  YBBN,Brisbane International Airport,30.0,YBBN 160030Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 160050Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 160050Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 160054Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 160054Z
-AWK  PWAK,Wake Island Airfield,30.0,PWAK 160055Z
-NGF  PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,30.0,PHNG 160057Z
-AIU  NCAT,Enua Airport,30.0,NCAT 160100Z
-NCPL,,30.0,NCPL 160100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 160100Z
-SUV  NFNA,Nausori International Airport,30.0,NFNA 160100Z
-TVU  NFNM,Matei Airport,30.0,NFNM 160100Z
-VAV  NFTV,Vava'u International Airport,30.0,NFTV 160100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 160100Z
-WLS  NLWW,Hihifo Airport,30.0,NLWW 160100Z
-TUB  NTAT,Tubuai Airport,30.0,NTAT 160100Z
-BOB  NTTB,Bora Bora Airport,30.0,NTTB 160100Z
-VLI  NVVV,Bauerfield International Airport,30.0,NVVV 160100Z
-CXI  PLCH,Cassidy International Airport,30.0,PLCH 160100Z
-GES  RPMR,General Santos International Airport,30.0,RPMR 160100Z
-PPS  RPVP,Puerto Princesa Airport,30.0,RPVP 160100Z
-MDZ  SAME,El Plumerillo Airport,30.0,SAME 160100Z
-ASU  SGAS,Silvio Pettirossi International Airport,30.0,SGAS 160100Z
+TML  DGLE,Tamale Airport,35.0,DGLE 161200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 161200Z
+MXJ  DNMN,Minna Airport,35.0,DNMN 161200Z
+PHC  DNPO,Port Harcourt International Airport,35.0,DNPO 161200Z
+YOL  DNYO,Yola Airport,35.0,DNYO 161200Z
+BGF  FEFF,Bangui M'Poko International Airport,35.0,FEFF 161200Z
+KAB  FVKB,Kariba International Airport,35.0,FVKB 161200Z
+LOK  HKLO,Lodwar Airport,35.0,HKLO 161200Z
+QOW  DNIM,Sam Mbakwe International Airport,34.0,DNIM 161200Z
+DXSK,Sokodé Airport,34.0,DXSK 161200Z
+LFW  DXXX,Lomé-Tokoin Airport,34.0,DXXX 161200Z
+BEW  FQBR,Beira Airport,34.0,FQBR 161200Z
+AEH  FTTC,Abeche Airport,34.0,FTTC 161200Z
+NDU  FYRU,Rundu Airport,34.0,FYRU 161200Z
+AKR  DNAK,Akure Airport,33.0,DNAK 161200Z
+CBQ  DNCA,Margaret Ekpo International Airport,33.0,DNCA 161200Z
+ILR  DNIL,Ilorin International Airport,33.0,DNIL 161200Z
+LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 161200Z
+ZAR  DNZA,Zaria Airport,33.0,DNZ
+LRL  DXNG,Niamtougou International Airport,33.0,DXNG 161200Z
+FTU  FMSD,Tôlanaro Airport,33.0,FMSD 161200Z
+APL  FQNP,Nampula Airport,33.0,FQNP 161200Z
+NDJ  FTTJ,N'Djamena International Airport,33.0,FTTJ 161200Z
+MBA  HKMO,Mombasa Moi International Airport,33.0,HKMO 161200Z
+DAR  HTDA,Julius Nyerere International Airport,33.0,HTDA 161200Z
+JRO  HTKJ,Kilimanjaro International Airport,33.0,HTKJ 161200Z
+HTMG,Morogoro Airport,33.0,HTMG 161200Z
+PHE  YPPD,Port Hedland International Airport,33.0,YPPD 161200Z
+COO  DBBB,Cadjehoun Airport,32.0,DBBB 161200Z
+ACC  DGAA,Kotoka International Airport,32.0,DGAA 161200Z
+KMS  DGSI,Kumasi Airport,32.0,DGSI 161200Z
+TKD  DGTK,Takoradi Airport,32.0,DGTK 161200Z
+IBA  DNIB,Ibadan Airport,32.0,DNIB 161200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,32.0,DNSO 161200Z
+NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 161200Z
+DZA  FMCZ,Dzaoudzi Pamandzi International Airport,32.0,FMCZ
+MJN  FMNM,Amborovy Airport,32.0,FMNM 161200Z
+VPE  FNGI,Ngjiva Pereira Airport,32.0,FNGI 161200Z
+GFY  FYGF,Grootfontein Airport,32.0,FYGF 161200Z
+ZNZ  HTZA,Abeid Amani Karume International Airport,32.0,HTZ
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,32.0,OEYN 161200Z
+JAD  YPJT,Perth Jandakot Airport,32.0,YPJT 161200Z
+PER  YPPH,Perth International Airport,32.0,YPPH 161200Z
+ABJ  DIAP,Port Bouet Airport,31.0,DIAP 161200Z
+THZ  DRRT,Tahoua Airport,31.0,DRRT 161200Z
