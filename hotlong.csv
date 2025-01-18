@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ASP  YBAS,Alice Springs Airport,33.0,YBAS 180100Z
-LEA  YPLM,Learmonth Airport,33.0,YPLM 180100Z
-UMR  YPWR,Woomera Airfield,33.0,YPWR 180100Z
-LAE  AYNZ,Nadzab Airport,32.0,AYNZ
-POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 180100Z
-SUV  NFNA,Nausori International Airport,32.0,NFNA 180100Z
-LBS  NFNL,Labasa Airport,32.0,NFNL 180100Z
-PPT  NTAA,Faa'a International Airport,32.0,NTAA 180100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 180100Z
-RES  SARE,Resistencia International Airport,32.0,SARE 180100Z
-WAYY,,32.0,WAYY 180100Z
-ROK  YBRK,Rockhampton Airport,32.0,YBRK 180100Z
-GLT  YGLA,Gladstone Airport,32.0,YGLA 180100Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 180050Z
-PKMR,,31.0,PKMR 180052Z
-PTTP,,31.0,PTTP 180054Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 180100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 180100Z
-NCPL,,31.0,NCPL 180100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 180100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 180100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 180100Z
-TBU  NFTF,Fua'amotu International Airport,31.0,NFTF 180100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 180100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 180100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 180100Z
-VLI  NVVV,Bauerfield International Airport,31.0,NVVV 180100Z
-TAH  NVVW,Tanna Airport,31.0,NVVW 180100Z
-CNQ  SARC,Corrientes Airport,31.0,SARC 180100Z
-AOL  SARL,Paso De Los Libres Airport,31.0,SARL 180100Z
-BIK  WABB,Frans Kaisiepo Airport,31.0,WABB 180100Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 180100Z
-MKQ  WAKK,Mopah Airport,31.0,WAKK 180100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 180100Z
-KOE  WATT,El Tari Airport,31.0,WATT 180100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 180100Z
-MAJ  PKMJ,Marshall Islands International Airport,31.0,PKMJ 180113Z
-CXI  PLCH,Cassidy International Airport,30.0,PLCH 180001Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 180050Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 180050Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 180052Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 180054Z
-AWK  PWAK,Wake Island Airfield,30.0,PWAK 180055Z
-HIR  AGGH,Honiara International Airport,30.0,AGGH 180100Z
-MUK  NCMK,Mauke Airport,30.0,NCMK 180100Z
+GOU  FKKR,Garoua International Airport,36.0,FKKR 181200Z
+BEW  FQBR,Beira Airport,36.0,FQBR 181200Z
+GAS  HKGA,Garissa Airport,36.0,HKGA 181200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 181200Z
+UTT  FAUT,K. D. Matanzima Airport,35.0,FAUT 181200Z
+UEL  FQQL,Quelimane Airport,35.0,FQQL 181200Z
+NDJ  FTTJ,N'Djamena International Airport,35.0,FTTJ 181200Z
+DNGO,,34.0,DNGO 181200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,34.0,DNSO 181200Z
+THZ  DRRT,Tahoua Airport,34.0,DRRT 181200Z
+DXSK,Sokodé Airport,34.0,DXSK 181200Z
+VPE  FNGI,Ngjiva Pereira Airport,34.0,FNGI 181200Z
+TET  FQTT,Chingozi Airport,34.0,FQTT 181200Z
+SBJR,Jacarepaguá - Roberto Marinho Airport,34.0,SBJR 181200Z
+ASU  SGAS,Silvio Pettirossi International Airport,34.0,SGAS 181230Z
+ACC  DGAA,Kotoka International Airport,33.0,DGAA 181200Z
+TKD  DGTK,Takoradi Airport,33.0,DGTK 181200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,33.0,DNAA 181200Z
+ILR  DNIL,Ilorin International Airport,33.0,DNIL 181200Z
+KAD  DNKA,Kaduna Airport,33.0,DNKA 181200Z
+ZAR  DNZA,Zaria Airport,33.0,DNZ
+LRL  DXNG,Niamtougou International Airport,33.0,DXNG 181200Z
+BGF  FEFF,Bangui M'Poko International Airport,33.0,FEFF 181200Z
+MNC  FQNC,Nacala Airport,33.0,FQNC 181200Z
+ROB  GLRB,Roberts International Airport,33.0,GLRB 181200Z
+RES  SARE,Resistencia International Airport,33.0,SARE 181200Z
+KGYF,,33.0,KGYF 181215Z
+ABJ  DIAP,Port Bouet Airport,32.0,DIAP 181200Z
+BNI  DNBE,Benin Airport,32.0,DNBE 181200Z
+CBQ  DNCA,Margaret Ekpo International Airport,32.0,DNCA 181200Z
+KAN  DNKN,Mallam Aminu International Airport,32.0,DNKN 181200Z
+DRZF,Diffa Airport,32.0,DRZ
+ZND  DRZR,Zinder Airport,32.0,DRZ
+BFN  FABL,Bram Fischer International Airport,32.0,FABL 181200Z
+OLL  FCOD,Oyo Ollombo Airport,32.0,FCOD 181200Z
+MJN  FMNM,Amborovy Airport,32.0,FMNM 181200Z
+APL  FQNP,Nampula Airport,32.0,FQNP 181200Z
+VNX  FQVL,Vilankulo Airport,32.0,FQVL 181200Z
+CNQ  SARC,Corrientes Airport,32.0,SARC 181200Z
+FMA  SARF,Formosa Airport,32.0,SARF 181200Z
+SBAF,Campo Délio Jardim de Mattos Airport,32.0,SBAF 181200Z
+MEA  SBME,Macaé Airport,32.0,SBME 181200Z
+SNZ  SBSC,Santa Cruz Air Force Base,32.0,SBSC 181200Z
+QOW  DNIM,Sam Mbakwe International Airport,31.0,DNIM 181200Z
+NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 181200Z
