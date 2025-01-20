@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GET  YGEL,Geraldton Airport,42.0,YGEL 200113Z
-UMR  YPWR,Woomera Airfield,38.0,YPWR 200100Z
-ISA  YBMA,Mount Isa Airport,37.0,YBMA 200100Z
-ASP  YBAS,Alice Springs Airport,36.0,YBAS 200100Z
-YPEA,RAAF Base Pearce,34.0,YPEA 200100Z
+KIM  FAKM,Kimberley Airport,38.0,FAKM 201200Z
+LOK  HKLO,Lodwar Airport,38.0,HKLO 201200Z
+SRH  FTTA,Sarh Airport,37.0,FTTA 201200Z
+YPEA,RAAF Base Pearce,37.0,YPEA 201200Z
+PER  YPPH,Perth International Airport,37.0,YPPH 201200Z
