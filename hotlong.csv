@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MQQ  FTTD,Moundou Airport,36.0,FTTD 201200Z
-NDJ  FTTJ,N'Djamena International Airport,36.0,FTTJ 201200Z
-GAS  HKGA,Garissa Airport,36.0,HKGA 201200Z
-JAD  YPJT,Perth Jandakot Airport,36.0,YPJT 201200Z
-KGI  YPKG,Kalgoorlie Boulder Airport,36.0,YPKG 201200Z
-DRZF,Diffa Airport,35.0,DRZ
-OND  FYOA,Ondangwa Airport,35.0,FYOA 201200Z
-TML  DGLE,Tamale Airport,34.0,DGLE 201200Z
-DNGO,,34.0,DNGO 201200Z
-ZAR  DNZA,Zaria Airport,34.0,DNZ
-UTN  FAUP,Pierre Van Ryneveld Airport,34.0,FAUP 201200Z
-CBQ  DNCA,Margaret Ekpo International Airport,33.0,DNCA 201200Z
-IBA  DNIB,Ibadan Airport,33.0,DNIB 201200Z
-QOW  DNIM,Sam Mbakwe International Airport,33.0,DNIM 201200Z
-KAD  DNKA,Kaduna Airport,33.0,DNKA 201200Z
-LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 201200Z
-AJY  DRZA,Mano Dayak International Airport,33.0,DRZ
-DXSK,Sokodé Airport,33.0,DXSK 201200Z
-SMS  FMMS,Sainte Marie Airport,33.0,FMMS 201200Z
-FTU  FMSD,Tôlanaro Airport,33.0,FMSD 201200Z
-INH  FQIN,Inhambane Airport,33.0,FQIN 201200Z
-DAR  HTDA,Julius Nyerere International Airport,33.0,HTDA 201200Z
-HTMG,Morogoro Airport,33.0,HTMG 201200Z
-SBAF,Campo Délio Jardim de Mattos Airport,33.0,SBAF 201200Z
-SBJR,Jacarepaguá - Roberto Marinho Airport,33.0,SBJR 201200Z
-COK  VOCI,Cochin International Airport,33.0,VOCI 201200Z
-UMR  YPWR,Woomera Airfield,33.0,YPWR 201200Z
-BFN  FABL,Bram Fischer International Airport,33.0,FABL 201215Z
-TKD  DGTK,Takoradi Airport,32.0,DGTK 201200Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,32.0,DNAA 201200Z
-ILR  DNIL,Ilorin International Airport,32.0,DNIL 201200Z
-NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 201200Z
-THZ  DRRT,Tahoua Airport,32.0,DRRT 201200Z
-LRL  DXNG,Niamtougou International Airport,32.0,DXNG 201200Z
-LFW  DXXX,Lomé-Tokoin Airport,32.0,DXXX 201200Z
-MBD  FAMM,Mmabatho International Airport,32.0,FAMM 201200Z
-NTY  FAPN,Pilanesberg International Airport,32.0,FAPN 201200Z
-MFU  FLMF,Mfuwe Airport,32.0,FLMF 201200Z
-MJN  FMNM,Amborovy Airport,32.0,FMNM 201200Z
-MNC  FQNC,Nacala Airport,32.0,FQNC 201200Z
-VNX  FQVL,Vilankulo Airport,32.0,FQVL 201200Z
-ZNZ  HTZA,Abeid Amani Karume International Airport,32.0,HTZ
-CAW  SBCP,Bartolomeu Lisandro Airport,32.0,SBCP 201200Z
-GIG  SBGL,Rio Galeão – Tom Jobim International Airport,32.0,SBGL 201200Z
-SNZ  SBSC,Santa Cruz Air Force Base,32.0,SBSC 201200Z
+PER  YPPH,Perth International Airport,34.0,YPPH 210100Z
+NCPL,,33.0,NCPL 210100Z
+VLI  NVVV,Bauerfield International Airport,33.0,NVVV 210100Z
+KNX  YPKU,Kununurra Airport,33.0,YPKU 210100Z
+PPG  NSTU,Pago Pago International Airport,32.0,NSTU 210050Z
+POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 210100Z
+NAN  NFFN,Nadi International Airport,32.0,NFFN 210100Z
+SUV  NFNA,Nausori International Airport,32.0,NFNA 210100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 210100Z
+SON  NVSS,Santo Pekoa International Airport,32.0,NVSS 210100Z
+TAH  NVVW,Tanna Airport,32.0,NVVW 210100Z
+WAYY,,32.0,WAYY 210100Z
+CNS  YBCS,Cairns International Airport,32.0,YBCS 210100Z
+TSV  YBTL,Townsville Airport,32.0,YBTL 210100Z
+DCN  YCIN,RAAF Base Curtin,32.0,YCIN 210100Z
+DRW  YPDN,Darwin International Airport,32.0,YPDN 210100Z
+KGI  YPKG,Kalgoorlie Boulder Airport,32.0,YPKG 210100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 210100Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 210058Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 210100Z
+LAE  AYNZ,Nadzab Airport,31.0,AYNZ
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 210100Z
+MOI  NCMR,Mitiaro Island Airport,31.0,NCMR 210100Z
+TVU  NFNM,Matei Airport,31.0,NFNM 210100Z
+SVU  NFNS,Savusavu Airport,31.0,NFNS 210100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 210100Z
+PPT  NTAA,Faa'a International Airport,31.0,NTAA 210100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 210100Z
+MKQ  WAKK,Mopah Airport,31.0,WAKK 210100Z
+BME  YBRM,Broome International Airport,31.0,YBRM 210100Z
+HID  YHID,Horn Island Airport,31.0,YHID 210100Z
+MEL  YMML,Melbourne International Airport,31.0,YMML 210100Z
+PHE  YPPD,Port Hedland International Airport,31.0,YPPD 210100Z
+DBO  YSDU,Dubbo City Regional Airport,31.0,YSDU 210100Z
+TMW  YSTW,Tamworth Airport,31.0,YSTW 210100Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 210052Z
+PTTP,,30.0,PTTP 210057Z
+AIT  NCAI,Aitutaki Airport,30.0,NCAI 210100Z
+AIU  NCAT,Enua Airport,30.0,NCAT 210100Z
+MUK  NCMK,Mauke Airport,30.0,NCMK 210100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 210100Z
+HPA  NFTL,Lifuka Island Airport,30.0,NFTL 210100Z
+VAV  NFTV,Vava'u International Airport,30.0,NFTV 210100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 210100Z
+IUE  NIUE,Niue International Airport,30.0,NIUE 210100Z
