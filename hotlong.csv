@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-UTN  FAUP,Pierre Van Ryneveld Airport,36.0,FAUP 221200Z
-GOU  FKKR,Garoua International Airport,36.0,FKKR 221200Z
-OUA  DFFD,Ouagadougou Airport,35.0,DFFD 221200Z
-DXSK,Sokodé Airport,35.0,DXSK 221200Z
-KIM  FAKM,Kimberley Airport,35.0,FAKM 221200Z
-NDJ  FTTJ,N'Djamena International Airport,35.0,FTTJ 221200Z
-SBJR,Jacarepaguá - Roberto Marinho Airport,35.0,SBJR 221200Z
-LRL  DXNG,Niamtougou International Airport,34.0,DXNG 221200Z
-BGF  FEFF,Bangui M'Poko International Airport,34.0,FEFF 221200Z
-YPEA,RAAF Base Pearce,34.0,YPEA 221200Z
-ROB  GLRB,Roberts International Airport,34.0,GLRB 221230Z
-BOY  DFOO,Bobo Dioulasso Airport,33.0,DFOO 221200Z
-AKR  DNAK,Akure Airport,33.0,DNAK 221200Z
-BNI  DNBE,Benin Airport,33.0,DNBE 221200Z
-DNGO,,33.0,DNGO 221200Z
-IBA  DNIB,Ibadan Airport,33.0,DNIB 221200Z
-QOW  DNIM,Sam Mbakwe International Airport,33.0,DNIM 221200Z
-LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 221200Z
-NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 221200Z
-THZ  DRRT,Tahoua Airport,33.0,DRRT 221200Z
-DRZF,Diffa Airport,33.0,DRZ
-CPT  FACT,Cape Town International Airport,33.0,FACT 221200Z
-GAQ  GAGO,Gao Airport,33.0,GAGO 221200Z
-VOSH,,32.0,VOSH 221130Z
-ACC  DGAA,Kotoka International Airport,32.0,DGAA 221200Z
-KAN  DNKN,Mallam Aminu International Airport,32.0,DNKN 221200Z
-LFW  DXXX,Lomé-Tokoin Airport,32.0,DXXX 221200Z
-BZV  FCBB,Maya-Maya Airport,32.0,FCBB 221200Z
-OLL  FCOD,Oyo Ollombo Airport,32.0,FCOD 221200Z
-SSG  FGSL,Malabo Airport,32.0,FGSL 221200Z
-MZI  GAMB,Mopti Airport,32.0,GAMB 221200Z
-KLC  GOOK,Kaolack Airport,32.0,GOOK 221200Z
-KGG  GOTK,Kédougou Airport,32.0,GOTK 221200Z
-SBAF,Campo Délio Jardim de Mattos Airport,32.0,SBAF 221200Z
-CFB  SBCB,Cabo Frio Airport,32.0,SBCB 221200Z
-GIG  SBGL,Rio Galeão – Tom Jobim International Airport,32.0,SBGL 221200Z
-SNZ  SBSC,Santa Cruz Air Force Base,32.0,SBSC 221200Z
-VOHB,,32.0,VOHB 221200Z
-VOND,,32.0,VOND 221200Z
-ASP  YBAS,Alice Springs Airport,32.0,YBAS 221200Z
-PER  YPPH,Perth International Airport,32.0,YPPH 221200Z
-KLH  VAKP,Kolhapur Airport,31.0,VAKP 221130Z
-ABJ  DIAP,Port Bouet Airport,31.0,DIAP 221200Z
-ZAR  DNZA,Zaria Airport,31.0,DNZ
-NGE  FKKN,N'Gaoundéré Airport,31.0,FKKN 221200Z
+SUV  NFNA,Nausori International Airport,33.0,NFNA 230100Z
+LBS  NFNL,Labasa Airport,33.0,NFNL 230100Z
+APW  NSFA,Faleolo International Airport,33.0,NSFA 230100Z
+GLT  YGLA,Gladstone Airport,33.0,YGLA 230100Z
+JAD  YPJT,Perth Jandakot Airport,33.0,YPJT 230100Z
+PHE  YPPD,Port Hedland International Airport,33.0,YPPD 230100Z
+KTR  YPTN,Tindal Airport,33.0,YPTN 230100Z
+TMW  YSTW,Tamworth Airport,33.0,YSTW 230100Z
+PPG  NSTU,Pago Pago International Airport,32.0,NSTU 230050Z
+PNI  PTPN,Pohnpei International Airport,32.0,PTPN 230053Z
+NCPL,,32.0,NCPL 230100Z
+NAN  NFFN,Nadi International Airport,32.0,NFFN 230100Z
+SVU  NFNS,Savusavu Airport,32.0,NFNS 230100Z
+PPT  NTAA,Faa'a International Airport,32.0,NTAA 230100Z
+TAH  NVVW,Tanna Airport,32.0,NVVW 230100Z
+ASU  SGAS,Silvio Pettirossi International Airport,32.0,SGAS 230100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,32.0,SKVP 230100Z
+CNS  YBCS,Cairns International Airport,32.0,YBCS 230100Z
+BME  YBRM,Broome International Airport,32.0,YBRM 230100Z
+YPEA,RAAF Base Pearce,32.0,YPEA 230100Z
+KGI  YPKG,Kalgoorlie Boulder Airport,32.0,YPKG 230100Z
+KNX  YPKU,Kununurra Airport,32.0,YPKU 230100Z
+PTTP,,31.0,PTTP 230053Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 230054Z
+MUK  NCMK,Mauke Airport,31.0,NCMK 230100Z
+TVU  NFNM,Matei Airport,31.0,NFNM 230100Z
+HPA  NFTL,Lifuka Island Airport,31.0,NFTL 230100Z
+VAV  NFTV,Vava'u International Airport,31.0,NFTV 230100Z
+IUE  NIUE,Niue International Airport,31.0,NIUE 230100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 230100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 230100Z
+PSS  SARP,Libertador Gral D Jose De San Martin Airport,31.0,SARP 230100Z
+MKQ  WAKK,Mopah Airport,31.0,WAKK 230100Z
+KOE  WATT,El Tari Airport,31.0,WATT 230100Z
+YAMB,RAAF Base Amberley,31.0,YAMB 230100Z
+HTI  YBHM,Hamilton Island Airport,31.0,YBHM 230100Z
+DCN  YCIN,RAAF Base Curtin,31.0,YCIN 230100Z
+GET  YGEL,Geraldton Airport,31.0,YGEL 230100Z
+HID  YHID,Horn Island Airport,31.0,YHID 230100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 230100Z
+PER  YPPH,Perth International Airport,31.0,YPPH 230100Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 230050Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 230054Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 230054Z
+AIU  NCAT,Enua Airport,30.0,NCAT 230100Z
