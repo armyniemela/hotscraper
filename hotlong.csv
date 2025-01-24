@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PHE  YPPD,Port Hedland International Airport,34.0,YPPD 240100Z
-TSV  YBTL,Townsville Airport,33.0,YBTL 240030Z
-NAN  NFFN,Nadi International Airport,33.0,NFFN 240100Z
-LBS  NFNL,Labasa Airport,33.0,NFNL 240100Z
-APW  NSFA,Faleolo International Airport,33.0,NSFA 240100Z
-BME  YBRM,Broome International Airport,33.0,YBRM 240100Z
-GLT  YGLA,Gladstone Airport,33.0,YGLA 240100Z
-KNX  YPKU,Kununurra Airport,33.0,YPKU 240100Z
-PPG  NSTU,Pago Pago International Airport,32.0,NSTU 240050Z
-POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 240100Z
-TVU  NFNM,Matei Airport,32.0,NFNM 240100Z
-SON  NVSS,Santo Pekoa International Airport,32.0,NVSS 240100Z
-MKQ  WAKK,Mopah Airport,32.0,WAKK 240100Z
-YAMB,RAAF Base Amberley,32.0,YAMB 240100Z
-CNS  YBCS,Cairns International Airport,32.0,YBCS 240100Z
-HID  YHID,Horn Island Airport,32.0,YHID 240100Z
-GOV  YPGV,Gove Airport,32.0,YPGV 240100Z
-KGI  YPKG,Kalgoorlie Boulder Airport,32.0,YPKG 240100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 240100Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 240100Z
-AIU  NCAT,Enua Airport,31.0,NCAT 240100Z
-MGS  NCMG,Mangaia Island Airport,31.0,NCMG 240100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 240100Z
-NCPL,,31.0,NCPL 240100Z
-SUV  NFNA,Nausori International Airport,31.0,NFNA 240100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 240100Z
-HPA  NFTL,Lifuka Island Airport,31.0,NFTL 240100Z
-VAV  NFTV,Vava'u International Airport,31.0,NFTV 240100Z
-IUE  NIUE,Niue International Airport,31.0,NIUE 240100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 240100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 240100Z
-STY  SUSO,Nueva Hesperides International Airport,31.0,SUSO 240100Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 240100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 240100Z
-KOE  WATT,El Tari Airport,31.0,WATT 240100Z
-HTI  YBHM,Hamilton Island Airport,31.0,YBHM 240100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 240100Z
-YPEA,RAAF Base Pearce,31.0,YPEA 240100Z
-WTB  YBWW,Toowoomba Wellcamp Airport,31.0,YBWW 240112Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 240050Z
-HIR  AGGH,Honiara International Airport,30.0,AGGH 240100Z
-MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 240100Z
-TBU  NFTF,Fua'amotu International Airport,30.0,NFTF 240100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 240100Z
-PPT  NTAA,Faa'a International Airport,30.0,NTAA 240100Z
+SRH  FTTA,Sarh Airport,36.0,FTTA 241200Z
+MZI  GAMB,Mopti Airport,36.0,GAMB 241200Z
+BFN  FABL,Bram Fischer International Airport,35.0,FABL 241200Z
+NTY  FAPN,Pilanesberg International Airport,35.0,FAPN 241200Z
+NIX  GANR,Nioro du Sahel Airport,35.0,GANR 241200Z
+OUA  DFFD,Ouagadougou Airport,34.0,DFFD 241200Z
+DXSK,Sokodé Airport,34.0,DXSK 241200Z
+BKO  GABS,Modibo Keita International Airport,34.0,GABS 241200Z
+TKD  DGTK,Takoradi Airport,33.0,DGTK 241200Z
+LRL  DXNG,Niamtougou International Airport,33.0,DXNG 241200Z
+MBD  FAMM,Mmabatho International Airport,33.0,FAMM 241200Z
+BGF  FEFF,Bangui M'Poko International Airport,33.0,FEFF 241200Z
+SMS  FMMS,Sainte Marie Airport,33.0,FMMS 241200Z
+NDJ  FTTJ,N'Djamena International Airport,33.0,FTTJ 241200Z
+GAKD,,33.0,GAKD 241200Z
+KGG  GOTK,Kédougou Airport,33.0,GOTK 241200Z
+BOY  DFOO,Bobo Dioulasso Airport,32.0,DFOO 241200Z
+ACC  DGAA,Kotoka International Airport,32.0,DGAA 241200Z
+NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 241200Z
+THZ  DRRT,Tahoua Airport,32.0,DRRT 241200Z
+HDS  FAHS,Hoedspruit Air Force Base Airport,32.0,FAHS 241200Z
+WKF  FAWK,Waterkloof Air Force Base,32.0,FAWK 241200Z
+INH  FQIN,Inhambane Airport,32.0,FQIN 241200Z
+MPM  FQMA,Maputo Airport,32.0,FQMA 241200Z
+GAQ  GAGO,Gao Airport,32.0,GAGO 241200Z
+TUD  GOTT,Tambacounda Airport,32.0,GOTT 241200Z
+SBJR,Jacarepaguá - Roberto Marinho Airport,32.0,SBJR 241200Z
+VOGB,,32.0,VOGB 241200Z
+VOHB,,32.0,VOHB 241200Z
+ASP  YBAS,Alice Springs Airport,32.0,YBAS 241200Z
+ROB  GLRB,Roberts International Airport,32.0,GLRB 241230Z
+COO  DBBB,Cadjehoun Airport,31.0,DBBB 241200Z
+ABJ  DIAP,Port Bouet Airport,31.0,DIAP 241200Z
+DRZF,Diffa Airport,31.0,DRZ
+ZND  DRZR,Zinder Airport,31.0,DRZ
+LFW  DXXX,Lomé-Tokoin Airport,31.0,DXXX 241200Z
+HLA  FALA,Lanseria Airport,31.0,FALA 241200Z
+FASI,Springs Airfield,31.0,FASI 241200Z
+PRY  FAWB,Wonderboom Airport,31.0,FAWB 241200Z
+OLL  FCOD,Oyo Ollombo Airport,31.0,FCOD 241200Z
+SHO  FDSK,King Mswati III International Airport,31.0,FDSK 241200Z
+DZA  FMCZ,Dzaoudzi Pamandzi International Airport,31.0,FMCZ
+RUN  FMEE,Roland Garros Airport,31.0,FMEE 241200Z
+TMM  FMMT,Toamasina Airport,31.0,FMMT 241200Z
+POG  FOOG,Port Gentil Airport,31.0,FOOG 241200Z
