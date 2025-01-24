@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MQQ  FTTD,Moundou Airport,36.0,FTTD 231200Z
-MZI  GAMB,Mopti Airport,36.0,GAMB 231200Z
-GAS  HKGA,Garissa Airport,36.0,HKGA 231200Z
-OUA  DFFD,Ouagadougou Airport,35.0,DFFD 231200Z
-YOL  DNYO,Yola Airport,35.0,DNYO 231200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,35.0,FAUP 231200Z
-NDJ  FTTJ,N'Djamena International Airport,35.0,FTTJ 231200Z
-KMP  FYKT,Keetmanshoop Airport,35.0,FYKT 231200Z
-ASP  YBAS,Alice Springs Airport,35.0,YBAS 231200Z
-QOW  DNIM,Sam Mbakwe International Airport,34.0,DNIM 231200Z
-NIM  DRRN,Diori Hamani International Airport,34.0,DRRN 231200Z
-KIM  FAKM,Kimberley Airport,34.0,FAKM 231200Z
-UTT  FAUT,K. D. Matanzima Airport,34.0,FAUT 231200Z
-BGF  FEFF,Bangui M'Poko International Airport,34.0,FEFF 231200Z
-AEH  FTTC,Abeche Airport,34.0,FTTC 231200Z
-BOY  DFOO,Bobo Dioulasso Airport,33.0,DFOO 231200Z
-KMS  DGSI,Kumasi Airport,33.0,DGSI 231200Z
-ILR  DNIL,Ilorin International Airport,33.0,DNIL 231200Z
-PHC  DNPO,Port Harcourt International Airport,33.0,DNPO 231200Z
-SKO  DNSO,Sadiq Abubakar III International Airport,33.0,DNSO 231200Z
-LRL  DXNG,Niamtougou International Airport,33.0,DXNG 231200Z
-DXSK,Sokodé Airport,33.0,DXSK 231200Z
-LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 231200Z
-BKO  GABS,Modibo Keita International Airport,33.0,GABS 231200Z
-KGG  GOTK,Kédougou Airport,33.0,GOTK 231200Z
-JRO  HTKJ,Kilimanjaro International Airport,33.0,HTKJ 231200Z
-HTMG,Morogoro Airport,33.0,HTMG 231200Z
-ZNZ  HTZA,Abeid Amani Karume International Airport,33.0,HTZ
-SBJR,Jacarepaguá - Roberto Marinho Airport,33.0,SBJR 231200Z
-ASU  SGAS,Silvio Pettirossi International Airport,33.0,SGAS 231230Z
-TKD  DGTK,Takoradi Airport,32.0,DGTK 231200Z
-THZ  DRRT,Tahoua Airport,32.0,DRRT 231200Z
-DRZF,Diffa Airport,32.0,DRZ
-SSG  FGSL,Malabo Airport,32.0,FGSL 231200Z
-DLA  FKKD,Douala International Airport,32.0,FKKD 231200Z
-POG  FOOG,Port Gentil Airport,32.0,FOOG 231200Z
-TET  FQTT,Chingozi Airport,32.0,FQTT 231200Z
-GAKD,,32.0,GAKD 231200Z
-NIX  GANR,Nioro du Sahel Airport,32.0,GANR 231200Z
-MBA  HKMO,Mombasa Moi International Airport,32.0,HKMO 231200Z
-DAR  HTDA,Julius Nyerere International Airport,32.0,HTDA 231200Z
-VOHB,,32.0,VOHB 231200Z
-VOSH,,32.0,VOSH 231200Z
-BQB  YBLN,Busselton Regional Airport,32.0,YBLN 231200Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 231200Z
+PHE  YPPD,Port Hedland International Airport,34.0,YPPD 240100Z
+TSV  YBTL,Townsville Airport,33.0,YBTL 240030Z
+NAN  NFFN,Nadi International Airport,33.0,NFFN 240100Z
+LBS  NFNL,Labasa Airport,33.0,NFNL 240100Z
+APW  NSFA,Faleolo International Airport,33.0,NSFA 240100Z
+BME  YBRM,Broome International Airport,33.0,YBRM 240100Z
+GLT  YGLA,Gladstone Airport,33.0,YGLA 240100Z
+KNX  YPKU,Kununurra Airport,33.0,YPKU 240100Z
+PPG  NSTU,Pago Pago International Airport,32.0,NSTU 240050Z
+POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 240100Z
+TVU  NFNM,Matei Airport,32.0,NFNM 240100Z
+SON  NVSS,Santo Pekoa International Airport,32.0,NVSS 240100Z
+MKQ  WAKK,Mopah Airport,32.0,WAKK 240100Z
+YAMB,RAAF Base Amberley,32.0,YAMB 240100Z
+CNS  YBCS,Cairns International Airport,32.0,YBCS 240100Z
+HID  YHID,Horn Island Airport,32.0,YHID 240100Z
+GOV  YPGV,Gove Airport,32.0,YPGV 240100Z
+KGI  YPKG,Kalgoorlie Boulder Airport,32.0,YPKG 240100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 240100Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 240100Z
+AIU  NCAT,Enua Airport,31.0,NCAT 240100Z
+MGS  NCMG,Mangaia Island Airport,31.0,NCMG 240100Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 240100Z
+NCPL,,31.0,NCPL 240100Z
+SUV  NFNA,Nausori International Airport,31.0,NFNA 240100Z
+SVU  NFNS,Savusavu Airport,31.0,NFNS 240100Z
+HPA  NFTL,Lifuka Island Airport,31.0,NFTL 240100Z
+VAV  NFTV,Vava'u International Airport,31.0,NFTV 240100Z
+IUE  NIUE,Niue International Airport,31.0,NIUE 240100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 240100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 240100Z
+STY  SUSO,Nueva Hesperides International Airport,31.0,SUSO 240100Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 240100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 240100Z
+KOE  WATT,El Tari Airport,31.0,WATT 240100Z
+HTI  YBHM,Hamilton Island Airport,31.0,YBHM 240100Z
+DRW  YPDN,Darwin International Airport,31.0,YPDN 240100Z
+YPEA,RAAF Base Pearce,31.0,YPEA 240100Z
+WTB  YBWW,Toowoomba Wellcamp Airport,31.0,YBWW 240112Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 240050Z
+HIR  AGGH,Honiara International Airport,30.0,AGGH 240100Z
+MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 240100Z
+TBU  NFTF,Fua'amotu International Airport,30.0,NFTF 240100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 240100Z
+PPT  NTAA,Faa'a International Airport,30.0,NTAA 240100Z
