@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-DBO  YSDU,Dubbo City Regional Airport,34.0,YSDU 270100Z
-POM  AYPY,Port Moresby Jacksons International Airport,33.0,AYPY 270100Z
-TSV  YBTL,Townsville Airport,33.0,YBTL 270100Z
-KNX  YPKU,Kununurra Airport,33.0,YPKU 270100Z
-LEA  YPLM,Learmonth Airport,33.0,YPLM 270100Z
-PHE  YPPD,Port Hedland International Airport,33.0,YPPD 270100Z
-TMW  YSTW,Tamworth Airport,33.0,YSTW 270100Z
-PPG  NSTU,Pago Pago International Airport,32.0,NSTU 270055Z
-HIR  AGGH,Honiara International Airport,32.0,AGGH 270100Z
-MUK  NCMK,Mauke Airport,32.0,NCMK 270100Z
-NCPL,,32.0,NCPL 270100Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 270100Z
-VLI  NVVV,Bauerfield International Airport,32.0,NVVV 270100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 270100Z
-MKQ  WAKK,Mopah Airport,32.0,WAKK 270100Z
-ROK  YBRK,Rockhampton Airport,32.0,YBRK 270100Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 270100Z
-XRH  YSRI,RAAF Base Richmond,32.0,YSRI 270100Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-MGS  NCMG,Mangaia Island Airport,31.0,NCMG 270100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 270100Z
-MOI  NCMR,Mitiaro Island Airport,31.0,NCMR 270100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 270100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 270100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 270100Z
-GIR  SKGI,Santiago Vila Airport,31.0,SKGI 270100Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 270100Z
-WAYY,,31.0,WAYY 270100Z
-HID  YHID,Horn Island Airport,31.0,YHID 270100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 270100Z
-MEL  YMML,Melbourne International Airport,30.0,YMML 270030Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 270050Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 270050Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 270054Z
-TIQ  PGWT,Tinian International Airport,30.0,PGWT 270055Z
-AIT  NCAI,Aitutaki Airport,30.0,NCAI 270100Z
-AIU  NCAT,Enua Airport,30.0,NCAT 270100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 270100Z
-LBS  NFNL,Labasa Airport,30.0,NFNL 270100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 270100Z
-IUE  NIUE,Niue International Airport,30.0,NIUE 270100Z
-WLS  NLWW,Hihifo Airport,30.0,NLWW 270100Z
-APW  NSFA,Faleolo International Airport,30.0,NSFA 270100Z
-TUB  NTAT,Tubuai Airport,30.0,NTAT 270100Z
-HOI  NTTO,Hao Airport,30.0,NTTO 270100Z
+NIX  GANR,Nioro du Sahel Airport,34.0,GANR 271200Z
+KGG  GOTK,Kédougou Airport,34.0,GOTK 271200Z
+ISA  YBMA,Mount Isa Airport,34.0,YBMA 271200Z
+ASK  DIYO,Yamoussoukro Airport,33.0,DIYO 271200Z
+DLA  FKKD,Douala International Airport,33.0,FKKD 271200Z
+KLC  GOOK,Kaolack Airport,33.0,GOOK 271200Z
+VOGB,,33.0,VOGB 271200Z
+ASP  YBAS,Alice Springs Airport,33.0,YBAS 271200Z
+LEA  YPLM,Learmonth Airport,33.0,YPLM 271200Z
+SSG  FGSL,Malabo Airport,32.0,FGSL 271200Z
+NSI  FKYS,Yaoundé Nsimalen International Airport,32.0,FKYS 271200Z
+DZA  FMCZ,Dzaoudzi Pamandzi International Airport,32.0,FMCZ
+ZSE  FMEP,Pierrefonds Airport,32.0,FMEP 271200Z
+GAQ  GAGO,Gao Airport,32.0,GAGO 271200Z
+GAKD,,32.0,GAKD 271200Z
+OXB  GGOV,Osvaldo Vieira International Airport,32.0,GGOV 271200Z
+ZIG  GOGG,Ziguinchor Airport,32.0,GOGG 271200Z
+IXU  VAAU,Aurangabad Airport,32.0,VAAU 271200Z
+COK  VOCI,Cochin International Airport,32.0,VOCI 271200Z
+VOND,,32.0,VOND 271200Z
+KLH  VAKP,Kolhapur Airport,31.0,VAKP 271130Z
+MVB  FOON,M'Vengue El Hadj Omar Bongo Ondimba International Airport,31.0,FOON 271200Z
+ROB  GLRB,Roberts International Airport,31.0,GLRB 271200Z
+DSS  GOBD,Blaise Diagne International Airport,31.0,GOBD 271200Z
+MBA  HKMO,Mombasa Moi International Airport,31.0,HKMO 271200Z
+BOM  VABB,Chhatrapati Shivaji International Airport,31.0,VABB 271200Z
+VOBM,,31.0,VOBM 271200Z
+CJB  VOCB,Coimbatore International Airport,31.0,VOCB 271200Z
+VOHB,,31.0,VOHB 271200Z
+CNN  VOKN,Kannur International Airport,31.0,VOKN 271200Z
+VOSH,,31.0,VOSH 271200Z
+PHE  YPPD,Port Hedland International Airport,31.0,YPPD 271200Z
+BZV  FCBB,Maya-Maya Airport,30.0,FCBB 271200Z
+MRU  FIMP,Sir Seewoosagur Ramgoolam International Airport,30.0,FIMP 271200Z
+NGE  FKKN,N'Gaoundéré Airport,30.0,FKKN 271200Z
+RUN  FMEE,Roland Garros Airport,30.0,FMEE 271200Z
+POG  FOOG,Port Gentil Airport,30.0,FOOG 271200Z
+LBV  FOOL,Libreville Leon M'ba International Airport,30.0,FOOL 271200Z
+TOM  GATB,Timbuktu Airport,30.0,GATB 271200Z
+BJL  GBYD,Banjul International Airport,30.0,GBYD 271200Z
+XLS  GOSS,Saint Louis Airport,30.0,GOSS 271200Z
+JED  OEJN,King Abdulaziz International Airport,30.0,OEJN 271200Z
+OEMN,,30.0,OEMN 271200Z
+AJU  SBAR,Santa Maria Airport,30.0,SBAR 271200Z
+CMG  SBCR,Corumbá International Airport,30.0,SBCR 271200Z
