@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NIX  GANR,Nioro du Sahel Airport,34.0,GANR 271200Z
-KGG  GOTK,Kédougou Airport,34.0,GOTK 271200Z
-ISA  YBMA,Mount Isa Airport,34.0,YBMA 271200Z
-ASK  DIYO,Yamoussoukro Airport,33.0,DIYO 271200Z
-DLA  FKKD,Douala International Airport,33.0,FKKD 271200Z
-KLC  GOOK,Kaolack Airport,33.0,GOOK 271200Z
-VOGB,,33.0,VOGB 271200Z
-ASP  YBAS,Alice Springs Airport,33.0,YBAS 271200Z
-LEA  YPLM,Learmonth Airport,33.0,YPLM 271200Z
-SSG  FGSL,Malabo Airport,32.0,FGSL 271200Z
-NSI  FKYS,Yaoundé Nsimalen International Airport,32.0,FKYS 271200Z
-DZA  FMCZ,Dzaoudzi Pamandzi International Airport,32.0,FMCZ
-ZSE  FMEP,Pierrefonds Airport,32.0,FMEP 271200Z
-GAQ  GAGO,Gao Airport,32.0,GAGO 271200Z
-GAKD,,32.0,GAKD 271200Z
-OXB  GGOV,Osvaldo Vieira International Airport,32.0,GGOV 271200Z
-ZIG  GOGG,Ziguinchor Airport,32.0,GOGG 271200Z
-IXU  VAAU,Aurangabad Airport,32.0,VAAU 271200Z
-COK  VOCI,Cochin International Airport,32.0,VOCI 271200Z
-VOND,,32.0,VOND 271200Z
-KLH  VAKP,Kolhapur Airport,31.0,VAKP 271130Z
-MVB  FOON,M'Vengue El Hadj Omar Bongo Ondimba International Airport,31.0,FOON 271200Z
-ROB  GLRB,Roberts International Airport,31.0,GLRB 271200Z
-DSS  GOBD,Blaise Diagne International Airport,31.0,GOBD 271200Z
-MBA  HKMO,Mombasa Moi International Airport,31.0,HKMO 271200Z
-BOM  VABB,Chhatrapati Shivaji International Airport,31.0,VABB 271200Z
-VOBM,,31.0,VOBM 271200Z
-CJB  VOCB,Coimbatore International Airport,31.0,VOCB 271200Z
-VOHB,,31.0,VOHB 271200Z
-CNN  VOKN,Kannur International Airport,31.0,VOKN 271200Z
-VOSH,,31.0,VOSH 271200Z
-PHE  YPPD,Port Hedland International Airport,31.0,YPPD 271200Z
-BZV  FCBB,Maya-Maya Airport,30.0,FCBB 271200Z
-MRU  FIMP,Sir Seewoosagur Ramgoolam International Airport,30.0,FIMP 271200Z
-NGE  FKKN,N'Gaoundéré Airport,30.0,FKKN 271200Z
-RUN  FMEE,Roland Garros Airport,30.0,FMEE 271200Z
-POG  FOOG,Port Gentil Airport,30.0,FOOG 271200Z
-LBV  FOOL,Libreville Leon M'ba International Airport,30.0,FOOL 271200Z
-TOM  GATB,Timbuktu Airport,30.0,GATB 271200Z
-BJL  GBYD,Banjul International Airport,30.0,GBYD 271200Z
-XLS  GOSS,Saint Louis Airport,30.0,GOSS 271200Z
-JED  OEJN,King Abdulaziz International Airport,30.0,OEJN 271200Z
-OEMN,,30.0,OEMN 271200Z
-AJU  SBAR,Santa Maria Airport,30.0,SBAR 271200Z
-CMG  SBCR,Corumbá International Airport,30.0,SBCR 271200Z
+ISA  YBMA,Mount Isa Airport,36.0,YBMA 280100Z
+ASP  YBAS,Alice Springs Airport,35.0,YBAS 280100Z
+TMW  YSTW,Tamworth Airport,35.0,YSTW 280100Z
+NCPL,,34.0,NCPL 280100Z
+CBR  YSCB,Canberra International Airport,34.0,YSCB 280100Z
+POM  AYPY,Port Moresby Jacksons International Airport,33.0,AYPY 280100Z
+KNX  YPKU,Kununurra Airport,33.0,YPKU 280100Z
+LAE  AYNZ,Nadzab Airport,32.0,AYNZ
+PPT  NTAA,Faa'a International Airport,32.0,NTAA 280100Z
+NOU  NWWW,La Tontouta International Airport,32.0,NWWW 280100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 280100Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 280054Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 280100Z
+MUK  NCMK,Mauke Airport,31.0,NCMK 280100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 280100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 280100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 280100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 280100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 280100Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 280100Z
+DRW  YPDN,Darwin International Airport,31.0,YPDN 280100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 280100Z
+PPG  NSTU,Pago Pago International Airport,30.0,NSTU 280050Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 280051Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 280053Z
+AWK  PWAK,Wake Island Airfield,30.0,PWAK 280055Z
+AIU  NCAT,Enua Airport,30.0,NCAT 280100Z
+MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 280100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 280100Z
+WLS  NLWW,Hihifo Airport,30.0,NLWW 280100Z
+TUB  NTAT,Tubuai Airport,30.0,NTAT 280100Z
+SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 280100Z
+TAH  NVVW,Tanna Airport,30.0,NVVW 280100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 280100Z
+ZAM  RPMZ,Zamboanga International Airport,30.0,RPMZ
+PCR  SKPC,German Olano Airport,30.0,SKPC 280100Z
+BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 280100Z
+MKQ  WAKK,Mopah Airport,30.0,WAKK 280100Z
+MDC  WAMM,Sam Ratulangi Airport,30.0,WAMM 280100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",30.0,WAPP 280100Z
+YAMB,RAAF Base Amberley,30.0,YAMB 280100Z
+ROK  YBRK,Rockhampton Airport,30.0,YBRK 280100Z
+DCN  YCIN,RAAF Base Curtin,30.0,YCIN 280100Z
+GLT  YGLA,Gladstone Airport,30.0,YGLA 280100Z
+UAM  PGUA,Andersen Air Force Base,29.0,PGUA 280055Z
