@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PER  YPPH,Perth International Airport,34.0,YPPH 300100Z
-DCN  YCIN,RAAF Base Curtin,33.0,YCIN 300100Z
-JAD  YPJT,Perth Jandakot Airport,33.0,YPJT 300100Z
-KNX  YPKU,Kununurra Airport,33.0,YPKU 300100Z
-LEA  YPLM,Learmonth Airport,33.0,YPLM 300100Z
-DBO  YSDU,Dubbo City Regional Airport,33.0,YSDU 300100Z
-PPG  NSTU,Pago Pago International Airport,32.0,NSTU 300050Z
-MHX  NCMH,Manihiki Island Airport,32.0,NCMH 300100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 300100Z
-DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 300100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 300100Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 300100Z
-GOV  YPGV,Gove Airport,32.0,YPGV 300100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 300100Z
-TMW  YSTW,Tamworth Airport,32.0,YSTW 300100Z
-TKK  PTKK,Chuuk International Airport,31.0,PTKK 300053Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 300054Z
-AIU  NCAT,Enua Airport,31.0,NCAT 300100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 300100Z
-NCPL,,31.0,NCPL 300100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 300100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 300100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 300100Z
-TUB  NTAT,Tubuai Airport,31.0,NTAT 300100Z
-TAH  NVVW,Tanna Airport,31.0,NVVW 300100Z
-PCR  SKPC,German Olano Airport,31.0,SKPC 300100Z
-CNS  YBCS,Cairns International Airport,31.0,YBCS 300100Z
-ROK  YBRK,Rockhampton Airport,31.0,YBRK 300100Z
-BME  YBRM,Broome International Airport,31.0,YBRM 300100Z
-TRC  MMTC,Francisco Sarabia International Airport,30.0,MMTC 300040Z
-PTTP,,30.0,PTTP 300050Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 300050Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 300054Z
-MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 300100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 300100Z
-NAN  NFFN,Nadi International Airport,30.0,NFFN 300100Z
-TBU  NFTF,Fua'amotu International Airport,30.0,NFTF 300100Z
-VAV  NFTV,Vava'u International Airport,30.0,NFTV 300100Z
-BOB  NTTB,Bora Bora Airport,30.0,NTTB 300100Z
-HOI  NTTO,Hao Airport,30.0,NTTO 300100Z
-SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 300100Z
-VLI  NVVV,Bauerfield International Airport,30.0,NVVV 300100Z
-GIR  SKGI,Santiago Vila Airport,30.0,SKGI 300100Z
-VUP  SKVP,Alfonso López Pumarejo Airport,30.0,SKVP 300100Z
-BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 300100Z
+MZI  GAMB,Mopti Airport,34.0,GAMB 301200Z
+LEA  YPLM,Learmonth Airport,34.0,YPLM 301200Z
+LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 301200Z
+DXSK,Sokodé Airport,33.0,DXSK 301200Z
+LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 301200Z
+DLA  FKKD,Douala International Airport,33.0,FKKD 301200Z
+GOU  FKKR,Garoua International Airport,33.0,FKKR 301200Z
+RUN  FMEE,Roland Garros Airport,33.0,FMEE 301200Z
+MQQ  FTTD,Moundou Airport,33.0,FTTD 301200Z
+DSS  GOBD,Blaise Diagne International Airport,33.0,GOBD 301200Z
+VOHB,,33.0,VOHB 301200Z
+KLH  VAKP,Kolhapur Airport,32.0,VAKP 301130Z
+COK  VOCI,Cochin International Airport,32.0,VOCI 301130Z
+COO  DBBB,Cadjehoun Airport,32.0,DBBB 301200Z
+OUA  DFFD,Ouagadougou Airport,32.0,DFFD 301200Z
+BOY  DFOO,Bobo Dioulasso Airport,32.0,DFOO 301200Z
+ACC  DGAA,Kotoka International Airport,32.0,DGAA 301200Z
+ABJ  DIAP,Port Bouet Airport,32.0,DIAP 301200Z
+NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 301200Z
+LRL  DXNG,Niamtougou International Airport,32.0,DXNG 301200Z
+DZA  FMCZ,Dzaoudzi Pamandzi International Airport,32.0,FMCZ
+ZSE  FMEP,Pierrefonds Airport,32.0,FMEP 301200Z
+TMM  FMMT,Toamasina Airport,32.0,FMMT 301200Z
+MJN  FMNM,Amborovy Airport,32.0,FMNM 301200Z
+POG  FOOG,Port Gentil Airport,32.0,FOOG 301200Z
+NDJ  FTTJ,N'Djamena International Airport,32.0,FTTJ 301200Z
+BKO  GABS,Modibo Keita International Airport,32.0,GABS 301200Z
+GAKD,,32.0,GAKD 301200Z
+NIX  GANR,Nioro du Sahel Airport,32.0,GANR 301200Z
+MBA  HKMO,Mombasa Moi International Airport,32.0,HKMO 301200Z
+OEMN,,32.0,OEMN 301200Z
+IXU  VAAU,Aurangabad Airport,32.0,VAAU 301200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,32.0,VANP 301200Z
+VOSH,,32.0,VOSH 301200Z
+ASP  YBAS,Alice Springs Airport,32.0,YBAS 301200Z
+MRU  FIMP,Sir Seewoosagur Ramgoolam International Airport,31.0,FIMP 301200Z
+LBV  FOOL,Libreville Leon M'ba International Airport,31.0,FOOL 301200Z
+GAQ  GAGO,Gao Airport,31.0,GAGO 301200Z
+FEN  SBFN,Fernando de Noronha Airport,31.0,SBFN 301200Z
+MEA  SBME,Macaé Airport,31.0,SBME 301200Z
+VOBM,,31.0,VOBM 301200Z
+TRV  VOTV,Trivandrum International Airport,31.0,VOTV 301200Z
+ISA  YBMA,Mount Isa Airport,31.0,YBMA 301200Z
+BME  YBRM,Broome International Airport,31.0,YBRM 301200Z
+KGI  YPKG,Kalgoorlie Boulder Airport,31.0,YPKG 301200Z
