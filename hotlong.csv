@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PHE  YPPD,Port Hedland International Airport,34.0,YPPD 310100Z
-DBO  YSDU,Dubbo City Regional Airport,34.0,YSDU 310100Z
-HIR  AGGH,Honiara International Airport,32.0,AGGH 310100Z
-NCPL,,32.0,NCPL 310100Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 310100Z
-PPT  NTAA,Faa'a International Airport,32.0,NTAA 310100Z
-TKK  PTKK,Chuuk International Airport,31.0,PTKK 310050Z
-SPN  PGSN,Saipan International Airport,31.0,PGSN 310054Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 310054Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-AIU  NCAT,Enua Airport,31.0,NCAT 310100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 310100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 310100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 310100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 310100Z
-TAH  NVVW,Tanna Airport,31.0,NVVW 310100Z
-MDZ  SAME,El Plumerillo Airport,31.0,SAME 310100Z
-EJA  SKEJ,Yariguíes Airport,31.0,SKEJ 310100Z
-NVA  SKNV,Benito Salas Airport,31.0,SKNV 310100Z
-SMR  SKSM,Simón Bolívar International Airport,31.0,SKSM 310100Z
-VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 310100Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 310100Z
-MKQ  WAKK,Mopah Airport,31.0,WAKK 310100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 310100Z
-YAMB,RAAF Base Amberley,31.0,YAMB 310100Z
-DCN  YCIN,RAAF Base Curtin,31.0,YCIN 310100Z
-TMW  YSTW,Tamworth Airport,31.0,YSTW 310100Z
-TGZ  MMTG,Angel Albino Corzo International Airport,30.0,MMTG 310048Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 310050Z
-PTTP,,30.0,PTTP 310053Z
-AIT  NCAI,Aitutaki Airport,30.0,NCAI 310100Z
-MGS  NCMG,Mangaia Island Airport,30.0,NCMG 310100Z
-MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 310100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 310100Z
-RAR  NCRG,Rarotonga International Airport,30.0,NCRG 310100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 310100Z
-IUE  NIUE,Niue International Airport,30.0,NIUE 310100Z
-TUB  NTAT,Tubuai Airport,30.0,NTAT 310100Z
-HOI  NTTO,Hao Airport,30.0,NTTO 310100Z
-VLI  NVVV,Bauerfield International Airport,30.0,NVVV 310100Z
-ZAM  RPMZ,Zamboanga International Airport,30.0,RPMZ
-REL  SAVT,Almirante Marco Andres Zar Airport,30.0,SAVT 310100Z
-ASU  SGAS,Silvio Pettirossi International Airport,30.0,SGAS 310100Z
-GIR  SKGI,Santiago Vila Airport,30.0,SKGI 310100Z
-PCR  SKPC,German Olano Airport,30.0,SKPC 310100Z
+ZIG  GOGG,Ziguinchor Airport,33.0,GOGG 311200Z
+JED  OEJN,King Abdulaziz International Airport,33.0,OEJN 311200Z
+OEMN,,33.0,OEMN 311200Z
+SBJR,Jacarepaguá - Roberto Marinho Airport,33.0,SBJR 311200Z
+VOGB,,33.0,VOGB 311200Z
+KLH  VAKP,Kolhapur Airport,32.0,VAKP 311130Z
+VOSH,,32.0,VOSH 311130Z
+ABJ  DIAP,Port Bouet Airport,32.0,DIAP 311200Z
+ZSE  FMEP,Pierrefonds Airport,32.0,FMEP 311200Z
+POG  FOOG,Port Gentil Airport,32.0,FOOG 311200Z
+OXB  GGOV,Osvaldo Vieira International Airport,32.0,GGOV 311200Z
+KLC  GOOK,Kaolack Airport,32.0,GOOK 311200Z
+KGG  GOTK,Kédougou Airport,32.0,GOTK 311200Z
+TUD  GOTT,Tambacounda Airport,32.0,GOTT 311200Z
+MEA  SBME,Macaé Airport,32.0,SBME 311200Z
+VOBM,,32.0,VOBM 311200Z
+CDP  VOCP,Kadapa Airport,32.0,VOCP 311200Z
+VOHB,,32.0,VOHB 311200Z
+VOND,,32.0,VOND 311200Z
+TIR  VOTP,Tirupati Airport,32.0,VOTP 311200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,32.0,VOTR 311200Z
+BZV  FCBB,Maya-Maya Airport,31.0,FCBB 311200Z
+PNR  FCPP,Pointe Noire Airport,31.0,FCPP 311200Z
+MRU  FIMP,Sir Seewoosagur Ramgoolam International Airport,31.0,FIMP 311200Z
+DZA  FMCZ,Dzaoudzi Pamandzi International Airport,31.0,FMCZ
+LBV  FOOL,Libreville Leon M'ba International Airport,31.0,FOOL 311200Z
+FIH  FZAA,Ndjili International Airport,31.0,FZ
+BKO  GABS,Modibo Keita International Airport,31.0,GABS 311200Z
+GAKD,,31.0,GAKD 311200Z
+MZI  GAMB,Mopti Airport,31.0,GAMB 311200Z
+ROB  GLRB,Roberts International Airport,31.0,GLRB 311200Z
+DSS  GOBD,Blaise Diagne International Airport,31.0,GOBD 311200Z
+CSK  GOGS,Cap Skirring Airport,31.0,GOGS 311200Z
+MBA  HKMO,Mombasa Moi International Airport,31.0,HKMO 311200Z
+FEN  SBFN,Fernando de Noronha Airport,31.0,SBFN 311200Z
+IXU  VAAU,Aurangabad Airport,31.0,VAAU 311200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,31.0,VANP 311200Z
+CJB  VOCB,Coimbatore International Airport,31.0,VOCB 311200Z
+COK  VOCI,Cochin International Airport,31.0,VOCI 311200Z
+IXM  VOMD,Madurai Airport,31.0,VOMD 311200Z
+MYQ  VOMY,Mysore Airport,31.0,VOMY 311200Z
+SXV  VOSM,Salem Airport,31.0,VOSM 311200Z
+VOTK,,31.0,VOTK 311200Z
+TRV  VOTV,Trivandrum International Airport,31.0,VOTV 311200Z
+BME  YBRM,Broome International Airport,31.0,YBRM 311200Z
