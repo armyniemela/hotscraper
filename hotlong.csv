@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PPG  NSTU,Pago Pago International Airport,32.0,NSTU 040053Z
-AIU  NCAT,Enua Airport,32.0,NCAT 040100Z
-NCPL,,32.0,NCPL 040100Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 040100Z
-PSS  SARP,Libertador Gral D Jose De San Martin Airport,32.0,SARP 040100Z
-AVV  YMAV,Avalon Airport,32.0,YMAV 040100Z
-ADL  YPAD,Adelaide International Airport,32.0,YPAD 040100Z
-LEA  YPLM,Learmonth Airport,32.0,YPLM 040100Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 040041Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 040053Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 040100Z
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 040100Z
-MGS  NCMG,Mangaia Island Airport,31.0,NCMG 040100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 040100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 040100Z
-MOI  NCMR,Mitiaro Island Airport,31.0,NCMR 040100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 040100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 040100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 040100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 040100Z
-CNQ  SARC,Corrientes Airport,31.0,SARC 040100Z
-RES  SARE,Resistencia International Airport,31.0,SARE 040100Z
-FMA  SARF,Formosa Airport,31.0,SARF 040100Z
-DPS  WADD,Ngurah Rai (Bali) International Airport,31.0,WADD 040100Z
-BME  YBRM,Broome International Airport,31.0,YBRM 040100Z
-KNX  YPKU,Kununurra Airport,31.0,YPKU 040100Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 040051Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 040100Z
-RAR  NCRG,Rarotonga International Airport,30.0,NCRG 040100Z
-SVU  NFNS,Savusavu Airport,30.0,NFNS 040100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 040100Z
-VLI  NVVV,Bauerfield International Airport,30.0,NVVV 040100Z
-CXI  PLCH,Cassidy International Airport,30.0,PLCH 040100Z
-AEP  SABE,Jorge Newbery Airpark,30.0,SABE 040100Z
-FDO  SADF,San Fernando Airport,30.0,SADF 040100Z
-EPA  SADP,El Palomar Airport,30.0,SADP 040100Z
-AOL  SARL,Paso De Los Libres Airport,30.0,SARL 040100Z
-MVF  SBMS,Dix-Sept Rosado Airport,30.0,SBMS 040100Z
-GIR  SKGI,Santiago Vila Airport,30.0,SKGI 040100Z
-PCR  SKPC,German Olano Airport,30.0,SKPC 040100Z
-MDC  WAMM,Sam Ratulangi Airport,30.0,WAMM 040100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",30.0,WAPP 040100Z
-ISA  YBMA,Mount Isa Airport,30.0,YBMA 040100Z
-YBSU,,30.0,YBSU 040100Z
-GLT  YGLA,Gladstone Airport,30.0,YGLA 040100Z
+DXSK,Sokodé Airport,35.0,DXSK 041200Z
+LFW  DXXX,Lomé-Tokoin Airport,35.0,DXXX 041200Z
+ACC  DGAA,Kotoka International Airport,34.0,DGAA 041200Z
+PHC  DNPO,Port Harcourt International Airport,34.0,DNPO 041200Z
+THZ  DRRT,Tahoua Airport,34.0,DRRT 041200Z
+BGF  FEFF,Bangui M'Poko International Airport,34.0,FEFF 041200Z
+DLA  FKKD,Douala International Airport,34.0,FKKD 041200Z
+VOGB,,34.0,VOGB 041200Z
+VOND,,34.0,VOND 041200Z
+KLH  VAKP,Kolhapur Airport,33.0,VAKP 041130Z
+VGA  VOBZ,Vijayawada Airport,33.0,VOBZ
+KMS  DGSI,Kumasi Airport,33.0,DGSI 041200Z
+TKD  DGTK,Takoradi Airport,33.0,DGTK 041200Z
+ASK  DIYO,Yamoussoukro Airport,33.0,DIYO 041200Z
+LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 041200Z
+NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 041200Z
+AJY  DRZA,Mano Dayak International Airport,33.0,DRZ
+DRZF,Diffa Airport,33.0,DRZ
+SBJR,Jacarepaguá - Roberto Marinho Airport,33.0,SBJR 041200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,33.0,VANP 041200Z
+VOBM,,33.0,VOBM 041200Z
+VOHB,,33.0,VOHB 041200Z
+ASP  YBAS,Alice Springs Airport,33.0,YBAS 041200Z
+ROB  GLRB,Roberts International Airport,33.0,GLRB 041230Z
+VEBU,,32.0,VEBU 041130Z
+RRK  VERK,Rourkela Airport,32.0,VERK 041130Z
+TIR  VOTP,Tirupati Airport,32.0,VOTP 041130Z
+COO  DBBB,Cadjehoun Airport,32.0,DBBB 041200Z
+OUA  DFFD,Ouagadougou Airport,32.0,DFFD 041200Z
+ABJ  DIAP,Port Bouet Airport,32.0,DIAP 041200Z
+BYK  DIBK,Bouaké Airport,32.0,DIBK 041200Z
+MFQ  DRRM,Maradi Airport,32.0,DRRM 041200Z
+ZND  DRZR,Zinder Airport,32.0,DRZ
+LRL  DXNG,Niamtougou International Airport,32.0,DXNG 041200Z
+MRU  FIMP,Sir Seewoosagur Ramgoolam International Airport,32.0,FIMP 041200Z
+RUN  FMEE,Roland Garros Airport,32.0,FMEE 041200Z
+POG  FOOG,Port Gentil Airport,32.0,FOOG 041200Z
+BGX  SBBG,Comandante Gustavo Kraemer Airport,32.0,SBBG 041200Z
+PDP  SULS,Capitan Corbeta CA Curbelo International Airport,32.0,SULS 041200Z
+STY  SUSO,Nueva Hesperides International Airport,32.0,SUSO 041200Z
+IXU  VAAU,Aurangabad Airport,32.0,VAAU 041200Z
+JRG  VEJH,Jharsuguda Airport,32.0,VEJH 041200Z
+CJB  VOCB,Coimbatore International Airport,32.0,VOCB 041200Z
+COK  VOCI,Cochin International Airport,32.0,VOCI 041200Z
+CDP  VOCP,Kadapa Airport,32.0,VOCP 041200Z
