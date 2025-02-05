@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PPG  NSTU,Pago Pago International Airport,32.0,NSTU 050052Z
-HIR  AGGH,Honiara International Airport,32.0,AGGH 050100Z
-POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 050100Z
-MUK  NCMK,Mauke Airport,32.0,NCMK 050100Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 050100Z
-CNQ  SARC,Corrientes Airport,32.0,SARC 050100Z
-AOL  SARL,Paso De Los Libres Airport,32.0,SARL 050100Z
-PSS  SARP,Libertador Gral D Jose De San Martin Airport,32.0,SARP 050100Z
-ISA  YBMA,Mount Isa Airport,32.0,YBMA 050100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 050100Z
-LEA  YPLM,Learmonth Airport,32.0,YPLM 050100Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 050100Z
-UMR  YPWR,Woomera Airfield,32.0,YPWR 050100Z
-AIU  NCAT,Enua Airport,31.0,NCAT 050100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 050100Z
-NCPL,,31.0,NCPL 050100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 050100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 050100Z
-TRW  NGTA,Bonriki International Airport,31.0,NGTA 050100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 050100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 050100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 050100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 050100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 050100Z
-FMA  SARF,Formosa Airport,31.0,SARF 050100Z
-ASU  SGAS,Silvio Pettirossi International Airport,31.0,SGAS 050100Z
-MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 050100Z
-KOE  WATT,El Tari Airport,31.0,WATT 050100Z
-DCN  YCIN,RAAF Base Curtin,31.0,YCIN 050100Z
-HID  YHID,Horn Island Airport,31.0,YHID 050100Z
-TMW  YSTW,Tamworth Airport,31.0,YSTW 050100Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,30.0,MMHO 050040Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 050054Z
-AWK  PWAK,Wake Island Airfield,30.0,PWAK 050055Z
-AIT  NCAI,Aitutaki Airport,30.0,NCAI 050100Z
-MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 050100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 050100Z
-NAN  NFFN,Nadi International Airport,30.0,NFFN 050100Z
-SUV  NFNA,Nausori International Airport,30.0,NFNA 050100Z
-TVU  NFNM,Matei Airport,30.0,NFNM 050100Z
-HPA  NFTL,Lifuka Island Airport,30.0,NFTL 050100Z
-TUB  NTAT,Tubuai Airport,30.0,NTAT 050100Z
-HOI  NTTO,Hao Airport,30.0,NTTO 050100Z
-VLI  NVVV,Bauerfield International Airport,30.0,NVVV 050100Z
-TAH  NVVW,Tanna Airport,30.0,NVVW 050100Z
+GOU  FKKR,Garoua International Airport,35.0,FKKR 051200Z
+TML  DGLE,Tamale Airport,34.0,DGLE 051200Z
+KMS  DGSI,Kumasi Airport,34.0,DGSI 051200Z
+ASK  DIYO,Yamoussoukro Airport,34.0,DIYO 051200Z
+LRL  DXNG,Niamtougou International Airport,34.0,DXNG 051200Z
+DLA  FKKD,Douala International Airport,34.0,FKKD 051200Z
+NDJ  FTTJ,N'Djamena International Airport,34.0,FTTJ 051200Z
+KGI  YPKG,Kalgoorlie Boulder Airport,34.0,YPKG 051200Z
+ACC  DGAA,Kotoka International Airport,33.0,DGAA 051200Z
+TKD  DGTK,Takoradi Airport,33.0,DGTK 051200Z
+LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 051200Z
+LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 051200Z
+SSG  FGSL,Malabo Airport,33.0,FGSL 051200Z
+SBJR,Jacarepaguá - Roberto Marinho Airport,33.0,SBJR 051200Z
+VOGB,,33.0,VOGB 051200Z
+VOHB,,33.0,VOHB 051200Z
+VOND,,33.0,VOND 051200Z
+TIR  VOTP,Tirupati Airport,33.0,VOTP 051200Z
+ASP  YBAS,Alice Springs Airport,33.0,YBAS 051200Z
+ASU  SGAS,Silvio Pettirossi International Airport,33.0,SGAS 051230Z
+KLH  VAKP,Kolhapur Airport,32.0,VAKP 051130Z
+COO  DBBB,Cadjehoun Airport,32.0,DBBB 051200Z
+OUA  DFFD,Ouagadougou Airport,32.0,DFFD 051200Z
+ABJ  DIAP,Port Bouet Airport,32.0,DIAP 051200Z
+MFQ  DRRM,Maradi Airport,32.0,DRRM 051200Z
+AJY  DRZA,Mano Dayak International Airport,32.0,DRZ
+BZV  FCBB,Maya-Maya Airport,32.0,FCBB 051200Z
+OLL  FCOD,Oyo Ollombo Airport,32.0,FCOD 051200Z
+MRU  FIMP,Sir Seewoosagur Ramgoolam International Airport,32.0,FIMP 051200Z
+RUN  FMEE,Roland Garros Airport,32.0,FMEE 051200Z
+MBA  HKMO,Mombasa Moi International Airport,32.0,HKMO 051200Z
+AOL  SARL,Paso De Los Libres Airport,32.0,SARL 051200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,32.0,VANP 051200Z
+JRG  VEJH,Jharsuguda Airport,32.0,VEJH 051200Z
+VOBM,,32.0,VOBM 051200Z
+VGA  VOBZ,Vijayawada Airport,32.0,VOBZ
+CJB  VOCB,Coimbatore International Airport,32.0,VOCB 051200Z
+CDP  VOCP,Kadapa Airport,32.0,VOCP 051200Z
+HYD  VOHS,Rajiv Gandhi International Airport,32.0,VOHS 051200Z
+VOSH,,32.0,VOSH 051200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,32.0,VOTR 051200Z
+LEA  YPLM,Learmonth Airport,32.0,YPLM 051200Z
+UMR  YPWR,Woomera Airfield,32.0,YPWR 051200Z
+ROB  GLRB,Roberts International Airport,32.0,GLRB 051230Z
+PNR  FCPP,Pointe Noire Airport,31.0,FCPP 051200Z
