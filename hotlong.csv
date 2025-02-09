@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HMO  MMHO,General Ignacio P. Garcia International Airport,32.0,MMHO 090040Z
-POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 090100Z
-AIU  NCAT,Enua Airport,32.0,NCAT 090100Z
-SUV  NFNA,Nausori International Airport,32.0,NFNA 090100Z
-WLS  NLWW,Hihifo Airport,32.0,NLWW 090100Z
-VLI  NVVV,Bauerfield International Airport,32.0,NVVV 090100Z
-RES  SARE,Resistencia International Airport,32.0,SARE 090100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 090100Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 090054Z
-MGS  NCMG,Mangaia Island Airport,31.0,NCMG 090100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 090100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 090100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 090100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 090100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 090100Z
-TBU  NFTF,Fua'amotu International Airport,31.0,NFTF 090100Z
-TUB  NTAT,Tubuai Airport,31.0,NTAT 090100Z
-HOI  NTTO,Hao Airport,31.0,NTTO 090100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 090100Z
-ROS  SAAR,Islas Malvinas Airport,31.0,SAAR 090100Z
-CNQ  SARC,Corrientes Airport,31.0,SARC 090100Z
-PSS  SARP,Libertador Gral D Jose De San Martin Airport,31.0,SARP 090100Z
-YAMB,RAAF Base Amberley,31.0,YAMB 090100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 090100Z
-LEA  YPLM,Learmonth Airport,31.0,YPLM 090100Z
-DBO  YSDU,Dubbo City Regional Airport,31.0,YSDU 090100Z
-TMW  YSTW,Tamworth Airport,31.0,YSTW 090100Z
-PDS  MMPG,Piedras Negras International Airport,30.0,MMPG 090043Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 090050Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 090052Z
-COT  KCOT,Cotulla-La Salle County Airport,30.0,KCOT 090053Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 090054Z
-KPRS,Presidio Lely International Airport,30.0,KPRS 090055Z
-KSA  PTSA,Kosrae International Airport,30.0,PTSA 090055Z
-LAE  AYNZ,Nadzab Airport,30.0,AYNZ
-MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 090100Z
-VAV  NFTV,Vava'u International Airport,30.0,NFTV 090100Z
-FUN  NGFU,Funafuti International Airport,30.0,NGFU 090100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 090100Z
-IUE  NIUE,Niue International Airport,30.0,NIUE 090100Z
-PPT  NTAA,Faa'a International Airport,30.0,NTAA 090100Z
-DVO  RPMD,Francisco Bangoy International Airport,30.0,RPMD 090100Z
-DGT  RPVD,Sibulan Airport,30.0,RPVD 090100Z
-FMA  SARF,Formosa Airport,30.0,SARF 090100Z
-BVB  SBBV,Atlas Brasil Cantanhede Airport,30.0,SBBV 090100Z
+MQQ  FTTD,Moundou Airport,37.0,FTTD 091200Z
+OUA  DFFD,Ouagadougou Airport,36.0,DFFD 091200Z
+NDJ  FTTJ,N'Djamena International Airport,36.0,FTTJ 091200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 091200Z
+BGF  FEFF,Bangui M'Poko International Airport,35.0,FEFF 091200Z
+AEH  FTTC,Abeche Airport,35.0,FTTC 091200Z
+MZI  GAMB,Mopti Airport,35.0,GAMB 091200Z
+WJR  HKWJ,Wajir Airport,35.0,HKWJ 091200Z
+DNGO,,34.0,DNGO 091200Z
+ILR  DNIL,Ilorin International Airport,34.0,DNIL 091200Z
+QOW  DNIM,Sam Mbakwe International Airport,34.0,DNIM 091200Z
+KAD  DNKA,Kaduna Airport,34.0,DNKA 091200Z
+PHC  DNPO,Port Harcourt International Airport,34.0,DNPO 091200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,34.0,DNSO 091200Z
+NIM  DRRN,Diori Hamani International Airport,34.0,DRRN 091200Z
+THZ  DRRT,Tahoua Airport,34.0,DRRT 091200Z
+DXSK,Sokodé Airport,34.0,DXSK 091200Z
+DLA  FKKD,Douala International Airport,34.0,FKKD 091200Z
+TET  FQTT,Chingozi Airport,34.0,FQTT 091200Z
+DAR  HTDA,Julius Nyerere International Airport,34.0,HTDA 091200Z
+JRO  HTKJ,Kilimanjaro International Airport,34.0,HTKJ 091200Z
+ASP  YBAS,Alice Springs Airport,34.0,YBAS 091200Z
+COO  DBBB,Cadjehoun Airport,33.0,DBBB 091200Z
+BOY  DFOO,Bobo Dioulasso Airport,33.0,DFOO 091200Z
+ACC  DGAA,Kotoka International Airport,33.0,DGAA 091200Z
+LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 091200Z
+DRZF,Diffa Airport,33.0,DRZ
+LRL  DXNG,Niamtougou International Airport,33.0,DXNG 091200Z
+LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 091200Z
+MVB  FOON,M'Vengue El Hadj Omar Bongo Ondimba International Airport,33.0,FOON 091200Z
+KAB  FVKB,Kariba International Airport,33.0,FVKB 091200Z
+FIH  FZAA,Ndjili International Airport,33.0,FZ
+FKI  FZIC,Bangoka International Airport,33.0,FZ
+KGG  GOTK,Kédougou Airport,33.0,GOTK 091200Z
+TUD  GOTT,Tambacounda Airport,33.0,GOTT 091200Z
+MBA  HKMO,Mombasa Moi International Airport,33.0,HKMO 091200Z
+VOGB,,33.0,VOGB 091200Z
+VOND,,33.0,VOND 091200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,32.0,VOTR 091130Z
+ASK  DIYO,Yamoussoukro Airport,32.0,DIYO 091200Z
+AKR  DNAK,Akure Airport,32.0,DNAK 091200Z
+ZND  DRZR,Zinder Airport,32.0,DRZ
+BZV  FCBB,Maya-Maya Airport,32.0,FCBB 091200Z
+MJN  FMNM,Amborovy Airport,32.0,FMNM 091200Z
+FTU  FMSD,Tôlanaro Airport,32.0,FMSD 091200Z
