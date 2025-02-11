@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-FOS  YFRT,Forrest Airport,34.0,YFRT 110100Z
-NCPL,,33.0,NCPL 110100Z
-SUV  NFNA,Nausori International Airport,33.0,NFNA 110100Z
-LBS  NFNL,Labasa Airport,33.0,NFNL 110100Z
-FMA  SARF,Formosa Airport,33.0,SARF 110100Z
-AIU  NCAT,Enua Airport,32.0,NCAT 110100Z
-SVU  NFNS,Savusavu Airport,32.0,NFNS 110100Z
-APW  NSFA,Faleolo International Airport,32.0,NSFA 110100Z
-VLI  NVVV,Bauerfield International Airport,32.0,NVVV 110100Z
-TAH  NVVW,Tanna Airport,32.0,NVVW 110100Z
-MDZ  SAME,El Plumerillo Airport,32.0,SAME 110100Z
-RES  SARE,Resistencia International Airport,32.0,SARE 110100Z
-PSS  SARP,Libertador Gral D Jose De San Martin Airport,32.0,SARP 110100Z
-ASU  SGAS,Silvio Pettirossi International Airport,32.0,SGAS 110100Z
-WAYY,,32.0,WAYY 110100Z
-HID  YHID,Horn Island Airport,32.0,YHID 110100Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 110100Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 110050Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 110057Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 110100Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-MGS  NCMG,Mangaia Island Airport,31.0,NCMG 110100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 110100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 110100Z
-MOI  NCMR,Mitiaro Island Airport,31.0,NCMR 110100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 110100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 110100Z
-TBU  NFTF,Fua'amotu International Airport,31.0,NFTF 110100Z
-VAV  NFTV,Vava'u International Airport,31.0,NFTV 110100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 110100Z
-TRW  NGTA,Bonriki International Airport,31.0,NGTA 110100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 110100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 110100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 110100Z
-AEP  SABE,Jorge Newbery Airpark,31.0,SABE 110100Z
-AOL  SARL,Paso De Los Libres Airport,31.0,SARL 110100Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 110100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 110100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 110100Z
-KTR  YPTN,Tindal Airport,31.0,YPTN 110100Z
-PTTP,,30.0,PTTP 110053Z
-NGF  PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,30.0,PHNG 110057Z
-PKMR,,30.0,PKMR 110058Z
-AIT  NCAI,Aitutaki Airport,30.0,NCAI 110100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 110100Z
+NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 111200Z
+GOU  FKKR,Garoua International Airport,36.0,FKKR 111200Z
+BKO  GABS,Modibo Keita International Airport,36.0,GABS 111200Z
+KGG  GOTK,Kédougou Airport,36.0,GOTK 111200Z
+TUD  GOTT,Tambacounda Airport,36.0,GOTT 111200Z
+BOY  DFOO,Bobo Dioulasso Airport,35.0,DFOO 111200Z
+LRL  DXNG,Niamtougou International Airport,35.0,DXNG 111200Z
+DXSK,Sokodé Airport,35.0,DXSK 111200Z
+BGF  FEFF,Bangui M'Poko International Airport,35.0,FEFF 111200Z
+SMS  FMMS,Sainte Marie Airport,35.0,FMMS 111200Z
+NDJ  FTTJ,N'Djamena International Airport,35.0,FTTJ 111200Z
+GAKD,,35.0,GAKD 111200Z
+NIX  GANR,Nioro du Sahel Airport,35.0,GANR 111200Z
+SHW  OESH,Sharurah Airport,35.0,OESH 111200Z
+ASP  YBAS,Alice Springs Airport,35.0,YBAS 111200Z
+UMR  YPWR,Woomera Airfield,35.0,YPWR 111200Z
+VOND,,34.0,VOND 111130Z
+LOS  DNMM,Murtala Muhammed International Airport,34.0,DNMM 111200Z
+TET  FQTT,Chingozi Airport,34.0,FQTT 111200Z
+GOGK,,34.0,GOGK 111200Z
+GOOG,,34.0,GOOG 111200Z
+MAX  GOSM,Ouro Sogui Airport,34.0,GOSM 111200Z
+DAR  HTDA,Julius Nyerere International Airport,34.0,HTDA 111200Z
+VOGB,,34.0,VOGB 111200Z
+FOS  YFRT,Forrest Airport,34.0,YFRT 111200Z
+COO  DBBB,Cadjehoun Airport,33.0,DBBB 111200Z
+ACC  DGAA,Kotoka International Airport,33.0,DGAA 111200Z
+ASK  DIYO,Yamoussoukro Airport,33.0,DIYO 111200Z
+LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 111200Z
+OLL  FCOD,Oyo Ollombo Airport,33.0,FCOD 111200Z
+DLA  FKKD,Douala International Airport,33.0,FKKD 111200Z
+KAB  FVKB,Kariba International Airport,33.0,FVKB 111200Z
+TOM  GATB,Timbuktu Airport,33.0,GATB 111200Z
+ROB  GLRB,Roberts International Airport,33.0,GLRB 111200Z
+KLC  GOOK,Kaolack Airport,33.0,GOOK 111200Z
+MBA  HKMO,Mombasa Moi International Airport,33.0,HKMO 111200Z
+HTMG,Morogoro Airport,33.0,HTMG 111200Z
+RIA  SBSM,Santa Maria Airport,33.0,SBSM 111200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,33.0,VANP 111200Z
+VOHB,,33.0,VOHB 111200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,33.0,VOTR 111200Z
+ASU  SGAS,Silvio Pettirossi International Airport,33.0,SGAS 111230Z
+NKW  FJDG,Diego Garcia Naval Support Facility,32.0,FJDG 111155Z
+TKD  DGTK,Takoradi Airport,32.0,DGTK 111200Z
+BZV  FCBB,Maya-Maya Airport,32.0,FCBB 111200Z
