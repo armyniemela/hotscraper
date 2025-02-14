@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OUA  DFFD,Ouagadougou Airport,35.0,DFFD 131200Z
-BOY  DFOO,Bobo Dioulasso Airport,35.0,DFOO 131200Z
-PHC  DNPO,Port Harcourt International Airport,35.0,DNPO 131200Z
-KGG  GOTK,Kédougou Airport,35.0,GOTK 131200Z
-SHW  OESH,Sharurah Airport,35.0,OESH 131200Z
-SBJR,Jacarepaguá - Roberto Marinho Airport,35.0,SBJR 131200Z
-VOSH,,35.0,VOSH 131200Z
-AKR  DNAK,Akure Airport,34.0,DNAK 131200Z
-CBQ  DNCA,Margaret Ekpo International Airport,34.0,DNCA 131200Z
-IBA  DNIB,Ibadan Airport,34.0,DNIB 131200Z
-ILR  DNIL,Ilorin International Airport,34.0,DNIL 131200Z
-LOS  DNMM,Murtala Muhammed International Airport,34.0,DNMM 131200Z
-YOL  DNYO,Yola Airport,34.0,DNYO 131200Z
-DXSK,Sokodé Airport,34.0,DXSK 131200Z
-BGF  FEFF,Bangui M'Poko International Airport,34.0,FEFF 131200Z
-DLA  FKKD,Douala International Airport,34.0,FKKD 131200Z
-KMP  FYKT,Keetmanshoop Airport,34.0,FYKT 131200Z
-BKO  GABS,Modibo Keita International Airport,34.0,GABS 131200Z
-GAKD,,34.0,GAKD 131200Z
-MAX  GOSM,Ouro Sogui Airport,34.0,GOSM 131200Z
-CJB  VOCB,Coimbatore International Airport,34.0,VOCB 131200Z
-VOGB,,34.0,VOGB 131200Z
-KLH  VAKP,Kolhapur Airport,33.0,VAKP 131130Z
-OOAD,,33.0,OOAD 131150Z
-COO  DBBB,Cadjehoun Airport,33.0,DBBB 131200Z
-ACC  DGAA,Kotoka International Airport,33.0,DGAA 131200Z
-NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 131200Z
-LRL  DXNG,Niamtougou International Airport,33.0,DXNG 131200Z
-LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 131200Z
-GOU  FKKR,Garoua International Airport,33.0,FKKR 131200Z
-NSI  FKYS,Yaoundé Nsimalen International Airport,33.0,FKYS 131200Z
-SMS  FMMS,Sainte Marie Airport,33.0,FMMS 131200Z
-BEW  FQBR,Beira Airport,33.0,FQBR 131200Z
-MPM  FQMA,Maputo Airport,33.0,FQMA 131200Z
-TET  FQTT,Chingozi Airport,33.0,FQTT 131200Z
-MQQ  FTTD,Moundou Airport,33.0,FTTD 131200Z
-TOM  GATB,Timbuktu Airport,33.0,GATB 131200Z
-WAE  OEWD,Wadi Al Dawasir Airport,33.0,OEWD 131200Z
-CDP  VOCP,Kadapa Airport,33.0,VOCP 131200Z
-VOHB,,33.0,VOHB 131200Z
-HYD  VOHS,Rajiv Gandhi International Airport,33.0,VOHS 131200Z
-IXM  VOMD,Madurai Airport,33.0,VOMD 131200Z
-SXV  VOSM,Salem Airport,33.0,VOSM 131200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,33.0,VOTR 131200Z
-ROB  GLRB,Roberts International Airport,33.0,GLRB 131230Z
+DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 140100Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,31.0,MMMD 140042Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 140053Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 140054Z
+NGF  PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,31.0,PHNG 140057Z
+NCPL,,31.0,NCPL 140100Z
+PYE  NCPY,Tongareva Airport,31.0,NCPY 140100Z
+SUV  NFNA,Nausori International Airport,31.0,NFNA 140100Z
+LBS  NFNL,Labasa Airport,31.0,NFNL 140100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 140100Z
+PPT  NTAA,Faa'a International Airport,31.0,NTAA 140100Z
+TUB  NTAT,Tubuai Airport,31.0,NTAT 140100Z
+SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 140100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 140100Z
+TSV  YBTL,Townsville Airport,31.0,YBTL 140100Z
+GLT  YGLA,Gladstone Airport,31.0,YGLA 140100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 140100Z
+KNX  YPKU,Kununurra Airport,31.0,YPKU 140100Z
+CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,30.0,MMCP 140040Z
+PQM  MMPQ,Palenque International Airport,30.0,MMPQ 140040Z
+TGZ  MMTG,Angel Albino Corzo International Airport,30.0,MMTG 140049Z
+PPG  NSTU,Pago Pago International Airport,30.0,NSTU 140050Z
+PTTP,,30.0,PTTP 140050Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 140051Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 140054Z
+KSA  PTSA,Kosrae International Airport,30.0,PTSA 140055Z
+LAE  AYNZ,Nadzab Airport,30.0,AYNZ
+POM  AYPY,Port Moresby Jacksons International Airport,30.0,AYPY 140100Z
+AIU  NCAT,Enua Airport,30.0,NCAT 140100Z
+MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 140100Z
+RTA  NFNR,Rotuma Airport,30.0,NFNR 140100Z
+SVU  NFNS,Savusavu Airport,30.0,NFNS 140100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 140100Z
+WLS  NLWW,Hihifo Airport,30.0,NLWW 140100Z
+APW  NSFA,Faleolo International Airport,30.0,NSFA 140100Z
+HOI  NTTO,Hao Airport,30.0,NTTO 140100Z
+VLI  NVVV,Bauerfield International Airport,30.0,NVVV 140100Z
+TAH  NVVW,Tanna Airport,30.0,NVVW 140100Z
+KWA  PKWA,Bucholz Army Air Field,30.0,PKWA 140100Z
+GIG  SBGL,Rio Galeão – Tom Jobim International Airport,30.0,SBGL 140100Z
+EJA  SKEJ,Yariguíes Airport,30.0,SKEJ 140100Z
+SMR  SKSM,Simón Bolívar International Airport,30.0,SKSM 140100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,30.0,SKVP 140100Z
+BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 140100Z
+MDC  WAMM,Sam Ratulangi Airport,30.0,WAMM 140100Z
