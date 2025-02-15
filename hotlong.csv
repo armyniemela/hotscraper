@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 141200Z
-PHC  DNPO,Port Harcourt International Airport,35.0,DNPO 141200Z
-DLA  FKKD,Douala International Airport,35.0,FKKD 141200Z
-GAKD,,35.0,GAKD 141200Z
-TIR  VOTP,Tirupati Airport,34.0,VOTP 141130Z
-OUA  DFFD,Ouagadougou Airport,34.0,DFFD 141200Z
-AKR  DNAK,Akure Airport,34.0,DNAK 141200Z
-CBQ  DNCA,Margaret Ekpo International Airport,34.0,DNCA 141200Z
-LOS  DNMM,Murtala Muhammed International Airport,34.0,DNMM 141200Z
-YOL  DNYO,Yola Airport,34.0,DNYO 141200Z
-BGF  FEFF,Bangui M'Poko International Airport,34.0,FEFF 141200Z
-GOU  FKKR,Garoua International Airport,34.0,FKKR 141200Z
-SMS  FMMS,Sainte Marie Airport,34.0,FMMS 141200Z
-BKO  GABS,Modibo Keita International Airport,34.0,GABS 141200Z
-ROB  GLRB,Roberts International Airport,34.0,GLRB 141200Z
-KGG  GOTK,Kédougou Airport,34.0,GOTK 141200Z
-BYC  SLYA,Yacuiba Airport,34.0,SLYA 141200Z
-CJB  VOCB,Coimbatore International Airport,34.0,VOCB 141200Z
-VOGB,,34.0,VOGB 141200Z
-IXM  VOMD,Madurai Airport,34.0,VOMD 141200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,34.0,VOTR 141200Z
-KLH  VAKP,Kolhapur Airport,33.0,VAKP 141130Z
-COO  DBBB,Cadjehoun Airport,33.0,DBBB 141200Z
-ACC  DGAA,Kotoka International Airport,33.0,DGAA 141200Z
-ILR  DNIL,Ilorin International Airport,33.0,DNIL 141200Z
-SKO  DNSO,Sadiq Abubakar III International Airport,33.0,DNSO 141200Z
-NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 141200Z
-DXSK,Sokodé Airport,33.0,DXSK 141200Z
-LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 141200Z
-NSI  FKYS,Yaoundé Nsimalen International Airport,33.0,FKYS 141200Z
-MFU  FLMF,Mfuwe Airport,33.0,FLMF 141200Z
-BEW  FQBR,Beira Airport,33.0,FQBR 141200Z
-AEH  FTTC,Abeche Airport,33.0,FTTC 141200Z
-MQQ  FTTD,Moundou Airport,33.0,FTTD 141200Z
-TUD  GOTT,Tambacounda Airport,33.0,GOTT 141200Z
-KIS  HKKI,Kisumu Airport,33.0,HKKI 141200Z
-MBA  HKMO,Mombasa Moi International Airport,33.0,HKMO 141200Z
-SBJR,Jacarepaguá - Roberto Marinho Airport,33.0,SBJR 141200Z
-CDP  VOCP,Kadapa Airport,33.0,VOCP 141200Z
-VOHB,,33.0,VOHB 141200Z
-MYQ  VOMY,Mysore Airport,33.0,VOMY 141200Z
-LEA  YPLM,Learmonth Airport,33.0,YPLM 141200Z
-RJA  VORY,Rajahmundry Airport,32.0,VORY 141130Z
-BOY  DFOO,Bobo Dioulasso Airport,32.0,DFOO 141200Z
-KAD  DNKA,Kaduna Airport,32.0,DNKA 141200Z
+ISA  YBMA,Mount Isa Airport,32.0,YBMA 150100Z
+GET  YGEL,Geraldton Airport,32.0,YGEL 150100Z
+LEA  YPLM,Learmonth Airport,32.0,YPLM 150100Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 150052Z
+NCPL,,31.0,NCPL 150100Z
+NAN  NFFN,Nadi International Airport,31.0,NFFN 150100Z
+LBS  NFNL,Labasa Airport,31.0,NFNL 150100Z
+TVU  NFNM,Matei Airport,31.0,NFNM 150100Z
+HPA  NFTL,Lifuka Island Airport,31.0,NFTL 150100Z
+VAV  NFTV,Vava'u International Airport,31.0,NFTV 150100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 150100Z
+NOU  NWWW,La Tontouta International Airport,31.0,NWWW 150100Z
+CNQ  SARC,Corrientes Airport,31.0,SARC 150100Z
+PSS  SARP,Libertador Gral D Jose De San Martin Airport,31.0,SARP 150100Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 150100Z
+BME  YBRM,Broome International Airport,31.0,YBRM 150100Z
+DCN  YCIN,RAAF Base Curtin,31.0,YCIN 150100Z
+WAYY,,30.0,WAYY 150030Z
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 150050Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 150055Z
+AWK  PWAK,Wake Island Airfield,30.0,PWAK 150055Z
+LAE  AYNZ,Nadzab Airport,30.0,AYNZ
+GAKD,,30.0,GAKD 150100Z
+AIT  NCAI,Aitutaki Airport,30.0,NCAI 150100Z
+AIU  NCAT,Enua Airport,30.0,NCAT 150100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 150100Z
+BOB  NTTB,Bora Bora Airport,30.0,NTTB 150100Z
+VLI  NVVV,Bauerfield International Airport,30.0,NVVV 150100Z
+SFS  RPLB,Subic Bay International Airport,30.0,RPLB 150100Z
+CEB  RPVM,Mactan Cebu International Airport,30.0,RPVM 150100Z
+FMA  SARF,Formosa Airport,30.0,SARF 150100Z
+AOL  SARL,Paso De Los Libres Airport,30.0,SARL 150100Z
+PIU  SPUR,Capitán FAP Guillermo Concha Iberico International Airport,30.0,SPUR 150100Z
+BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 150100Z
+LOP  WADL,Lombok International Airport,30.0,WADL 150100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",30.0,WAPP 150100Z
+KOE  WATT,El Tari Airport,30.0,WATT 150100Z
+TSV  YBTL,Townsville Airport,30.0,YBTL 150100Z
+GOV  YPGV,Gove Airport,30.0,YPGV 150100Z
+PPG  NSTU,Pago Pago International Airport,29.0,NSTU 150050Z
+TKK  PTKK,Chuuk International Airport,29.0,PTKK 150050Z
+PKMR,,29.0,PKMR 150054Z
+KSA  PTSA,Kosrae International Airport,29.0,PTSA 150057Z
+TUD  GOTT,Tambacounda Airport,29.0,GOTT 150100Z
+MHX  NCMH,Manihiki Island Airport,29.0,NCMH 150100Z
