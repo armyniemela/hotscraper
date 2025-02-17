@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-QOW  DNIM,Sam Mbakwe International Airport,36.0,DNIM 161200Z
-YOL  DNYO,Yola Airport,36.0,DNYO 161200Z
-NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 161200Z
-BGF  FEFF,Bangui M'Poko International Airport,36.0,FEFF 161200Z
-BKO  GABS,Modibo Keita International Airport,36.0,GABS 161200Z
-KGG  GOTK,Kédougou Airport,36.0,GOTK 161200Z
-BNI  DNBE,Benin Airport,35.0,DNBE 161200Z
-SKO  DNSO,Sadiq Abubakar III International Airport,35.0,DNSO 161200Z
-LRL  DXNG,Niamtougou International Airport,35.0,DXNG 161200Z
-DXSK,Sokodé Airport,35.0,DXSK 161200Z
-GOU  FKKR,Garoua International Airport,35.0,FKKR 161200Z
-AEH  FTTC,Abeche Airport,35.0,FTTC 161200Z
-MQQ  FTTD,Moundou Airport,35.0,FTTD 161200Z
-VOSH,,34.0,VOSH 161130Z
-CBQ  DNCA,Margaret Ekpo International Airport,34.0,DNCA 161200Z
-LOS  DNMM,Murtala Muhammed International Airport,34.0,DNMM 161200Z
-PHC  DNPO,Port Harcourt International Airport,34.0,DNPO 161200Z
-NDJ  FTTJ,N'Djamena International Airport,34.0,FTTJ 161200Z
-GAKD,,34.0,GAKD 161200Z
-TUD  GOTT,Tambacounda Airport,34.0,GOTT 161200Z
-GXF  OYSY,Sayun International Airport,34.0,OYSY 161200Z
-SBJR,Jacarepaguá - Roberto Marinho Airport,34.0,SBJR 161200Z
-CJB  VOCB,Coimbatore International Airport,34.0,VOCB 161200Z
-VOHB,,34.0,VOHB 161200Z
-VOND,,34.0,VOND 161200Z
-ROB  GLRB,Roberts International Airport,34.0,GLRB 161230Z
-KLH  VAKP,Kolhapur Airport,33.0,VAKP 161130Z
-SAG  VASD,Shirdi Airport,33.0,VASD 161130Z
-OOAD,,33.0,OOAD 161150Z
-COO  DBBB,Cadjehoun Airport,33.0,DBBB 161200Z
-ACC  DGAA,Kotoka International Airport,33.0,DGAA 161200Z
-DNGO,,33.0,DNGO 161200Z
-DNKT,,33.0,DNKT 161200Z
-MFQ  DRRM,Maradi Airport,33.0,DRRM 161200Z
-THZ  DRRT,Tahoua Airport,33.0,DRRT 161200Z
-DRZF,Diffa Airport,33.0,DRZ
-ZND  DRZR,Zinder Airport,33.0,DRZ
-LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 161200Z
-DLA  FKKD,Douala International Airport,33.0,FKKD 161200Z
-APL  FQNP,Nampula Airport,33.0,FQNP 161200Z
-UEL  FQQL,Quelimane Airport,33.0,FQQL 161200Z
-GOGK,,33.0,GOGK 161200Z
-IXU  VAAU,Aurangabad Airport,33.0,VAAU 161200Z
-VAJL,,33.0,VAJL 161200Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,33.0,VANP 161200Z
+SVU  NFNS,Savusavu Airport,32.0,NFNS 170100Z
+SON  NVSS,Santo Pekoa International Airport,32.0,NVSS 170100Z
+PSS  SARP,Libertador Gral D Jose De San Martin Airport,32.0,SARP 170100Z
+CNS  YBCS,Cairns International Airport,32.0,YBCS 170100Z
+TSV  YBTL,Townsville Airport,32.0,YBTL 170100Z
+LEA  YPLM,Learmonth Airport,32.0,YPLM 170100Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 170050Z
+PTTP,,31.0,PTTP 170054Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 170058Z
+SUV  NFNA,Nausori International Airport,31.0,NFNA 170100Z
+TBU  NFTF,Fua'amotu International Airport,31.0,NFTF 170100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 170100Z
+ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
+BAU  SBBU,Bauru Airport,31.0,SBBU 170100Z
+ASU  SGAS,Silvio Pettirossi International Airport,31.0,SGAS 170100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 170100Z
+MKQ  WAKK,Mopah Airport,31.0,WAKK 170100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 170100Z
+ASP  YBAS,Alice Springs Airport,31.0,YBAS 170100Z
+GLT  YGLA,Gladstone Airport,31.0,YGLA 170100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 170100Z
+KTR  YPTN,Tindal Airport,31.0,YPTN 170100Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 170050Z
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 170050Z
+TML  DGLE,Tamale Airport,30.0,DGLE 170100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 170100Z
+HPA  NFTL,Lifuka Island Airport,30.0,NFTL 170100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 170100Z
+WLS  NLWW,Hihifo Airport,30.0,NLWW 170100Z
+TAH  NVVW,Tanna Airport,30.0,NVVW 170100Z
+NOU  NWWW,La Tontouta International Airport,30.0,NWWW 170100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 170100Z
+SFS  RPLB,Subic Bay International Airport,30.0,RPLB 170100Z
+MNL  RPLL,Ninoy Aquino International Airport,30.0,RPLL 170100Z
+DGT  RPVD,Sibulan Airport,30.0,RPVD 170100Z
+LDB  SBLO,Governador José Richa Airport,30.0,SBLO 170100Z
+SJP  SBSR,Prof. Eribelto Manoel Reino State Airport,30.0,SBSR 170100Z
+EYP  SKYP,El Yopal Airport,30.0,SKYP 170100Z
+USM  VTSM,Samui Airport,30.0,VTSM 170100Z
+LOP  WADL,Lombok International Airport,30.0,WADL 170100Z
+MDC  WAMM,Sam Ratulangi Airport,30.0,WAMM 170100Z
+KOE  WATT,El Tari Airport,30.0,WATT 170100Z
+ROK  YBRK,Rockhampton Airport,30.0,YBRK 170100Z
+BME  YBRM,Broome International Airport,30.0,YBRM 170100Z
+DCN  YCIN,RAAF Base Curtin,30.0,YCIN 170100Z
