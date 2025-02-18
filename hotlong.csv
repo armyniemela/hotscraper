@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BKO  GABS,Modibo Keita International Airport,37.0,GABS 171200Z
-WJR  HKWJ,Wajir Airport,37.0,HKWJ 171200Z
-LRL  DXNG,Niamtougou International Airport,36.0,DXNG 171200Z
-AEH  FTTC,Abeche Airport,36.0,FTTC 171200Z
-MQQ  FTTD,Moundou Airport,36.0,FTTD 171200Z
-KGG  GOTK,Kédougou Airport,36.0,GOTK 171200Z
-SBJR,Jacarepaguá - Roberto Marinho Airport,36.0,SBJR 171200Z
-BOY  DFOO,Bobo Dioulasso Airport,35.0,DFOO 171200Z
-LOS  DNMM,Murtala Muhammed International Airport,35.0,DNMM 171200Z
-THZ  DRRT,Tahoua Airport,35.0,DRRT 171200Z
-DXSK,Sokodé Airport,35.0,DXSK 171200Z
-GOU  FKKR,Garoua International Airport,35.0,FKKR 171200Z
-GAKD,,35.0,GAKD 171200Z
-GOGK,,35.0,GOGK 171200Z
-VOND,,35.0,VOND 171200Z
-UEL  FQQL,Quelimane Airport,34.0,FQQL 171200Z
-NDJ  FTTJ,N'Djamena International Airport,34.0,FTTJ 171200Z
-TOM  GATB,Timbuktu Airport,34.0,GATB 171200Z
-TUD  GOTT,Tambacounda Airport,34.0,GOTT 171200Z
-DAR  HTDA,Julius Nyerere International Airport,34.0,HTDA 171200Z
-JRO  HTKJ,Kilimanjaro International Airport,34.0,HTKJ 171200Z
-HTMG,Morogoro Airport,34.0,HTMG 171200Z
-GXF  OYSY,Sayun International Airport,34.0,OYSY 171200Z
-SBAF,Campo Délio Jardim de Mattos Airport,34.0,SBAF 171200Z
-SNZ  SBSC,Santa Cruz Air Force Base,34.0,SBSC 171200Z
-SSZ  SBST,Base Aérea de Santos Airport,34.0,SBST 171200Z
-IXU  VAAU,Aurangabad Airport,34.0,VAAU 171200Z
-VOGB,,34.0,VOGB 171200Z
-VOHB,,34.0,VOHB 171200Z
-COO  DBBB,Cadjehoun Airport,33.0,DBBB 171200Z
-ACC  DGAA,Kotoka International Airport,33.0,DGAA 171200Z
-MFQ  DRRM,Maradi Airport,33.0,DRRM 171200Z
-ZND  DRZR,Zinder Airport,33.0,DRZ
-LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 171200Z
-BGF  FEFF,Bangui M'Poko International Airport,33.0,FEFF 171200Z
-SSG  FGSL,Malabo Airport,33.0,FGSL 171200Z
-DLA  FKKD,Douala International Airport,33.0,FKKD 171200Z
-NSI  FKYS,Yaoundé Nsimalen International Airport,33.0,FKYS 171200Z
-DZA  FMCZ,Dzaoudzi Pamandzi International Airport,33.0,FMCZ
-TET  FQTT,Chingozi Airport,33.0,FQTT 171200Z
-NIX  GANR,Nioro du Sahel Airport,33.0,GANR 171200Z
-OXB  GGOV,Osvaldo Vieira International Airport,33.0,GGOV 171200Z
-MAX  GOSM,Ouro Sogui Airport,33.0,GOSM 171200Z
-MBA  HKMO,Mombasa Moi International Airport,33.0,HKMO 171200Z
-ZNZ  HTZA,Abeid Amani Karume International Airport,33.0,HTZ
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 180054Z
+SUV  NFNA,Nausori International Airport,31.0,NFNA 180100Z
+LBS  NFNL,Labasa Airport,31.0,NFNL 180100Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 180100Z
+GIG  SBGL,Rio Galeão – Tom Jobim International Airport,31.0,SBGL 180100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 180100Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 180100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 180100Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 180100Z
+BME  YBRM,Broome International Airport,31.0,YBRM 180100Z
+DCN  YCIN,RAAF Base Curtin,31.0,YCIN 180100Z
+HID  YHID,Horn Island Airport,31.0,YHID 180100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 180100Z
+KNX  YPKU,Kununurra Airport,31.0,YPKU 180100Z
+KTR  YPTN,Tindal Airport,31.0,YPTN 180100Z
+TSV  YBTL,Townsville Airport,30.0,YBTL 180030Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 180050Z
+PTTP,,30.0,PTTP 180050Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 180053Z
+KSA  PTSA,Kosrae International Airport,30.0,PTSA 180056Z
+TIQ  PGWT,Tinian International Airport,30.0,PGWT 180057Z
+TML  DGLE,Tamale Airport,30.0,DGLE 180100Z
+MHX  NCMH,Manihiki Island Airport,30.0,NCMH 180100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 180100Z
+SVU  NFNS,Savusavu Airport,30.0,NFNS 180100Z
+TBU  NFTF,Fua'amotu International Airport,30.0,NFTF 180100Z
+HPA  NFTL,Lifuka Island Airport,30.0,NFTL 180100Z
+SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 180100Z
+NOU  NWWW,La Tontouta International Airport,30.0,NWWW 180100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 180100Z
+SFS  RPLB,Subic Bay International Airport,30.0,RPLB 180100Z
+GES  RPMR,General Santos International Airport,30.0,RPMR 180100Z
+BAU  SBBU,Bauru Airport,30.0,SBBU 180100Z
+LDB  SBLO,Governador José Richa Airport,30.0,SBLO 180100Z
+CGH  SBSP,Congonhas Airport,30.0,SBSP 180100Z
+EJA  SKEJ,Yariguíes Airport,30.0,SKEJ 180100Z
+SMR  SKSM,Simón Bolívar International Airport,30.0,SKSM 180100Z
+DRW  YPDN,Darwin International Airport,30.0,YPDN 180100Z
+PHE  YPPD,Port Hedland International Airport,30.0,YPPD 180100Z
+ROR  PTRO,Babelthuap Airport,29.0,PTRO 180050Z
+PKMR,,29.0,PKMR 180058Z
+INU  ANYN,Nauru International Airport,29.0,ANYN 180100Z
+KMS  DGSI,Kumasi Airport,29.0,DGSI 180100Z
+LBV  FOOL,Libreville Leon M'ba International Airport,29.0,FOOL 180100Z
+MGA  MNMG,Augusto C. Sandino (Managua) International Airport,29.0,MNMG 180100Z
