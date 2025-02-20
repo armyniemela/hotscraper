@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KNX  YPKU,Kununurra Airport,32.0,YPKU 200100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 200100Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 200053Z
-PTTP,,31.0,PTTP 200053Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 200100Z
-SUV  NFNA,Nausori International Airport,31.0,NFNA 200100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 200100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 200100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 200100Z
-VLI  NVVV,Bauerfield International Airport,31.0,NVVV 200100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 200100Z
-CNS  YBCS,Cairns International Airport,31.0,YBCS 200100Z
-DCN  YCIN,RAAF Base Curtin,31.0,YCIN 200100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 200100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 200100Z
-PHE  YPPD,Port Hedland International Airport,31.0,YPPD 200100Z
-WAYY,,30.0,WAYY 200030Z
-TSV  YBTL,Townsville Airport,30.0,YBTL 200030Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 200050Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 200054Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 200054Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 200055Z
-INU  ANYN,Nauru International Airport,30.0,ANYN 200100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 200100Z
-NAN  NFFN,Nadi International Airport,30.0,NFFN 200100Z
-FUN  NGFU,Funafuti International Airport,30.0,NGFU 200100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 200100Z
-PPT  NTAA,Faa'a International Airport,30.0,NTAA 200100Z
-BOB  NTTB,Bora Bora Airport,30.0,NTTB 200100Z
-HOI  NTTO,Hao Airport,30.0,NTTO 200100Z
-NOU  NWWW,La Tontouta International Airport,30.0,NWWW 200100Z
-CXI  PLCH,Cassidy International Airport,30.0,PLCH 200100Z
-BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 200100Z
-DJJ  WAJJ,Sentani International Airport,30.0,WAJJ 200100Z
-MDC  WAMM,Sam Ratulangi Airport,30.0,WAMM 200100Z
-YAMB,RAAF Base Amberley,30.0,YAMB 200100Z
-GLT  YGLA,Gladstone Airport,30.0,YGLA 200100Z
-LEA  YPLM,Learmonth Airport,30.0,YPLM 200100Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,29.0,MMHO 200040Z
-PQM  MMPQ,Palenque International Airport,29.0,MMPQ 200045Z
-YAP  PTYA,Yap International Airport,29.0,PTYA 200052Z
-PKMR,,29.0,PKMR 200054Z
-TIQ  PGWT,Tinian International Airport,29.0,PGWT 200055Z
-LAE  AYNZ,Nadzab Airport,29.0,AYNZ
-BOY  DFOO,Bobo Dioulasso Airport,29.0,DFOO 200100Z
+MXJ  DNMN,Minna Airport,37.0,DNMN 201200Z
+NIM  DRRN,Diori Hamani International Airport,37.0,DRRN 201200Z
+THZ  DRRT,Tahoua Airport,37.0,DRRT 201200Z
+NDJ  FTTJ,N'Djamena International Airport,37.0,FTTJ 201200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,36.0,DNAA 201200Z
+DNGO,,36.0,DNGO 201200Z
+MFQ  DRRM,Maradi Airport,36.0,DRRM 201200Z
+ZND  DRZR,Zinder Airport,36.0,DRZ
+DXSK,Sokodé Airport,36.0,DXSK 201200Z
+SHW  OESH,Sharurah Airport,36.0,OESH 201200Z
+KAD  DNKA,Kaduna Airport,35.0,DNKA 201200Z
+LOS  DNMM,Murtala Muhammed International Airport,35.0,DNMM 201200Z
+NTY  FAPN,Pilanesberg International Airport,35.0,FAPN 201200Z
+MZI  GAMB,Mopti Airport,35.0,GAMB 201200Z
+KGG  GOTK,Kédougou Airport,35.0,GOTK 201200Z
+JRO  HTKJ,Kilimanjaro International Airport,35.0,HTKJ 201200Z
+HTMG,Morogoro Airport,35.0,HTMG 201200Z
+EAM  OENG,Nejran Airport,35.0,OENG 201200Z
+VOGB,,35.0,VOGB 201200Z
+BOY  DFOO,Bobo Dioulasso Airport,34.0,DFOO 201200Z
+AKR  DNAK,Akure Airport,34.0,DNAK 201200Z
+CBQ  DNCA,Margaret Ekpo International Airport,34.0,DNCA 201200Z
+QOW  DNIM,Sam Mbakwe International Airport,34.0,DNIM 201200Z
+PHC  DNPO,Port Harcourt International Airport,34.0,DNPO 201200Z
+AJY  DRZA,Mano Dayak International Airport,34.0,DRZ
+OLL  FCOD,Oyo Ollombo Airport,34.0,FCOD 201200Z
+NGE  FKKN,N'Gaoundéré Airport,34.0,FKKN 201200Z
+GOU  FKKR,Garoua International Airport,34.0,FKKR 201200Z
+BEW  FQBR,Beira Airport,34.0,FQBR 201200Z
+BKO  GABS,Modibo Keita International Airport,34.0,GABS 201200Z
+KLC  GOOK,Kaolack Airport,34.0,GOOK 201200Z
+TUD  GOTT,Tambacounda Airport,34.0,GOTT 201200Z
+DAR  HTDA,Julius Nyerere International Airport,34.0,HTDA 201200Z
+ZNZ  HTZA,Abeid Amani Karume International Airport,34.0,HTZ
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,34.0,VANP 201200Z
+CJB  VOCB,Coimbatore International Airport,34.0,VOCB 201200Z
+VOHB,,34.0,VOHB 201200Z
+VOND,,34.0,VOND 201200Z
+OOAD,,33.0,OOAD 201150Z
+LRL  DXNG,Niamtougou International Airport,33.0,DXNG 201200Z
+LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 201200Z
+DLA  FKKD,Douala International Airport,33.0,FKKD 201200Z
+MVB  FOON,M'Vengue El Hadj Omar Bongo Ondimba International Airport,33.0,FOON 201200Z
+FIH  FZAA,Ndjili International Airport,33.0,FZ
+GAQ  GAGO,Gao Airport,33.0,GAGO 201200Z
