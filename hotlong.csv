@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-WJR  HKWJ,Wajir Airport,38.0,HKWJ 191200Z
-MFQ  DRRM,Maradi Airport,37.0,DRRM 191200Z
-THZ  DRRT,Tahoua Airport,37.0,DRRT 191200Z
-GOU  FKKR,Garoua International Airport,37.0,FKKR 191200Z
-SRH  FTTA,Sarh Airport,37.0,FTTA 191200Z
-TML  DGLE,Tamale Airport,36.0,DGLE 191200Z
-DRZF,Diffa Airport,36.0,DRZ
-ZND  DRZR,Zinder Airport,36.0,DRZ
-NDJ  FTTJ,N'Djamena International Airport,36.0,FTTJ 191200Z
-KGG  GOTK,Kédougou Airport,36.0,GOTK 191200Z
-TUD  GOTT,Tambacounda Airport,36.0,GOTT 191200Z
-VOGB,,36.0,VOGB 191200Z
-FACV,Calvinia Airport,35.0,FACV 191141Z
-LRL  DXNG,Niamtougou International Airport,35.0,DXNG 191200Z
-DXSK,Sokodé Airport,35.0,DXSK 191200Z
-TET  FQTT,Chingozi Airport,35.0,FQTT 191200Z
-MQQ  FTTD,Moundou Airport,35.0,FTTD 191200Z
-BKO  GABS,Modibo Keita International Airport,35.0,GABS 191200Z
-VOND,,35.0,VOND 191200Z
-BHJ  VABJ,Bhuj Airport,34.0,VABJ 191130Z
-BOY  DFOO,Bobo Dioulasso Airport,34.0,DFOO 191200Z
-LOS  DNMM,Murtala Muhammed International Airport,34.0,DNMM 191200Z
-PHC  DNPO,Port Harcourt International Airport,34.0,DNPO 191200Z
-AJY  DRZA,Mano Dayak International Airport,34.0,DRZ
-SMS  FMMS,Sainte Marie Airport,34.0,FMMS 191200Z
-GOGK,,34.0,GOGK 191200Z
-MBA  HKMO,Mombasa Moi International Airport,34.0,HKMO 191200Z
-CJB  VOCB,Coimbatore International Airport,34.0,VOCB 191200Z
-CDP  VOCP,Kadapa Airport,34.0,VOCP 191200Z
-BPM  VOHY,Begumpet Airport,34.0,VOHY 191200Z
-KLH  VAKP,Kolhapur Airport,33.0,VAKP 191130Z
-VIUT,Uttarlai Airport,33.0,VIUT 191130Z
-BZV  FCBB,Maya-Maya Airport,33.0,FCBB 191200Z
-BGF  FEFF,Bangui M'Poko International Airport,33.0,FEFF 191200Z
-POG  FOOG,Port Gentil Airport,33.0,FOOG 191200Z
-MVB  FOON,M'Vengue El Hadj Omar Bongo Ondimba International Airport,33.0,FOON 191200Z
-INH  FQIN,Inhambane Airport,33.0,FQIN 191200Z
-APL  FQNP,Nampula Airport,33.0,FQNP 191200Z
-KMP  FYKT,Keetmanshoop Airport,33.0,FYKT 191200Z
-FIH  FZAA,Ndjili International Airport,33.0,FZ
-GAKD,,33.0,GAKD 191200Z
-TOM  GATB,Timbuktu Airport,33.0,GATB 191200Z
-ROB  GLRB,Roberts International Airport,33.0,GLRB 191200Z
-GOOG,,33.0,GOOG 191200Z
-KLC  GOOK,Kaolack Airport,33.0,GOOK 191200Z
+KNX  YPKU,Kununurra Airport,32.0,YPKU 200100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 200100Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 200053Z
+PTTP,,31.0,PTTP 200053Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 200100Z
+SUV  NFNA,Nausori International Airport,31.0,NFNA 200100Z
+TVU  NFNM,Matei Airport,31.0,NFNM 200100Z
+SVU  NFNS,Savusavu Airport,31.0,NFNS 200100Z
+SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 200100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 200100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 200100Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 200100Z
+DCN  YCIN,RAAF Base Curtin,31.0,YCIN 200100Z
+DRW  YPDN,Darwin International Airport,31.0,YPDN 200100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 200100Z
+PHE  YPPD,Port Hedland International Airport,31.0,YPPD 200100Z
+WAYY,,30.0,WAYY 200030Z
+TSV  YBTL,Townsville Airport,30.0,YBTL 200030Z
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 200050Z
+SPN  PGSN,Saipan International Airport,30.0,PGSN 200054Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 200054Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 200055Z
+INU  ANYN,Nauru International Airport,30.0,ANYN 200100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 200100Z
+NAN  NFFN,Nadi International Airport,30.0,NFFN 200100Z
+FUN  NGFU,Funafuti International Airport,30.0,NGFU 200100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 200100Z
+PPT  NTAA,Faa'a International Airport,30.0,NTAA 200100Z
+BOB  NTTB,Bora Bora Airport,30.0,NTTB 200100Z
+HOI  NTTO,Hao Airport,30.0,NTTO 200100Z
+NOU  NWWW,La Tontouta International Airport,30.0,NWWW 200100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 200100Z
+BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 200100Z
+DJJ  WAJJ,Sentani International Airport,30.0,WAJJ 200100Z
+MDC  WAMM,Sam Ratulangi Airport,30.0,WAMM 200100Z
+YAMB,RAAF Base Amberley,30.0,YAMB 200100Z
+GLT  YGLA,Gladstone Airport,30.0,YGLA 200100Z
+LEA  YPLM,Learmonth Airport,30.0,YPLM 200100Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,29.0,MMHO 200040Z
+PQM  MMPQ,Palenque International Airport,29.0,MMPQ 200045Z
+YAP  PTYA,Yap International Airport,29.0,PTYA 200052Z
+PKMR,,29.0,PKMR 200054Z
+TIQ  PGWT,Tinian International Airport,29.0,PGWT 200055Z
+LAE  AYNZ,Nadzab Airport,29.0,AYNZ
+BOY  DFOO,Bobo Dioulasso Airport,29.0,DFOO 200100Z
