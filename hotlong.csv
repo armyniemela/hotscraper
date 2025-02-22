@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AVV  YMAV,Avalon Airport,34.0,YMAV 220109Z
-LBS  NFNL,Labasa Airport,33.0,NFNL 220100Z
-KNX  YPKU,Kununurra Airport,33.0,YPKU 220100Z
-PNI  PTPN,Pohnpei International Airport,32.0,PTPN 220051Z
-ISA  YBMA,Mount Isa Airport,32.0,YBMA 220100Z
-DCN  YCIN,RAAF Base Curtin,32.0,YCIN 220100Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 220100Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 220100Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 220100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 220100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 220100Z
-SUV  NFNA,Nausori International Airport,31.0,NFNA 220100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 220100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 220100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 220100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 220100Z
-VLI  NVVV,Bauerfield International Airport,31.0,NVVV 220100Z
-TAH  NVVW,Tanna Airport,31.0,NVVW 220100Z
-NOU  NWWW,La Tontouta International Airport,31.0,NWWW 220100Z
-CNQ  SARC,Corrientes Airport,31.0,SARC 220100Z
-RES  SARE,Resistencia International Airport,31.0,SARE 220100Z
-FMA  SARF,Formosa Airport,31.0,SARF 220100Z
-ASU  SGAS,Silvio Pettirossi International Airport,31.0,SGAS 220100Z
-BME  YBRM,Broome International Airport,31.0,YBRM 220100Z
-MEL  YMML,Melbourne International Airport,31.0,YMML 220100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 220100Z
-LEA  YPLM,Learmonth Airport,31.0,YPLM 220100Z
-KTR  YPTN,Tindal Airport,31.0,YPTN 220100Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 220050Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 220051Z
-PTTP,,30.0,PTTP 220052Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 220054Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 220054Z
-TML  DGLE,Tamale Airport,30.0,DGLE 220100Z
-AIU  NCAT,Enua Airport,30.0,NCAT 220100Z
-MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 220100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 220100Z
-TVU  NFNM,Matei Airport,30.0,NFNM 220100Z
-TBU  NFTF,Fua'amotu International Airport,30.0,NFTF 220100Z
-HPA  NFTL,Lifuka Island Airport,30.0,NFTL 220100Z
-IUE  NIUE,Niue International Airport,30.0,NIUE 220100Z
-HOI  NTTO,Hao Airport,30.0,NTTO 220100Z
-CXI  PLCH,Cassidy International Airport,30.0,PLCH 220100Z
-EZE  SAEZ,Ministro Pistarini International Airport,30.0,SAEZ
-VUP  SKVP,Alfonso López Pumarejo Airport,30.0,SKVP 220100Z
+DRZF,Diffa Airport,37.0,DRZ
+WJR  HKWJ,Wajir Airport,37.0,HKWJ 221200Z
+DXSK,Sokodé Airport,36.0,DXSK 221200Z
+BGF  FEFF,Bangui M'Poko International Airport,36.0,FEFF 221200Z
+GAS  HKGA,Garissa Airport,36.0,HKGA 221200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 221200Z
+LOS  DNMM,Murtala Muhammed International Airport,35.0,DNMM 221200Z
+ZND  DRZR,Zinder Airport,35.0,DRZ
+VNX  FQVL,Vilankulo Airport,35.0,FQVL 221200Z
+JRO  HTKJ,Kilimanjaro International Airport,35.0,HTKJ 221200Z
+SHW  OESH,Sharurah Airport,35.0,OESH 221200Z
+LRL  DXNG,Niamtougou International Airport,34.0,DXNG 221200Z
+BEW  FQBR,Beira Airport,34.0,FQBR 221200Z
+UEL  FQQL,Quelimane Airport,34.0,FQQL 221200Z
+TET  FQTT,Chingozi Airport,34.0,FQTT 221200Z
+GOGK,,34.0,GOGK 221200Z
+KIS  HKKI,Kisumu Airport,34.0,HKKI 221200Z
+CDP  VOCP,Kadapa Airport,34.0,VOCP 221200Z
+VOGB,,34.0,VOGB 221200Z
+VOND,,34.0,VOND 221200Z
+OUA  DFFD,Ouagadougou Airport,33.0,DFFD 221200Z
+NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 221200Z
+THZ  DRRT,Tahoua Airport,33.0,DRRT 221200Z
+DLA  FKKD,Douala International Airport,33.0,FKKD 221200Z
+POG  FOOG,Port Gentil Airport,33.0,FOOG 221200Z
+OXB  GGOV,Osvaldo Vieira International Airport,33.0,GGOV 221200Z
+ZIG  GOGG,Ziguinchor Airport,33.0,GOGG 221200Z
+KLC  GOOK,Kaolack Airport,33.0,GOOK 221200Z
+KGG  GOTK,Kédougou Airport,33.0,GOTK 221200Z
+TUD  GOTT,Tambacounda Airport,33.0,GOTT 221200Z
+MBA  HKMO,Mombasa Moi International Airport,33.0,HKMO 221200Z
+DAR  HTDA,Julius Nyerere International Airport,33.0,HTDA 221200Z
+SBJR,Jacarepaguá - Roberto Marinho Airport,33.0,SBJR 221200Z
+IXU  VAAU,Aurangabad Airport,33.0,VAAU 221200Z
+VAHS,,33.0,VAHS 221200Z
+VAJL,,33.0,VAJL 221200Z
+KLH  VAKP,Kolhapur Airport,33.0,VAKP 221200Z
+VOBM,,33.0,VOBM 221200Z
+CJB  VOCB,Coimbatore International Airport,33.0,VOCB 221200Z
+VOHB,,33.0,VOHB 221200Z
+IXM  VOMD,Madurai Airport,33.0,VOMD 221200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,33.0,VOTR 221200Z
+BKK  VTBS,Suvarnabhumi Airport,33.0,VTBS 221200Z
+RGN  VYYY,Yangon International Airport,33.0,VYYY 221200Z
+ROB  GLRB,Roberts International Airport,33.0,GLRB 221230Z
