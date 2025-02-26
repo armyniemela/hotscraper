@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MQQ  FTTD,Moundou Airport,37.0,FTTD 251200Z
-JRO  HTKJ,Kilimanjaro International Airport,37.0,HTKJ 251200Z
-TML  DGLE,Tamale Airport,36.0,DGLE 251200Z
-BGF  FEFF,Bangui M'Poko International Airport,36.0,FEFF 251200Z
-LOK  HKLO,Lodwar Airport,36.0,HKLO 251200Z
-GXF  OYSY,Sayun International Airport,36.0,OYSY 251200Z
-KIS  HKKI,Kisumu Airport,35.0,HKKI 251200Z
-HTMG,Morogoro Airport,35.0,HTMG 251200Z
-LOS  DNMM,Murtala Muhammed International Airport,34.0,DNMM 251200Z
-DRZF,Diffa Airport,34.0,DRZ
-DXSK,Sokodé Airport,34.0,DXSK 251200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,34.0,FAUP 251200Z
-DLA  FKKD,Douala International Airport,34.0,FKKD 251200Z
-TET  FQTT,Chingozi Airport,34.0,FQTT 251200Z
-FKI  FZIC,Bangoka International Airport,34.0,FZ
-DAR  HTDA,Julius Nyerere International Airport,34.0,HTDA 251200Z
-DOD  HTDO,Dodoma Airport,34.0,HTDO 251200Z
-VAHS,,34.0,VAHS 251200Z
-KGI  YPKG,Kalgoorlie Boulder Airport,34.0,YPKG 251200Z
-LEA  YPLM,Learmonth Airport,34.0,YPLM 251200Z
-PBD  VAPR,Porbandar Airport,33.0,VAPR 251130Z
-LRL  DXNG,Niamtougou International Airport,33.0,DXNG 251200Z
-NGE  FKKN,N'Gaoundéré Airport,33.0,FKKN 251200Z
-VNX  FQVL,Vilankulo Airport,33.0,FQVL 251200Z
-MBA  HKMO,Mombasa Moi International Airport,33.0,HKMO 251200Z
-HTIB,,33.0,HTIB 251200Z
-TBO  HTTB,Tabora Airport,33.0,HTTB 251200Z
-ZNZ  HTZA,Abeid Amani Karume International Airport,33.0,HTZ
-BGX  SBBG,Comandante Gustavo Kraemer Airport,33.0,SBBG 251200Z
-IXU  VAAU,Aurangabad Airport,33.0,VAAU 251200Z
-BDQ  VABO,Vadodara Airport,33.0,VABO 251200Z
-STV  VASU,Surat Airport,33.0,VASU 251200Z
-COK  VOCI,Cochin International Airport,33.0,VOCI 251200Z
-VOND,,33.0,VOND 251200Z
-ROB  GLRB,Roberts International Airport,33.0,GLRB 251230Z
-OOAD,,32.0,OOAD 251150Z
-COO  DBBB,Cadjehoun Airport,32.0,DBBB 251200Z
-ACC  DGAA,Kotoka International Airport,32.0,DGAA 251200Z
-KMS  DGSI,Kumasi Airport,32.0,DGSI 251200Z
-ZND  DRZR,Zinder Airport,32.0,DRZ
-LFW  DXXX,Lomé-Tokoin Airport,32.0,DXXX 251200Z
-DZA  FMCZ,Dzaoudzi Pamandzi International Airport,32.0,FMCZ
-ZSE  FMEP,Pierrefonds Airport,32.0,FMEP 251200Z
-POG  FOOG,Port Gentil Airport,32.0,FOOG 251200Z
-LBV  FOOL,Libreville Leon M'ba International Airport,32.0,FOOL 251200Z
+KNX  YPKU,Kununurra Airport,34.0,YPKU 260100Z
+LEA  YPLM,Learmonth Airport,34.0,YPLM 260100Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,33.0,MMHO 260040Z
+PSP  KPSP,Palm Springs International Airport,33.0,KPSP 260053Z
+RES  SARE,Resistencia International Airport,33.0,SARE 260100Z
+PHE  YPPD,Port Hedland International Airport,33.0,YPPD 260100Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,32.0,MMML 260040Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,KNJK 260056Z
+NAN  NFFN,Nadi International Airport,32.0,NFFN 260100Z
+SUV  NFNA,Nausori International Airport,32.0,NFNA 260100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 260100Z
+CNQ  SARC,Corrientes Airport,32.0,SARC 260100Z
+BME  YBRM,Broome International Airport,32.0,YBRM 260100Z
+MEL  YMML,Melbourne International Airport,32.0,YMML 260100Z
+DBO  YSDU,Dubbo City Regional Airport,32.0,YSDU 260100Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 260050Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,31.0,KTRM 260052Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 260052Z
+IPL  KIPL,Imperial County Airport,31.0,KIPL 260053Z
+KL08,,31.0,KL08 260055Z
+LGF  KLGF,Laguna Army Airfield,31.0,KLGF 260055Z
+HIR  AGGH,Honiara International Airport,31.0,AGGH 260100Z
+AIU  NCAT,Enua Airport,31.0,NCAT 260100Z
+NCPL,,31.0,NCPL 260100Z
+LBS  NFNL,Labasa Airport,31.0,NFNL 260100Z
+TVU  NFNM,Matei Airport,31.0,NFNM 260100Z
+SVU  NFNS,Savusavu Airport,31.0,NFNS 260100Z
+TBU  NFTF,Fua'amotu International Airport,31.0,NFTF 260100Z
+IUE  NIUE,Niue International Airport,31.0,NIUE 260100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 260100Z
+PPT  NTAA,Faa'a International Airport,31.0,NTAA 260100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 260100Z
+CXI  PLCH,Cassidy International Airport,31.0,PLCH 260100Z
+FMA  SARF,Formosa Airport,31.0,SARF 260100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 260100Z
+DCN  YCIN,RAAF Base Curtin,31.0,YCIN 260100Z
+DRW  YPDN,Darwin International Airport,31.0,YPDN 260100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 260100Z
+KTR  YPTN,Tindal Airport,31.0,YPTN 260100Z
+TMW  YSTW,Tamworth Airport,31.0,YSTW 260100Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 260050Z
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 260050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,30.0,KPHX 260051Z
+BLH  KBLH,Blythe Airport,30.0,KBLH 260052Z
+KGXF,,30.0,KGXF 260055Z
