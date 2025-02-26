@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KNX  YPKU,Kununurra Airport,34.0,YPKU 260100Z
-LEA  YPLM,Learmonth Airport,34.0,YPLM 260100Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,33.0,MMHO 260040Z
-PSP  KPSP,Palm Springs International Airport,33.0,KPSP 260053Z
-RES  SARE,Resistencia International Airport,33.0,SARE 260100Z
-PHE  YPPD,Port Hedland International Airport,33.0,YPPD 260100Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,32.0,MMML 260040Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,KNJK 260056Z
-NAN  NFFN,Nadi International Airport,32.0,NFFN 260100Z
-SUV  NFNA,Nausori International Airport,32.0,NFNA 260100Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 260100Z
-CNQ  SARC,Corrientes Airport,32.0,SARC 260100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 260100Z
-MEL  YMML,Melbourne International Airport,32.0,YMML 260100Z
-DBO  YSDU,Dubbo City Regional Airport,32.0,YSDU 260100Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 260050Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,31.0,KTRM 260052Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 260052Z
-IPL  KIPL,Imperial County Airport,31.0,KIPL 260053Z
-KL08,,31.0,KL08 260055Z
-LGF  KLGF,Laguna Army Airfield,31.0,KLGF 260055Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 260100Z
-AIU  NCAT,Enua Airport,31.0,NCAT 260100Z
-NCPL,,31.0,NCPL 260100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 260100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 260100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 260100Z
-TBU  NFTF,Fua'amotu International Airport,31.0,NFTF 260100Z
-IUE  NIUE,Niue International Airport,31.0,NIUE 260100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 260100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 260100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 260100Z
-CXI  PLCH,Cassidy International Airport,31.0,PLCH 260100Z
-FMA  SARF,Formosa Airport,31.0,SARF 260100Z
-VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 260100Z
-DCN  YCIN,RAAF Base Curtin,31.0,YCIN 260100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 260100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 260100Z
-KTR  YPTN,Tindal Airport,31.0,YPTN 260100Z
-TMW  YSTW,Tamworth Airport,31.0,YSTW 260100Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 260050Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 260050Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,30.0,KPHX 260051Z
-BLH  KBLH,Blythe Airport,30.0,KBLH 260052Z
-KGXF,,30.0,KGXF 260055Z
+GOU  FKKR,Garoua International Airport,37.0,FKKR 261200Z
+MXJ  DNMN,Minna Airport,36.0,DNMN 261200Z
+AEH  FTTC,Abeche Airport,36.0,FTTC 261200Z
+KMP  FYKT,Keetmanshoop Airport,36.0,FYKT 261200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 261200Z
+JRO  HTKJ,Kilimanjaro International Airport,36.0,HTKJ 261200Z
+VAHS,,36.0,VAHS 261200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 261200Z
+MQQ  FTTD,Moundou Airport,35.0,FTTD 261200Z
+HTMG,Morogoro Airport,35.0,HTMG 261200Z
+BDQ  VABO,Vadodara Airport,35.0,VABO 261200Z
+BHU  VABV,Bhavnagar Airport,35.0,VABV 261200Z
+QOW  DNIM,Sam Mbakwe International Airport,34.0,DNIM 261200Z
+BGF  FEFF,Bangui M'Poko International Airport,34.0,FEFF 261200Z
+SMS  FMMS,Sainte Marie Airport,34.0,FMMS 261200Z
+NDJ  FTTJ,N'Djamena International Airport,34.0,FTTJ 261200Z
+MBA  HKMO,Mombasa Moi International Airport,34.0,HKMO 261200Z
+DOD  HTDO,Dodoma Airport,34.0,HTDO 261200Z
+HTIB,,34.0,HTIB 261200Z
+ZNZ  HTZA,Abeid Amani Karume International Airport,34.0,HTZ
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,34.0,VAAH 261200Z
+STV  VASU,Surat Airport,34.0,VASU 261200Z
+COK  VOCI,Cochin International Airport,34.0,VOCI 261200Z
+VOND,,34.0,VOND 261200Z
+KGI  YPKG,Kalgoorlie Boulder Airport,34.0,YPKG 261200Z
+LEA  YPLM,Learmonth Airport,34.0,YPLM 261200Z
+AKR  DNAK,Akure Airport,33.0,DNAK 261200Z
+IBA  DNIB,Ibadan Airport,33.0,DNIB 261200Z
+DXSK,Sokodé Airport,33.0,DXSK 261200Z
+DLA  FKKD,Douala International Airport,33.0,FKKD 261200Z
+TET  FQTT,Chingozi Airport,33.0,FQTT 261200Z
+DAR  HTDA,Julius Nyerere International Airport,33.0,HTDA 261200Z
+OEMN,,33.0,OEMN 261200Z
+VAJL,,33.0,VAJL 261200Z
+CJB  VOCB,Coimbatore International Airport,33.0,VOCB 261200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,33.0,VOTR 261200Z
+MDL  VYMD,Mandalay International Airport,32.0,VYMD 261130Z
+COO  DBBB,Cadjehoun Airport,32.0,DBBB 261200Z
+OUA  DFFD,Ouagadougou Airport,32.0,DFFD 261200Z
+ACC  DGAA,Kotoka International Airport,32.0,DGAA 261200Z
+DNGO,,32.0,DNGO 261200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,32.0,DNSO 261200Z
+NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 261200Z
+LRL  DXNG,Niamtougou International Airport,32.0,DXNG 261200Z
+LFW  DXXX,Lomé-Tokoin Airport,32.0,DXXX 261200Z
