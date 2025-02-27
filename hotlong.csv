@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-UMR  YPWR,Woomera Airfield,34.0,YPWR 270100Z
-ISA  YBMA,Mount Isa Airport,33.0,YBMA 270100Z
-BME  YBRM,Broome International Airport,33.0,YBRM 270100Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,32.0,MMML 270047Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,32.0,KTRM 270052Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,KNJK 270056Z
-NCPL,,32.0,NCPL 270100Z
-TSV  YBTL,Townsville Airport,32.0,YBTL 270100Z
-DCN  YCIN,RAAF Base Curtin,32.0,YCIN 270100Z
-FOS  YFRT,Forrest Airport,32.0,YFRT 270100Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 270100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 270100Z
-PXM  MMPS,Puerto Escondido International Airport,31.0,MMPS 270045Z
-IPL  KIPL,Imperial County Airport,31.0,KIPL 270053Z
-PSP  KPSP,Palm Springs International Airport,31.0,KPSP 270053Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 270054Z
-KGXF,,31.0,KGXF 270055Z
-KL08,,31.0,KL08 270055Z
-LGF  KLGF,Laguna Army Airfield,31.0,KLGF 270055Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,31.0,KNYL 270058Z
-KNOZ,,31.0,KNOZ
-INU  ANYN,Nauru International Airport,31.0,ANYN 270100Z
-AIU  NCAT,Enua Airport,31.0,NCAT 270100Z
-MGS  NCMG,Mangaia Island Airport,31.0,NCMG 270100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 270100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 270100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 270100Z
-SUV  NFNA,Nausori International Airport,31.0,NFNA 270100Z
-HPA  NFTL,Lifuka Island Airport,31.0,NFTL 270100Z
-IUE  NIUE,Niue International Airport,31.0,NIUE 270100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 270100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 270100Z
-VLI  NVVV,Bauerfield International Airport,31.0,NVVV 270100Z
-CXI  PLCH,Cassidy International Airport,31.0,PLCH 270100Z
-BAU  SBBU,Bauru Airport,31.0,SBBU 270100Z
-MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 270100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 270100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 270100Z
-TMW  YSTW,Tamworth Airport,31.0,YSTW 270100Z
-SVJM,San Juan de Los Morros Airport,31.0,SVJM 270103Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,30.0,MMHO 270040Z
-TRC  MMTC,Francisco Sarabia International Airport,30.0,MMTC 270040Z
-GYR  KGYR,Phoenix Goodyear Airport,30.0,KGYR 270047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,30.0,KPHX 270051Z
-BLH  KBLH,Blythe Airport,30.0,KBLH 270052Z
+GOU  FKKR,Garoua International Airport,36.0,FKKR 271200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 271200Z
+YOL  DNYO,Yola Airport,35.0,DNYO 271200Z
+UTN  FAUP,Pierre Van Ryneveld Airport,35.0,FAUP 271200Z
+MQQ  FTTD,Moundou Airport,35.0,FTTD 271200Z
+BDQ  VABO,Vadodara Airport,35.0,VABO 271200Z
+VAHS,,35.0,VAHS 271200Z
+OUA  DFFD,Ouagadougou Airport,34.0,DFFD 271200Z
+LRL  DXNG,Niamtougou International Airport,34.0,DXNG 271200Z
+DXSK,Sokodé Airport,34.0,DXSK 271200Z
+DLA  FKKD,Douala International Airport,34.0,FKKD 271200Z
+SMS  FMMS,Sainte Marie Airport,34.0,FMMS 271200Z
+MZI  GAMB,Mopti Airport,34.0,GAMB 271200Z
+GOGK,,34.0,GOGK 271200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,34.0,VAAH 271200Z
+BHU  VABV,Bhavnagar Airport,34.0,VABV 271200Z
+VAJL,,34.0,VAJL 271200Z
+COK  VOCI,Cochin International Airport,34.0,VOCI 271200Z
+IXM  VOMD,Madurai Airport,34.0,VOMD 271200Z
+VOND,,34.0,VOND 271200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,34.0,VOTR 271200Z
+UMR  YPWR,Woomera Airfield,34.0,YPWR 271200Z
+BOY  DFOO,Bobo Dioulasso Airport,33.0,DFOO 271200Z
+BNI  DNBE,Benin Airport,33.0,DNBE 271200Z
+LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 271200Z
+PHC  DNPO,Port Harcourt International Airport,33.0,DNPO 271200Z
+NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 271200Z
+LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 271200Z
+BZV  FCBB,Maya-Maya Airport,33.0,FCBB 271200Z
+TMM  FMMT,Toamasina Airport,33.0,FMMT 271200Z
+NDJ  FTTJ,N'Djamena International Airport,33.0,FTTJ 271200Z
+KMP  FYKT,Keetmanshoop Airport,33.0,FYKT 271200Z
+FIH  FZAA,Ndjili International Airport,33.0,FZ
+FKI  FZIC,Bangoka International Airport,33.0,FZ
+OXB  GGOV,Osvaldo Vieira International Airport,33.0,GGOV 271200Z
+KLC  GOOK,Kaolack Airport,33.0,GOOK 271200Z
+KGG  GOTK,Kédougou Airport,33.0,GOTK 271200Z
+GXF  OYSY,Sayun International Airport,33.0,OYSY 271200Z
+IXU  VAAU,Aurangabad Airport,33.0,VAAU 271200Z
+STV  VASU,Surat Airport,33.0,VASU 271200Z
+CJB  VOCB,Coimbatore International Airport,33.0,VOCB 271200Z
+LEA  YPLM,Learmonth Airport,33.0,YPLM 271200Z
+KLH  VAKP,Kolhapur Airport,32.0,VAKP 271130Z
+MDL  VYMD,Mandalay International Airport,32.0,VYMD 271130Z
+COO  DBBB,Cadjehoun Airport,32.0,DBBB 271200Z
