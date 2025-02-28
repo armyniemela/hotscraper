@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GOU  FKKR,Garoua International Airport,36.0,FKKR 271200Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 271200Z
-YOL  DNYO,Yola Airport,35.0,DNYO 271200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,35.0,FAUP 271200Z
-MQQ  FTTD,Moundou Airport,35.0,FTTD 271200Z
-BDQ  VABO,Vadodara Airport,35.0,VABO 271200Z
-VAHS,,35.0,VAHS 271200Z
-OUA  DFFD,Ouagadougou Airport,34.0,DFFD 271200Z
-LRL  DXNG,Niamtougou International Airport,34.0,DXNG 271200Z
-DXSK,Sokodé Airport,34.0,DXSK 271200Z
-DLA  FKKD,Douala International Airport,34.0,FKKD 271200Z
-SMS  FMMS,Sainte Marie Airport,34.0,FMMS 271200Z
-MZI  GAMB,Mopti Airport,34.0,GAMB 271200Z
-GOGK,,34.0,GOGK 271200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,34.0,VAAH 271200Z
-BHU  VABV,Bhavnagar Airport,34.0,VABV 271200Z
-VAJL,,34.0,VAJL 271200Z
-COK  VOCI,Cochin International Airport,34.0,VOCI 271200Z
-IXM  VOMD,Madurai Airport,34.0,VOMD 271200Z
-VOND,,34.0,VOND 271200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,34.0,VOTR 271200Z
-UMR  YPWR,Woomera Airfield,34.0,YPWR 271200Z
-BOY  DFOO,Bobo Dioulasso Airport,33.0,DFOO 271200Z
-BNI  DNBE,Benin Airport,33.0,DNBE 271200Z
-LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 271200Z
-PHC  DNPO,Port Harcourt International Airport,33.0,DNPO 271200Z
-NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 271200Z
-LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 271200Z
-BZV  FCBB,Maya-Maya Airport,33.0,FCBB 271200Z
-TMM  FMMT,Toamasina Airport,33.0,FMMT 271200Z
-NDJ  FTTJ,N'Djamena International Airport,33.0,FTTJ 271200Z
-KMP  FYKT,Keetmanshoop Airport,33.0,FYKT 271200Z
-FIH  FZAA,Ndjili International Airport,33.0,FZ
-FKI  FZIC,Bangoka International Airport,33.0,FZ
-OXB  GGOV,Osvaldo Vieira International Airport,33.0,GGOV 271200Z
-KLC  GOOK,Kaolack Airport,33.0,GOOK 271200Z
-KGG  GOTK,Kédougou Airport,33.0,GOTK 271200Z
-GXF  OYSY,Sayun International Airport,33.0,OYSY 271200Z
-IXU  VAAU,Aurangabad Airport,33.0,VAAU 271200Z
-STV  VASU,Surat Airport,33.0,VASU 271200Z
-CJB  VOCB,Coimbatore International Airport,33.0,VOCB 271200Z
-LEA  YPLM,Learmonth Airport,33.0,YPLM 271200Z
-KLH  VAKP,Kolhapur Airport,32.0,VAKP 271130Z
-MDL  VYMD,Mandalay International Airport,32.0,VYMD 271130Z
-COO  DBBB,Cadjehoun Airport,32.0,DBBB 271200Z
+DBO  YSDU,Dubbo City Regional Airport,34.0,YSDU 280100Z
+PHE  YPPD,Port Hedland International Airport,33.0,YPPD 280100Z
+NCPL,,32.0,NCPL 280100Z
+SUV  NFNA,Nausori International Airport,32.0,NFNA 280100Z
+SVU  NFNS,Savusavu Airport,32.0,NFNS 280100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 280100Z
+BOB  NTTB,Bora Bora Airport,32.0,NTTB 280100Z
+BME  YBRM,Broome International Airport,32.0,YBRM 280100Z
+DCN  YCIN,RAAF Base Curtin,32.0,YCIN 280100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 280100Z
+CBR  YSCB,Canberra International Airport,32.0,YSCB 280100Z
+NTL  YWLM,Newcastle Airport,32.0,YWLM 280100Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 280040Z
+MOI  NCMR,Mitiaro Island Airport,31.0,NCMR 280100Z
+NAN  NFFN,Nadi International Airport,31.0,NFFN 280100Z
+LBS  NFNL,Labasa Airport,31.0,NFNL 280100Z
+TVU  NFNM,Matei Airport,31.0,NFNM 280100Z
+IUE  NIUE,Niue International Airport,31.0,NIUE 280100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 280100Z
+PPT  NTAA,Faa'a International Airport,31.0,NTAA 280100Z
+HOI  NTTO,Hao Airport,31.0,NTTO 280100Z
+AUC  SKUC,Santiago Perez Airport,31.0,SKUC 280100Z
+KOE  WATT,El Tari Airport,31.0,WATT 280100Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 280100Z
+TSV  YBTL,Townsville Airport,31.0,YBTL 280100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 280100Z
+XRH  YSRI,RAAF Base Richmond,31.0,YSRI 280100Z
+TMW  YSTW,Tamworth Airport,31.0,YSTW 280100Z
+GLT  YGLA,Gladstone Airport,31.0,YGLA 280108Z
+TGZ  MMTG,Angel Albino Corzo International Airport,30.0,MMTG 280048Z
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 280050Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 280055Z
+NGF  PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,30.0,PHNG 280057Z
+KSA  PTSA,Kosrae International Airport,30.0,PTSA 280059Z
+INU  ANYN,Nauru International Airport,30.0,ANYN 280100Z
+POM  AYPY,Port Moresby Jacksons International Airport,30.0,AYPY 280100Z
+AIT  NCAI,Aitutaki Airport,30.0,NCAI 280100Z
+AIU  NCAT,Enua Airport,30.0,NCAT 280100Z
+MGS  NCMG,Mangaia Island Airport,30.0,NCMG 280100Z
+MHX  NCMH,Manihiki Island Airport,30.0,NCMH 280100Z
+MUK  NCMK,Mauke Airport,30.0,NCMK 280100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 280100Z
+RAR  NCRG,Rarotonga International Airport,30.0,NCRG 280100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 280100Z
+APW  NSFA,Faleolo International Airport,30.0,NSFA 280100Z
