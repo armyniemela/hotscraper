@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-TMW  YSTW,Tamworth Airport,35.0,YSTW 010100Z
-DCN  YCIN,RAAF Base Curtin,34.0,YCIN 010100Z
-KNX  YPKU,Kununurra Airport,34.0,YPKU 010100Z
-KTR  YPTN,Tindal Airport,33.0,YPTN 010100Z
-MHX  NCMH,Manihiki Island Airport,32.0,NCMH 010100Z
-SVU  NFNS,Savusavu Airport,32.0,NFNS 010100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 010100Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 010100Z
-GOV  YPGV,Gove Airport,32.0,YPGV 010100Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 010040Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 010052Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 010053Z
-NGF  PHNG,Kaneohe Bay MCAS (Marion E. Carl Field) Airport,31.0,PHNG 010057Z
-MGS  NCMG,Mangaia Island Airport,31.0,NCMG 010100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 010100Z
-SUV  NFNA,Nausori International Airport,31.0,NFNA 010100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 010100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 010100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 010100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 010100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 010100Z
-VLI  NVVV,Bauerfield International Airport,31.0,NVVV 010100Z
-NOU  NWWW,La Tontouta International Airport,31.0,NWWW 010100Z
-ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
-CNQ  SARC,Corrientes Airport,31.0,SARC 010100Z
-FMA  SARF,Formosa Airport,31.0,SARF 010100Z
-MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 010100Z
-YAMB,RAAF Base Amberley,31.0,YAMB 010100Z
-ROK  YBRK,Rockhampton Airport,31.0,YBRK 010100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 010100Z
-UMR  YPWR,Woomera Airfield,31.0,YPWR 010100Z
-KSA  PTSA,Kosrae International Airport,30.0,PTSA 010050Z
-AIT  NCAI,Aitutaki Airport,30.0,NCAI 010100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 010100Z
-RAR  NCRG,Rarotonga International Airport,30.0,NCRG 010100Z
-HPA  NFTL,Lifuka Island Airport,30.0,NFTL 010100Z
-IUE  NIUE,Niue International Airport,30.0,NIUE 010100Z
-WLS  NLWW,Hihifo Airport,30.0,NLWW 010100Z
-HOI  NTTO,Hao Airport,30.0,NTTO 010100Z
-SFS  RPLB,Subic Bay International Airport,30.0,RPLB 010100Z
-RES  SARE,Resistencia International Airport,30.0,SARE 010100Z
-PSS  SARP,Libertador Gral D Jose De San Martin Airport,30.0,SARP 010100Z
-VUP  SKVP,Alfonso López Pumarejo Airport,30.0,SKVP 010100Z
-EYP  SKYP,El Yopal Airport,30.0,SKYP 010100Z
-DJJ  WAJJ,Sentani International Airport,30.0,WAJJ 010100Z
+LOK  HKLO,Lodwar Airport,38.0,HKLO 011200Z
+WJR  HKWJ,Wajir Airport,38.0,HKWJ 011200Z
+OUA  DFFD,Ouagadougou Airport,37.0,DFFD 011200Z
+MXJ  DNMN,Minna Airport,37.0,DNMN 011200Z
+MZI  GAMB,Mopti Airport,37.0,GAMB 011200Z
+ENU  DNEN,Akanu Ibiam International Airport,36.0,DNEN 011200Z
+KAD  DNKA,Kaduna Airport,36.0,DNKA 011200Z
+NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 011200Z
+BGF  FEFF,Bangui M'Poko International Airport,36.0,FEFF 011200Z
+JRO  HTKJ,Kilimanjaro International Airport,36.0,HTKJ 011200Z
+BOY  DFOO,Bobo Dioulasso Airport,35.0,DFOO 011200Z
+ILR  DNIL,Ilorin International Airport,35.0,DNIL 011200Z
+QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 011200Z
+ZAR  DNZA,Zaria Airport,35.0,DNZ
+MFQ  DRRM,Maradi Airport,35.0,DRRM 011200Z
+DRZF,Diffa Airport,35.0,DRZ
+LRL  DXNG,Niamtougou International Airport,35.0,DXNG 011200Z
+DXSK,Sokodé Airport,35.0,DXSK 011200Z
+BKO  GABS,Modibo Keita International Airport,35.0,GABS 011200Z
+GAKD,,35.0,GAKD 011200Z
+NIX  GANR,Nioro du Sahel Airport,35.0,GANR 011200Z
+KGG  GOTK,Kédougou Airport,35.0,GOTK 011200Z
+IXW  VEJS,Sonari Airport,35.0,VEJS 011200Z
+VOND,,35.0,VOND 011200Z
+LEA  YPLM,Learmonth Airport,35.0,YPLM 011200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,34.0,DNAA 011200Z
+BNI  DNBE,Benin Airport,34.0,DNBE 011200Z
+KAN  DNKN,Mallam Aminu International Airport,34.0,DNKN 011200Z
+THZ  DRRT,Tahoua Airport,34.0,DRRT 011200Z
+ZND  DRZR,Zinder Airport,34.0,DRZ
+TMM  FMMT,Toamasina Airport,34.0,FMMT 011200Z
+GOGK,,34.0,GOGK 011200Z
+TUD  GOTT,Tambacounda Airport,34.0,GOTT 011200Z
+KIS  HKKI,Kisumu Airport,34.0,HKKI 011200Z
+DAR  HTDA,Julius Nyerere International Airport,34.0,HTDA 011200Z
+HTIB,,34.0,HTIB 011200Z
+HTMG,Morogoro Airport,34.0,HTMG 011200Z
+MWZ  HTMW,Mwanza Airport,34.0,HTMW 011200Z
+IXU  VAAU,Aurangabad Airport,34.0,VAAU 011200Z
+BDQ  VABO,Vadodara Airport,34.0,VABO 011200Z
+VAJL,,34.0,VAJL 011200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,34.0,VANP 011200Z
+PKZ  VLPS,Pakse International Airport,34.0,VLPS 011200Z
+COK  VOCI,Cochin International Airport,34.0,VOCI 011200Z
+VOGB,,34.0,VOGB 011200Z
