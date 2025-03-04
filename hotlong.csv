@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-TRC  MMTC,Francisco Sarabia International Airport,33.0,MMTC 040050Z
-RES  SARE,Resistencia International Airport,33.0,SARE 040100Z
-PHE  YPPD,Port Hedland International Airport,33.0,YPPD 040100Z
-MXJ  DNMN,Minna Airport,32.0,DNMN 040100Z
-MHX  NCMH,Manihiki Island Airport,32.0,NCMH 040100Z
-SUV  NFNA,Nausori International Airport,32.0,NFNA 040100Z
-CNQ  SARC,Corrientes Airport,32.0,SARC 040100Z
-PSS  SARP,Libertador Gral D Jose De San Martin Airport,32.0,SARP 040100Z
-EYP  SKYP,El Yopal Airport,32.0,SKYP 040100Z
-DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 040100Z
-WAYY,,32.0,WAYY 040100Z
-ROK  YBRK,Rockhampton Airport,32.0,YBRK 040100Z
-GLT  YGLA,Gladstone Airport,32.0,YGLA 040100Z
-GOV  YPGV,Gove Airport,32.0,YPGV 040100Z
-LEA  YPLM,Learmonth Airport,32.0,YPLM 040100Z
-UMR  YPWR,Woomera Airfield,32.0,YPWR 040100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 040030Z
-CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 040044Z
-TGZ  MMTG,Angel Albino Corzo International Airport,31.0,MMTG 040047Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 040050Z
-KT89,,31.0,KT89 040055Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 040100Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 040100Z
-BKO  GABS,Modibo Keita International Airport,31.0,GABS 040100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 040100Z
-NCPL,,31.0,NCPL 040100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 040100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 040100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 040100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 040100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 040100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 040100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 040100Z
-NOU  NWWW,La Tontouta International Airport,31.0,NWWW 040100Z
-CXI  PLCH,Cassidy International Airport,31.0,PLCH 040100Z
-FMA  SARF,Formosa Airport,31.0,SARF 040100Z
-AOL  SARL,Paso De Los Libres Airport,31.0,SARL 040100Z
-BVB  SBBV,Atlas Brasil Cantanhede Airport,31.0,SBBV 040100Z
-BIK  WABB,Frans Kaisiepo Airport,31.0,WABB 040100Z
-MKQ  WAKK,Mopah Airport,31.0,WAKK 040100Z
-MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 040100Z
-KOE  WATT,El Tari Airport,31.0,WATT 040100Z
-CNS  YBCS,Cairns International Airport,31.0,YBCS 040100Z
-HID  YHID,Horn Island Airport,31.0,YHID 040100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 040100Z
+MQQ  FTTD,Moundou Airport,39.0,FTTD 041200Z
+MFQ  DRRM,Maradi Airport,38.0,DRRM 041200Z
+LOK  HKLO,Lodwar Airport,38.0,HKLO 041200Z
+BOY  DFOO,Bobo Dioulasso Airport,37.0,DFOO 041200Z
+DRZF,Diffa Airport,37.0,DRZ
+ZND  DRZR,Zinder Airport,37.0,DRZ
+BGF  FEFF,Bangui M'Poko International Airport,37.0,FEFF 041200Z
+MZI  GAMB,Mopti Airport,37.0,GAMB 041200Z
+TOM  GATB,Timbuktu Airport,37.0,GATB 041200Z
+VGA  VOBZ,Vijayawada Airport,36.0,VOBZ
+VOKU,,36.0,VOKU 041130Z
+GAS  HKGA,Garissa Airport,36.0,HKGA 041200Z
+WJR  HKWJ,Wajir Airport,36.0,HKWJ 041200Z
+VOND,,36.0,VOND 041200Z
+KLH  VAKP,Kolhapur Airport,35.0,VAKP 041130Z
+DXSK,Sokodé Airport,35.0,DXSK 041200Z
+UTN  FAUP,Pierre Van Ryneveld Airport,35.0,FAUP 041200Z
+OLL  FCOD,Oyo Ollombo Airport,35.0,FCOD 041200Z
+KMP  FYKT,Keetmanshoop Airport,35.0,FYKT 041200Z
+BDQ  VABO,Vadodara Airport,35.0,VABO 041200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,35.0,VANP 041200Z
+VOHB,,35.0,VOHB 041200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,35.0,VOTR 041200Z
+LEA  YPLM,Learmonth Airport,35.0,YPLM 041200Z
+VEBU,,34.0,VEBU 041130Z
+AJY  DRZA,Mano Dayak International Airport,34.0,DRZ
+LRL  DXNG,Niamtougou International Airport,34.0,DXNG 041200Z
+BKO  GABS,Modibo Keita International Airport,34.0,GABS 041200Z
+SHW  OESH,Sharurah Airport,34.0,OESH 041200Z
+VAJL,,34.0,VAJL 041200Z
+PKZ  VLPS,Pakse International Airport,34.0,VLPS 041200Z
+VOBM,,34.0,VOBM 041200Z
+CJB  VOCB,Coimbatore International Airport,34.0,VOCB 041200Z
+CDP  VOCP,Kadapa Airport,34.0,VOCP 041200Z
+BPM  VOHY,Begumpet Airport,34.0,VOHY 041200Z
+IXM  VOMD,Madurai Airport,34.0,VOMD 041200Z
+SXV  VOSM,Salem Airport,34.0,VOSM 041200Z
+TIR  VOTP,Tirupati Airport,34.0,VOTP 041200Z
+COO  DBBB,Cadjehoun Airport,33.0,DBBB 041200Z
+ACC  DGAA,Kotoka International Airport,33.0,DGAA 041200Z
+LOS  DNMM,Murtala Muhammed International Airport,33.0,DNMM 041200Z
+LFW  DXXX,Lomé-Tokoin Airport,33.0,DXXX 041200Z
+SMS  FMMS,Sainte Marie Airport,33.0,FMMS 041200Z
+GAKD,,33.0,GAKD 041200Z
+KIS  HKKI,Kisumu Airport,33.0,HKKI 041200Z
