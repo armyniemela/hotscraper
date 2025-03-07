@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NIM  DRRN,Diori Hamani International Airport,38.0,DRRN 061200Z
-MQQ  FTTD,Moundou Airport,38.0,FTTD 061200Z
-LOK  HKLO,Lodwar Airport,38.0,HKLO 061200Z
-OUA  DFFD,Ouagadougou Airport,37.0,DFFD 061200Z
-ZAR  DNZA,Zaria Airport,37.0,DNZ
-THZ  DRRT,Tahoua Airport,37.0,DRRT 061200Z
-AEH  FTTC,Abeche Airport,37.0,FTTC 061200Z
-EAM  OENG,Nejran Airport,37.0,OENG 061200Z
-SHW  OESH,Sharurah Airport,37.0,OESH 061200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,37.0,VOTR 061200Z
-VGA  VOBZ,Vijayawada Airport,36.0,VOBZ
-IXM  VOMD,Madurai Airport,36.0,VOMD 061130Z
-BOY  DFOO,Bobo Dioulasso Airport,36.0,DFOO 061200Z
-DNGO,,36.0,DNGO 061200Z
-KAN  DNKN,Mallam Aminu International Airport,36.0,DNKN 061200Z
-MXJ  DNMN,Minna Airport,36.0,DNMN 061200Z
-MFQ  DRRM,Maradi Airport,36.0,DRRM 061200Z
-ZND  DRZR,Zinder Airport,36.0,DRZ
-MJN  FMNM,Amborovy Airport,36.0,FMNM 061200Z
-TOM  GATB,Timbuktu Airport,36.0,GATB 061200Z
-WAE  OEWD,Wadi Al Dawasir Airport,36.0,OEWD 061200Z
-CJB  VOCB,Coimbatore International Airport,36.0,VOCB 061200Z
-CDP  VOCP,Kadapa Airport,36.0,VOCP 061200Z
-LEA  YPLM,Learmonth Airport,36.0,YPLM 061200Z
-TIR  VOTP,Tirupati Airport,35.0,VOTP 061130Z
-ILR  DNIL,Ilorin International Airport,35.0,DNIL 061200Z
-QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 061200Z
-DNKT,,35.0,DNKT 061200Z
-DRZF,Diffa Airport,35.0,DRZ
-DXSK,Sokodé Airport,35.0,DXSK 061200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,35.0,FAUP 061200Z
-FDBB,,35.0,FDBB 061200Z
-BKO  GABS,Modibo Keita International Airport,35.0,GABS 061200Z
-NIX  GANR,Nioro du Sahel Airport,35.0,GANR 061200Z
-BDQ  VABO,Vadodara Airport,35.0,VABO 061200Z
-LPQ  VLLB,Luang Phabang International Airport,35.0,VLLB 061200Z
-SXV  VOSM,Salem Airport,35.0,VOSM 061200Z
-RJA  VORY,Rajahmundry Airport,34.0,VORY 061130Z
-OOAD,,34.0,OOAD 061150Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,34.0,DNAA 061200Z
-LOS  DNMM,Murtala Muhammed International Airport,34.0,DNMM 061200Z
-PHC  DNPO,Port Harcourt International Airport,34.0,DNPO 061200Z
-AJY  DRZA,Mano Dayak International Airport,34.0,DRZ
-LFW  DXXX,Lomé-Tokoin Airport,34.0,DXXX 061200Z
-NGE  FKKN,N'Gaoundéré Airport,34.0,FKKN 061200Z
+SVU  NFNS,Savusavu Airport,33.0,NFNS 070100Z
+PCR  SKPC,German Olano Airport,33.0,SKPC 070100Z
+ASP  YBAS,Alice Springs Airport,33.0,YBAS 070100Z
+ROK  YBRK,Rockhampton Airport,33.0,YBRK 070100Z
+GLT  YGLA,Gladstone Airport,33.0,YGLA 070100Z
+NCPL,,32.0,NCPL 070100Z
+SUV  NFNA,Nausori International Airport,32.0,NFNA 070100Z
+NOU  NWWW,La Tontouta International Airport,32.0,NWWW 070100Z
+DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 070100Z
+CNS  YBCS,Cairns International Airport,32.0,YBCS 070100Z
+DRW  YPDN,Darwin International Airport,32.0,YPDN 070100Z
+GOV  YPGV,Gove Airport,32.0,YPGV 070100Z
+KNX  YPKU,Kununurra Airport,32.0,YPKU 070100Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 070100Z
+WAYY,,31.0,WAYY 070030Z
+TSV  YBTL,Townsville Airport,31.0,YBTL 070030Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 070051Z
+PTTP,,31.0,PTTP 070052Z
+TKK  PTKK,Chuuk International Airport,31.0,PTKK 070053Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 070055Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 070058Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 070100Z
+LAE  AYNZ,Nadzab Airport,31.0,AYNZ
+BOY  DFOO,Bobo Dioulasso Airport,31.0,DFOO 070100Z
+MUK  NCMK,Mauke Airport,31.0,NCMK 070100Z
+TVU  NFNM,Matei Airport,31.0,NFNM 070100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 070100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 070100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 070100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 070100Z
+KWA  PKWA,Bucholz Army Air Field,31.0,PKWA 070100Z
+CXI  PLCH,Cassidy International Airport,31.0,PLCH 070100Z
+MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 070100Z
+ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
+PPS  RPVP,Puerto Princesa Airport,31.0,RPVP 070100Z
+EZE  SAEZ,Ministro Pistarini International Airport,31.0,SAEZ
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 070100Z
+DCN  YCIN,RAAF Base Curtin,31.0,YCIN 070100Z
+UMR  YPWR,Woomera Airfield,31.0,YPWR 070100Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 070052Z
+PKMR,,30.0,PKMR 070056Z
+OUA  DFFD,Ouagadougou Airport,30.0,DFFD 070100Z
+MGA  MNMG,Augusto C. Sandino (Managua) International Airport,30.0,MNMG 070100Z
+AIT  NCAI,Aitutaki Airport,30.0,NCAI 070100Z
+AIU  NCAT,Enua Airport,30.0,NCAT 070100Z
