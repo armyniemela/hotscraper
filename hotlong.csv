@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NDJ  FTTJ,N'Djamena International Airport,39.0,FTTJ 081200Z
-MZI  GAMB,Mopti Airport,39.0,GAMB 081200Z
-DNGO,,38.0,DNGO 081200Z
-KAD  DNKA,Kaduna Airport,38.0,DNKA 081200Z
-MXJ  DNMN,Minna Airport,38.0,DNMN 081200Z
-THZ  DRRT,Tahoua Airport,38.0,DRRT 081200Z
-KHI  OPKC,Jinnah International Airport,38.0,OPKC 081200Z
-MFQ  DRRM,Maradi Airport,37.0,DRRM 081200Z
-DRZF,Diffa Airport,37.0,DRZ
-ZND  DRZR,Zinder Airport,37.0,DRZ
-GAKD,,37.0,GAKD 081200Z
-NIX  GANR,Nioro du Sahel Airport,37.0,GANR 081200Z
-KGG  GOTK,Kédougou Airport,37.0,GOTK 081200Z
-BDQ  VABO,Vadodara Airport,37.0,VABO 081200Z
-OOAD,,36.0,OOAD 081150Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,36.0,DNAA 081200Z
-DNKT,,36.0,DNKT 081200Z
-AJY  DRZA,Mano Dayak International Airport,36.0,DRZ
-TOM  GATB,Timbuktu Airport,36.0,GATB 081200Z
-TUD  GOTT,Tambacounda Airport,36.0,GOTT 081200Z
-SHW  OESH,Sharurah Airport,36.0,OESH 081200Z
-DWC  OMDW,Al Maktoum International Airport,36.0,OMDW 081200Z
-VAHS,,36.0,VAHS 081200Z
-VAJL,,36.0,VAJL 081200Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,36.0,VANP 081200Z
-STV  VASU,Surat Airport,36.0,VASU 081200Z
-CDP  VOCP,Kadapa Airport,36.0,VOCP 081200Z
-VOGB,,36.0,VOGB 081200Z
-VOHB,,36.0,VOHB 081200Z
-VOND,,36.0,VOND 081200Z
-BKO  GABS,Modibo Keita International Airport,35.0,GABS 081130Z
-BOY  DFOO,Bobo Dioulasso Airport,35.0,DFOO 081200Z
-ENU  DNEN,Akanu Ibiam International Airport,35.0,DNEN 081200Z
-QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 081200Z
-DXSK,Sokodé Airport,35.0,DXSK 081200Z
-UTN  FAUP,Pierre Van Ryneveld Airport,35.0,FAUP 081200Z
-EAM  OENG,Nejran Airport,35.0,OENG 081200Z
-AUH  OMAA,Abu Dhabi International Airport,35.0,OMAA 081200Z
-AZI  OMAD,Bateen Airport,35.0,OMAD 081200Z
-AAN  OMAL,Al Ain International Airport,35.0,OMAL 081200Z
-GXF  OYSY,Sayun International Airport,35.0,OYSY 081200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,35.0,VAAH 081200Z
-IXU  VAAU,Aurangabad Airport,35.0,VAAU 081200Z
-CJB  VOCB,Coimbatore International Airport,35.0,VOCB 081200Z
-IXM  VOMD,Madurai Airport,35.0,VOMD 081200Z
+PCR  SKPC,German Olano Airport,33.0,SKPC 090000Z
+ROK  YBRK,Rockhampton Airport,33.0,YBRK 090030Z
+GLT  YGLA,Gladstone Airport,33.0,YGLA 090030Z
+KNX  YPKU,Kununurra Airport,33.0,YPKU 090030Z
+REX  MMRX,General Lucio Blanco International Airport,33.0,MMRX 090040Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,33.0,MMMD 090045Z
+MAJ  PKMJ,Marshall Islands International Airport,32.0,PKMJ 082351Z
+OUA  DFFD,Ouagadougou Airport,32.0,DFFD 090000Z
+TML  DGLE,Tamale Airport,32.0,DGLE 090000Z
+KGG  GOTK,Kédougou Airport,32.0,GOTK 090000Z
+MHCH,,32.0,MHCH 090000Z
+MGA  MNMG,Augusto C. Sandino (Managua) International Airport,32.0,MNMG 090000Z
+MKQ  WAKK,Mopah Airport,32.0,WAKK 090030Z
+BME  YBRM,Broome International Airport,32.0,YBRM 090030Z
+TSV  YBTL,Townsville Airport,32.0,YBTL 090030Z
+FOS  YFRT,Forrest Airport,32.0,YFRT 090030Z
+HID  YHID,Horn Island Airport,32.0,YHID 090030Z
+PHE  YPPD,Port Hedland International Airport,32.0,YPPD 090030Z
+KTR  YPTN,Tindal Airport,32.0,YPTN 090030Z
+PQM  MMPQ,Palenque International Airport,32.0,MMPQ 090041Z
+MFE  KMFE,Mc Allen Miller International Airport,32.0,KMFE 090053Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 082350Z
+PTTP,,31.0,PTTP 082355Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 090000Z
+POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 090000Z
+TUD  GOTT,Tambacounda Airport,31.0,GOTT 090000Z
+LOK  HKLO,Lodwar Airport,31.0,HKLO 090000Z
+CAA  MHCA,Catacamas Airport,31.0,MHCA 090000Z
+LOD  NVSG,Longana Airport,31.0,NVSG 090000Z
+SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 090000Z
+AUC  SKUC,Santiago Perez Airport,31.0,SKUC 090000Z
+EYP  SKYP,El Yopal Airport,31.0,SKYP 090000Z
+PIU  SPUR,Capitán FAP Guillermo Concha Iberico International Airport,31.0,SPUR 090000Z
+PPT  NTAA,Faa'a International Airport,31.0,NTAA 090030Z
+HOI  NTTO,Hao Airport,31.0,NTTO 090030Z
+NOU  NWWW,La Tontouta International Airport,31.0,NWWW 090030Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 090030Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 090030Z
+DCN  YCIN,RAAF Base Curtin,31.0,YCIN 090030Z
+AVV  YMAV,Avalon Airport,31.0,YMAV 090030Z
+ADL  YPAD,Adelaide International Airport,31.0,YPAD 090030Z
+GOV  YPGV,Gove Airport,31.0,YPGV 090030Z
+KEBG,South Texas International At Edinburg Airport,31.0,KEBG 090035Z
+PAZ  MMPA,El Tajín National Airport,31.0,MMPA 090040Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 090050Z
