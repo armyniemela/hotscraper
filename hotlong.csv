@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PCR  SKPC,German Olano Airport,33.0,SKPC 090000Z
-ROK  YBRK,Rockhampton Airport,33.0,YBRK 090030Z
-GLT  YGLA,Gladstone Airport,33.0,YGLA 090030Z
-KNX  YPKU,Kununurra Airport,33.0,YPKU 090030Z
-REX  MMRX,General Lucio Blanco International Airport,33.0,MMRX 090040Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,33.0,MMMD 090045Z
-MAJ  PKMJ,Marshall Islands International Airport,32.0,PKMJ 082351Z
-OUA  DFFD,Ouagadougou Airport,32.0,DFFD 090000Z
-TML  DGLE,Tamale Airport,32.0,DGLE 090000Z
-KGG  GOTK,Kédougou Airport,32.0,GOTK 090000Z
-MHCH,,32.0,MHCH 090000Z
-MGA  MNMG,Augusto C. Sandino (Managua) International Airport,32.0,MNMG 090000Z
-MKQ  WAKK,Mopah Airport,32.0,WAKK 090030Z
-BME  YBRM,Broome International Airport,32.0,YBRM 090030Z
-TSV  YBTL,Townsville Airport,32.0,YBTL 090030Z
-FOS  YFRT,Forrest Airport,32.0,YFRT 090030Z
-HID  YHID,Horn Island Airport,32.0,YHID 090030Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 090030Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 090030Z
-PQM  MMPQ,Palenque International Airport,32.0,MMPQ 090041Z
-MFE  KMFE,Mc Allen Miller International Airport,32.0,KMFE 090053Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 082350Z
-PTTP,,31.0,PTTP 082355Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 090000Z
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 090000Z
-TUD  GOTT,Tambacounda Airport,31.0,GOTT 090000Z
-LOK  HKLO,Lodwar Airport,31.0,HKLO 090000Z
-CAA  MHCA,Catacamas Airport,31.0,MHCA 090000Z
-LOD  NVSG,Longana Airport,31.0,NVSG 090000Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 090000Z
-AUC  SKUC,Santiago Perez Airport,31.0,SKUC 090000Z
-EYP  SKYP,El Yopal Airport,31.0,SKYP 090000Z
-PIU  SPUR,Capitán FAP Guillermo Concha Iberico International Airport,31.0,SPUR 090000Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 090030Z
-HOI  NTTO,Hao Airport,31.0,NTTO 090030Z
-NOU  NWWW,La Tontouta International Airport,31.0,NWWW 090030Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 090030Z
-CNS  YBCS,Cairns International Airport,31.0,YBCS 090030Z
-DCN  YCIN,RAAF Base Curtin,31.0,YCIN 090030Z
-AVV  YMAV,Avalon Airport,31.0,YMAV 090030Z
-ADL  YPAD,Adelaide International Airport,31.0,YPAD 090030Z
-GOV  YPGV,Gove Airport,31.0,YPGV 090030Z
-KEBG,South Texas International At Edinburg Airport,31.0,KEBG 090035Z
-PAZ  MMPA,El Tajín National Airport,31.0,MMPA 090040Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 090050Z
+DNGO,,40.0,DNGO 091200Z
+MFQ  DRRM,Maradi Airport,39.0,DRRM 091200Z
+THZ  DRRT,Tahoua Airport,39.0,DRRT 091200Z
+TOM  GATB,Timbuktu Airport,39.0,GATB 091200Z
+AJY  DRZA,Mano Dayak International Airport,38.0,DRZ
+DRZF,Diffa Airport,38.0,DRZ
+ZND  DRZR,Zinder Airport,38.0,DRZ
+BKO  GABS,Modibo Keita International Airport,38.0,GABS 091200Z
+GAKD,,38.0,GAKD 091200Z
+NIX  GANR,Nioro du Sahel Airport,37.0,GANR 091200Z
+BDQ  VABO,Vadodara Airport,37.0,VABO 091200Z
+VAHS,,37.0,VAHS 091200Z
+VOGB,,37.0,VOGB 091200Z
+OOAD,,36.0,OOAD 091150Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,36.0,DNAA 091200Z
+MXJ  DNMN,Minna Airport,36.0,DNMN 091200Z
+SHW  OESH,Sharurah Airport,36.0,OESH 091200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,36.0,VAAH 091200Z
+VAJL,,36.0,VAJL 091200Z
+VOHB,,36.0,VOHB 091200Z
+VOND,,36.0,VOND 091200Z
+KLH  VAKP,Kolhapur Airport,35.0,VAKP 091130Z
+BMW  DATM,Bordj Badji Mokhtar Airport,35.0,DATM 091200Z
+BGF  FEFF,Bangui M'Poko International Airport,35.0,FEFF 091200Z
+GOGK,,35.0,GOGK 091200Z
+KHI  OPKC,Jinnah International Airport,35.0,OPKC 091200Z
+GXF  OYSY,Sayun International Airport,35.0,OYSY 091200Z
+IXU  VAAU,Aurangabad Airport,35.0,VAAU 091200Z
+BHU  VABV,Bhavnagar Airport,35.0,VABV 091200Z
+VOBM,,35.0,VOBM 091200Z
+CJB  VOCB,Coimbatore International Airport,35.0,VOCB 091200Z
+BNI  DNBE,Benin Airport,34.0,DNBE 091200Z
+ILR  DNIL,Ilorin International Airport,34.0,DNIL 091200Z
+LOS  DNMM,Murtala Muhammed International Airport,34.0,DNMM 091200Z
+PHC  DNPO,Port Harcourt International Airport,34.0,DNPO 091200Z
+UTT  FAUT,K. D. Matanzima Airport,34.0,FAUT 091200Z
+DLA  FKKD,Douala International Airport,34.0,FKKD 091200Z
+TUD  GOTT,Tambacounda Airport,34.0,GOTT 091200Z
+AAN  OMAL,Al Ain International Airport,34.0,OMAL 091200Z
+VAGD,,34.0,VAGD 091200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,34.0,VANP 091200Z
+SAG  VASD,Shirdi Airport,34.0,VASD 091200Z
+MYQ  VOMY,Mysore Airport,34.0,VOMY 091200Z
+VEJR,,33.0,VEJR 091130Z
+ACC  DGAA,Kotoka International Airport,33.0,DGAA 091200Z
