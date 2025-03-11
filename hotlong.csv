@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KTR  YPTN,Tindal Airport,33.0,YPTN 110100Z
-OUA  DFFD,Ouagadougou Airport,32.0,DFFD 110100Z
-NCPL,,32.0,NCPL 110100Z
-DMK  VTBD,Don Mueang International Airport,32.0,VTBD 110100Z
-KOE  WATT,El Tari Airport,32.0,WATT 110100Z
-DRW  YPDN,Darwin International Airport,32.0,YPDN 110100Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 110050Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 110050Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 110051Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 110100Z
-NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 110100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 110100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 110100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 110100Z
-LAO  RPLI,Laoag International Airport,31.0,RPLI 110100Z
-MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 110100Z
-PPS  RPVP,Puerto Princesa Airport,31.0,RPVP 110100Z
-PCR  SKPC,German Olano Airport,31.0,SKPC 110100Z
-VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 110100Z
-MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 110100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 110100Z
-WAYY,,31.0,WAYY 110100Z
-BME  YBRM,Broome International Airport,31.0,YBRM 110100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 110100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 110100Z
-CVJ  MMCB,General Mariano Matamoros Airport,30.0,MMCB 110048Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 110050Z
-PTTP,,30.0,PTTP 110050Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 110054Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 110054Z
-PKMR,,30.0,PKMR 110055Z
-AIT  NCAI,Aitutaki Airport,30.0,NCAI 110100Z
-MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 110100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 110100Z
-RAR  NCRG,Rarotonga International Airport,30.0,NCRG 110100Z
-NAN  NFFN,Nadi International Airport,30.0,NFFN 110100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 110100Z
-IUE  NIUE,Niue International Airport,30.0,NIUE 110100Z
-WLS  NLWW,Hihifo Airport,30.0,NLWW 110100Z
-PPT  NTAA,Faa'a International Airport,30.0,NTAA 110100Z
-BOB  NTTB,Bora Bora Airport,30.0,NTTB 110100Z
-NOU  NWWW,La Tontouta International Airport,30.0,NWWW 110100Z
-KWA  PKWA,Bucholz Army Air Field,30.0,PKWA 110100Z
-EJA  SKEJ,Yariguíes Airport,30.0,SKEJ 110100Z
+GAQ  GAGO,Gao Airport,41.0,GAGO 111200Z
+KAN  DNKN,Mallam Aminu International Airport,40.0,DNKN 111200Z
+DNKT,,40.0,DNKT 111200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,40.0,DNSO 111200Z
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+ZND  DRZR,Zinder Airport,40.0,DRZ
+SRH  FTTA,Sarh Airport,40.0,FTTA 111200Z
+ZAR  DNZA,Zaria Airport,39.0,DNZ
+DRZF,Diffa Airport,39.0,DRZ
+MZI  GAMB,Mopti Airport,39.0,GAMB 111200Z
+BDQ  VABO,Vadodara Airport,39.0,VABO 111200Z
+VAHS,,39.0,VAHS 111200Z
+KAD  DNKA,Kaduna Airport,38.0,DNKA 111200Z
+BGF  FEFF,Bangui M'Poko International Airport,38.0,FEFF 111200Z
+NIX  GANR,Nioro du Sahel Airport,38.0,GANR 111200Z
+TOM  GATB,Timbuktu Airport,38.0,GATB 111200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,38.0,VAAH 111200Z
+OUA  DFFD,Ouagadougou Airport,37.0,DFFD 111200Z
+GAKD,,37.0,GAKD 111200Z
+KGG  GOTK,Kédougou Airport,37.0,GOTK 111200Z
+BHU  VABV,Bhavnagar Airport,37.0,VABV 111200Z
+VAJL,,37.0,VAJL 111200Z
+OOAD,,36.0,OOAD 111150Z
+ENU  DNEN,Akanu Ibiam International Airport,36.0,DNEN 111200Z
+ILR  DNIL,Ilorin International Airport,35.0,DNIL 111200Z
+QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 111200Z
+LFW  DXXX,Lomé-Tokoin Airport,35.0,DXXX 111200Z
+OLL  FCOD,Oyo Ollombo Airport,35.0,FCOD 111200Z
+GAS  HKGA,Garissa Airport,35.0,HKGA 111200Z
+SHW  OESH,Sharurah Airport,35.0,OESH 111200Z
+GXF  OYSY,Sayun International Airport,35.0,OYSY 111200Z
+IXU  VAAU,Aurangabad Airport,35.0,VAAU 111200Z
+IDR  VAID,Devi Ahilyabai Holkar Airport,35.0,VAID 111200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,35.0,VANP 111200Z
+STV  VASU,Surat Airport,35.0,VASU 111200Z
+JAI  VIJP,Jaipur International Airport,35.0,VIJP 111200Z
+PKZ  VLPS,Pakse International Airport,35.0,VLPS 111200Z
+VOND,,35.0,VOND 111200Z
+AUH  OMAA,Abu Dhabi International Airport,35.0,OMAA 111213Z
+KHI  OPKC,Jinnah International Airport,35.0,OPKC 111230Z
+MBA  HKMO,Mombasa Moi International Airport,34.0,HKMO 111130Z
+KLH  VAKP,Kolhapur Airport,34.0,VAKP 111130Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,34.0,DNAA 111200Z
+DXSK,Sokodé Airport,34.0,DXSK 111200Z
+MVB  FOON,M'Vengue El Hadj Omar Bongo Ondimba International Airport,34.0,FOON 111200Z
