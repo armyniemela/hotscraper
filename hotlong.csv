@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-TML  DGLE,Tamale Airport,34.0,DGLE 100000Z
-PCR  SKPC,German Olano Airport,33.0,SKPC 100000Z
-VUP  SKVP,Alfonso López Pumarejo Airport,33.0,SKVP 100000Z
-KNX  YPKU,Kununurra Airport,33.0,YPKU 100030Z
-MHCH,,32.0,MHCH 100000Z
-EJA  SKEJ,Yariguíes Airport,32.0,SKEJ 100000Z
-EYP  SKYP,El Yopal Airport,32.0,SKYP 100000Z
-BME  YBRM,Broome International Airport,32.0,YBRM 100030Z
-TSV  YBTL,Townsville Airport,32.0,YBTL 100030Z
-GOV  YPGV,Gove Airport,32.0,YPGV 100030Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 100030Z
-PNI  PTPN,Pohnpei International Airport,32.0,PTPN 100050Z
-PTTP,,31.0,PTTP 092350Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,31.0,DNAA 100000Z
-KGG  GOTK,Kédougou Airport,31.0,GOTK 100000Z
-TUD  GOTT,Tambacounda Airport,31.0,GOTT 100000Z
-CAA  MHCA,Catacamas Airport,31.0,MHCA 100000Z
-GAC  MHGS,Celaque Airport,31.0,MHGS 100000Z
-MHTR,,31.0,MHTR 100000Z
-MGA  MNMG,Augusto C. Sandino (Managua) International Airport,31.0,MNMG 100000Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 100000Z
-SLH  NVSC,Sola Airport,31.0,NVSC 100000Z
-BAU  SBBU,Bauru Airport,31.0,SBBU 100000Z
-LDB  SBLO,Governador José Richa Airport,31.0,SBLO 100000Z
-PIU  SPUR,Capitán FAP Guillermo Concha Iberico International Airport,31.0,SPUR 100000Z
-BKO  GABS,Modibo Keita International Airport,31.0,GABS 100030Z
-HOI  NTTO,Hao Airport,31.0,NTTO 100030Z
-CNS  YBCS,Cairns International Airport,31.0,YBCS 100030Z
-DCN  YCIN,RAAF Base Curtin,31.0,YCIN 100030Z
-HID  YHID,Horn Island Airport,31.0,YHID 100030Z
-PHE  YPPD,Port Hedland International Airport,31.0,YPPD 100030Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 100050Z
-MCR  MGMM,Melchor de Mencos Airport,31.0,MGMM 100100Z
-AIU  NCAT,Enua Airport,31.0,NCAT 100100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 100100Z
-NCPL,,31.0,NCPL 100100Z
-POM  AYPY,Port Moresby Jacksons International Airport,30.0,AYPY 100000Z
-OUA  DFFD,Ouagadougou Airport,30.0,DFFD 100000Z
-BOY  DFOO,Bobo Dioulasso Airport,30.0,DFOO 100000Z
-NIM  DRRN,Diori Hamani International Airport,30.0,DRRN 100000Z
-LRL  DXNG,Niamtougou International Airport,30.0,DXNG 100000Z
-GAKD,,30.0,GAKD 100000Z
-NIX  GANR,Nioro du Sahel Airport,30.0,GANR 100000Z
-GOGK,,30.0,GOGK 100000Z
-MGMT,,30.0,MGMT 100000Z
+KTR  YPTN,Tindal Airport,33.0,YPTN 110100Z
+OUA  DFFD,Ouagadougou Airport,32.0,DFFD 110100Z
+NCPL,,32.0,NCPL 110100Z
+DMK  VTBD,Don Mueang International Airport,32.0,VTBD 110100Z
+KOE  WATT,El Tari Airport,32.0,WATT 110100Z
+DRW  YPDN,Darwin International Airport,32.0,YPDN 110100Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 110050Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 110050Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 110051Z
+LAE  AYNZ,Nadzab Airport,31.0,AYNZ
+POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 110100Z
+NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 110100Z
+MUK  NCMK,Mauke Airport,31.0,NCMK 110100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 110100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 110100Z
+LAO  RPLI,Laoag International Airport,31.0,RPLI 110100Z
+MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 110100Z
+PPS  RPVP,Puerto Princesa Airport,31.0,RPVP 110100Z
+PCR  SKPC,German Olano Airport,31.0,SKPC 110100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 110100Z
+MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 110100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 110100Z
+WAYY,,31.0,WAYY 110100Z
+BME  YBRM,Broome International Airport,31.0,YBRM 110100Z
+TSV  YBTL,Townsville Airport,31.0,YBTL 110100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 110100Z
+CVJ  MMCB,General Mariano Matamoros Airport,30.0,MMCB 110048Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 110050Z
+PTTP,,30.0,PTTP 110050Z
+SPN  PGSN,Saipan International Airport,30.0,PGSN 110054Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 110054Z
+PKMR,,30.0,PKMR 110055Z
+AIT  NCAI,Aitutaki Airport,30.0,NCAI 110100Z
+MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 110100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 110100Z
+RAR  NCRG,Rarotonga International Airport,30.0,NCRG 110100Z
+NAN  NFFN,Nadi International Airport,30.0,NFFN 110100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 110100Z
+IUE  NIUE,Niue International Airport,30.0,NIUE 110100Z
+WLS  NLWW,Hihifo Airport,30.0,NLWW 110100Z
+PPT  NTAA,Faa'a International Airport,30.0,NTAA 110100Z
+BOB  NTTB,Bora Bora Airport,30.0,NTTB 110100Z
+NOU  NWWW,La Tontouta International Airport,30.0,NWWW 110100Z
+KWA  PKWA,Bucholz Army Air Field,30.0,PKWA 110100Z
+EJA  SKEJ,Yariguíes Airport,30.0,SKEJ 110100Z
