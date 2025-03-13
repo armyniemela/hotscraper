@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NIM  DRRN,Diori Hamani International Airport,40.0,DRRN 121200Z
-THZ  DRRT,Tahoua Airport,40.0,DRRT 121200Z
-DRZF,Diffa Airport,40.0,DRZ
-ZND  DRZR,Zinder Airport,40.0,DRZ
-SRH  FTTA,Sarh Airport,40.0,FTTA 121200Z
-MQQ  FTTD,Moundou Airport,40.0,FTTD 121200Z
-NDJ  FTTJ,N'Djamena International Airport,40.0,FTTJ 121200Z
-ZAR  DNZA,Zaria Airport,39.0,DNZ
-AJY  DRZA,Mano Dayak International Airport,39.0,DRZ
-BDQ  VABO,Vadodara Airport,39.0,VABO 121200Z
-VAHS,,39.0,VAHS 121200Z
-TML  DGLE,Tamale Airport,38.0,DGLE 121200Z
-VAJL,,38.0,VAJL 121200Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 121200Z
-VOND,,38.0,VOND 121200Z
-ILR  DNIL,Ilorin International Airport,37.0,DNIL 121200Z
-MXJ  DNMN,Minna Airport,37.0,DNMN 121200Z
-BGF  FEFF,Bangui M'Poko International Airport,37.0,FEFF 121200Z
-AEH  FTTC,Abeche Airport,37.0,FTTC 121200Z
-GXF  OYSY,Sayun International Airport,37.0,OYSY 121200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,37.0,VAAH 121200Z
-IXW  VEJS,Sonari Airport,37.0,VEJS 121200Z
-VOGB,,37.0,VOGB 121200Z
-SHW  OESH,Sharurah Airport,36.0,OESH 121200Z
-STV  VASU,Surat Airport,36.0,VASU 121200Z
-VEBU,,36.0,VEBU 121200Z
-RRK  VERK,Rourkela Airport,36.0,VERK 121200Z
-VOHB,,36.0,VOHB 121200Z
-BOY  DFOO,Bobo Dioulasso Airport,35.0,DFOO 121200Z
-WJR  HKWJ,Wajir Airport,35.0,HKWJ 121200Z
-OEMN,,35.0,OEMN 121200Z
-BHU  VABV,Bhavnagar Airport,35.0,VABV 121200Z
-SAG  VASD,Shirdi Airport,35.0,VASD 121200Z
-VERP,,35.0,VERP 121200Z
-RGN  VYYY,Yangon International Airport,35.0,VYYY 121200Z
-VEJR,,34.0,VEJR 121130Z
-BPM  VOHY,Begumpet Airport,34.0,VOHY 121130Z
-TIR  VOTP,Tirupati Airport,34.0,VOTP 121130Z
-QOW  DNIM,Sam Mbakwe International Airport,34.0,DNIM 121200Z
-DXSK,Sokodé Airport,34.0,DXSK 121200Z
-DLA  FKKD,Douala International Airport,34.0,FKKD 121200Z
-GAS  HKGA,Garissa Airport,34.0,HKGA 121200Z
-OERS,,34.0,OERS 121200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,34.0,OEYN 121200Z
-AAN  OMAL,Al Ain International Airport,34.0,OMAL 121200Z
+OUA  DFFD,Ouagadougou Airport,33.0,DFFD 130100Z
+ISA  YBMA,Mount Isa Airport,33.0,YBMA 130100Z
+PHE  YPPD,Port Hedland International Airport,33.0,YPPD 130100Z
+CVM  MMCV,General Pedro Jose Mendez International Airport,32.0,MMCV 130040Z
+TRC  MMTC,Francisco Sarabia International Airport,32.0,MMTC 130040Z
+TGZ  MMTG,Angel Albino Corzo International Airport,32.0,MMTG 130042Z
+COT  KCOT,Cotulla-La Salle County Airport,32.0,KCOT 130053Z
+CZT  KCZT,Dimmit County Airport,32.0,KCZ
+LRD  KLRD,Laredo International Airport,32.0,KLRD 130056Z
+NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 130100Z
+TUD  GOTT,Tambacounda Airport,32.0,GOTT 130100Z
+MHX  NCMH,Manihiki Island Airport,32.0,NCMH 130100Z
+NCPL,,32.0,NCPL 130100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,32.0,SKVP 130100Z
+BME  YBRM,Broome International Airport,32.0,YBRM 130100Z
+DCN  YCIN,RAAF Base Curtin,32.0,YCIN 130100Z
+FOS  YFRT,Forrest Airport,32.0,YFRT 130100Z
+UMR  YPWR,Woomera Airfield,32.0,YPWR 130100Z
+KFTN,,31.0,KFTN 130055Z
+SKF  KSKF,Lackland Air Force Base,31.0,KSKF 130055Z
+MAJ  PKMJ,Marshall Islands International Airport,31.0,PKMJ 130057Z
+LBS  NFNL,Labasa Airport,31.0,NFNL 130100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 130100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 130100Z
+SFS  RPLB,Subic Bay International Airport,31.0,RPLB 130100Z
+MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 130100Z
+ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
+PCR  SKPC,German Olano Airport,31.0,SKPC 130100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 130100Z
+KNX  YPKU,Kununurra Airport,31.0,YPKU 130100Z
+PDS  MMPG,Piedras Negras International Airport,30.0,MMPG 130040Z
+HUX  MMBT,Bahías de Huatulco International Airport,30.0,MMBT 130047Z
+CVJ  MMCB,General Mariano Matamoros Airport,30.0,MMCB 130048Z
+PPG  NSTU,Pago Pago International Airport,30.0,NSTU 130050Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 130050Z
+KSA  PTSA,Kosrae International Airport,30.0,PTSA 130050Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 130050Z
+SAT  KSAT,San Antonio International Airport,30.0,KSAT 130051Z
+SPN  PGSN,Saipan International Airport,30.0,PGSN 130054Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 130054Z
+K5T9,,30.0,K5T9 130055Z
+KAPY,Zapata County Airport,30.0,KAPY 130055Z
+KCVB,Castroville Municipal Airport,30.0,KCVB 130055Z
+RND  KRND,Randolph Air Force Base,30.0,KRND 130055Z
+KT70,,30.0,KT70 130055Z
