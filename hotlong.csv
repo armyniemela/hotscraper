@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OUA  DFFD,Ouagadougou Airport,33.0,DFFD 130100Z
-ISA  YBMA,Mount Isa Airport,33.0,YBMA 130100Z
-PHE  YPPD,Port Hedland International Airport,33.0,YPPD 130100Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,32.0,MMCV 130040Z
-TRC  MMTC,Francisco Sarabia International Airport,32.0,MMTC 130040Z
-TGZ  MMTG,Angel Albino Corzo International Airport,32.0,MMTG 130042Z
-COT  KCOT,Cotulla-La Salle County Airport,32.0,KCOT 130053Z
-CZT  KCZT,Dimmit County Airport,32.0,KCZ
-LRD  KLRD,Laredo International Airport,32.0,KLRD 130056Z
-NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 130100Z
-TUD  GOTT,Tambacounda Airport,32.0,GOTT 130100Z
-MHX  NCMH,Manihiki Island Airport,32.0,NCMH 130100Z
-NCPL,,32.0,NCPL 130100Z
-VUP  SKVP,Alfonso López Pumarejo Airport,32.0,SKVP 130100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 130100Z
-DCN  YCIN,RAAF Base Curtin,32.0,YCIN 130100Z
-FOS  YFRT,Forrest Airport,32.0,YFRT 130100Z
-UMR  YPWR,Woomera Airfield,32.0,YPWR 130100Z
-KFTN,,31.0,KFTN 130055Z
-SKF  KSKF,Lackland Air Force Base,31.0,KSKF 130055Z
-MAJ  PKMJ,Marshall Islands International Airport,31.0,PKMJ 130057Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 130100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 130100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 130100Z
-SFS  RPLB,Subic Bay International Airport,31.0,RPLB 130100Z
-MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 130100Z
-ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
-PCR  SKPC,German Olano Airport,31.0,SKPC 130100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 130100Z
-KNX  YPKU,Kununurra Airport,31.0,YPKU 130100Z
-PDS  MMPG,Piedras Negras International Airport,30.0,MMPG 130040Z
-HUX  MMBT,Bahías de Huatulco International Airport,30.0,MMBT 130047Z
-CVJ  MMCB,General Mariano Matamoros Airport,30.0,MMCB 130048Z
-PPG  NSTU,Pago Pago International Airport,30.0,NSTU 130050Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 130050Z
-KSA  PTSA,Kosrae International Airport,30.0,PTSA 130050Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 130050Z
-SAT  KSAT,San Antonio International Airport,30.0,KSAT 130051Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 130054Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 130054Z
-K5T9,,30.0,K5T9 130055Z
-KAPY,Zapata County Airport,30.0,KAPY 130055Z
-KCVB,Castroville Municipal Airport,30.0,KCVB 130055Z
-RND  KRND,Randolph Air Force Base,30.0,KRND 130055Z
-KT70,,30.0,KT70 130055Z
+MFQ  DRRM,Maradi Airport,40.0,DRRM 131200Z
+DRZF,Diffa Airport,40.0,DRZ
+ZND  DRZR,Zinder Airport,40.0,DRZ
+NDJ  FTTJ,N'Djamena International Airport,40.0,FTTJ 131200Z
+AJY  DRZA,Mano Dayak International Airport,39.0,DRZ
+MQQ  FTTD,Moundou Airport,39.0,FTTD 131200Z
+GAQ  GAGO,Gao Airport,39.0,GAGO 131200Z
+BPG  SBBW,Barra do Garças Airport,39.0,SBBW 131200Z
+GAKD,,38.0,GAKD 131200Z
+NIX  GANR,Nioro du Sahel Airport,38.0,GANR 131200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 131200Z
+IXW  VEJS,Sonari Airport,38.0,VEJS 131200Z
+VOGB,,38.0,VOGB 131200Z
+VOND,,38.0,VOND 131200Z
+BOY  DFOO,Bobo Dioulasso Airport,37.0,DFOO 131200Z
+SDB  FALW,Langebaanweg Airport,37.0,FALW 131200Z
+GAS  HKGA,Garissa Airport,37.0,HKGA 131200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,37.0,VAAH 131200Z
+BDQ  VABO,Vadodara Airport,37.0,VABO 131200Z
+VAHS,,37.0,VAHS 131200Z
+VAJL,,37.0,VAJL 131200Z
+VEKO,,37.0,VEKO 131200Z
+CDP  VOCP,Kadapa Airport,37.0,VOCP 131200Z
+BKO  GABS,Modibo Keita International Airport,36.0,GABS 131200Z
+TOM  GATB,Timbuktu Airport,36.0,GATB 131200Z
+KGG  GOTK,Kédougou Airport,36.0,GOTK 131200Z
+TUD  GOTT,Tambacounda Airport,36.0,GOTT 131200Z
+STV  VASU,Surat Airport,36.0,VASU 131200Z
+JRG  VEJH,Jharsuguda Airport,36.0,VEJH 131200Z
+RRK  VERK,Rourkela Airport,36.0,VERK 131200Z
+VOHB,,36.0,VOHB 131200Z
+HYD  VOHS,Rajiv Gandhi International Airport,36.0,VOHS 131200Z
+IXU  VAAU,Aurangabad Airport,36.0,VAAU 131230Z
+VERP,,36.0,VERP 131230Z
+KLH  VAKP,Kolhapur Airport,35.0,VAKP 131130Z
+LFW  DXXX,Lomé-Tokoin Airport,35.0,DXXX 131200Z
+BGF  FEFF,Bangui M'Poko International Airport,35.0,FEFF 131200Z
+KMP  FYKT,Keetmanshoop Airport,35.0,FYKT 131200Z
+MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 131200Z
+OEMN,,35.0,OEMN 131200Z
+GXF  OYSY,Sayun International Airport,35.0,OYSY 131200Z
+BHO  VABP,Raja Bhoj International Airport,35.0,VABP 131200Z
+JLR  VAJB,Jabalpur Airport,35.0,VAJB 131200Z
+UDR  VAUD,Maharana Pratap Airport,35.0,VAUD 131200Z
+CCU  VECC,Netaji Subhash Chandra Bose International Airport,35.0,VECC 131200Z
