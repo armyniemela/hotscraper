@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MFQ  DRRM,Maradi Airport,40.0,DRRM 131200Z
-DRZF,Diffa Airport,40.0,DRZ
-ZND  DRZR,Zinder Airport,40.0,DRZ
-NDJ  FTTJ,N'Djamena International Airport,40.0,FTTJ 131200Z
-AJY  DRZA,Mano Dayak International Airport,39.0,DRZ
-MQQ  FTTD,Moundou Airport,39.0,FTTD 131200Z
-GAQ  GAGO,Gao Airport,39.0,GAGO 131200Z
-BPG  SBBW,Barra do Garças Airport,39.0,SBBW 131200Z
-GAKD,,38.0,GAKD 131200Z
-NIX  GANR,Nioro du Sahel Airport,38.0,GANR 131200Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 131200Z
-IXW  VEJS,Sonari Airport,38.0,VEJS 131200Z
-VOGB,,38.0,VOGB 131200Z
-VOND,,38.0,VOND 131200Z
-BOY  DFOO,Bobo Dioulasso Airport,37.0,DFOO 131200Z
-SDB  FALW,Langebaanweg Airport,37.0,FALW 131200Z
-GAS  HKGA,Garissa Airport,37.0,HKGA 131200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,37.0,VAAH 131200Z
-BDQ  VABO,Vadodara Airport,37.0,VABO 131200Z
-VAHS,,37.0,VAHS 131200Z
-VAJL,,37.0,VAJL 131200Z
-VEKO,,37.0,VEKO 131200Z
-CDP  VOCP,Kadapa Airport,37.0,VOCP 131200Z
-BKO  GABS,Modibo Keita International Airport,36.0,GABS 131200Z
-TOM  GATB,Timbuktu Airport,36.0,GATB 131200Z
-KGG  GOTK,Kédougou Airport,36.0,GOTK 131200Z
-TUD  GOTT,Tambacounda Airport,36.0,GOTT 131200Z
-STV  VASU,Surat Airport,36.0,VASU 131200Z
-JRG  VEJH,Jharsuguda Airport,36.0,VEJH 131200Z
-RRK  VERK,Rourkela Airport,36.0,VERK 131200Z
-VOHB,,36.0,VOHB 131200Z
-HYD  VOHS,Rajiv Gandhi International Airport,36.0,VOHS 131200Z
-IXU  VAAU,Aurangabad Airport,36.0,VAAU 131230Z
-VERP,,36.0,VERP 131230Z
-KLH  VAKP,Kolhapur Airport,35.0,VAKP 131130Z
-LFW  DXXX,Lomé-Tokoin Airport,35.0,DXXX 131200Z
-BGF  FEFF,Bangui M'Poko International Airport,35.0,FEFF 131200Z
-KMP  FYKT,Keetmanshoop Airport,35.0,FYKT 131200Z
-MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 131200Z
-OEMN,,35.0,OEMN 131200Z
-GXF  OYSY,Sayun International Airport,35.0,OYSY 131200Z
-BHO  VABP,Raja Bhoj International Airport,35.0,VABP 131200Z
-JLR  VAJB,Jabalpur Airport,35.0,VAJB 131200Z
-UDR  VAUD,Maharana Pratap Airport,35.0,VAUD 131200Z
-CCU  VECC,Netaji Subhash Chandra Bose International Airport,35.0,VECC 131200Z
+NLD  MMNL,Quetzalcóatl International Airport,33.0,MMNL 140040Z
+NCPL,,33.0,NCPL 140100Z
+ISA  YBMA,Mount Isa Airport,33.0,YBMA 140100Z
+PHE  YPPD,Port Hedland International Airport,33.0,YPPD 140100Z
+DBO  YSDU,Dubbo City Regional Airport,33.0,YSDU 140100Z
+TRC  MMTC,Francisco Sarabia International Airport,32.0,MMTC 140040Z
+CVM  MMCV,General Pedro Jose Mendez International Airport,32.0,MMCV 140043Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,32.0,MMMD 140043Z
+HIR  AGGH,Honiara International Airport,32.0,AGGH 140100Z
+NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 140100Z
+APW  NSFA,Faleolo International Airport,32.0,NSFA 140100Z
+PCR  SKPC,German Olano Airport,32.0,SKPC 140100Z
+KNX  YPKU,Kununurra Airport,32.0,YPKU 140100Z
+PQM  MMPQ,Palenque International Airport,31.0,MMPQ 140040Z
+TGZ  MMTG,Angel Albino Corzo International Airport,31.0,MMTG 140040Z
+CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 140044Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 140050Z
+YAP  PTYA,Yap International Airport,31.0,PTYA 140052Z
+COT  KCOT,Cotulla-La Salle County Airport,31.0,KCOT 140053Z
+DRT  KDRT,Del Rio International Airport,31.0,KDRT 140053Z
+K5T9,,31.0,K5T9 140055Z
+KT89,,31.0,KT89 140055Z
+LRD  KLRD,Laredo International Airport,31.0,KLRD 140056Z
+POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 140100Z
+AIU  NCAT,Enua Airport,31.0,NCAT 140100Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 140100Z
+TBU  NFTF,Fua'amotu International Airport,31.0,NFTF 140100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 140100Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 140100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 140100Z
+HOI  NTTO,Hao Airport,31.0,NTTO 140100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 140100Z
+ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 140100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 140100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 140100Z
+SYD  YSSY,Sydney Kingsford Smith International Airport,31.0,YSSY 140100Z
+KPEZ,Pleasanton Municipal Airport,30.0,KPEZ
+NTR  MMAN,Del Norte International Airport,30.0,MMAN 140040Z
+PDS  MMPG,Piedras Negras International Airport,30.0,MMPG 140040Z
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 140050Z
+CZT  KCZT,Dimmit County Airport,30.0,KCZ
+DLF  KDLF,DLF Airport,30.0,KDLF 140055Z
+KFTN,,30.0,KFTN 140055Z
+KT70,,30.0,KT70 140055Z
