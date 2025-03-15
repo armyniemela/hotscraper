@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-COT  KCOT,Cotulla-La Salle County Airport,35.0,KCOT 150053Z
-LRD  KLRD,Laredo International Airport,35.0,KLRD 150056Z
-ASP  YBAS,Alice Springs Airport,35.0,YBAS 150100Z
-NTR  MMAN,Del Norte International Airport,34.0,MMAN 150040Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,34.0,MMCV 150040Z
-MTY  MMMY,General Mariano Escobedo International Airport,34.0,MMMY 150040Z
-PDS  MMPG,Piedras Negras International Airport,34.0,MMPG 150051Z
-MEL  YMML,Melbourne International Airport,34.0,YMML 150100Z
-PHE  YPPD,Port Hedland International Airport,34.0,YPPD 150100Z
-DBO  YSDU,Dubbo City Regional Airport,34.0,YSDU 150100Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,33.0,MMMD 150057Z
-ISA  YBMA,Mount Isa Airport,33.0,YBMA 150100Z
-PQM  MMPQ,Palenque International Airport,32.0,MMPQ 150041Z
-PPG  NSTU,Pago Pago International Airport,32.0,NSTU 150050Z
-SAT  KSAT,San Antonio International Airport,32.0,KSAT 150051Z
-MFE  KMFE,Mc Allen Miller International Airport,32.0,KMFE 150053Z
-KBKS,Brooks County Airport,32.0,KBKS 150055Z
-KCVB,Castroville Municipal Airport,32.0,KCVB 150055Z
-CZT  KCZT,Dimmit County Airport,32.0,KCZ
-KEBG,South Texas International At Edinburg Airport,32.0,KEBG 150055Z
-KFTN,,32.0,KFTN 150055Z
-NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 150100Z
-NCPL,,32.0,NCPL 150100Z
-DCN  YCIN,RAAF Base Curtin,32.0,YCIN 150100Z
-PAZ  MMPA,El Tajín National Airport,31.0,MMPA 150040Z
-REX  MMRX,General Lucio Blanco International Airport,31.0,MMRX 150040Z
-TGZ  MMTG,Angel Albino Corzo International Airport,31.0,MMTG 150044Z
-TRC  MMTC,Francisco Sarabia International Airport,31.0,MMTC 150046Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 150050Z
-YAP  PTYA,Yap International Airport,31.0,PTYA 150053Z
-K5T9,,31.0,K5T9 150055Z
-K8T6,,31.0,K8T6 150055Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 150100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 150100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 150100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 150100Z
-GES  RPMR,General Santos International Airport,31.0,RPMR 150100Z
-VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 150100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 150100Z
-BME  YBRM,Broome International Airport,31.0,YBRM 150100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 150100Z
-KNX  YPKU,Kununurra Airport,31.0,YPKU 150100Z
-XRH  YSRI,RAAF Base Richmond,31.0,YSRI 150100Z
-SYD  YSSY,Sydney Kingsford Smith International Airport,31.0,YSSY 150100Z
-MKQ  WAKK,Mopah Airport,30.0,WAKK 150030Z
+SRH  FTTA,Sarh Airport,40.0,FTTA 151200Z
+MQQ  FTTD,Moundou Airport,40.0,FTTD 151200Z
+DNGO,,39.0,DNGO 151200Z
+KAN  DNKN,Mallam Aminu International Airport,39.0,DNKN 151200Z
+NIM  DRRN,Diori Hamani International Airport,39.0,DRRN 151200Z
+DRZF,Diffa Airport,39.0,DRZ
+AEH  FTTC,Abeche Airport,39.0,FTTC 151200Z
+GAKD,,39.0,GAKD 151200Z
+LOK  HKLO,Lodwar Airport,39.0,HKLO 151200Z
+MZI  GAMB,Mopti Airport,38.0,GAMB 151200Z
+KGG  GOTK,Kédougou Airport,38.0,GOTK 151200Z
+TUD  GOTT,Tambacounda Airport,38.0,GOTT 151200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 151200Z
+IXW  VEJS,Sonari Airport,38.0,VEJS 151200Z
+VOND,,38.0,VOND 151200Z
+VOKU,,37.0,VOKU 151130Z
+TML  DGLE,Tamale Airport,37.0,DGLE 151200Z
+NIX  GANR,Nioro du Sahel Airport,37.0,GANR 151200Z
+TOM  GATB,Timbuktu Airport,37.0,GATB 151200Z
+MAX  GOSM,Ouro Sogui Airport,37.0,GOSM 151200Z
+WJR  HKWJ,Wajir Airport,37.0,HKWJ 151200Z
+VEKO,,37.0,VEKO 151200Z
+RRK  VERK,Rourkela Airport,37.0,VERK 151200Z
+VOGB,,37.0,VOGB 151200Z
+VEJR,,36.0,VEJR 151130Z
+OUA  DFFD,Ouagadougou Airport,36.0,DFFD 151200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,36.0,DNAA 151200Z
+MXJ  DNMN,Minna Airport,36.0,DNMN 151200Z
+GOGK,,36.0,GOGK 151200Z
+GOOG,,36.0,GOOG 151200Z
+OEMN,,36.0,OEMN 151200Z
+BDQ  VABO,Vadodara Airport,36.0,VABO 151200Z
+VAJL,,36.0,VAJL 151200Z
+STV  VASU,Surat Airport,36.0,VASU 151200Z
+JRG  VEJH,Jharsuguda Airport,36.0,VEJH 151200Z
+VERP,,36.0,VERP 151200Z
+ZVK  VLSK,Savannakhet Airport,36.0,VLSK 151200Z
+CDP  VOCP,Kadapa Airport,36.0,VOCP 151200Z
+VOHB,,36.0,VOHB 151200Z
+KLH  VAKP,Kolhapur Airport,35.0,VAKP 151130Z
+CJB  VOCB,Coimbatore International Airport,35.0,VOCB 151130Z
+BPM  VOHY,Begumpet Airport,35.0,VOHY 151130Z
+QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 151200Z
+NGE  FKKN,N'Gaoundéré Airport,35.0,FKKN 151200Z
+BKO  GABS,Modibo Keita International Airport,35.0,GABS 151200Z
