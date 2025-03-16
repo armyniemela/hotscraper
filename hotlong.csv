@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-SRH  FTTA,Sarh Airport,40.0,FTTA 151200Z
-MQQ  FTTD,Moundou Airport,40.0,FTTD 151200Z
-DNGO,,39.0,DNGO 151200Z
-KAN  DNKN,Mallam Aminu International Airport,39.0,DNKN 151200Z
-NIM  DRRN,Diori Hamani International Airport,39.0,DRRN 151200Z
-DRZF,Diffa Airport,39.0,DRZ
-AEH  FTTC,Abeche Airport,39.0,FTTC 151200Z
-GAKD,,39.0,GAKD 151200Z
-LOK  HKLO,Lodwar Airport,39.0,HKLO 151200Z
-MZI  GAMB,Mopti Airport,38.0,GAMB 151200Z
-KGG  GOTK,Kédougou Airport,38.0,GOTK 151200Z
-TUD  GOTT,Tambacounda Airport,38.0,GOTT 151200Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 151200Z
-IXW  VEJS,Sonari Airport,38.0,VEJS 151200Z
-VOND,,38.0,VOND 151200Z
-VOKU,,37.0,VOKU 151130Z
-TML  DGLE,Tamale Airport,37.0,DGLE 151200Z
-NIX  GANR,Nioro du Sahel Airport,37.0,GANR 151200Z
-TOM  GATB,Timbuktu Airport,37.0,GATB 151200Z
-MAX  GOSM,Ouro Sogui Airport,37.0,GOSM 151200Z
-WJR  HKWJ,Wajir Airport,37.0,HKWJ 151200Z
-VEKO,,37.0,VEKO 151200Z
-RRK  VERK,Rourkela Airport,37.0,VERK 151200Z
-VOGB,,37.0,VOGB 151200Z
-VEJR,,36.0,VEJR 151130Z
-OUA  DFFD,Ouagadougou Airport,36.0,DFFD 151200Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,36.0,DNAA 151200Z
-MXJ  DNMN,Minna Airport,36.0,DNMN 151200Z
-GOGK,,36.0,GOGK 151200Z
-GOOG,,36.0,GOOG 151200Z
-OEMN,,36.0,OEMN 151200Z
-BDQ  VABO,Vadodara Airport,36.0,VABO 151200Z
-VAJL,,36.0,VAJL 151200Z
-STV  VASU,Surat Airport,36.0,VASU 151200Z
-JRG  VEJH,Jharsuguda Airport,36.0,VEJH 151200Z
-VERP,,36.0,VERP 151200Z
-ZVK  VLSK,Savannakhet Airport,36.0,VLSK 151200Z
-CDP  VOCP,Kadapa Airport,36.0,VOCP 151200Z
-VOHB,,36.0,VOHB 151200Z
-KLH  VAKP,Kolhapur Airport,35.0,VAKP 151130Z
-CJB  VOCB,Coimbatore International Airport,35.0,VOCB 151130Z
-BPM  VOHY,Begumpet Airport,35.0,VOHY 151130Z
-QOW  DNIM,Sam Mbakwe International Airport,35.0,DNIM 151200Z
-NGE  FKKN,N'Gaoundéré Airport,35.0,FKKN 151200Z
-BKO  GABS,Modibo Keita International Airport,35.0,GABS 151200Z
+SYD  YSSY,Sydney Kingsford Smith International Airport,35.0,YSSY 160100Z
+PQM  MMPQ,Palenque International Airport,33.0,MMPQ 160040Z
+TUD  GOTT,Tambacounda Airport,33.0,GOTT 160100Z
+NCPL,,33.0,NCPL 160100Z
+LBS  NFNL,Labasa Airport,33.0,NFNL 160100Z
+ISA  YBMA,Mount Isa Airport,33.0,YBMA 160100Z
+BME  YBRM,Broome International Airport,33.0,YBRM 160100Z
+HIR  AGGH,Honiara International Airport,32.0,AGGH 160100Z
+MCR  MGMM,Melchor de Mencos Airport,32.0,MGMM 160100Z
+DCN  YCIN,RAAF Base Curtin,32.0,YCIN 160100Z
+KNX  YPKU,Kununurra Airport,32.0,YPKU 160100Z
+DBO  YSDU,Dubbo City Regional Airport,32.0,YSDU 160100Z
+NTL  YWLM,Newcastle Airport,32.0,YWLM 160100Z
+VSA  MMVA,Carlos Rovirosa Pérez International Airport,31.0,MMVA 160041Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 160100Z
+POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 160100Z
+NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 160100Z
+AIU  NCAT,Enua Airport,31.0,NCAT 160100Z
+SUV  NFNA,Nausori International Airport,31.0,NFNA 160100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 160100Z
+IUE  NIUE,Niue International Airport,31.0,NIUE 160100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 160100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 160100Z
+PPS  RPVP,Puerto Princesa Airport,31.0,RPVP 160100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 160100Z
+TKT  VTPT,Tak Airport,31.0,VTPT 160100Z
+MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 160100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 160100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 160100Z
+KTR  YPTN,Tindal Airport,31.0,YPTN 160100Z
+MTT  MMMT,Minatitlán/Coatzacoalcos National Airport,30.0,MMMT 160040Z
+PAZ  MMPA,El Tajín National Airport,30.0,MMPA 160040Z
+TGZ  MMTG,Angel Albino Corzo International Airport,30.0,MMTG 160040Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 160052Z
+PKMR,,30.0,PKMR 160053Z
+SPN  PGSN,Saipan International Airport,30.0,PGSN 160054Z
+AWK  PWAK,Wake Island Airfield,30.0,PWAK 160055Z
+MHX  NCMH,Manihiki Island Airport,30.0,NCMH 160100Z
+MUK  NCMK,Mauke Airport,30.0,NCMK 160100Z
+MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 160100Z
+RAR  NCRG,Rarotonga International Airport,30.0,NCRG 160100Z
+NAN  NFFN,Nadi International Airport,30.0,NFFN 160100Z
+SVU  NFNS,Savusavu Airport,30.0,NFNS 160100Z
+VAV  NFTV,Vava'u International Airport,30.0,NFTV 160100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 160100Z
