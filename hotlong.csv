@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,33.0,YBMA 170100Z
-HIR  AGGH,Honiara International Airport,32.0,AGGH 170100Z
-POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 170100Z
-LEA  YPLM,Learmonth Airport,32.0,YPLM 170100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 170100Z
-CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 170040Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 170050Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-TML  DGLE,Tamale Airport,31.0,DGLE 170100Z
-NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 170100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 170100Z
-SUV  NFNA,Nausori International Airport,31.0,NFNA 170100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 170100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 170100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 170100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 170100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 170100Z
-CHC  NZCH,Christchurch International Airport,31.0,NZ
-VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 170100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 170100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 170100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 170100Z
-GYM  MMGM,General José María Yáñez International Airport,30.0,MMGM 170040Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,30.0,MMHO 170040Z
-GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,30.0,MMGL 170041Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 170052Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 170054Z
-OUA  DFFD,Ouagadougou Airport,30.0,DFFD 170100Z
-MXJ  DNMN,Minna Airport,30.0,DNMN 170100Z
-MCR  MGMM,Melchor de Mencos Airport,30.0,MGMM 170100Z
-AIU  NCAT,Enua Airport,30.0,NCAT 170100Z
-MUK  NCMK,Mauke Airport,30.0,NCMK 170100Z
-MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 170100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 170100Z
-RAR  NCRG,Rarotonga International Airport,30.0,NCRG 170100Z
-NAN  NFFN,Nadi International Airport,30.0,NFFN 170100Z
-TVU  NFNM,Matei Airport,30.0,NFNM 170100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 170100Z
-PPT  NTAA,Faa'a International Airport,30.0,NTAA 170100Z
-SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 170100Z
-NOU  NWWW,La Tontouta International Airport,30.0,NWWW 170100Z
-CXI  PLCH,Cassidy International Airport,30.0,PLCH 170100Z
-MNL  RPLL,Ninoy Aquino International Airport,30.0,RPLL 170100Z
-GES  RPMR,General Santos International Airport,30.0,RPMR 170100Z
-DGT  RPVD,Sibulan Airport,30.0,RPVD 170100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,32.0,SKVP 180100Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 180040Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 180050Z
+ROR  PTRO,Babelthuap Airport,31.0,PTRO 180050Z
+HIR  AGGH,Honiara International Airport,31.0,AGGH 180100Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 180100Z
+BKO  GABS,Modibo Keita International Airport,31.0,GABS 180100Z
+GAKD,,31.0,GAKD 180100Z
+MGA  MNMG,Augusto C. Sandino (Managua) International Airport,31.0,MNMG 180100Z
+AIU  NCAT,Enua Airport,31.0,NCAT 180100Z
+MUK  NCMK,Mauke Airport,31.0,NCMK 180100Z
+NAN  NFFN,Nadi International Airport,31.0,NFFN 180100Z
+SUV  NFNA,Nausori International Airport,31.0,NFNA 180100Z
+TVU  NFNM,Matei Airport,31.0,NFNM 180100Z
+SVU  NFNS,Savusavu Airport,31.0,NFNS 180100Z
+TBU  NFTF,Fua'amotu International Airport,31.0,NFTF 180100Z
+VAV  NFTV,Vava'u International Airport,31.0,NFTV 180100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 180100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 180100Z
+SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 180100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 180100Z
+TAH  NVVW,Tanna Airport,31.0,NVVW 180100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 180100Z
+BME  YBRM,Broome International Airport,31.0,YBRM 180100Z
+KTR  YPTN,Tindal Airport,31.0,YPTN 180100Z
+GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,30.0,MMGL 180040Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 180050Z
+PNI  PTPN,Pohnpei International Airport,30.0,PTPN 180053Z
+PTTP,,30.0,PTTP 180054Z
+LAE  AYNZ,Nadzab Airport,30.0,AYNZ
+LIR  MRLB,Daniel Oduber Quiros International Airport,30.0,MRLB 180100Z
+SAL  MSLP,Monseñor Óscar Arnulfo Romero International Airport,30.0,MSLP 180100Z
+AIT  NCAI,Aitutaki Airport,30.0,NCAI 180100Z
+MHX  NCMH,Manihiki Island Airport,30.0,NCMH 180100Z
+MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 180100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 180100Z
+RAR  NCRG,Rarotonga International Airport,30.0,NCRG 180100Z
+HPA  NFTL,Lifuka Island Airport,30.0,NFTL 180100Z
+FUN  NGFU,Funafuti International Airport,30.0,NGFU 180100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 180100Z
+IUE  NIUE,Niue International Airport,30.0,NIUE 180100Z
+PPT  NTAA,Faa'a International Airport,30.0,NTAA 180100Z
+HOI  NTTO,Hao Airport,30.0,NTTO 180100Z
+LOD  NVSG,Longana Airport,30.0,NVSG 180100Z
+KWA  PKWA,Bucholz Army Air Field,30.0,PKWA 180100Z
