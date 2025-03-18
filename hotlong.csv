@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-VUP  SKVP,Alfonso López Pumarejo Airport,32.0,SKVP 180100Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 180040Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 180050Z
-ROR  PTRO,Babelthuap Airport,31.0,PTRO 180050Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 180100Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 180100Z
-BKO  GABS,Modibo Keita International Airport,31.0,GABS 180100Z
-GAKD,,31.0,GAKD 180100Z
-MGA  MNMG,Augusto C. Sandino (Managua) International Airport,31.0,MNMG 180100Z
-AIU  NCAT,Enua Airport,31.0,NCAT 180100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 180100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 180100Z
-SUV  NFNA,Nausori International Airport,31.0,NFNA 180100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 180100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 180100Z
-TBU  NFTF,Fua'amotu International Airport,31.0,NFTF 180100Z
-VAV  NFTV,Vava'u International Airport,31.0,NFTV 180100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 180100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 180100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 180100Z
-VLI  NVVV,Bauerfield International Airport,31.0,NVVV 180100Z
-TAH  NVVW,Tanna Airport,31.0,NVVW 180100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 180100Z
-BME  YBRM,Broome International Airport,31.0,YBRM 180100Z
-KTR  YPTN,Tindal Airport,31.0,YPTN 180100Z
-GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,30.0,MMGL 180040Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 180050Z
-PNI  PTPN,Pohnpei International Airport,30.0,PTPN 180053Z
-PTTP,,30.0,PTTP 180054Z
-LAE  AYNZ,Nadzab Airport,30.0,AYNZ
-LIR  MRLB,Daniel Oduber Quiros International Airport,30.0,MRLB 180100Z
-SAL  MSLP,Monseñor Óscar Arnulfo Romero International Airport,30.0,MSLP 180100Z
-AIT  NCAI,Aitutaki Airport,30.0,NCAI 180100Z
-MHX  NCMH,Manihiki Island Airport,30.0,NCMH 180100Z
-MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 180100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 180100Z
-RAR  NCRG,Rarotonga International Airport,30.0,NCRG 180100Z
-HPA  NFTL,Lifuka Island Airport,30.0,NFTL 180100Z
-FUN  NGFU,Funafuti International Airport,30.0,NGFU 180100Z
-TRW  NGTA,Bonriki International Airport,30.0,NGTA 180100Z
-IUE  NIUE,Niue International Airport,30.0,NIUE 180100Z
-PPT  NTAA,Faa'a International Airport,30.0,NTAA 180100Z
-HOI  NTTO,Hao Airport,30.0,NTTO 180100Z
-LOD  NVSG,Longana Airport,30.0,NVSG 180100Z
-KWA  PKWA,Bucholz Army Air Field,30.0,PKWA 180100Z
+THZ  DRRT,Tahoua Airport,40.0,DRRT 181200Z
+MQQ  FTTD,Moundou Airport,40.0,FTTD 181200Z
+NDJ  FTTJ,N'Djamena International Airport,40.0,FTTJ 181200Z
+GAKD,,40.0,GAKD 181200Z
+MFQ  DRRM,Maradi Airport,39.0,DRRM 181200Z
+AJY  DRZA,Mano Dayak International Airport,39.0,DRZ
+DRZF,Diffa Airport,39.0,DRZ
+ZND  DRZR,Zinder Airport,39.0,DRZ
+GOU  FKKR,Garoua International Airport,39.0,FKKR 181200Z
+SRH  FTTA,Sarh Airport,39.0,FTTA 181200Z
+AEH  FTTC,Abeche Airport,39.0,FTTC 181200Z
+TOM  GATB,Timbuktu Airport,39.0,GATB 181200Z
+GOOG,,39.0,GOOG 181200Z
+MAX  GOSM,Ouro Sogui Airport,39.0,GOSM 181200Z
+DNGO,,38.0,DNGO 181200Z
+BKO  GABS,Modibo Keita International Airport,38.0,GABS 181200Z
+NIX  GANR,Nioro du Sahel Airport,38.0,GANR 181200Z
+KLC  GOOK,Kaolack Airport,38.0,GOOK 181200Z
+TUD  GOTT,Tambacounda Airport,38.0,GOTT 181200Z
+VOND,,38.0,VOND 181200Z
+KLH  VAKP,Kolhapur Airport,37.0,VAKP 181130Z
+ZAR  DNZA,Zaria Airport,37.0,DNZ
+GOOD,,37.0,GOOD 181200Z
+POD  GOSP,Podor Airport,37.0,GOSP 181200Z
+KGG  GOTK,Kédougou Airport,37.0,GOTK 181200Z
+OEMN,,37.0,OEMN 181200Z
+BDQ  VABO,Vadodara Airport,37.0,VABO 181200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,37.0,VANP 181200Z
+CDP  VOCP,Kadapa Airport,37.0,VOCP 181200Z
+VOJV,,37.0,VOJV 181200Z
+BOY  DFOO,Bobo Dioulasso Airport,36.0,DFOO 181200Z
+MXJ  DNMN,Minna Airport,36.0,DNMN 181200Z
+XLS  GOSS,Saint Louis Airport,36.0,GOSS 181200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 181200Z
+WJR  HKWJ,Wajir Airport,36.0,HKWJ 181200Z
+JED  OEJN,King Abdulaziz International Airport,36.0,OEJN 181200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,36.0,OEMA 181200Z
+SHW  OESH,Sharurah Airport,36.0,OESH 181200Z
+VAJL,,36.0,VAJL 181200Z
+SAG  VASD,Shirdi Airport,36.0,VASD 181200Z
+STV  VASU,Surat Airport,36.0,VASU 181200Z
+VOHB,,36.0,VOHB 181200Z
+TIR  VOTP,Tirupati Airport,36.0,VOTP 181200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,36.0,VOTR 181200Z
+IXM  VOMD,Madurai Airport,35.0,VOMD 181130Z
