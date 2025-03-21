@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-DNKT,,40.0,DNKT 201200Z
-MFQ  DRRM,Maradi Airport,40.0,DRRM 201200Z
-AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
-ZND  DRZR,Zinder Airport,40.0,DRZ
-MQQ  FTTD,Moundou Airport,40.0,FTTD 201200Z
-NIX  GANR,Nioro du Sahel Airport,40.0,GANR 201200Z
-SKO  DNSO,Sadiq Abubakar III International Airport,39.0,DNSO 201200Z
-SRH  FTTA,Sarh Airport,39.0,FTTA 201200Z
-MZI  GAMB,Mopti Airport,39.0,GAMB 201200Z
-TOM  GATB,Timbuktu Airport,39.0,GATB 201200Z
-VOND,,38.0,VOND 201130Z
-OUA  DFFD,Ouagadougou Airport,38.0,DFFD 201200Z
-GAKD,,38.0,GAKD 201200Z
-VOGB,,37.0,VOGB 201130Z
-ZAR  DNZA,Zaria Airport,37.0,DNZ
-MAX  GOSM,Ouro Sogui Airport,37.0,GOSM 201200Z
-HOF  OEAH,Al Ahsa Airport,37.0,OEAH 201200Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,37.0,VANP 201200Z
-TIR  VOTP,Tirupati Airport,36.0,VOTP 201130Z
-MXJ  DNMN,Minna Airport,36.0,DNMN 201200Z
-KGG  GOTK,Kédougou Airport,36.0,GOTK 201200Z
-GAS  HKGA,Garissa Airport,36.0,HKGA 201200Z
-DMM  OEDF,King Fahd International Airport,36.0,OEDF 201200Z
-AUH  OMAA,Abu Dhabi International Airport,36.0,OMAA 201200Z
-GXF  OYSY,Sayun International Airport,36.0,OYSY 201200Z
-CDP  VOCP,Kadapa Airport,36.0,VOCP 201200Z
-KLH  VAKP,Kolhapur Airport,35.0,VAKP 201130Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 201200Z
-DXSK,Sokodé Airport,35.0,DXSK 201200Z
-PLZ  FAPE,Port Elizabeth Airport,35.0,FAPE 201200Z
-LOK  HKLO,Lodwar Airport,35.0,HKLO 201200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,35.0,OEYN 201200Z
-AAN  OMAL,Al Ain International Airport,35.0,OMAL 201200Z
-IXU  VAAU,Aurangabad Airport,35.0,VAAU 201200Z
-VAJL,,35.0,VAJL 201200Z
-VEBU,,35.0,VEBU 201200Z
-JRG  VEJH,Jharsuguda Airport,35.0,VEJH 201200Z
-VOHB,,35.0,VOHB 201200Z
-VOJV,,35.0,VOJV 201200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,35.0,VOTR 201200Z
-VVZ  DAAP,Illizi Takhamalt Airport,34.0,DAAP 201200Z
-LFW  DXXX,Lomé-Tokoin Airport,34.0,DXXX 201200Z
-DLA  FKKD,Douala International Airport,34.0,FKKD 201200Z
-MJN  FMNM,Amborovy Airport,34.0,FMNM 201200Z
-GOOG,,34.0,GOOG 201200Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 210054Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 210100Z
+POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 210100Z
+OUA  DFFD,Ouagadougou Airport,31.0,DFFD 210100Z
+AIU  NCAT,Enua Airport,31.0,NCAT 210100Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 210100Z
+NAN  NFFN,Nadi International Airport,31.0,NFFN 210100Z
+TBU  NFTF,Fua'amotu International Airport,31.0,NFTF 210100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 210100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 210100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 210100Z
+PNZ  SBPL,Senador Nilo Coelho Airport,31.0,SBPL 210100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 210100Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 210100Z
+MKQ  WAKK,Mopah Airport,31.0,WAKK 210100Z
+WAYY,,31.0,WAYY 210100Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 210100Z
+DRW  YPDN,Darwin International Airport,31.0,YPDN 210100Z
+GOV  YPGV,Gove Airport,31.0,YPGV 210100Z
+KWA  PKWA,Bucholz Army Air Field,30.0,PKWA 210020Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 210050Z
+SPN  PGSN,Saipan International Airport,30.0,PGSN 210054Z
+UAM  PGUA,Andersen Air Force Base,30.0,PGUA 210055Z
+MGA  MNMG,Augusto C. Sandino (Managua) International Airport,30.0,MNMG 210100Z
+LIR  MRLB,Daniel Oduber Quiros International Airport,30.0,MRLB 210100Z
+MUK  NCMK,Mauke Airport,30.0,NCMK 210100Z
+PYE  NCPY,Tongareva Airport,30.0,NCPY 210100Z
+HPA  NFTL,Lifuka Island Airport,30.0,NFTL 210100Z
+TRW  NGTA,Bonriki International Airport,30.0,NGTA 210100Z
+IUE  NIUE,Niue International Airport,30.0,NIUE 210100Z
+WLS  NLWW,Hihifo Airport,30.0,NLWW 210100Z
+SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 210100Z
+TAH  NVVW,Tanna Airport,30.0,NVVW 210100Z
+CXI  PLCH,Cassidy International Airport,30.0,PLCH 210100Z
+SFS  RPLB,Subic Bay International Airport,30.0,RPLB 210100Z
+SMR  SKSM,Simón Bolívar International Airport,30.0,SKSM 210100Z
+BIK  WABB,Frans Kaisiepo Airport,30.0,WABB 210100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",30.0,WAPP 210100Z
+KOE  WATT,El Tari Airport,30.0,WATT 210100Z
+ASP  YBAS,Alice Springs Airport,30.0,YBAS 210100Z
+ISA  YBMA,Mount Isa Airport,30.0,YBMA 210100Z
+BME  YBRM,Broome International Airport,30.0,YBRM 210100Z
+GET  YGEL,Geraldton Airport,30.0,YGEL 210100Z
+GLT  YGLA,Gladstone Airport,30.0,YGLA 210100Z
+HID  YHID,Horn Island Airport,30.0,YHID 210100Z
