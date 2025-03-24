@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BHU  VABV,Bhavnagar Airport,37.0,VABV 231130Z
-TML  DGLE,Tamale Airport,37.0,DGLE 231200Z
-DNGO,,37.0,DNGO 231200Z
-THZ  DRRT,Tahoua Airport,37.0,DRRT 231200Z
-SRH  FTTA,Sarh Airport,37.0,FTTA 231200Z
-NDJ  FTTJ,N'Djamena International Airport,37.0,FTTJ 231200Z
-GAKD,,37.0,GAKD 231200Z
-NIX  GANR,Nioro du Sahel Airport,37.0,GANR 231200Z
-LOK  HKLO,Lodwar Airport,37.0,HKLO 231200Z
-ACZ  OIZB,Zabol Airport,37.0,OIZ
-VAHS,,37.0,VAHS 231200Z
-STV  VASU,Surat Airport,37.0,VASU 231200Z
-VOND,,37.0,VOND 231200Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,36.0,DNAA 231200Z
-MFQ  DRRM,Maradi Airport,36.0,DRRM 231200Z
-DTTD,Remada Air Base,36.0,DTTD 231200Z
-DXSK,Sokodé Airport,36.0,DXSK 231200Z
-MQQ  FTTD,Moundou Airport,36.0,FTTD 231200Z
-MZI  GAMB,Mopti Airport,36.0,GAMB 231200Z
-KGG  GOTK,Kédougou Airport,36.0,GOTK 231200Z
-GXF  OYSY,Sayun International Airport,36.0,OYSY 231200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,36.0,VAAH 231200Z
-VAJL,,36.0,VAJL 231200Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,36.0,VANP 231200Z
-VOHB,,36.0,VOHB 231200Z
-KLH  VAKP,Kolhapur Airport,35.0,VAKP 231130Z
-INZ  DAUI,In Salah Airport,35.0,DAUI 231200Z
-ILR  DNIL,Ilorin International Airport,35.0,DNIL 231200Z
-ZAR  DNZA,Zaria Airport,35.0,DNZ
-AEH  FTTC,Abeche Airport,35.0,FTTC 231200Z
-GOOG,,35.0,GOOG 231200Z
-WJR  HKWJ,Wajir Airport,35.0,HKWJ 231200Z
-DXB  OMDB,Dubai International Airport,35.0,OMDB 231200Z
-CDP  VOCP,Kadapa Airport,35.0,VOCP 231200Z
-IXU  VAAU,Aurangabad Airport,35.0,VAAU 231230Z
-ZND  DRZR,Zinder Airport,34.0,DRZ
-TUD  GOTT,Tambacounda Airport,34.0,GOTT 231200Z
-LAU  HKLU,Manda Airstrip,34.0,HKLU 231200Z
-IHR  OIZI,Iran Shahr Airport,34.0,OIZ
-AUH  OMAA,Abu Dhabi International Airport,34.0,OMAA 231200Z
-DWC  OMDW,Al Maktoum International Airport,34.0,OMDW 231200Z
-RKT  OMRK,Ras Al Khaimah International Airport,34.0,OMRK 231200Z
-SAG  VASD,Shirdi Airport,34.0,VASD 231200Z
-UDR  VAUD,Maharana Pratap Airport,34.0,VAUD 231200Z
-CJB  VOCB,Coimbatore International Airport,34.0,VOCB 231200Z
+PNI  PTPN,Pohnpei International Airport,32.0,PTPN 240050Z
+PSP  KPSP,Palm Springs International Airport,32.0,KPSP 240053Z
+HIR  AGGH,Honiara International Airport,32.0,AGGH 240100Z
+POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 240100Z
+BMW  DATM,Bordj Badji Mokhtar Airport,32.0,DATM 240100Z
+MHX  NCMH,Manihiki Island Airport,32.0,NCMH 240100Z
+PPT  NTAA,Faa'a International Airport,32.0,NTAA 240100Z
+DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 240100Z
+KNX  YPKU,Kununurra Airport,32.0,YPKU 240100Z
+LEA  YPLM,Learmonth Airport,32.0,YPLM 240100Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,31.0,MMML 240043Z
+CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 240047Z
+BLH  KBLH,Blythe Airport,31.0,KBLH 240052Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,31.0,KTRM 240052Z
+COT  KCOT,Cotulla-La Salle County Airport,31.0,KCOT 240053Z
+IPL  KIPL,Imperial County Airport,31.0,KIPL 240053Z
+LGF  KLGF,Laguna Army Airfield,31.0,KLGF 240055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),31.0,KNJK 240056Z
+KNOZ,,31.0,KNOZ
+OUA  DFFD,Ouagadougou Airport,31.0,DFFD 240100Z
+MGA  MNMG,Augusto C. Sandino (Managua) International Airport,31.0,MNMG 240100Z
+DAV  MPDA,Enrique Malek International Airport,31.0,MPDA 240100Z
+PYE  NCPY,Tongareva Airport,31.0,NCPY 240100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 240100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 240100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 240100Z
+NOU  NWWW,La Tontouta International Airport,31.0,NWWW 240100Z
+PCR  SKPC,German Olano Airport,31.0,SKPC 240100Z
+SMR  SKSM,Simón Bolívar International Airport,31.0,SKSM 240100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 240100Z
+HII  KHII,Lake Havasu City Airport,31.0,KHII 240115Z
+WAYY,,30.0,WAYY 240030Z
+NLD  MMNL,Quetzalcóatl International Airport,30.0,MMNL 240040Z
+PDS  MMPG,Piedras Negras International Airport,30.0,MMPG 240040Z
+TGZ  MMTG,Angel Albino Corzo International Airport,30.0,MMTG 240040Z
+CME  MMCE,Ciudad del Carmen International Airport,30.0,MMCE 240041Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,30.0,KPHX 240051Z
+DRT  KDRT,Del Rio International Airport,30.0,KDRT 240053Z
+SPN  PGSN,Saipan International Airport,30.0,PGSN 240054Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 240054Z
+KGXF,,30.0,KGXF 240055Z
+EED  KEED,Needles Airport,30.0,KEED 240056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,30.0,KNYL 240057Z
+VVZ  DAAP,Illizi Takhamalt Airport,30.0,DAAP 240100Z
+INZ  DAUI,In Salah Airport,30.0,DAUI 240100Z
