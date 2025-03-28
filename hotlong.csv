@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HIR  AGGH,Honiara International Airport,32.0,AGGH 280100Z
-MHX  NCMH,Manihiki Island Airport,32.0,NCMH 280100Z
-SUV  NFNA,Nausori International Airport,32.0,NFNA 280100Z
-LBS  NFNL,Labasa Airport,32.0,NFNL 280100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 280100Z
-LAO  RPLI,Laoag International Airport,32.0,RPLI 280100Z
-MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 280100Z
-PCR  SKPC,German Olano Airport,32.0,SKPC 280100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",32.0,WAPP 280100Z
-DCN  YCIN,RAAF Base Curtin,32.0,YCIN 280100Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 280040Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,31.0,MMML 280040Z
-KCHD,Chandler Municipal Airport,31.0,KCHD 280047Z
-GYR  KGYR,Phoenix Goodyear Airport,31.0,KGYR 280047Z
-KGEU,Glendale Municipal Airport,31.0,KGEU 280050Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 280050Z
-ROR  PTRO,Babelthuap Airport,31.0,PTRO 280050Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 280050Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,31.0,KIWA 280051Z
-MSC  KFFZ,Falcon Field,31.0,KFFZ
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 280055Z
-EED  KEED,Needles Airport,31.0,KEED 280056Z
-KNOZ,,31.0,KNOZ
-TUD  GOTT,Tambacounda Airport,31.0,GOTT 280100Z
-AIU  NCAT,Enua Airport,31.0,NCAT 280100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 280100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 280100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 280100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 280100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 280100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 280100Z
-SFS  RPLB,Subic Bay International Airport,31.0,RPLB 280100Z
-ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
-VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 280100Z
-BIK  WABB,Frans Kaisiepo Airport,31.0,WABB 280100Z
-BPN  WALL,Sultan Aji Muhamad Sulaiman Airport,31.0,WALL 280100Z
-MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 280100Z
-ISA  YBMA,Mount Isa Airport,31.0,YBMA 280100Z
-BME  YBRM,Broome International Airport,31.0,YBRM 280100Z
-SVJM,San Juan de Los Morros Airport,31.0,SVJM 280103Z
-HII  KHII,Lake Havasu City Airport,31.0,KHII 280115Z
-IFP  KIFP,Laughlin Bullhead International Airport,31.0,KIFP 280115Z
-PQM  MMPQ,Palenque International Airport,30.0,MMPQ 280043Z
-KRYN,Ryan Field,30.0,KRYN 280045Z
-CVJ  MMCB,General Mariano Matamoros Airport,30.0,MMCB 280047Z
+SRH  FTTA,Sarh Airport,41.0,FTTA 281200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,40.0,DNSO 281200Z
+MFQ  DRRM,Maradi Airport,40.0,DRRM 281200Z
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+NDJ  FTTJ,N'Djamena International Airport,40.0,FTTJ 281200Z
+MZI  GAMB,Mopti Airport,40.0,GAMB 281200Z
+OUA  DFFD,Ouagadougou Airport,39.0,DFFD 281200Z
+GAQ  GAGO,Gao Airport,39.0,GAGO 281200Z
+NIX  GANR,Nioro du Sahel Airport,39.0,GANR 281200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,39.0,VANP 281200Z
+BKO  GABS,Modibo Keita International Airport,38.0,GABS 281200Z
+GAKD,,38.0,GAKD 281200Z
+VEBU,,38.0,VEBU 281200Z
+CCU  VECC,Netaji Subhash Chandra Bose International Airport,38.0,VECC 281200Z
+JRG  VEJH,Jharsuguda Airport,38.0,VEJH 281200Z
+IXW  VEJS,Sonari Airport,38.0,VEJS 281200Z
+CDP  VOCP,Kadapa Airport,38.0,VOCP 281200Z
+VOGB,,38.0,VOGB 281200Z
+VOND,,38.0,VOND 281200Z
+TIR  VOTP,Tirupati Airport,38.0,VOTP 281200Z
+VAJL,,37.0,VAJL 281130Z
+KGG  GOTK,Kédougou Airport,37.0,GOTK 281200Z
+PAT  VEPT,Lok Nayak Jayaprakash Airport,37.0,VEPT 281200Z
+VERP,,37.0,VERP 281200Z
+CJB  VOCB,Coimbatore International Airport,37.0,VOCB 281200Z
+BPM  VOHY,Begumpet Airport,36.0,VOHY 281130Z
+BDQ  VABO,Vadodara Airport,36.0,VABO 281200Z
+VEBN,,36.0,VEBN 281200Z
+VEKO,,36.0,VEKO 281200Z
+VGA  VOBZ,Vijayawada Airport,36.0,VOBZ
+VOHB,,36.0,VOHB 281200Z
+HYD  VOHS,Rajiv Gandhi International Airport,36.0,VOHS 281200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,36.0,VOTR 281200Z
+TLV  LLBG,Ben Gurion International Airport,36.0,LLBG 281220Z
+BOY  DFOO,Bobo Dioulasso Airport,35.0,DFOO 281200Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,DNAA 281200Z
+TOM  GATB,Timbuktu Airport,35.0,GATB 281200Z
+MAX  GOSM,Ouro Sogui Airport,35.0,GOSM 281200Z
+JED  OEJN,King Abdulaziz International Airport,35.0,OEJN 281200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,35.0,OEMA 281200Z
+IXU  VAAU,Aurangabad Airport,35.0,VAAU 281200Z
+JLR  VAJB,Jabalpur Airport,35.0,VAJB 281200Z
+ISK  VAOZ,Nashik Airport,35.0,VAOZ
+RDP  VEDG,Kazi Nazrul Islam Airport,35.0,VEDG 281200Z
+LKO  VILK,Chaudhary Charan Singh International Airport,35.0,VILK 281200Z
