@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,32.0,MMMD 290040Z
-INU  ANYN,Nauru International Airport,32.0,ANYN 290100Z
-POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 290100Z
-TUD  GOTT,Tambacounda Airport,32.0,GOTT 290100Z
-MHX  NCMH,Manihiki Island Airport,32.0,NCMH 290100Z
-SVU  NFNS,Savusavu Airport,32.0,NFNS 290100Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 290100Z
-APW  NSFA,Faleolo International Airport,32.0,NSFA 290100Z
-PCR  SKPC,German Olano Airport,32.0,SKPC 290100Z
-DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 290100Z
-MDC  WAMM,Sam Ratulangi Airport,32.0,WAMM 290100Z
-LEA  YPLM,Learmonth Airport,32.0,YPLM 290100Z
-TGZ  MMTG,Angel Albino Corzo International Airport,31.0,MMTG 290040Z
-PQM  MMPQ,Palenque International Airport,31.0,MMPQ 290041Z
-CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,31.0,MMCP 290050Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 290050Z
-ROR  PTRO,Babelthuap Airport,31.0,PTRO 290050Z
-GAKD,,31.0,GAKD 290100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 290100Z
-VAV  NFTV,Vava'u International Airport,31.0,NFTV 290100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 290100Z
-CXI  PLCH,Cassidy International Airport,31.0,PLCH 290100Z
-VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 290100Z
-BIK  WABB,Frans Kaisiepo Airport,31.0,WABB 290100Z
-MKQ  WAKK,Mopah Airport,31.0,WAKK 290100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 290100Z
-HID  YHID,Horn Island Airport,31.0,YHID 290100Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,30.0,MMHO 290040Z
-LAP  MMLP,Manuel Márquez de León International Airport,30.0,MMLP 290045Z
-PPG  NSTU,Pago Pago International Airport,30.0,NSTU 290050Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 290050Z
-KSA  PTSA,Kosrae International Airport,30.0,PTSA 290050Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 290054Z
-LAE  AYNZ,Nadzab Airport,30.0,AYNZ
-NIM  DRRN,Diori Hamani International Airport,30.0,DRRN 290100Z
-AIU  NCAT,Enua Airport,30.0,NCAT 290100Z
-MUK  NCMK,Mauke Airport,30.0,NCMK 290100Z
-MOI  NCMR,Mitiaro Island Airport,30.0,NCMR 290100Z
-PYE  NCPY,Tongareva Airport,30.0,NCPY 290100Z
-RAR  NCRG,Rarotonga International Airport,30.0,NCRG 290100Z
-SUV  NFNA,Nausori International Airport,30.0,NFNA 290100Z
-HPA  NFTL,Lifuka Island Airport,30.0,NFTL 290100Z
-PPT  NTAA,Faa'a International Airport,30.0,NTAA 290100Z
-HOI  NTTO,Hao Airport,30.0,NTTO 290100Z
-SON  NVSS,Santo Pekoa International Airport,30.0,NVSS 290100Z
+THZ  DRRT,Tahoua Airport,41.0,DRRT 291200Z
+ZND  DRZR,Zinder Airport,41.0,DRZ
+GOU  FKKR,Garoua International Airport,41.0,FKKR 291200Z
+NDJ  FTTJ,N'Djamena International Airport,41.0,FTTJ 291200Z
+OUA  DFFD,Ouagadougou Airport,40.0,DFFD 291200Z
+KAN  DNKN,Mallam Aminu International Airport,40.0,DNKN 291200Z
+MFQ  DRRM,Maradi Airport,40.0,DRRM 291200Z
+MQQ  FTTD,Moundou Airport,40.0,FTTD 291200Z
+GAKD,,40.0,GAKD 291200Z
+AJY  DRZA,Mano Dayak International Airport,39.0,DRZ
+NIX  GANR,Nioro du Sahel Airport,39.0,GANR 291200Z
+CDP  VOCP,Kadapa Airport,39.0,VOCP 291200Z
+VOND,,39.0,VOND 291200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,38.0,VOTR 291130Z
+BGF  FEFF,Bangui M'Poko International Airport,38.0,FEFF 291200Z
+SRH  FTTA,Sarh Airport,38.0,FTTA 291200Z
+BKO  GABS,Modibo Keita International Airport,38.0,GABS 291200Z
+MZI  GAMB,Mopti Airport,38.0,GAMB 291200Z
+TUD  GOTT,Tambacounda Airport,38.0,GOTT 291200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 291200Z
+VOGB,,38.0,VOGB 291200Z
+TIR  VOTP,Tirupati Airport,38.0,VOTP 291200Z
+IXK  VAKS,Keshod Airport,37.0,VAKS 291130Z
+MDL  VYMD,Mandalay International Airport,37.0,VYMD 291130Z
+MAX  GOSM,Ouro Sogui Airport,37.0,GOSM 291200Z
+JED  OEJN,King Abdulaziz International Airport,37.0,OEJN 291200Z
+OEMN,,37.0,OEMN 291200Z
+IXU  VAAU,Aurangabad Airport,37.0,VAAU 291200Z
+BDQ  VABO,Vadodara Airport,37.0,VABO 291200Z
+VAJL,,37.0,VAJL 291200Z
+VEBU,,37.0,VEBU 291200Z
+JRG  VEJH,Jharsuguda Airport,37.0,VEJH 291200Z
+IXW  VEJS,Sonari Airport,37.0,VEJS 291200Z
+IXM  VOMD,Madurai Airport,37.0,VOMD 291200Z
+KLH  VAKP,Kolhapur Airport,36.0,VAKP 291130Z
+VEJR,,36.0,VEJR 291130Z
+BOY  DFOO,Bobo Dioulasso Airport,36.0,DFOO 291200Z
+NGE  FKKN,N'Gaoundéré Airport,36.0,FKKN 291200Z
+GOGK,,36.0,GOGK 291200Z
+VERP,,36.0,VERP 291200Z
+VGA  VOBZ,Vijayawada Airport,36.0,VOBZ
+CJB  VOCB,Coimbatore International Airport,36.0,VOCB 291200Z
+BPM  VOHY,Begumpet Airport,36.0,VOHY 291200Z
+VOJV,,36.0,VOJV 291200Z
+MAA  VOMM,Chennai International Airport,36.0,VOMM 291200Z
