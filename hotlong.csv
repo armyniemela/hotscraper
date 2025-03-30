@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NTR  MMAN,Del Norte International Airport,33.0,MMAN 300040Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,33.0,MMCV 300040Z
-NLD  MMNL,Quetzalcóatl International Airport,33.0,MMNL 300040Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,33.0,MMMD 300044Z
-DLF  KDLF,DLF Airport,33.0,KDLF 300055Z
-POM  AYPY,Port Moresby Jacksons International Airport,33.0,AYPY 300100Z
-OUA  DFFD,Ouagadougou Airport,33.0,DFFD 300100Z
-TUD  GOTT,Tambacounda Airport,33.0,GOTT 300100Z
-LEA  YPLM,Learmonth Airport,33.0,YPLM 300100Z
-PHE  YPPD,Port Hedland International Airport,33.0,YPPD 300100Z
-K5T9,,33.0,K5T9 300115Z
-TGZ  MMTG,Angel Albino Corzo International Airport,32.0,MMTG 300042Z
-COT  KCOT,Cotulla-La Salle County Airport,32.0,KCOT 300053Z
-LRD  KLRD,Laredo International Airport,32.0,KLRD 300056Z
-NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 300100Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 300100Z
-LAO  RPLI,Laoag International Airport,32.0,RPLI 300100Z
-PCR  SKPC,German Olano Airport,32.0,SKPC 300100Z
-PQM  MMPQ,Palenque International Airport,31.0,MMPQ 300042Z
-LAP  MMLP,Manuel Márquez de León International Airport,31.0,MMLP 300047Z
-GUM  PGUM,Antonio B. Won Pat International Airport,31.0,PGUM 300054Z
-KT70,,31.0,KT70 300055Z
-MXJ  DNMN,Minna Airport,31.0,DNMN 300100Z
-SUV  NFNA,Nausori International Airport,31.0,NFNA 300100Z
-VAV  NFTV,Vava'u International Airport,31.0,NFTV 300100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 300100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 300100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 300100Z
-VLI  NVVV,Bauerfield International Airport,31.0,NVVV 300100Z
-VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 300100Z
-PHS  VTPP,Phitsanulok Airport,31.0,VTPP 300100Z
-TKT  VTPT,Tak Airport,31.0,VTPT 300100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 300100Z
-GET  YGEL,Geraldton Airport,31.0,YGEL 300100Z
-HID  YHID,Horn Island Airport,31.0,YHID 300100Z
-CZT  KCZT,Dimmit County Airport,31.0,KCZ
-KFTN,,31.0,KFTN 300115Z
-CVJ  MMCB,General Mariano Matamoros Airport,30.0,MMCB 300040Z
-CME  MMCE,Ciudad del Carmen International Airport,30.0,MMCE 300040Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,30.0,MMVA 300042Z
-PPG  NSTU,Pago Pago International Airport,30.0,NSTU 300050Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 300050Z
-JCT  KJCT,Kimble County Airport,30.0,KJCT 300051Z
-HRL  KHRL,Valley International Airport,30.0,KHRL 300052Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 300053Z
+THZ  DRRT,Tahoua Airport,41.0,DRRT 301200Z
+GOU  FKKR,Garoua International Airport,41.0,FKKR 301200Z
+AEH  FTTC,Abeche Airport,41.0,FTTC 301200Z
+MQQ  FTTD,Moundou Airport,41.0,FTTD 301200Z
+YOL  DNYO,Yola Airport,40.0,DNYO 301200Z
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+ZND  DRZR,Zinder Airport,40.0,DRZ
+OUA  DFFD,Ouagadougou Airport,39.0,DFFD 301200Z
+DNGO,,39.0,DNGO 301200Z
+VOND,,39.0,VOND 301200Z
+GAKD,,38.0,GAKD 301200Z
+MZI  GAMB,Mopti Airport,38.0,GAMB 301200Z
+NIX  GANR,Nioro du Sahel Airport,38.0,GANR 301200Z
+GOGK,,38.0,GOGK 301200Z
+MAX  GOSM,Ouro Sogui Airport,38.0,GOSM 301200Z
+TUD  GOTT,Tambacounda Airport,38.0,GOTT 301200Z
+BDQ  VABO,Vadodara Airport,38.0,VABO 301200Z
+VAJL,,38.0,VAJL 301200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 301200Z
+VEBU,,38.0,VEBU 301200Z
+JRG  VEJH,Jharsuguda Airport,38.0,VEJH 301201Z
+MDL  VYMD,Mandalay International Airport,37.0,VYMD 301130Z
+BOY  DFOO,Bobo Dioulasso Airport,37.0,DFOO 301200Z
+OEMN,,37.0,OEMN 301200Z
+IXU  VAAU,Aurangabad Airport,37.0,VAAU 301200Z
+VAHS,,37.0,VAHS 301200Z
+CDP  VOCP,Kadapa Airport,37.0,VOCP 301200Z
+TIR  VOTP,Tirupati Airport,37.0,VOTP 301200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,37.0,VOTR 301200Z
+BHU  VABV,Bhavnagar Airport,36.0,VABV 301130Z
+MXJ  DNMN,Minna Airport,36.0,DNMN 301200Z
+BKO  GABS,Modibo Keita International Airport,36.0,GABS 301200Z
+ZIG  GOGG,Ziguinchor Airport,36.0,GOGG 301200Z
+KGG  GOTK,Kédougou Airport,36.0,GOTK 301200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 301200Z
+HOF  OEAH,Al Ahsa Airport,36.0,OEAH 301200Z
+SHW  OESH,Sharurah Airport,36.0,OESH 301200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,36.0,VAAH 301200Z
+ISK  VAOZ,Nashik Airport,36.0,VAOZ
+SAG  VASD,Shirdi Airport,36.0,VASD 301200Z
+STV  VASU,Surat Airport,36.0,VASU 301200Z
+VERP,,36.0,VERP 301200Z
+CJB  VOCB,Coimbatore International Airport,36.0,VOCB 301200Z
+HYD  VOHS,Rajiv Gandhi International Airport,36.0,VOHS 301200Z
+IXM  VOMD,Madurai Airport,36.0,VOMD 301200Z
