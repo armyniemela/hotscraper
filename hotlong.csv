@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-THZ  DRRT,Tahoua Airport,41.0,DRRT 291200Z
-ZND  DRZR,Zinder Airport,41.0,DRZ
-GOU  FKKR,Garoua International Airport,41.0,FKKR 291200Z
-NDJ  FTTJ,N'Djamena International Airport,41.0,FTTJ 291200Z
-OUA  DFFD,Ouagadougou Airport,40.0,DFFD 291200Z
-KAN  DNKN,Mallam Aminu International Airport,40.0,DNKN 291200Z
-MFQ  DRRM,Maradi Airport,40.0,DRRM 291200Z
-MQQ  FTTD,Moundou Airport,40.0,FTTD 291200Z
-GAKD,,40.0,GAKD 291200Z
-AJY  DRZA,Mano Dayak International Airport,39.0,DRZ
-NIX  GANR,Nioro du Sahel Airport,39.0,GANR 291200Z
-CDP  VOCP,Kadapa Airport,39.0,VOCP 291200Z
-VOND,,39.0,VOND 291200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,38.0,VOTR 291130Z
-BGF  FEFF,Bangui M'Poko International Airport,38.0,FEFF 291200Z
-SRH  FTTA,Sarh Airport,38.0,FTTA 291200Z
-BKO  GABS,Modibo Keita International Airport,38.0,GABS 291200Z
-MZI  GAMB,Mopti Airport,38.0,GAMB 291200Z
-TUD  GOTT,Tambacounda Airport,38.0,GOTT 291200Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 291200Z
-VOGB,,38.0,VOGB 291200Z
-TIR  VOTP,Tirupati Airport,38.0,VOTP 291200Z
-IXK  VAKS,Keshod Airport,37.0,VAKS 291130Z
-MDL  VYMD,Mandalay International Airport,37.0,VYMD 291130Z
-MAX  GOSM,Ouro Sogui Airport,37.0,GOSM 291200Z
-JED  OEJN,King Abdulaziz International Airport,37.0,OEJN 291200Z
-OEMN,,37.0,OEMN 291200Z
-IXU  VAAU,Aurangabad Airport,37.0,VAAU 291200Z
-BDQ  VABO,Vadodara Airport,37.0,VABO 291200Z
-VAJL,,37.0,VAJL 291200Z
-VEBU,,37.0,VEBU 291200Z
-JRG  VEJH,Jharsuguda Airport,37.0,VEJH 291200Z
-IXW  VEJS,Sonari Airport,37.0,VEJS 291200Z
-IXM  VOMD,Madurai Airport,37.0,VOMD 291200Z
-KLH  VAKP,Kolhapur Airport,36.0,VAKP 291130Z
-VEJR,,36.0,VEJR 291130Z
-BOY  DFOO,Bobo Dioulasso Airport,36.0,DFOO 291200Z
-NGE  FKKN,N'Gaoundéré Airport,36.0,FKKN 291200Z
-GOGK,,36.0,GOGK 291200Z
-VERP,,36.0,VERP 291200Z
-VGA  VOBZ,Vijayawada Airport,36.0,VOBZ
-CJB  VOCB,Coimbatore International Airport,36.0,VOCB 291200Z
-BPM  VOHY,Begumpet Airport,36.0,VOHY 291200Z
-VOJV,,36.0,VOJV 291200Z
-MAA  VOMM,Chennai International Airport,36.0,VOMM 291200Z
+NTR  MMAN,Del Norte International Airport,33.0,MMAN 300040Z
+CVM  MMCV,General Pedro Jose Mendez International Airport,33.0,MMCV 300040Z
+NLD  MMNL,Quetzalcóatl International Airport,33.0,MMNL 300040Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,33.0,MMMD 300044Z
+DLF  KDLF,DLF Airport,33.0,KDLF 300055Z
+POM  AYPY,Port Moresby Jacksons International Airport,33.0,AYPY 300100Z
+OUA  DFFD,Ouagadougou Airport,33.0,DFFD 300100Z
+TUD  GOTT,Tambacounda Airport,33.0,GOTT 300100Z
+LEA  YPLM,Learmonth Airport,33.0,YPLM 300100Z
+PHE  YPPD,Port Hedland International Airport,33.0,YPPD 300100Z
+K5T9,,33.0,K5T9 300115Z
+TGZ  MMTG,Angel Albino Corzo International Airport,32.0,MMTG 300042Z
+COT  KCOT,Cotulla-La Salle County Airport,32.0,KCOT 300053Z
+LRD  KLRD,Laredo International Airport,32.0,KLRD 300056Z
+NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 300100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 300100Z
+LAO  RPLI,Laoag International Airport,32.0,RPLI 300100Z
+PCR  SKPC,German Olano Airport,32.0,SKPC 300100Z
+PQM  MMPQ,Palenque International Airport,31.0,MMPQ 300042Z
+LAP  MMLP,Manuel Márquez de León International Airport,31.0,MMLP 300047Z
+GUM  PGUM,Antonio B. Won Pat International Airport,31.0,PGUM 300054Z
+KT70,,31.0,KT70 300055Z
+MXJ  DNMN,Minna Airport,31.0,DNMN 300100Z
+SUV  NFNA,Nausori International Airport,31.0,NFNA 300100Z
+VAV  NFTV,Vava'u International Airport,31.0,NFTV 300100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 300100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 300100Z
+SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 300100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 300100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 300100Z
+PHS  VTPP,Phitsanulok Airport,31.0,VTPP 300100Z
+TKT  VTPT,Tak Airport,31.0,VTPT 300100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 300100Z
+GET  YGEL,Geraldton Airport,31.0,YGEL 300100Z
+HID  YHID,Horn Island Airport,31.0,YHID 300100Z
+CZT  KCZT,Dimmit County Airport,31.0,KCZ
+KFTN,,31.0,KFTN 300115Z
+CVJ  MMCB,General Mariano Matamoros Airport,30.0,MMCB 300040Z
+CME  MMCE,Ciudad del Carmen International Airport,30.0,MMCE 300040Z
+VSA  MMVA,Carlos Rovirosa Pérez International Airport,30.0,MMVA 300042Z
+PPG  NSTU,Pago Pago International Airport,30.0,NSTU 300050Z
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 300050Z
+JCT  KJCT,Kimble County Airport,30.0,KJCT 300051Z
+HRL  KHRL,Valley International Airport,30.0,KHRL 300052Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 300053Z
