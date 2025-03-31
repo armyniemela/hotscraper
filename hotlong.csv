@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-THZ  DRRT,Tahoua Airport,41.0,DRRT 301200Z
-GOU  FKKR,Garoua International Airport,41.0,FKKR 301200Z
-AEH  FTTC,Abeche Airport,41.0,FTTC 301200Z
-MQQ  FTTD,Moundou Airport,41.0,FTTD 301200Z
-YOL  DNYO,Yola Airport,40.0,DNYO 301200Z
-AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
-ZND  DRZR,Zinder Airport,40.0,DRZ
-OUA  DFFD,Ouagadougou Airport,39.0,DFFD 301200Z
-DNGO,,39.0,DNGO 301200Z
-VOND,,39.0,VOND 301200Z
-GAKD,,38.0,GAKD 301200Z
-MZI  GAMB,Mopti Airport,38.0,GAMB 301200Z
-NIX  GANR,Nioro du Sahel Airport,38.0,GANR 301200Z
-GOGK,,38.0,GOGK 301200Z
-MAX  GOSM,Ouro Sogui Airport,38.0,GOSM 301200Z
-TUD  GOTT,Tambacounda Airport,38.0,GOTT 301200Z
-BDQ  VABO,Vadodara Airport,38.0,VABO 301200Z
-VAJL,,38.0,VAJL 301200Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 301200Z
-VEBU,,38.0,VEBU 301200Z
-JRG  VEJH,Jharsuguda Airport,38.0,VEJH 301201Z
-MDL  VYMD,Mandalay International Airport,37.0,VYMD 301130Z
-BOY  DFOO,Bobo Dioulasso Airport,37.0,DFOO 301200Z
-OEMN,,37.0,OEMN 301200Z
-IXU  VAAU,Aurangabad Airport,37.0,VAAU 301200Z
-VAHS,,37.0,VAHS 301200Z
-CDP  VOCP,Kadapa Airport,37.0,VOCP 301200Z
-TIR  VOTP,Tirupati Airport,37.0,VOTP 301200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,37.0,VOTR 301200Z
-BHU  VABV,Bhavnagar Airport,36.0,VABV 301130Z
-MXJ  DNMN,Minna Airport,36.0,DNMN 301200Z
-BKO  GABS,Modibo Keita International Airport,36.0,GABS 301200Z
-ZIG  GOGG,Ziguinchor Airport,36.0,GOGG 301200Z
-KGG  GOTK,Kédougou Airport,36.0,GOTK 301200Z
-LOK  HKLO,Lodwar Airport,36.0,HKLO 301200Z
-HOF  OEAH,Al Ahsa Airport,36.0,OEAH 301200Z
-SHW  OESH,Sharurah Airport,36.0,OESH 301200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,36.0,VAAH 301200Z
-ISK  VAOZ,Nashik Airport,36.0,VAOZ
-SAG  VASD,Shirdi Airport,36.0,VASD 301200Z
-STV  VASU,Surat Airport,36.0,VASU 301200Z
-VERP,,36.0,VERP 301200Z
-CJB  VOCB,Coimbatore International Airport,36.0,VOCB 301200Z
-HYD  VOHS,Rajiv Gandhi International Airport,36.0,VOHS 301200Z
-IXM  VOMD,Madurai Airport,36.0,VOMD 301200Z
+MTY  MMMY,General Mariano Escobedo International Airport,32.0,MMMY 310040Z
+PQM  MMPQ,Palenque International Airport,32.0,MMPQ 310040Z
+TRC  MMTC,Francisco Sarabia International Airport,32.0,MMTC 310041Z
+MFE  KMFE,Mc Allen Miller International Airport,32.0,KMFE 310053Z
+DLF  KDLF,DLF Airport,32.0,KDLF 310055Z
+KT70,,32.0,KT70 310055Z
+NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 310100Z
+TUD  GOTT,Tambacounda Airport,32.0,GOTT 310100Z
+APW  NSFA,Faleolo International Airport,32.0,NSFA 310100Z
+PCR  SKPC,German Olano Airport,32.0,SKPC 310100Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 310040Z
+REX  MMRX,General Lucio Blanco International Airport,31.0,MMRX 310040Z
+NLD  MMNL,Quetzalcóatl International Airport,31.0,MMNL 310042Z
+CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 310043Z
+POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 310100Z
+OUA  DFFD,Ouagadougou Airport,31.0,DFFD 310100Z
+MCR  MGMM,Melchor de Mencos Airport,31.0,MGMM 310100Z
+MUK  NCMK,Mauke Airport,31.0,NCMK 310100Z
+NAN  NFFN,Nadi International Airport,31.0,NFFN 310100Z
+PPT  NTAA,Faa'a International Airport,31.0,NTAA 310100Z
+SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 310100Z
+CXI  PLCH,Cassidy International Airport,31.0,PLCH 310100Z
+SFS  RPLB,Subic Bay International Airport,31.0,RPLB 310100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 310100Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 310100Z
+WAYY,,31.0,WAYY 310100Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 310100Z
+DRW  YPDN,Darwin International Airport,31.0,YPDN 310100Z
+PHE  YPPD,Port Hedland International Airport,31.0,YPPD 310100Z
+K5T9,,31.0,K5T9 310115Z
+TGZ  MMTG,Angel Albino Corzo International Airport,31.0,MMTG 310115Z
+CME  MMCE,Ciudad del Carmen International Airport,30.0,MMCE 310040Z
+MTT  MMMT,Minatitlán/Coatzacoalcos National Airport,30.0,MMMT 310040Z
+SLW  MMIO,Plan De Guadalupe International Airport,30.0,MMIO 310042Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 310050Z
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 310050Z
+K6R6,,30.0,K6R6 310051Z
+PPG  NSTU,Pago Pago International Airport,30.0,NSTU 310051Z
+COT  KCOT,Cotulla-La Salle County Airport,30.0,KCOT 310053Z
+SPN  PGSN,Saipan International Airport,30.0,PGSN 310054Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 310054Z
+YAP  PTYA,Yap International Airport,30.0,PTYA 310055Z
+INU  ANYN,Nauru International Airport,30.0,ANYN 310100Z
+LIR  MRLB,Daniel Oduber Quiros International Airport,30.0,MRLB 310100Z
+AIU  NCAT,Enua Airport,30.0,NCAT 310100Z
