@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MTY  MMMY,General Mariano Escobedo International Airport,32.0,MMMY 310040Z
-PQM  MMPQ,Palenque International Airport,32.0,MMPQ 310040Z
-TRC  MMTC,Francisco Sarabia International Airport,32.0,MMTC 310041Z
-MFE  KMFE,Mc Allen Miller International Airport,32.0,KMFE 310053Z
-DLF  KDLF,DLF Airport,32.0,KDLF 310055Z
-KT70,,32.0,KT70 310055Z
-NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 310100Z
-TUD  GOTT,Tambacounda Airport,32.0,GOTT 310100Z
-APW  NSFA,Faleolo International Airport,32.0,NSFA 310100Z
-PCR  SKPC,German Olano Airport,32.0,SKPC 310100Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 310040Z
-REX  MMRX,General Lucio Blanco International Airport,31.0,MMRX 310040Z
-NLD  MMNL,Quetzalcóatl International Airport,31.0,MMNL 310042Z
-CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 310043Z
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 310100Z
-OUA  DFFD,Ouagadougou Airport,31.0,DFFD 310100Z
-MCR  MGMM,Melchor de Mencos Airport,31.0,MGMM 310100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 310100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 310100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 310100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 310100Z
-CXI  PLCH,Cassidy International Airport,31.0,PLCH 310100Z
-SFS  RPLB,Subic Bay International Airport,31.0,RPLB 310100Z
-VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 310100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",31.0,WAPP 310100Z
-WAYY,,31.0,WAYY 310100Z
-CNS  YBCS,Cairns International Airport,31.0,YBCS 310100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 310100Z
-PHE  YPPD,Port Hedland International Airport,31.0,YPPD 310100Z
-K5T9,,31.0,K5T9 310115Z
-TGZ  MMTG,Angel Albino Corzo International Airport,31.0,MMTG 310115Z
-CME  MMCE,Ciudad del Carmen International Airport,30.0,MMCE 310040Z
-MTT  MMMT,Minatitlán/Coatzacoalcos National Airport,30.0,MMMT 310040Z
-SLW  MMIO,Plan De Guadalupe International Airport,30.0,MMIO 310042Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 310050Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 310050Z
-K6R6,,30.0,K6R6 310051Z
-PPG  NSTU,Pago Pago International Airport,30.0,NSTU 310051Z
-COT  KCOT,Cotulla-La Salle County Airport,30.0,KCOT 310053Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 310054Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 310054Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 310055Z
-INU  ANYN,Nauru International Airport,30.0,ANYN 310100Z
-LIR  MRLB,Daniel Oduber Quiros International Airport,30.0,MRLB 310100Z
-AIU  NCAT,Enua Airport,30.0,NCAT 310100Z
+GOU  FKKR,Garoua International Airport,40.0,FKKR 311200Z
+MQQ  FTTD,Moundou Airport,40.0,FTTD 311200Z
+NIX  GANR,Nioro du Sahel Airport,40.0,GANR 311200Z
+MAX  GOSM,Ouro Sogui Airport,40.0,GOSM 311200Z
+OUA  DFFD,Ouagadougou Airport,39.0,DFFD 311200Z
+DNGO,,39.0,DNGO 311200Z
+DNKT,,39.0,DNKT 311200Z
+MFQ  DRRM,Maradi Airport,39.0,DRRM 311200Z
+TUD  GOTT,Tambacounda Airport,39.0,GOTT 311200Z
+VOND,,39.0,VOND 311200Z
+ZAR  DNZA,Zaria Airport,38.0,DNZ
+NIM  DRRN,Diori Hamani International Airport,38.0,DRRN 311200Z
+SRH  FTTA,Sarh Airport,38.0,FTTA 311200Z
+BKO  GABS,Modibo Keita International Airport,38.0,GABS 311200Z
+GOOG,,38.0,GOOG 311200Z
+KLC  GOOK,Kaolack Airport,38.0,GOOK 311200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,38.0,VAAH 311200Z
+BDQ  VABO,Vadodara Airport,38.0,VABO 311200Z
+VAHS,,38.0,VAHS 311200Z
+VOGB,,38.0,VOGB 311200Z
+MXJ  DNMN,Minna Airport,37.0,DNMN 311200Z
+THZ  DRRT,Tahoua Airport,37.0,DRRT 311200Z
+AJY  DRZA,Mano Dayak International Airport,37.0,DRZ
+MZI  GAMB,Mopti Airport,37.0,GAMB 311200Z
+OEMN,,37.0,OEMN 311200Z
+SHW  OESH,Sharurah Airport,37.0,OESH 311200Z
+JRG  VEJH,Jharsuguda Airport,37.0,VEJH 311200Z
+IXW  VEJS,Sonari Airport,37.0,VEJS 311200Z
+BHU  VABV,Bhavnagar Airport,36.0,VABV 311130Z
+OOAD,,36.0,OOAD 311150Z
+OKAS,Ali Al Salem Air Base,36.0,OKAS 311155Z
+TML  DGLE,Tamale Airport,36.0,DGLE 311200Z
+GOGK,,36.0,GOGK 311200Z
+POD  GOSP,Podor Airport,36.0,GOSP 311200Z
+GAS  HKGA,Garissa Airport,36.0,HKGA 311200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 311200Z
+HOF  OEAH,Al Ahsa Airport,36.0,OEAH 311200Z
+ELQ  OEGS,Gassim Airport,36.0,OEGS 311200Z
+WAE  OEWD,Wadi Al Dawasir Airport,36.0,OEWD 311200Z
+AWZ  OIAW,Ahwaz Airport,36.0,OIAW 311200Z
+IXU  VAAU,Aurangabad Airport,36.0,VAAU 311200Z
+VAGD,,36.0,VAGD 311200Z
+VAJL,,36.0,VAJL 311200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,36.0,VANP 311200Z
+STV  VASU,Surat Airport,36.0,VASU 311200Z
