@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,33.0,MMMD 010043Z
-DLF  KDLF,DLF Airport,33.0,KDLF 010055Z
-PCR  SKPC,German Olano Airport,33.0,SKPC 010100Z
-AMQ  WAPP,"Pattimura Airport, Ambon",33.0,WAPP 010130Z
-LEA  YPLM,Learmonth Airport,33.0,YPLM 010130Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,32.0,MMCV 010044Z
-TGZ  MMTG,Angel Albino Corzo International Airport,32.0,MMTG 010044Z
-PNI  PTPN,Pohnpei International Airport,32.0,PTPN 010052Z
-DRT  KDRT,Del Rio International Airport,32.0,KDRT 010053Z
-LRD  KLRD,Laredo International Airport,32.0,KLRD 010056Z
-TUD  GOTT,Tambacounda Airport,32.0,GOTT 010100Z
-MHX  NCMH,Manihiki Island Airport,32.0,NCMH 010100Z
-APW  NSFA,Faleolo International Airport,32.0,NSFA 010100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 010130Z
-WAYY,,32.0,WAYY 010130Z
-ISA  YBMA,Mount Isa Airport,32.0,YBMA 010130Z
-NTR  MMAN,Del Norte International Airport,31.0,MMAN 010040Z
-GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,31.0,MMGL 010040Z
-GYM  MMGM,General José María Yáñez International Airport,31.0,MMGM 010040Z
-MTY  MMMY,General Mariano Escobedo International Airport,31.0,MMMY 010040Z
-CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 010044Z
-TRC  MMTC,Francisco Sarabia International Airport,31.0,MMTC 010050Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 010050Z
-LOV  MMMV,Monclova International Airport,31.0,MMMV 010051Z
-PTTP,,31.0,PTTP 010052Z
-COT  KCOT,Cotulla-La Salle County Airport,31.0,KCOT 010053Z
-MAJ  PKMJ,Marshall Islands International Airport,31.0,PKMJ 010059Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 010100Z
-OUA  DFFD,Ouagadougou Airport,31.0,DFFD 010100Z
-MCR  MGMM,Melchor de Mencos Airport,31.0,MGMM 010100Z
-MGA  MNMG,Augusto C. Sandino (Managua) International Airport,31.0,MNMG 010100Z
-MUK  NCMK,Mauke Airport,31.0,NCMK 010100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 010100Z
-MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 010100Z
-ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
-PNZ  SBPL,Senador Nilo Coelho Airport,31.0,SBPL 010100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 010100Z
-KT70,,31.0,KT70 010113Z
-BKO  GABS,Modibo Keita International Airport,31.0,GABS 010130Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 010130Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 010130Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 010130Z
-PNH  VDPP,Phnom Penh International Airport,31.0,VDPP 010130Z
-MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 010130Z
+GOU  FKKR,Garoua International Airport,39.0,FKKR 011200Z
+SRH  FTTA,Sarh Airport,39.0,FTTA 011200Z
+NIX  GANR,Nioro du Sahel Airport,39.0,GANR 011200Z
+KGG  GOTK,Kédougou Airport,39.0,GOTK 011200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,39.0,OEMA 011200Z
+BDQ  VABO,Vadodara Airport,39.0,VABO 011200Z
+MDL  VYMD,Mandalay International Airport,38.0,VYMD 011130Z
+OUA  DFFD,Ouagadougou Airport,38.0,DFFD 011200Z
+DNGO,,38.0,DNGO 011200Z
+NIM  DRRN,Diori Hamani International Airport,38.0,DRRN 011200Z
+NDJ  FTTJ,N'Djamena International Airport,38.0,FTTJ 011200Z
+BKO  GABS,Modibo Keita International Airport,38.0,GABS 011200Z
+GOOG,,38.0,GOOG 011200Z
+KLC  GOOK,Kaolack Airport,38.0,GOOK 011200Z
+HOF  OEAH,Al Ahsa Airport,38.0,OEAH 011200Z
+LFM  OISR,Lamerd Airport,38.0,OISR 011200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,38.0,VAAH 011200Z
+VAHS,,38.0,VAHS 011200Z
+VOND,,38.0,VOND 011200Z
+XJD  OTBH,Al Udeid Air Base,37.0,OTBH 011155Z
+MZI  GAMB,Mopti Airport,37.0,GAMB 011200Z
+OEAO,,37.0,OEAO 011200Z
+DMM  OEDF,King Fahd International Airport,37.0,OEDF 011200Z
+ELQ  OEGS,Gassim Airport,37.0,OEGS 011200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,37.0,OEPA 011200Z
+TUU  OETB,Tabuk Airport,37.0,OETB 011200Z
+AKW  OIAG,Aghajari Airport,37.0,OIAG 011200Z
+IXW  VEJS,Sonari Airport,37.0,VEJS 011200Z
+VOGB,,37.0,VOGB 011200Z
+OOAD,,36.0,OOAD 011150Z
+BOY  DFOO,Bobo Dioulasso Airport,36.0,DFOO 011200Z
+TML  DGLE,Tamale Airport,36.0,DGLE 011200Z
+THZ  DRRT,Tahoua Airport,36.0,DRRT 011200Z
+GAQ  GAGO,Gao Airport,36.0,GAGO 011200Z
+TOM  GATB,Timbuktu Airport,36.0,GATB 011200Z
+GOGK,,36.0,GOGK 011200Z
+GOOD,,36.0,GOOD 011200Z
+POD  GOSP,Podor Airport,36.0,GOSP 011200Z
+GAS  HKGA,Garissa Airport,36.0,HKGA 011200Z
+LOK  HKLO,Lodwar Airport,36.0,HKLO 011200Z
+RUH  OERK,King Khaled International Airport,36.0,OERK 011200Z
+ACZ  OIZB,Zabol Airport,36.0,OIZ
+IHR  OIZI,Iran Shahr Airport,36.0,OIZ
+AAN  OMAL,Al Ain International Airport,36.0,OMAL 011200Z
+BSR  ORMM,Basrah International Airport,36.0,ORMM 011200Z
