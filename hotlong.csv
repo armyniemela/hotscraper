@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GOU  FKKR,Garoua International Airport,39.0,FKKR 011200Z
-SRH  FTTA,Sarh Airport,39.0,FTTA 011200Z
-NIX  GANR,Nioro du Sahel Airport,39.0,GANR 011200Z
-KGG  GOTK,Kédougou Airport,39.0,GOTK 011200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,39.0,OEMA 011200Z
-BDQ  VABO,Vadodara Airport,39.0,VABO 011200Z
-MDL  VYMD,Mandalay International Airport,38.0,VYMD 011130Z
-OUA  DFFD,Ouagadougou Airport,38.0,DFFD 011200Z
-DNGO,,38.0,DNGO 011200Z
-NIM  DRRN,Diori Hamani International Airport,38.0,DRRN 011200Z
-NDJ  FTTJ,N'Djamena International Airport,38.0,FTTJ 011200Z
-BKO  GABS,Modibo Keita International Airport,38.0,GABS 011200Z
-GOOG,,38.0,GOOG 011200Z
-KLC  GOOK,Kaolack Airport,38.0,GOOK 011200Z
-HOF  OEAH,Al Ahsa Airport,38.0,OEAH 011200Z
-LFM  OISR,Lamerd Airport,38.0,OISR 011200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,38.0,VAAH 011200Z
-VAHS,,38.0,VAHS 011200Z
-VOND,,38.0,VOND 011200Z
-XJD  OTBH,Al Udeid Air Base,37.0,OTBH 011155Z
-MZI  GAMB,Mopti Airport,37.0,GAMB 011200Z
-OEAO,,37.0,OEAO 011200Z
-DMM  OEDF,King Fahd International Airport,37.0,OEDF 011200Z
-ELQ  OEGS,Gassim Airport,37.0,OEGS 011200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,37.0,OEPA 011200Z
-TUU  OETB,Tabuk Airport,37.0,OETB 011200Z
-AKW  OIAG,Aghajari Airport,37.0,OIAG 011200Z
-IXW  VEJS,Sonari Airport,37.0,VEJS 011200Z
-VOGB,,37.0,VOGB 011200Z
-OOAD,,36.0,OOAD 011150Z
-BOY  DFOO,Bobo Dioulasso Airport,36.0,DFOO 011200Z
-TML  DGLE,Tamale Airport,36.0,DGLE 011200Z
-THZ  DRRT,Tahoua Airport,36.0,DRRT 011200Z
-GAQ  GAGO,Gao Airport,36.0,GAGO 011200Z
-TOM  GATB,Timbuktu Airport,36.0,GATB 011200Z
-GOGK,,36.0,GOGK 011200Z
-GOOD,,36.0,GOOD 011200Z
-POD  GOSP,Podor Airport,36.0,GOSP 011200Z
-GAS  HKGA,Garissa Airport,36.0,HKGA 011200Z
-LOK  HKLO,Lodwar Airport,36.0,HKLO 011200Z
-RUH  OERK,King Khaled International Airport,36.0,OERK 011200Z
-ACZ  OIZB,Zabol Airport,36.0,OIZ
-IHR  OIZI,Iran Shahr Airport,36.0,OIZ
-AAN  OMAL,Al Ain International Airport,36.0,OMAL 011200Z
-BSR  ORMM,Basrah International Airport,36.0,ORMM 011200Z
+LAP  MMLP,Manuel Márquez de León International Airport,33.0,MMLP 020045Z
+TUD  GOTT,Tambacounda Airport,33.0,GOTT 020100Z
+CVJ  MMCB,General Mariano Matamoros Airport,32.0,MMCB 020040Z
+CVM  MMCV,General Pedro Jose Mendez International Airport,32.0,MMCV 020041Z
+PQM  MMPQ,Palenque International Airport,32.0,MMPQ 020044Z
+TGZ  MMTG,Angel Albino Corzo International Airport,32.0,MMTG 020047Z
+DRT  KDRT,Del Rio International Airport,32.0,KDRT 020053Z
+HIR  AGGH,Honiara International Airport,32.0,AGGH 020100Z
+GAKD,,32.0,GAKD 020100Z
+MHX  NCMH,Manihiki Island Airport,32.0,NCMH 020100Z
+NCPL,,32.0,NCPL 020100Z
+MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 020100Z
+LEA  YPLM,Learmonth Airport,32.0,YPLM 020100Z
+PHE  YPPD,Port Hedland International Airport,32.0,YPPD 020100Z
+KPRS,Presidio Lely International Airport,32.0,KPRS 020115Z
+GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,31.0,MMGL 020040Z
+NLD  MMNL,Quetzalcóatl International Airport,31.0,MMNL 020040Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 020050Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 020050Z
+SJT  KSJT,San Angelo Regional Mathis Field,31.0,KSJT 020051Z
+ABI  KABI,Abilene Regional Airport,31.0,KABI 020052Z
+COT  KCOT,Cotulla-La Salle County Airport,31.0,KCOT 020053Z
+DLF  KDLF,DLF Airport,31.0,KDLF 020055Z
+DYS  KDYS,Dyess Air Force Base,31.0,KDYS 020055Z
+KT70,,31.0,KT70 020055Z
+LAE  AYNZ,Nadzab Airport,31.0,AYNZ
+AIT  NCAI,Aitutaki Airport,31.0,NCAI 020100Z
+AIU  NCAT,Enua Airport,31.0,NCAT 020100Z
+PYE  NCPY,Tongareva Airport,31.0,NCPY 020100Z
+RAR  NCRG,Rarotonga International Airport,31.0,NCRG 020100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 020100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 020100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 020100Z
+PPT  NTAA,Faa'a International Airport,31.0,NTAA 020100Z
+BOB  NTTB,Bora Bora Airport,31.0,NTTB 020100Z
+SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 020100Z
+TAH  NVVW,Tanna Airport,31.0,NVVW 020100Z
+NOU  NWWW,La Tontouta International Airport,31.0,NWWW 020100Z
+PCR  SKPC,German Olano Airport,31.0,SKPC 020100Z
+VUP  SKVP,Alfonso López Pumarejo Airport,31.0,SKVP 020100Z
+MKQ  WAKK,Mopah Airport,31.0,WAKK 020100Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 020100Z
+K5T9,,31.0,K5T9 020110Z
+CZT  KCZT,Dimmit County Airport,31.0,KCZ
+KF05,,31.0,KF05 020115Z
