@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-XJD  OTBH,Al Udeid Air Base,39.0,OTBH 031155Z
-AEH  FTTC,Abeche Airport,39.0,FTTC 031200Z
-NDJ  FTTJ,N'Djamena International Airport,39.0,FTTJ 031200Z
-TOM  GATB,Timbuktu Airport,39.0,GATB 031200Z
-ELQ  OEGS,Gassim Airport,39.0,OEGS 031200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,39.0,OEMA 031200Z
-AAN  OMAL,Al Ain International Airport,39.0,OMAL 031200Z
-MDL  VYMD,Mandalay International Airport,38.0,VYMD 031130Z
-AKH  OEPS,Prince Sultan Air Base,38.0,OEPS 031155Z
-OUA  DFFD,Ouagadougou Airport,38.0,DFFD 031200Z
-SKO  DNSO,Sadiq Abubakar III International Airport,38.0,DNSO 031200Z
-YOL  DNYO,Yola Airport,38.0,DNYO 031200Z
-MFQ  DRRM,Maradi Airport,38.0,DRRM 031200Z
-THZ  DRRT,Tahoua Airport,38.0,DRRT 031200Z
-DRZF,Diffa Airport,38.0,DRZ
-ZND  DRZR,Zinder Airport,38.0,DRZ
-GOU  FKKR,Garoua International Airport,38.0,FKKR 031200Z
-HOF  OEAH,Al Ahsa Airport,38.0,OEAH 031200Z
-DMM  OEDF,King Fahd International Airport,38.0,OEDF 031200Z
-OEKJ,,38.0,OEKJ 031200Z
-RUH  OERK,King Khaled International Airport,38.0,OERK 031200Z
-LFM  OISR,Lamerd Airport,38.0,OISR 031200Z
-IHR  OIZI,Iran Shahr Airport,38.0,OIZ
-BDQ  VABO,Vadodara Airport,38.0,VABO 031200Z
-VAJL,,37.0,VAJL 031130Z
-SRH  FTTA,Sarh Airport,37.0,FTTA 031200Z
-BKO  GABS,Modibo Keita International Airport,37.0,GABS 031200Z
-GAKD,,37.0,GAKD 031200Z
-LOK  HKLO,Lodwar Airport,37.0,HKLO 031200Z
-PGU  OIBP,Persian Gulf International Airport,37.0,OIBP 031200Z
-GXF  OYSY,Sayun International Airport,37.0,OYSY 031200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,37.0,VAAH 031200Z
-MCT  OOMS,Muscat International Airport,36.0,OOMS 031150Z
-OHS  OOSH,Sohar Airport,36.0,OOSH 031150Z
-MXJ  DNMN,Minna Airport,36.0,DNMN 031200Z
-AJY  DRZA,Mano Dayak International Airport,36.0,DRZ
-MQQ  FTTD,Moundou Airport,36.0,FTTD 031200Z
-MAX  GOSM,Ouro Sogui Airport,36.0,GOSM 031200Z
-KGG  GOTK,Kédougou Airport,36.0,GOTK 031200Z
-DWD  OEDM,King Salman Abdulaziz Airport,36.0,OEDM 031200Z
-OIBH,Bastak Airport,36.0,OIBH 031200Z
-KNR  OIBJ,Jam Airport,36.0,OIBJ 031200Z
-ACZ  OIZB,Zabol Airport,36.0,OIZ
-DIA  OTBD,Doha International Airport,36.0,OTBD 031200Z
-ASB  UTAA,Ashgabat International Airport,36.0,UTAA 031200Z
+COT  KCOT,Cotulla-La Salle County Airport,35.0,KCOT 040053Z
+DRT  KDRT,Del Rio International Airport,35.0,KDRT 040053Z
+CVM  MMCV,General Pedro Jose Mendez International Airport,34.0,MMCV 040041Z
+TRC  MMTC,Francisco Sarabia International Airport,34.0,MMTC 040042Z
+DLF  KDLF,DLF Airport,34.0,KDLF 040055Z
+K5T9,,34.0,K5T9 040115Z
+PQM  MMPQ,Palenque International Airport,33.0,MMPQ 040047Z
+LRD  KLRD,Laredo International Airport,33.0,KLRD 040056Z
+MHPR,,33.0,MHPR 040100Z
+CZT  KCZT,Dimmit County Airport,33.0,KCZ
+KFTN,,33.0,KFTN 040115Z
+MTT  MMMT,Minatitlán/Coatzacoalcos National Airport,32.0,MMMT 040040Z
+VSA  MMVA,Carlos Rovirosa Pérez International Airport,32.0,MMVA 040042Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,32.0,MMMD 040044Z
+GAKD,,32.0,GAKD 040100Z
+MHX  NCMH,Manihiki Island Airport,32.0,NCMH 040100Z
+NCPL,,32.0,NCPL 040100Z
+NOU  NWWW,La Tontouta International Airport,32.0,NWWW 040100Z
+PHE  YPPD,Port Hedland International Airport,32.0,YPPD 040100Z
+KT89,,32.0,KT89 040115Z
+TGZ  MMTG,Angel Albino Corzo International Airport,31.0,MMTG 040047Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 040050Z
+KHDO,South Texas Regional Airport at Hondo,31.0,KHDO 040051Z
+CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 040051Z
+KQOA,,31.0,KQOA 040055Z
+TUD  GOTT,Tambacounda Airport,31.0,GOTT 040100Z
+SUV  NFNA,Nausori International Airport,31.0,NFNA 040100Z
+TVU  NFNM,Matei Airport,31.0,NFNM 040100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 040100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 040100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 040100Z
+VLI  NVVV,Bauerfield International Airport,31.0,NVVV 040100Z
+TAH  NVVW,Tanna Airport,31.0,NVVW 040100Z
+SFS  RPLB,Subic Bay International Airport,31.0,RPLB 040100Z
+LAO  RPLI,Laoag International Airport,31.0,RPLI 040100Z
+MNL  RPLL,Ninoy Aquino International Airport,31.0,RPLL 040100Z
+SMR  SKSM,Simón Bolívar International Airport,31.0,SKSM 040100Z
+MKQ  WAKK,Mopah Airport,31.0,WAKK 040100Z
+CNS  YBCS,Cairns International Airport,31.0,YBCS 040100Z
+BME  YBRM,Broome International Airport,31.0,YBRM 040100Z
+TSV  YBTL,Townsville Airport,31.0,YBTL 040100Z
+DCN  YCIN,RAAF Base Curtin,31.0,YCIN 040100Z
+UVA  KUVA,Garner Field,31.0,KUVA 040115Z
+TAP  MMTP,Tapachula International Airport,30.0,MMTP 040040Z
+PAZ  MMPA,El Tajín National Airport,30.0,MMPA 040043Z
