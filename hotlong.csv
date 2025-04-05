@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,33.0,MMCP 050041Z
-COT  KCOT,Cotulla-La Salle County Airport,33.0,KCOT 050053Z
-LRD  KLRD,Laredo International Airport,33.0,KLRD 050056Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,32.0,MMCV 050040Z
-MTT  MMMT,Minatitlán/Coatzacoalcos National Airport,32.0,MMMT 050040Z
-TRC  MMTC,Francisco Sarabia International Airport,32.0,MMTC 050042Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,32.0,MMVA 050043Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,32.0,MMMD 050046Z
-SLW  MMIO,Plan De Guadalupe International Airport,32.0,MMIO 050049Z
-BKO  GABS,Modibo Keita International Airport,32.0,GABS 050100Z
-MHX  NCMH,Manihiki Island Airport,32.0,NCMH 050100Z
-WLS  NLWW,Hihifo Airport,32.0,NLWW 050100Z
-SON  NVSS,Santo Pekoa International Airport,32.0,NVSS 050100Z
-CNS  YBCS,Cairns International Airport,32.0,YBCS 050100Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 050100Z
-PAZ  MMPA,El Tajín National Airport,31.0,MMPA 050045Z
-TGZ  MMTG,Angel Albino Corzo International Airport,31.0,MMTG 050050Z
-KHDO,South Texas Regional Airport at Hondo,31.0,KHDO 050051Z
-PTTP,,31.0,PTTP 050055Z
-AWK  PWAK,Wake Island Airfield,31.0,PWAK 050055Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 050058Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 050100Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-NCPL,,31.0,NCPL 050100Z
-PYE  NCPY,Tongareva Airport,31.0,NCPY 050100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 050100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 050100Z
-PPT  NTAA,Faa'a International Airport,31.0,NTAA 050100Z
-TAH  NVVW,Tanna Airport,31.0,NVVW 050100Z
-NOU  NWWW,La Tontouta International Airport,31.0,NWWW 050100Z
-SFS  RPLB,Subic Bay International Airport,31.0,RPLB 050100Z
-LAO  RPLI,Laoag International Airport,31.0,RPLI 050100Z
-TSV  YBTL,Townsville Airport,31.0,YBTL 050100Z
-DCN  YCIN,RAAF Base Curtin,31.0,YCIN 050100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 050100Z
-GOV  YPGV,Gove Airport,31.0,YPGV 050100Z
-KNX  YPKU,Kununurra Airport,31.0,YPKU 050100Z
-UVA  KUVA,Garner Field,31.0,KUVA 050115Z
-CME  MMCE,Ciudad del Carmen International Airport,30.0,MMCE 050041Z
-PPG  NSTU,Pago Pago International Airport,30.0,NSTU 050050Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 050050Z
-CVJ  MMCB,General Mariano Matamoros Airport,30.0,MMCB 050051Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 050054Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 050054Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 050057Z
+MAX  GOSM,Ouro Sogui Airport,41.0,GOSM 051200Z
+HOF  OEAH,Al Ahsa Airport,41.0,OEAH 051200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,40.0,VAAH 051130Z
+OUA  DFFD,Ouagadougou Airport,40.0,DFFD 051200Z
+THZ  DRRT,Tahoua Airport,40.0,DRRT 051200Z
+GOU  FKKR,Garoua International Airport,40.0,FKKR 051200Z
+SRH  FTTA,Sarh Airport,40.0,FTTA 051200Z
+BKO  GABS,Modibo Keita International Airport,40.0,GABS 051200Z
+TUD  GOTT,Tambacounda Airport,40.0,GOTT 051200Z
+ACZ  OIZB,Zabol Airport,40.0,OIZ
+AUH  OMAA,Abu Dhabi International Airport,40.0,OMAA 051200Z
+DWC  OMDW,Al Maktoum International Airport,40.0,OMDW 051200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,39.0,VANP 051130Z
+STV  VASU,Surat Airport,39.0,VASU 051130Z
+UDR  VAUD,Maharana Pratap Airport,39.0,VAUD 051130Z
+XJD  OTBH,Al Udeid Air Base,39.0,OTBH 051155Z
+MFQ  DRRM,Maradi Airport,39.0,DRRM 051200Z
+AJY  DRZA,Mano Dayak International Airport,39.0,DRZ
+ZND  DRZR,Zinder Airport,39.0,DRZ
+MQQ  FTTD,Moundou Airport,39.0,FTTD 051200Z
+DMM  OEDF,King Fahd International Airport,39.0,OEDF 051200Z
+OEKJ,,39.0,OEKJ 051200Z
+AZI  OMAD,Bateen Airport,39.0,OMAD 051200Z
+IXU  VAAU,Aurangabad Airport,38.0,VAAU 051130Z
+AKH  OEPS,Prince Sultan Air Base,38.0,OEPS 051155Z
+AEH  FTTC,Abeche Airport,38.0,FTTC 051200Z
+BAH  OBBI,Bahrain International Airport,38.0,OBBI 051200Z
+RUH  OERK,King Khaled International Airport,38.0,OERK 051200Z
+PGU  OIBP,Persian Gulf International Airport,38.0,OIBP 051200Z
+IHR  OIZI,Iran Shahr Airport,38.0,OIZ
+AAN  OMAL,Al Ain International Airport,38.0,OMAL 051200Z
+VOND,,38.0,VOND 051200Z
+ISK  VAOZ,Nashik Airport,37.0,VAOZ
+OOAD,,37.0,OOAD 051150Z
+BMW  DATM,Bordj Badji Mokhtar Airport,37.0,DATM 051200Z
+TML  DGLE,Tamale Airport,37.0,DGLE 051200Z
+GOOG,,37.0,GOOG 051200Z
+KGG  GOTK,Kédougou Airport,37.0,GOTK 051200Z
+DHA  OEDR,King Abdulaziz Air Base,37.0,OEDR 051200Z
+LFM  OISR,Lamerd Airport,37.0,OISR 051200Z
+ZBR  OIZC,Konarak Airport,37.0,OIZ
+GXF  OYSY,Sayun International Airport,37.0,OYSY 051200Z
+KHI  OPKC,Jinnah International Airport,37.0,OPKC 051230Z
+JLR  VAJB,Jabalpur Airport,36.0,VAJB 051130Z
+SAG  VASD,Shirdi Airport,36.0,VASD 051130Z
