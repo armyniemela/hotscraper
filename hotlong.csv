@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PSP  KPSP,Palm Springs International Airport,32.0,KPSP 070053Z
-NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 070100Z
-WLS  NLWW,Hihifo Airport,32.0,NLWW 070100Z
-PPT  NTAA,Faa'a International Airport,32.0,NTAA 070100Z
-SON  NVSS,Santo Pekoa International Airport,32.0,NVSS 070100Z
-SFS  RPLB,Subic Bay International Airport,32.0,RPLB 070100Z
-MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 070100Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 070100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 070100Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 070040Z
-CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 070041Z
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 070100Z
-OUA  DFFD,Ouagadougou Airport,31.0,DFFD 070100Z
-BOY  DFOO,Bobo Dioulasso Airport,31.0,DFOO 070100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 070100Z
-PYE  NCPY,Tongareva Airport,31.0,NCPY 070100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 070100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 070100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 070100Z
-TAH  NVVW,Tanna Airport,31.0,NVVW 070100Z
-SMR  SKSM,Simón Bolívar International Airport,31.0,SKSM 070100Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 070100Z
-MKQ  WAKK,Mopah Airport,31.0,WAKK 070100Z
-KOE  WATT,El Tari Airport,31.0,WATT 070100Z
-DRW  YPDN,Darwin International Airport,31.0,YPDN 070100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 070110Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 070110Z
-GYM  MMGM,General José María Yáñez International Airport,30.0,MMGM 070040Z
-PQM  MMPQ,Palenque International Airport,30.0,MMPQ 070040Z
-TGZ  MMTG,Angel Albino Corzo International Airport,30.0,MMTG 070040Z
-CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,30.0,MMCP 070047Z
-PPG  NSTU,Pago Pago International Airport,30.0,NSTU 070050Z
-KHS  OOKB,Khasab Air Base,30.0,OOKB 070050Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 070050Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 070050Z
-KSA  PTSA,Kosrae International Airport,30.0,PTSA 070051Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 070051Z
-HNL  PHNL,Daniel K Inouye International Airport,30.0,PHNL 070053Z
-SPN  PGSN,Saipan International Airport,30.0,PGSN 070054Z
-GUM  PGUM,Antonio B. Won Pat International Airport,30.0,PGUM 070054Z
-INU  ANYN,Nauru International Airport,30.0,ANYN 070100Z
-LAE  AYNZ,Nadzab Airport,30.0,AYNZ
-LIR  MRLB,Daniel Oduber Quiros International Airport,30.0,MRLB 070100Z
-SUV  NFNA,Nausori International Airport,30.0,NFNA 070100Z
-TBU  NFTF,Fua'amotu International Airport,30.0,NFTF 070100Z
+NIM  DRRN,Diori Hamani International Airport,41.0,DRRN 071200Z
+THZ  DRRT,Tahoua Airport,41.0,DRRT 071200Z
+ZND  DRZR,Zinder Airport,41.0,DRZ
+GOU  FKKR,Garoua International Airport,41.0,FKKR 071200Z
+MZI  GAMB,Mopti Airport,41.0,GAMB 071200Z
+NIX  GANR,Nioro du Sahel Airport,41.0,GANR 071200Z
+MAX  GOSM,Ouro Sogui Airport,41.0,GOSM 071200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,41.0,VAAH 071200Z
+BDQ  VABO,Vadodara Airport,41.0,VABO 071200Z
+KHS  OOKB,Khasab Air Base,40.0,OOKB 071150Z
+OHS  OOSH,Sohar Airport,40.0,OOSH 071150Z
+OUA  DFFD,Ouagadougou Airport,40.0,DFFD 071200Z
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+BKO  GABS,Modibo Keita International Airport,40.0,GABS 071200Z
+GOOG,,40.0,GOOG 071200Z
+PGU  OIBP,Persian Gulf International Airport,40.0,OIBP 071200Z
+MUX  OPMT,Multan International Airport,40.0,OPMT 071200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,40.0,VANP 071200Z
+STV  VASU,Surat Airport,40.0,VASU 071200Z
+UDR  VAUD,Maharana Pratap Airport,40.0,VAUD 071200Z
+VEKO,,40.0,VEKO 071200Z
+OOAD,,39.0,OOAD 071150Z
+LYP  OPFA,Faisalabad International Airport,39.0,OPFA 071155Z
+GAKD,,39.0,GAKD 071200Z
+ACZ  OIZB,Zabol Airport,39.0,OIZ
+AAN  OMAL,Al Ain International Airport,39.0,OMAL 071200Z
+BHO  VABP,Raja Bhoj International Airport,39.0,VABP 071200Z
+VOGB,,39.0,VOGB 071200Z
+VEBN,,38.0,VEBN 071130Z
+XJD  OTBH,Al Udeid Air Base,38.0,OTBH 071155Z
+SRH  FTTA,Sarh Airport,38.0,FTTA 071200Z
+TOM  GATB,Timbuktu Airport,38.0,GATB 071200Z
+KLC  GOOK,Kaolack Airport,38.0,GOOK 071200Z
+POD  GOSP,Podor Airport,38.0,GOSP 071200Z
+OEMN,,38.0,OEMN 071200Z
+OERS,,38.0,OERS 071200Z
+LFM  OISR,Lamerd Airport,38.0,OISR 071200Z
+IDR  VAID,Devi Ahilyabai Holkar Airport,38.0,VAID 071200Z
+SAG  VASD,Shirdi Airport,38.0,VASD 071200Z
+DEL  VIDP,Indira Gandhi International Airport,38.0,VIDP 071200Z
+CDP  VOCP,Kadapa Airport,38.0,VOCP 071200Z
+KLH  VAKP,Kolhapur Airport,37.0,VAKP 071130Z
+OODQ,,37.0,OODQ 071150Z
+GOOD,,37.0,GOOD 071200Z
