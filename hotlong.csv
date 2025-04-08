@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GYM  MMGM,General José María Yáñez International Airport,32.0,MMGM 080040Z
-PNI  PTPN,Pohnpei International Airport,32.0,PTPN 080052Z
-IPL  KIPL,Imperial County Airport,32.0,KIPL 080053Z
-PSP  KPSP,Palm Springs International Airport,32.0,KPSP 080053Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,KNJK 080056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,32.0,KNYL 080057Z
-NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 080100Z
-LBS  NFNL,Labasa Airport,32.0,NFNL 080100Z
-PPT  NTAA,Faa'a International Airport,32.0,NTAA 080100Z
-NOU  NWWW,La Tontouta International Airport,32.0,NWWW 080100Z
-FJR  OMFJ,Fujairah International Airport,32.0,OMFJ 080100Z
-SFS  RPLB,Subic Bay International Airport,32.0,RPLB 080100Z
-MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 080100Z
-KNX  YPKU,Kununurra Airport,32.0,YPKU 080100Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,31.0,MMML 080044Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 080050Z
-KHS  OOKB,Khasab Air Base,31.0,OOKB 080050Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 080050Z
-BLH  KBLH,Blythe Airport,31.0,KBLH 080052Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,31.0,KTRM 080052Z
-LGF  KLGF,Laguna Army Airfield,31.0,KLGF 080055Z
-PTTP,,31.0,PTTP 080055Z
-EED  KEED,Needles Airport,31.0,KEED 080056Z
-KNOZ,,31.0,KNOZ
-HIR  AGGH,Honiara International Airport,31.0,AGGH 080100Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 080100Z
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 080100Z
-OUA  DFFD,Ouagadougou Airport,31.0,DFFD 080100Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,31.0,DNAA 080100Z
-MGA  MNMG,Augusto C. Sandino (Managua) International Airport,31.0,MNMG 080100Z
-LIR  MRLB,Daniel Oduber Quiros International Airport,31.0,MRLB 080100Z
-NCPL,,31.0,NCPL 080100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 080100Z
-IUE  NIUE,Niue International Airport,31.0,NIUE 080100Z
-BOB  NTTB,Bora Bora Airport,31.0,NTTB 080100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 080100Z
-TAH  NVVW,Tanna Airport,31.0,NVVW 080100Z
-ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
-PPS  RPVP,Puerto Princesa Airport,31.0,RPVP 080100Z
-BIK  WABB,Frans Kaisiepo Airport,31.0,WABB 080100Z
-MKQ  WAKK,Mopah Airport,31.0,WAKK 080100Z
-MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 080100Z
-WAQQ,,31.0,WAQQ 080100Z
-KTR  YPTN,Tindal Airport,31.0,YPTN 080100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 080108Z
+NIM  DRRN,Diori Hamani International Airport,41.0,DRRN 081200Z
+THZ  DRRT,Tahoua Airport,41.0,DRRT 081200Z
+AJY  DRZA,Mano Dayak International Airport,41.0,DRZ
+GOU  FKKR,Garoua International Airport,41.0,FKKR 081200Z
+NIX  GANR,Nioro du Sahel Airport,41.0,GANR 081200Z
+GOOG,,41.0,GOOG 081200Z
+MAX  GOSM,Ouro Sogui Airport,41.0,GOSM 081200Z
+ACZ  OIZB,Zabol Airport,41.0,OIZ
+BDQ  VABO,Vadodara Airport,41.0,VABO 081200Z
+VAHS,,41.0,VAHS 081200Z
+VAJL,,41.0,VAJL 081200Z
+KHS  OOKB,Khasab Air Base,40.0,OOKB 081150Z
+LYP  OPFA,Faisalabad International Airport,40.0,OPFA 081155Z
+POD  GOSP,Podor Airport,40.0,GOSP 081200Z
+OEMN,,40.0,OEMN 081200Z
+MUX  OPMT,Multan International Airport,40.0,OPMT 081200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,40.0,VAAH 081200Z
+STV  VASU,Surat Airport,40.0,VASU 081200Z
+VEKO,,40.0,VEKO 081200Z
+JAI  VIJP,Jaipur International Airport,40.0,VIJP 081200Z
+SRH  FTTA,Sarh Airport,39.0,FTTA 081200Z
+AEH  FTTC,Abeche Airport,39.0,FTTC 081200Z
+GAKD,,39.0,GAKD 081200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,39.0,OEMA 081200Z
+IHR  OIZI,Iran Shahr Airport,39.0,OIZ
+AAN  OMAL,Al Ain International Airport,39.0,OMAL 081200Z
+IXU  VAAU,Aurangabad Airport,39.0,VAAU 081200Z
+BHO  VABP,Raja Bhoj International Airport,39.0,VABP 081200Z
+IDR  VAID,Devi Ahilyabai Holkar Airport,39.0,VAID 081200Z
+JLR  VAJB,Jabalpur Airport,39.0,VAJB 081200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,39.0,VANP 081200Z
+VOND,,39.0,VOND 081200Z
+OODQ,,38.0,OODQ 081150Z
+XJD  OTBH,Al Udeid Air Base,38.0,OTBH 081155Z
+MQQ  FTTD,Moundou Airport,38.0,FTTD 081200Z
+TOM  GATB,Timbuktu Airport,38.0,GATB 081200Z
+KGG  GOTK,Kédougou Airport,38.0,GOTK 081200Z
+HOF  OEAH,Al Ahsa Airport,38.0,OEAH 081200Z
+OERS,,38.0,OERS 081200Z
+SHW  OESH,Sharurah Airport,38.0,OESH 081200Z
+WAE  OEWD,Wadi Al Dawasir Airport,38.0,OEWD 081200Z
+ZBR  OIZC,Konarak Airport,38.0,OIZ
+BHU  VABV,Bhavnagar Airport,38.0,VABV 081200Z
+VAGD,,38.0,VAGD 081200Z
+ISK  VAOZ,Nashik Airport,38.0,VAOZ
