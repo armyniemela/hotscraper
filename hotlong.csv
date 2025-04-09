@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-IFP  KIFP,Laughlin Bullhead International Airport,34.0,KIFP 090115Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,33.0,MMML 090040Z
-BLH  KBLH,Blythe Airport,33.0,KBLH 090052Z
-IPL  KIPL,Imperial County Airport,33.0,KIPL 090053Z
-PSP  KPSP,Palm Springs International Airport,33.0,KPSP 090053Z
-EED  KEED,Needles Airport,33.0,KEED 090056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),33.0,KNJK 090056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,33.0,KNYL 090057Z
-KNOZ,,33.0,KNOZ
-OUA  DFFD,Ouagadougou Airport,33.0,DFFD 090100Z
-TUD  GOTT,Tambacounda Airport,33.0,GOTT 090100Z
-PHE  YPPD,Port Hedland International Airport,33.0,YPPD 090100Z
-HII  KHII,Lake Havasu City Airport,33.0,KHII 090115Z
-GYR  KGYR,Phoenix Goodyear Airport,32.0,KGYR 090047Z
-OHS  OOSH,Sohar Airport,32.0,OOSH 090050Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,32.0,KPHX 090051Z
-HIR  AGGH,Honiara International Airport,32.0,AGGH 090100Z
-NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 090100Z
-PPT  NTAA,Faa'a International Airport,32.0,NTAA 090100Z
-FJR  OMFJ,Fujairah International Airport,32.0,OMFJ 090100Z
-SFS  RPLB,Subic Bay International Airport,32.0,RPLB 090100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 090100Z
-KNX  YPKU,Kununurra Airport,32.0,YPKU 090100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 090100Z
-KL08,,32.0,KL08 090115Z
-CEN  MMCN,Ciudad Obregón International Airport,31.0,MMCN 090040Z
-KCHD,Chandler Municipal Airport,31.0,KCHD 090047Z
-DAG  KDAG,Barstow Daggett Airport,31.0,KDAG 090050Z
-KHS  OOKB,Khasab Air Base,31.0,OOKB 090050Z
-TKK  PTKK,Chuuk International Airport,31.0,PTKK 090050Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 090051Z
-SCF  KSDL,Scottsdale Airport,31.0,KSDL 090053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,31.0,KTUS 090053Z
-PTTP,,31.0,PTTP 090054Z
-KGEU,Glendale Municipal Airport,31.0,KGEU 090055Z
-KGXF,,31.0,KGXF 090055Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,31.0,KIWA 090055Z
-LUF  KLUF,Luke Air Force Base,31.0,KLUF 090055Z
-KNID,China Lake Naws (Armitage Field) Airport,31.0,KNID 090056Z
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 090100Z
-LXR  HELX,Luxor International Airport,31.0,HELX 090100Z
-LIR  MRLB,Daniel Oduber Quiros International Airport,31.0,MRLB 090100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 090100Z
-NCPL,,31.0,NCPL 090100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 090100Z
+MZI  GAMB,Mopti Airport,41.0,GAMB 091200Z
+NIX  GANR,Nioro du Sahel Airport,41.0,GANR 091200Z
+ELQ  OEGS,Gassim Airport,41.0,OEGS 091200Z
+NJF  ORNI,Al Najaf International Airport,41.0,ORNI 091200Z
+VAJL,,41.0,VAJL 091200Z
+OODQ,,40.0,OODQ 091150Z
+SRH  FTTA,Sarh Airport,40.0,FTTA 091200Z
+MQQ  FTTD,Moundou Airport,40.0,FTTD 091200Z
+GAQ  GAGO,Gao Airport,40.0,GAGO 091200Z
+MAX  GOSM,Ouro Sogui Airport,40.0,GOSM 091200Z
+HOF  OEAH,Al Ahsa Airport,40.0,OEAH 091200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,40.0,OEPA 091200Z
+RAE  OERR,Arar Domestic Airport,40.0,OERR 091200Z
+AKW  OIAG,Aghajari Airport,40.0,OIAG 091200Z
+MRX  OIAM,Mahshahr Airport,40.0,OIAM 091200Z
+IHR  OIZI,Iran Shahr Airport,40.0,OIZ
+OKKK,,40.0,OKKK 091200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,40.0,VAAH 091200Z
+IXU  VAAU,Aurangabad Airport,40.0,VAAU 091200Z
+VEKO,,40.0,VEKO 091200Z
+DEL  VIDP,Indira Gandhi International Airport,40.0,VIDP 091200Z
+JAI  VIJP,Jaipur International Airport,40.0,VIJP 091200Z
+OKAS,Ali Al Salem Air Base,39.0,OKAS 091155Z
+YOL  DNYO,Yola Airport,39.0,DNYO 091200Z
+AJY  DRZA,Mano Dayak International Airport,39.0,DRZ
+GOU  FKKR,Garoua International Airport,39.0,FKKR 091200Z
+GOOG,,39.0,GOOG 091200Z
+OEAO,,39.0,OEAO 091200Z
+DMM  OEDF,King Fahd International Airport,39.0,OEDF 091200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,39.0,OEMA 091200Z
+RAH  OERF,Rafha Domestic Airport,39.0,OERF 091200Z
+RUH  OERK,King Khaled International Airport,39.0,OERK 091200Z
+WAE  OEWD,Wadi Al Dawasir Airport,39.0,OEWD 091200Z
+ABD  OIAA,Abadan Airport,39.0,OIAA 091200Z
+AWZ  OIAW,Ahwaz Airport,39.0,OIAW 091200Z
+LFM  OISR,Lamerd Airport,39.0,OISR 091200Z
+BSR  ORMM,Basrah International Airport,39.0,ORMM 091200Z
+BHO  VABP,Raja Bhoj International Airport,39.0,VABP 091200Z
+IDR  VAID,Devi Ahilyabai Holkar Airport,39.0,VAID 091200Z
+SAG  VASD,Shirdi Airport,39.0,VASD 091200Z
+UDR  VAUD,Maharana Pratap Airport,39.0,VAUD 091200Z
+VOND,,39.0,VOND 091200Z
+KQTZ,,38.0,KQTZ
+AKH  OEPS,Prince Sultan Air Base,38.0,OEPS 091155Z
+LYP  OPFA,Faisalabad International Airport,38.0,OPFA 091155Z
