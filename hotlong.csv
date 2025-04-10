@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MZI  GAMB,Mopti Airport,41.0,GAMB 091200Z
-NIX  GANR,Nioro du Sahel Airport,41.0,GANR 091200Z
-ELQ  OEGS,Gassim Airport,41.0,OEGS 091200Z
-NJF  ORNI,Al Najaf International Airport,41.0,ORNI 091200Z
-VAJL,,41.0,VAJL 091200Z
-OODQ,,40.0,OODQ 091150Z
-SRH  FTTA,Sarh Airport,40.0,FTTA 091200Z
-MQQ  FTTD,Moundou Airport,40.0,FTTD 091200Z
-GAQ  GAGO,Gao Airport,40.0,GAGO 091200Z
-MAX  GOSM,Ouro Sogui Airport,40.0,GOSM 091200Z
-HOF  OEAH,Al Ahsa Airport,40.0,OEAH 091200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,40.0,OEPA 091200Z
-RAE  OERR,Arar Domestic Airport,40.0,OERR 091200Z
-AKW  OIAG,Aghajari Airport,40.0,OIAG 091200Z
-MRX  OIAM,Mahshahr Airport,40.0,OIAM 091200Z
-IHR  OIZI,Iran Shahr Airport,40.0,OIZ
-OKKK,,40.0,OKKK 091200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,40.0,VAAH 091200Z
-IXU  VAAU,Aurangabad Airport,40.0,VAAU 091200Z
-VEKO,,40.0,VEKO 091200Z
-DEL  VIDP,Indira Gandhi International Airport,40.0,VIDP 091200Z
-JAI  VIJP,Jaipur International Airport,40.0,VIJP 091200Z
-OKAS,Ali Al Salem Air Base,39.0,OKAS 091155Z
-YOL  DNYO,Yola Airport,39.0,DNYO 091200Z
-AJY  DRZA,Mano Dayak International Airport,39.0,DRZ
-GOU  FKKR,Garoua International Airport,39.0,FKKR 091200Z
-GOOG,,39.0,GOOG 091200Z
-OEAO,,39.0,OEAO 091200Z
-DMM  OEDF,King Fahd International Airport,39.0,OEDF 091200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,39.0,OEMA 091200Z
-RAH  OERF,Rafha Domestic Airport,39.0,OERF 091200Z
-RUH  OERK,King Khaled International Airport,39.0,OERK 091200Z
-WAE  OEWD,Wadi Al Dawasir Airport,39.0,OEWD 091200Z
-ABD  OIAA,Abadan Airport,39.0,OIAA 091200Z
-AWZ  OIAW,Ahwaz Airport,39.0,OIAW 091200Z
-LFM  OISR,Lamerd Airport,39.0,OISR 091200Z
-BSR  ORMM,Basrah International Airport,39.0,ORMM 091200Z
-BHO  VABP,Raja Bhoj International Airport,39.0,VABP 091200Z
-IDR  VAID,Devi Ahilyabai Holkar Airport,39.0,VAID 091200Z
-SAG  VASD,Shirdi Airport,39.0,VASD 091200Z
-UDR  VAUD,Maharana Pratap Airport,39.0,VAUD 091200Z
-VOND,,39.0,VOND 091200Z
-KQTZ,,38.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,38.0,OEPS 091155Z
-LYP  OPFA,Faisalabad International Airport,38.0,OPFA 091155Z
+LGF  KLGF,Laguna Army Airfield,35.0,KLGF 100055Z
+EED  KEED,Needles Airport,35.0,KEED 100056Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),35.0,KNJK 100056Z
+KNOZ,,35.0,KNOZ
+HII  KHII,Lake Havasu City Airport,35.0,KHII 100115Z
+IFP  KIFP,Laughlin Bullhead International Airport,35.0,KIFP 100115Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,34.0,MMML 100043Z
+KCHD,Chandler Municipal Airport,34.0,KCHD 100047Z
+KGEU,Glendale Municipal Airport,34.0,KGEU 100048Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,34.0,KPHX 100051Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,34.0,KTRM 100052Z
+LUF  KLUF,Luke Air Force Base,34.0,KLUF 100055Z
+GAKD,,34.0,GAKD 100100Z
+KL08,,34.0,KL08 100115Z
+GYM  MMGM,General José María Yáñez International Airport,33.0,MMGM 100040Z
+KRYN,Ryan Field,33.0,KRYN 100045Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,33.0,KIWA 100051Z
+SCF  KSDL,Scottsdale Airport,33.0,KSDL 100053Z
+MSC  KFFZ,Falcon Field,33.0,KFFZ
+KGXF,,33.0,KGXF 100055Z
+LSV  KLSV,Nellis Air Force Base,33.0,KLSV 100055Z
+LBS  NFNL,Labasa Airport,33.0,NFNL 100100Z
+KA39,,33.0,KA39 100115Z
+BXK  KBXK,Buckeye Municipal Airport,33.0,KBXK 100115Z
+CEN  MMCN,Ciudad Obregón International Airport,32.0,MMCN 100047Z
+DAG  KDAG,Barstow Daggett Airport,32.0,KDAG 100050Z
+PNI  PTPN,Pohnpei International Airport,32.0,PTPN 100050Z
+DRT  KDRT,Del Rio International Airport,32.0,KDRT 100053Z
+DVT  KDVT,Phoenix Deer Valley Airport,32.0,KDVT 100053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,32.0,KTUS 100053Z
+VGT  KVGT,North Las Vegas Airport,32.0,KVGT 100053Z
+KNXP,Twentynine Palms (Self) Airport,32.0,KNXP 100054Z
+HSH  KHND,Henderson Executive Airport,32.0,KHND 100056Z
+LAS  KLAS,McCarran International Airport,32.0,KLAS 100056Z
+KNID,China Lake Naws (Armitage Field) Airport,32.0,KNID 100056Z
+NDJ  FTTJ,N'Djamena International Airport,32.0,FTTJ 100100Z
+NCPL,,32.0,NCPL 100100Z
+SUV  NFNA,Nausori International Airport,32.0,NFNA 100100Z
+PPT  NTAA,Faa'a International Airport,32.0,NTAA 100100Z
+SFS  RPLB,Subic Bay International Airport,32.0,RPLB 100100Z
+MDC  WAMM,Sam Ratulangi Airport,32.0,WAMM 100100Z
+DCN  YCIN,RAAF Base Curtin,32.0,YCIN 100100Z
+KNX  YPKU,Kununurra Airport,32.0,YPKU 100100Z
+LEA  YPLM,Learmonth Airport,32.0,YPLM 100100Z
+PHE  YPPD,Port Hedland International Airport,32.0,YPPD 100100Z
