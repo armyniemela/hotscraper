@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GYR  KGYR,Phoenix Goodyear Airport,36.0,KGYR 110047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,36.0,KPHX 110051Z
-BLH  KBLH,Blythe Airport,36.0,KBLH 110052Z
-KGEU,Glendale Municipal Airport,36.0,KGEU 110052Z
-IPL  KIPL,Imperial County Airport,36.0,KIPL 110053Z
-LUF  KLUF,Luke Air Force Base,36.0,KLUF 110055Z
-EED  KEED,Needles Airport,36.0,KEED 110056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),36.0,KNJK 110056Z
-KNOZ,,36.0,KNOZ
-HII  KHII,Lake Havasu City Airport,36.0,KHII 110115Z
-IFP  KIFP,Laughlin Bullhead International Airport,36.0,KIFP 110115Z
-KCHD,Chandler Municipal Airport,35.0,KCHD 110047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,35.0,KIWA 110049Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,35.0,KTRM 110052Z
-SCF  KSDL,Scottsdale Airport,35.0,KSDL 110053Z
-MSC  KFFZ,Falcon Field,35.0,KFFZ
-BXK  KBXK,Buckeye Municipal Airport,35.0,KBXK 110115Z
-KL08,,35.0,KL08 110115Z
-CEN  MMCN,Ciudad Obregón International Airport,34.0,MMCN 110040Z
-KRYN,Ryan Field,34.0,KRYN 110047Z
-DRT  KDRT,Del Rio International Airport,34.0,KDRT 110053Z
-KGXF,,34.0,KGXF 110055Z
-GAKD,,34.0,GAKD 110100Z
-PHE  YPPD,Port Hedland International Airport,34.0,YPPD 110100Z
-KP08,,34.0,KP08 110110Z
-KA39,,34.0,KA39 110115Z
-SAD  KSAD,Safford Regional Airport,33.0,KSAD 110051Z
-DVT  KDVT,Phoenix Deer Valley Airport,33.0,KDVT 110053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,33.0,KTUS 110053Z
-KNXP,Twentynine Palms (Self) Airport,33.0,KNXP 110054Z
-DLF  KDLF,DLF Airport,33.0,KDLF 110055Z
-DMA  KDMA,Davis Monthan Air Force Base,33.0,KDMA 110055Z
-LSV  KLSV,Nellis Air Force Base,33.0,KLSV 110055Z
-AVW  KAVQ,Marana Regional Airport,33.0,KAVQ 110115Z
-KBVU,,33.0,KBVU 110115Z
-MZJ  KMZJ,Pinal Airpark,33.0,KMZ
-NTR  MMAN,Del Norte International Airport,32.0,MMAN 110040Z
-LAP  MMLP,Manuel Márquez de León International Airport,32.0,MMLP 110040Z
-NLD  MMNL,Quetzalcóatl International Airport,32.0,MMNL 110040Z
-DAG  KDAG,Barstow Daggett Airport,32.0,KDAG 110050Z
-VGT  KVGT,North Las Vegas Airport,32.0,KVGT 110053Z
-HSH  KHND,Henderson Executive Airport,32.0,KHND 110056Z
-LAS  KLAS,McCarran International Airport,32.0,KLAS 110056Z
-KNID,China Lake Naws (Armitage Field) Airport,32.0,KNID 110056Z
-TML  DGLE,Tamale Airport,32.0,DGLE 110100Z
+NDJ  FTTJ,N'Djamena International Airport,40.0,FTTJ 111200Z
+WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 111200Z
+ACZ  OIZB,Zabol Airport,40.0,OIZ
+IHR  OIZI,Iran Shahr Airport,40.0,OIZ
+VOND,,40.0,VOND 111200Z
+AKH  OEPS,Prince Sultan Air Base,39.0,OEPS 111155Z
+SKO  DNSO,Sadiq Abubakar III International Airport,39.0,DNSO 111200Z
+AEH  FTTC,Abeche Airport,39.0,FTTC 111200Z
+BKO  GABS,Modibo Keita International Airport,39.0,GABS 111200Z
+OEKJ,,39.0,OEKJ 111200Z
+AAN  OMAL,Al Ain International Airport,39.0,OMAL 111200Z
+VAJL,,39.0,VAJL 111200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,39.0,VANP 111200Z
+OUA  DFFD,Ouagadougou Airport,38.0,DFFD 111200Z
+KAN  DNKN,Mallam Aminu International Airport,38.0,DNKN 111200Z
+MFQ  DRRM,Maradi Airport,38.0,DRRM 111200Z
+THZ  DRRT,Tahoua Airport,38.0,DRRT 111200Z
+GAKD,,38.0,GAKD 111200Z
+NIX  GANR,Nioro du Sahel Airport,38.0,GANR 111200Z
+HOF  OEAH,Al Ahsa Airport,38.0,OEAH 111200Z
+SHW  OESH,Sharurah Airport,38.0,OESH 111200Z
+AKW  OIAG,Aghajari Airport,38.0,OIAG 111200Z
+LFM  OISR,Lamerd Airport,38.0,OISR 111200Z
+GXF  OYSY,Sayun International Airport,38.0,OYSY 111200Z
+VAHS,,38.0,VAHS 111200Z
+JLR  VAJB,Jabalpur Airport,38.0,VAJB 111200Z
+VOGB,,38.0,VOGB 111200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,38.0,VOTR 111200Z
+OODQ,,37.0,OODQ 111150Z
+DNGO,,37.0,DNGO 111200Z
+YOL  DNYO,Yola Airport,37.0,DNYO 111200Z
+ZAR  DNZA,Zaria Airport,37.0,DNZ
+AJY  DRZA,Mano Dayak International Airport,37.0,DRZ
+DRZF,Diffa Airport,37.0,DRZ
+ZND  DRZR,Zinder Airport,37.0,DRZ
+KGG  GOTK,Kédougou Airport,37.0,GOTK 111200Z
+TUD  GOTT,Tambacounda Airport,37.0,GOTT 111200Z
+LOK  HKLO,Lodwar Airport,37.0,HKLO 111200Z
+LRR  OISL,Lar Airport,37.0,OISL 111200Z
+IXU  VAAU,Aurangabad Airport,37.0,VAAU 111200Z
+CDP  VOCP,Kadapa Airport,37.0,VOCP 111200Z
+OHS  OOSH,Sohar Airport,36.0,OOSH 111150Z
+INZ  DAUI,In Salah Airport,36.0,DAUI 111200Z
+MXJ  DNMN,Minna Airport,36.0,DNMN 111200Z
+SRH  FTTA,Sarh Airport,36.0,FTTA 111200Z
