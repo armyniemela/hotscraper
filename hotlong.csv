@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-THZ  DRRT,Tahoua Airport,41.0,DRRT 101200Z
-ZND  DRZR,Zinder Airport,41.0,DRZ
-NDJ  FTTJ,N'Djamena International Airport,41.0,FTTJ 101200Z
-GAQ  GAGO,Gao Airport,41.0,GAGO 101200Z
-MZI  GAMB,Mopti Airport,41.0,GAMB 101200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 101200Z
-BSR  ORMM,Basrah International Airport,41.0,ORMM 101200Z
-VOND,,40.0,VOND 101130Z
-AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 101155Z
-KAN  DNKN,Mallam Aminu International Airport,40.0,DNKN 101200Z
-SKO  DNSO,Sadiq Abubakar III International Airport,40.0,DNSO 101200Z
-NIX  GANR,Nioro du Sahel Airport,40.0,GANR 101200Z
-GOGK,,40.0,GOGK 101200Z
-ELQ  OEGS,Gassim Airport,40.0,OEGS 101200Z
-OEKJ,,40.0,OEKJ 101200Z
-RUH  OERK,King Khaled International Airport,40.0,OERK 101200Z
-MUX  OPMT,Multan International Airport,40.0,OPMT 101200Z
-VAJL,,40.0,VAJL 101200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,39.0,VAAH 101130Z
-OOAD,,39.0,OOAD 101150Z
-OUA  DFFD,Ouagadougou Airport,39.0,DFFD 101200Z
-DNKT,,39.0,DNKT 101200Z
-MFQ  DRRM,Maradi Airport,39.0,DRRM 101200Z
-DRZF,Diffa Airport,39.0,DRZ
-GAKD,,39.0,GAKD 101200Z
-TOM  GATB,Timbuktu Airport,39.0,GATB 101200Z
-OEMN,,39.0,OEMN 101200Z
-IHR  OIZI,Iran Shahr Airport,39.0,OIZ
-IXU  VAAU,Aurangabad Airport,39.0,VAAU 101200Z
-JAI  VIJP,Jaipur International Airport,39.0,VIJP 101200Z
-TIR  VOTP,Tirupati Airport,38.0,VOTP 101130Z
-OODQ,,38.0,OODQ 101150Z
-XJD  OTBH,Al Udeid Air Base,38.0,OTBH 101155Z
-BKO  GABS,Modibo Keita International Airport,38.0,GABS 101200Z
-DWD  OEDM,King Salman Abdulaziz Airport,38.0,OEDM 101200Z
-SHW  OESH,Sharurah Airport,38.0,OESH 101200Z
-WAE  OEWD,Wadi Al Dawasir Airport,38.0,OEWD 101200Z
-AKW  OIAG,Aghajari Airport,38.0,OIAG 101200Z
-LFM  OISR,Lamerd Airport,38.0,OISR 101200Z
-OKKK,,38.0,OKKK 101200Z
-AAN  OMAL,Al Ain International Airport,38.0,OMAL 101200Z
-BDQ  VABO,Vadodara Airport,38.0,VABO 101200Z
-BHO  VABP,Raja Bhoj International Airport,38.0,VABP 101200Z
-VAHS,,38.0,VAHS 101200Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 101200Z
+GYR  KGYR,Phoenix Goodyear Airport,36.0,KGYR 110047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,36.0,KPHX 110051Z
+BLH  KBLH,Blythe Airport,36.0,KBLH 110052Z
+KGEU,Glendale Municipal Airport,36.0,KGEU 110052Z
+IPL  KIPL,Imperial County Airport,36.0,KIPL 110053Z
+LUF  KLUF,Luke Air Force Base,36.0,KLUF 110055Z
+EED  KEED,Needles Airport,36.0,KEED 110056Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),36.0,KNJK 110056Z
+KNOZ,,36.0,KNOZ
+HII  KHII,Lake Havasu City Airport,36.0,KHII 110115Z
+IFP  KIFP,Laughlin Bullhead International Airport,36.0,KIFP 110115Z
+KCHD,Chandler Municipal Airport,35.0,KCHD 110047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,35.0,KIWA 110049Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,35.0,KTRM 110052Z
+SCF  KSDL,Scottsdale Airport,35.0,KSDL 110053Z
+MSC  KFFZ,Falcon Field,35.0,KFFZ
+BXK  KBXK,Buckeye Municipal Airport,35.0,KBXK 110115Z
+KL08,,35.0,KL08 110115Z
+CEN  MMCN,Ciudad Obregón International Airport,34.0,MMCN 110040Z
+KRYN,Ryan Field,34.0,KRYN 110047Z
+DRT  KDRT,Del Rio International Airport,34.0,KDRT 110053Z
+KGXF,,34.0,KGXF 110055Z
+GAKD,,34.0,GAKD 110100Z
+PHE  YPPD,Port Hedland International Airport,34.0,YPPD 110100Z
+KP08,,34.0,KP08 110110Z
+KA39,,34.0,KA39 110115Z
+SAD  KSAD,Safford Regional Airport,33.0,KSAD 110051Z
+DVT  KDVT,Phoenix Deer Valley Airport,33.0,KDVT 110053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,33.0,KTUS 110053Z
+KNXP,Twentynine Palms (Self) Airport,33.0,KNXP 110054Z
+DLF  KDLF,DLF Airport,33.0,KDLF 110055Z
+DMA  KDMA,Davis Monthan Air Force Base,33.0,KDMA 110055Z
+LSV  KLSV,Nellis Air Force Base,33.0,KLSV 110055Z
+AVW  KAVQ,Marana Regional Airport,33.0,KAVQ 110115Z
+KBVU,,33.0,KBVU 110115Z
+MZJ  KMZJ,Pinal Airpark,33.0,KMZ
+NTR  MMAN,Del Norte International Airport,32.0,MMAN 110040Z
+LAP  MMLP,Manuel Márquez de León International Airport,32.0,MMLP 110040Z
+NLD  MMNL,Quetzalcóatl International Airport,32.0,MMNL 110040Z
+DAG  KDAG,Barstow Daggett Airport,32.0,KDAG 110050Z
+VGT  KVGT,North Las Vegas Airport,32.0,KVGT 110053Z
+HSH  KHND,Henderson Executive Airport,32.0,KHND 110056Z
+LAS  KLAS,McCarran International Airport,32.0,KLAS 110056Z
+KNID,China Lake Naws (Armitage Field) Airport,32.0,KNID 110056Z
+TML  DGLE,Tamale Airport,32.0,DGLE 110100Z
