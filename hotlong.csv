@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-IPL  KIPL,Imperial County Airport,37.0,KIPL 120053Z
-PSP  KPSP,Palm Springs International Airport,37.0,KPSP 120053Z
-LGF  KLGF,Laguna Army Airfield,37.0,KLGF 120055Z
-EED  KEED,Needles Airport,37.0,KEED 120056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),37.0,KNJK 120056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,37.0,KNYL 120057Z
-KNOZ,,37.0,KNOZ
-HII  KHII,Lake Havasu City Airport,37.0,KHII 120115Z
-IFP  KIFP,Laughlin Bullhead International Airport,37.0,KIFP 120115Z
-KCHD,Chandler Municipal Airport,36.0,KCHD 120047Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,36.0,KTRM 120052Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,36.0,MMML 120053Z
-MSC  KFFZ,Falcon Field,36.0,KFFZ
-KA39,,36.0,KA39 120055Z
-LUF  KLUF,Luke Air Force Base,36.0,KLUF 120055Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 120056Z
-SCF  KSDL,Scottsdale Airport,35.0,KSDL 120053Z
-KGXF,,35.0,KGXF 120055Z
-LSV  KLSV,Nellis Air Force Base,35.0,KLSV 120055Z
-LAS  KLAS,McCarran International Airport,35.0,KLAS 120056Z
-NIM  DRRN,Diori Hamani International Airport,35.0,DRRN 120100Z
-BXK  KBXK,Buckeye Municipal Airport,35.0,KBXK 120115Z
-KRYN,Ryan Field,34.0,KRYN 120045Z
-CEN  MMCN,Ciudad Obregón International Airport,34.0,MMCN 120045Z
-DAG  KDAG,Barstow Daggett Airport,34.0,KDAG 120050Z
-DVT  KDVT,Phoenix Deer Valley Airport,34.0,KDVT 120053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,34.0,KTUS 120053Z
-VGT  KVGT,North Las Vegas Airport,34.0,KVGT 120053Z
-HSH  KHND,Henderson Executive Airport,34.0,KHND 120056Z
-KL08,,34.0,KL08 120115Z
-MZJ  KMZJ,Pinal Airpark,34.0,KMZ
-KP08,,34.0,KP08 120115Z
-SAD  KSAD,Safford Regional Airport,33.0,KSAD 120051Z
-KNXP,Twentynine Palms (Self) Airport,33.0,KNXP 120054Z
-DMA  KDMA,Davis Monthan Air Force Base,33.0,KDMA 120055Z
-TUD  GOTT,Tambacounda Airport,33.0,GOTT 120100Z
-SFS  RPLB,Subic Bay International Airport,33.0,RPLB 120100Z
-MNL  RPLL,Ninoy Aquino International Airport,33.0,RPLL 120100Z
-DCN  YCIN,RAAF Base Curtin,33.0,YCIN 120100Z
-AVW  KAVQ,Marana Regional Airport,33.0,KAVQ 120115Z
-KBVU,,33.0,KBVU 120115Z
-GYM  MMGM,General José María Yáñez International Airport,32.0,MMGM 120040Z
-PDS  MMPG,Piedras Negras International Airport,32.0,MMPG 120040Z
-SJD  MMSD,Los Cabos International Airport,32.0,MMSD 120040Z
-CJS  MMCS,Abraham González International Airport,32.0,MMCS 120041Z
+NIX  GANR,Nioro du Sahel Airport,40.0,GANR 121200Z
+HOF  OEAH,Al Ahsa Airport,40.0,OEAH 121200Z
+SHW  OESH,Sharurah Airport,40.0,OESH 121200Z
+IHR  OIZI,Iran Shahr Airport,40.0,OIZ
+XJD  OTBH,Al Udeid Air Base,39.0,OTBH 121155Z
+INZ  DAUI,In Salah Airport,39.0,DAUI 121200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,39.0,DNSO 121200Z
+YOL  DNYO,Yola Airport,39.0,DNYO 121200Z
+NIM  DRRN,Diori Hamani International Airport,39.0,DRRN 121200Z
+THZ  DRRT,Tahoua Airport,39.0,DRRT 121200Z
+GOU  FKKR,Garoua International Airport,39.0,FKKR 121200Z
+SRH  FTTA,Sarh Airport,39.0,FTTA 121200Z
+NDJ  FTTJ,N'Djamena International Airport,39.0,FTTJ 121200Z
+BKO  GABS,Modibo Keita International Airport,39.0,GABS 121200Z
+WAE  OEWD,Wadi Al Dawasir Airport,39.0,OEWD 121200Z
+AUH  OMAA,Abu Dhabi International Airport,39.0,OMAA 121200Z
+TIR  VOTP,Tirupati Airport,39.0,VOTP 121200Z
+MFQ  DRRM,Maradi Airport,38.0,DRRM 121200Z
+AEH  FTTC,Abeche Airport,38.0,FTTC 121200Z
+GAKD,,38.0,GAKD 121200Z
+PGU  OIBP,Persian Gulf International Airport,38.0,OIBP 121200Z
+LFM  OISR,Lamerd Airport,38.0,OISR 121200Z
+GXF  OYSY,Sayun International Airport,38.0,OYSY 121200Z
+VGA  VOBZ,Vijayawada Airport,38.0,VOBZ
+CDP  VOCP,Kadapa Airport,38.0,VOCP 121200Z
+VOGB,,38.0,VOGB 121200Z
+VOND,,38.0,VOND 121200Z
+AKH  OEPS,Prince Sultan Air Base,37.0,OEPS 121155Z
+OUA  DFFD,Ouagadougou Airport,37.0,DFFD 121200Z
+ZAR  DNZA,Zaria Airport,37.0,DNZ
+ZND  DRZR,Zinder Airport,37.0,DRZ
+OEKJ,,37.0,OEKJ 121200Z
+RUH  OERK,King Khaled International Airport,37.0,OERK 121200Z
+VEBU,,37.0,VEBU 121200Z
+JRG  VEJH,Jharsuguda Airport,37.0,VEJH 121200Z
+VERP,,37.0,VERP 121200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,37.0,VOTR 121200Z
+OHS  OOSH,Sohar Airport,36.0,OOSH 121150Z
+ELG  DAUE,El Golea Airport,36.0,DAUE 121200Z
+HME  DAUH,Oued Irara Airport,36.0,DAUH 121200Z
+AJY  DRZA,Mano Dayak International Airport,36.0,DRZ
+DRZF,Diffa Airport,36.0,DRZ
+KGG  GOTK,Kédougou Airport,36.0,GOTK 121200Z
+EAM  OENG,Nejran Airport,36.0,OENG 121200Z
+LRR  OISL,Lar Airport,36.0,OISL 121200Z
