@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-FOS  YFRT,Forrest Airport,35.0,YFRT 130230Z
-KGEU,Glendale Municipal Airport,34.0,KGEU 130150Z
-MCT  OOMS,Muscat International Airport,34.0,OOMS 130150Z
-MNL  RPLL,Ninoy Aquino International Airport,34.0,RPLL 130200Z
-VDSA,,34.0,VDSA 130230Z
-LEA  YPLM,Learmonth Airport,34.0,YPLM 130230Z
-KCHD,Chandler Municipal Airport,33.0,KCHD 130147Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,33.0,MMML 130149Z
-BLH  KBLH,Blythe Airport,33.0,KBLH 130152Z
-MSC  KFFZ,Falcon Field,33.0,KFFZ
-LGF  KLGF,Laguna Army Airfield,33.0,KLGF 130155Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,33.0,KNYL 130157Z
-KNOZ,,33.0,KNOZ
-GES  RPMR,General Santos International Airport,33.0,RPMR 130200Z
-DXB  OMDB,Dubai International Airport,33.0,OMDB 130230Z
-SHJ  OMSJ,Sharjah International Airport,33.0,OMSJ 130230Z
-PNH  VDPP,Phnom Penh International Airport,33.0,VDPP 130230Z
-KNX  YPKU,Kununurra Airport,33.0,YPKU 130230Z
-KRYN,Ryan Field,32.0,KRYN 130145Z
-KHS  OOKB,Khasab Air Base,32.0,OOKB 130150Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,32.0,KTRM 130152Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,32.0,KIWA 130153Z
-PSP  KPSP,Palm Springs International Airport,32.0,KPSP 130153Z
-SCF  KSDL,Scottsdale Airport,32.0,KSDL 130153Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,32.0,KTUS 130153Z
-DMA  KDMA,Davis Monthan Air Force Base,32.0,KDMA 130155Z
-LUF  KLUF,Luke Air Force Base,32.0,KLUF 130155Z
-EED  KEED,Needles Airport,32.0,KEED 130156Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,KNJK 130156Z
-OUA  DFFD,Ouagadougou Airport,32.0,DFFD 130200Z
-NAN  NFFN,Nadi International Airport,32.0,NFFN 130200Z
-AAN  OMAL,Al Ain International Airport,32.0,OMAL 130200Z
-SFS  RPLB,Subic Bay International Airport,32.0,RPLB 130200Z
-CRK  RPLC,Diosdado Macapagal International Airport,32.0,RPLC 130200Z
-PPS  RPVP,Puerto Princesa Airport,32.0,RPVP 130200Z
-HHQ  VTPH,Hua Hin Airport,32.0,VTPH 130200Z
-KBV  VTSG,Krabi Airport,32.0,VTSG 130200Z
-USM  VTSM,Samui Airport,32.0,VTSM 130200Z
-TWU  WBKW,Tawau Airport,32.0,WBKW 130200Z
-BKO  GABS,Modibo Keita International Airport,32.0,GABS 130230Z
-DMK  VTBD,Don Mueang International Airport,32.0,VTBD 130230Z
-BKK  VTBS,Suvarnabhumi Airport,32.0,VTBS 130230Z
-SGN  VVTS,Tan Son Nhat International Airport,32.0,VVTS 130230Z
-MDL  VYMD,Mandalay International Airport,32.0,VYMD 130230Z
-DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 130230Z
+AZI  OMAD,Bateen Airport,41.0,OMAD 131200Z
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 131200Z
+OOAD,,40.0,OOAD 131150Z
+YOL  DNYO,Yola Airport,40.0,DNYO 131200Z
+NIM  DRRN,Diori Hamani International Airport,40.0,DRRN 131200Z
+GAKD,,40.0,GAKD 131200Z
+LFM  OISR,Lamerd Airport,40.0,OISR 131200Z
+RKT  OMRK,Ras Al Khaimah International Airport,40.0,OMRK 131200Z
+VAHS,,40.0,VAHS 131200Z
+DWC  OMDW,Al Maktoum International Airport,40.0,OMDW 131230Z
+OUA  DFFD,Ouagadougou Airport,39.0,DFFD 131200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,39.0,DNSO 131200Z
+TUD  GOTT,Tambacounda Airport,39.0,GOTT 131200Z
+SHW  OESH,Sharurah Airport,39.0,OESH 131200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,39.0,VAAH 131200Z
+BDQ  VABO,Vadodara Airport,39.0,VABO 131200Z
+UDR  VAUD,Maharana Pratap Airport,39.0,VAUD 131200Z
+MQQ  FTTD,Moundou Airport,38.0,FTTD 131200Z
+NIX  GANR,Nioro du Sahel Airport,38.0,GANR 131200Z
+KGG  GOTK,Kédougou Airport,38.0,GOTK 131200Z
+WAE  OEWD,Wadi Al Dawasir Airport,38.0,OEWD 131200Z
+IXU  VAAU,Aurangabad Airport,38.0,VAAU 131200Z
+VAJL,,38.0,VAJL 131200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 131200Z
+DXB  OMDB,Dubai International Airport,38.0,OMDB 131230Z
+XJD  OTBH,Al Udeid Air Base,37.0,OTBH 131155Z
+DNGO,,37.0,DNGO 131200Z
+MFQ  DRRM,Maradi Airport,37.0,DRRM 131200Z
+THZ  DRRT,Tahoua Airport,37.0,DRRT 131200Z
+DRZF,Diffa Airport,37.0,DRZ
+ZND  DRZR,Zinder Airport,37.0,DRZ
+MAX  GOSM,Ouro Sogui Airport,37.0,GOSM 131200Z
+AEU  OIBA,Abu Musa Island Airport,37.0,OIBA 131200Z
+LRR  OISL,Lar Airport,37.0,OISL 131200Z
+MUX  OPMT,Multan International Airport,37.0,OPMT 131200Z
+GXF  OYSY,Sayun International Airport,37.0,OYSY 131200Z
+BHO  VABP,Raja Bhoj International Airport,37.0,VABP 131200Z
+CDP  VOCP,Kadapa Airport,37.0,VOCP 131200Z
+VOGB,,37.0,VOGB 131200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,37.0,VOTR 131200Z
+SHJ  OMSJ,Sharjah International Airport,37.0,OMSJ 131230Z
+HYD  VOHS,Rajiv Gandhi International Airport,36.0,VOHS 131130Z
+VOND,,36.0,VOND 131130Z
+KHS  OOKB,Khasab Air Base,36.0,OOKB 131150Z
+MCT  OOMS,Muscat International Airport,36.0,OOMS 131150Z
