@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AZI  OMAD,Bateen Airport,41.0,OMAD 131200Z
-AAN  OMAL,Al Ain International Airport,41.0,OMAL 131200Z
-OOAD,,40.0,OOAD 131150Z
-YOL  DNYO,Yola Airport,40.0,DNYO 131200Z
-NIM  DRRN,Diori Hamani International Airport,40.0,DRRN 131200Z
-GAKD,,40.0,GAKD 131200Z
-LFM  OISR,Lamerd Airport,40.0,OISR 131200Z
-RKT  OMRK,Ras Al Khaimah International Airport,40.0,OMRK 131200Z
-VAHS,,40.0,VAHS 131200Z
-DWC  OMDW,Al Maktoum International Airport,40.0,OMDW 131230Z
-OUA  DFFD,Ouagadougou Airport,39.0,DFFD 131200Z
-SKO  DNSO,Sadiq Abubakar III International Airport,39.0,DNSO 131200Z
-TUD  GOTT,Tambacounda Airport,39.0,GOTT 131200Z
-SHW  OESH,Sharurah Airport,39.0,OESH 131200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,39.0,VAAH 131200Z
-BDQ  VABO,Vadodara Airport,39.0,VABO 131200Z
-UDR  VAUD,Maharana Pratap Airport,39.0,VAUD 131200Z
-MQQ  FTTD,Moundou Airport,38.0,FTTD 131200Z
-NIX  GANR,Nioro du Sahel Airport,38.0,GANR 131200Z
-KGG  GOTK,Kédougou Airport,38.0,GOTK 131200Z
-WAE  OEWD,Wadi Al Dawasir Airport,38.0,OEWD 131200Z
-IXU  VAAU,Aurangabad Airport,38.0,VAAU 131200Z
-VAJL,,38.0,VAJL 131200Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 131200Z
-DXB  OMDB,Dubai International Airport,38.0,OMDB 131230Z
-XJD  OTBH,Al Udeid Air Base,37.0,OTBH 131155Z
-DNGO,,37.0,DNGO 131200Z
-MFQ  DRRM,Maradi Airport,37.0,DRRM 131200Z
-THZ  DRRT,Tahoua Airport,37.0,DRRT 131200Z
-DRZF,Diffa Airport,37.0,DRZ
-ZND  DRZR,Zinder Airport,37.0,DRZ
-MAX  GOSM,Ouro Sogui Airport,37.0,GOSM 131200Z
-AEU  OIBA,Abu Musa Island Airport,37.0,OIBA 131200Z
-LRR  OISL,Lar Airport,37.0,OISL 131200Z
-MUX  OPMT,Multan International Airport,37.0,OPMT 131200Z
-GXF  OYSY,Sayun International Airport,37.0,OYSY 131200Z
-BHO  VABP,Raja Bhoj International Airport,37.0,VABP 131200Z
-CDP  VOCP,Kadapa Airport,37.0,VOCP 131200Z
-VOGB,,37.0,VOGB 131200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,37.0,VOTR 131200Z
-SHJ  OMSJ,Sharjah International Airport,37.0,OMSJ 131230Z
-HYD  VOHS,Rajiv Gandhi International Airport,36.0,VOHS 131130Z
-VOND,,36.0,VOND 131130Z
-KHS  OOKB,Khasab Air Base,36.0,OOKB 131150Z
-MCT  OOMS,Muscat International Airport,36.0,OOMS 131150Z
+EED  KEED,Needles Airport,34.0,KEED 140056Z
+HII  KHII,Lake Havasu City Airport,34.0,KHII 140115Z
+IFP  KIFP,Laughlin Bullhead International Airport,34.0,KIFP 140115Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,33.0,KPHX 140051Z
+MAF  KMAF,Midland International Airport,33.0,KMAF 140053Z
+GAKD,,33.0,GAKD 140100Z
+PHE  YPPD,Port Hedland International Airport,33.0,YPPD 140100Z
+SVJM,San Juan de Los Morros Airport,33.0,SVJM 140103Z
+K5T9,,33.0,K5T9 140115Z
+KE01,,33.0,KE01 140115Z
+KPRS,Presidio Lely International Airport,33.0,KPRS 140115Z
+KT89,,33.0,KT89 140115Z
+NTR  MMAN,Del Norte International Airport,32.0,MMAN 140040Z
+MTY  MMMY,General Mariano Escobedo International Airport,32.0,MMMY 140040Z
+SJD  MMSD,Los Cabos International Airport,32.0,MMSD 140040Z
+LAP  MMLP,Manuel Márquez de León International Airport,32.0,MMLP 140044Z
+KCHD,Chandler Municipal Airport,32.0,KCHD 140047Z
+KGEU,Glendale Municipal Airport,32.0,KGEU 140047Z
+GYR  KGYR,Phoenix Goodyear Airport,32.0,KGYR 140047Z
+K6R6,,32.0,K6R6 140051Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,32.0,KIWA 140051Z
+SJT  KSJT,San Angelo Regional Mathis Field,32.0,KSJT 140051Z
+BLH  KBLH,Blythe Airport,32.0,KBLH 140052Z
+FST  KFST,Fort Stockton Pecos County Airport,32.0,KFST 140053Z
+INK  KINK,Winkler County Airport,32.0,KINK 140053Z
+PNI  PTPN,Pohnpei International Airport,32.0,PTPN 140053Z
+MSC  KFFZ,Falcon Field,32.0,KFFZ
+LUF  KLUF,Luke Air Force Base,32.0,KLUF 140055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,KNJK 140056Z
+NCPL,,32.0,NCPL 140100Z
+LBS  NFNL,Labasa Airport,32.0,NFNL 140100Z
+MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 140100Z
+PPS  RPVP,Puerto Princesa Airport,32.0,RPVP 140100Z
+DCN  YCIN,RAAF Base Curtin,32.0,YCIN 140100Z
+KNX  YPKU,Kununurra Airport,32.0,YPKU 140100Z
+BKD  KBKD,Stephens County Airport,32.0,KBKD 140115Z
+KL08,,32.0,KL08 140115Z
+MDD  KMDD,Midland Airpark,32.0,KMDD 140115Z
+KP08,,32.0,KP08 140115Z
+PSP  KPSP,Palm Springs International Airport,32.0,KPSP 140124Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,31.0,MMML 140040Z
+NLD  MMNL,Quetzalcóatl International Airport,31.0,MMNL 140040Z
+CUU  MMCU,General Roberto Fierro Villalobos International Airport,31.0,MMCU 140042Z
+KRYN,Ryan Field,31.0,KRYN 140046Z
+PTTP,,31.0,PTTP 140050Z
