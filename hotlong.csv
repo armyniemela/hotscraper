@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-DLF  KDLF,DLF Airport,34.0,KDLF 150055Z
-NTR  MMAN,Del Norte International Airport,33.0,MMAN 150040Z
-MTY  MMMY,General Mariano Escobedo International Airport,33.0,MMMY 150040Z
-NLD  MMNL,Quetzalcóatl International Airport,33.0,MMNL 150043Z
-TUD  GOTT,Tambacounda Airport,33.0,GOTT 150100Z
-VUP  SKVP,Alfonso López Pumarejo Airport,33.0,SKVP 150100Z
-BME  YBRM,Broome International Airport,33.0,YBRM 150100Z
-PHE  YPPD,Port Hedland International Airport,33.0,YPPD 150100Z
-K5T9,,33.0,K5T9 150115Z
-KT89,,33.0,KT89 150115Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,32.0,MMCV 150040Z
-GYR  KGYR,Phoenix Goodyear Airport,32.0,KGYR 150047Z
-GYM  MMGM,General José María Yáñez International Airport,32.0,MMGM 150048Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,32.0,KPHX 150051Z
-BLH  KBLH,Blythe Airport,32.0,KBLH 150052Z
-LAP  MMLP,Manuel Márquez de León International Airport,32.0,MMLP 150052Z
-EED  KEED,Needles Airport,32.0,KEED 150056Z
-LRD  KLRD,Laredo International Airport,32.0,KLRD 150056Z
-OUA  DFFD,Ouagadougou Airport,32.0,DFFD 150100Z
-NCPL,,32.0,NCPL 140100Z
-MDC  WAMM,Sam Ratulangi Airport,32.0,WAMM 150100Z
-KNX  YPKU,Kununurra Airport,32.0,YPKU 150100Z
-CZT  KCZT,Dimmit County Airport,32.0,KCZ
-KFTN,,32.0,KFTN 150115Z
-HII  KHII,Lake Havasu City Airport,32.0,KHII 150115Z
-GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,31.0,MMGL 150040Z
-LMM  MMLM,Valle del Fuerte International Airport,31.0,MMLM 150042Z
-KGEU,Glendale Municipal Airport,31.0,KGEU 150050Z
-KHS  OOKB,Khasab Air Base,31.0,OOKB 150050Z
-TKK  PTKK,Chuuk International Airport,31.0,PTKK 150050Z
-K6R6,,31.0,K6R6 150051Z
-KHDO,South Texas Regional Airport at Hondo,31.0,KHDO 150051Z
-PPG  NSTU,Pago Pago International Airport,31.0,NSTU 150051Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 150052Z
-IPL  KIPL,Imperial County Airport,31.0,KIPL 150053Z
-MYV  KMYV,Yuba County Airport,31.0,KMYV 150053Z
-OVE  KOVE,Oroville Municipal Airport,31.0,KOVE 150053Z
-MMSL,Cabo San Lucas International Airport,31.0,MMSL 150053Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,31.0,KIWA 150055Z
-LGF  KLGF,Laguna Army Airfield,31.0,KLGF 150055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),31.0,KNJK 150056Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 150100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 140100Z
-PYE  NCPY,Tongareva Airport,31.0,NCPY 140100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 150100Z
+NDJ  FTTJ,N'Djamena International Airport,41.0,FTTJ 151200Z
+GAQ  GAGO,Gao Airport,41.0,GAGO 151200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 151200Z
+MUX  OPMT,Multan International Airport,41.0,OPMT 151200Z
+YOL  DNYO,Yola Airport,40.0,DNYO 151200Z
+THZ  DRRT,Tahoua Airport,40.0,DRRT 151200Z
+DRZF,Diffa Airport,40.0,DRZ
+GAKD,,40.0,GAKD 151200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,40.0,VAAH 151200Z
+IXU  VAAU,Aurangabad Airport,40.0,VAAU 151200Z
+BDQ  VABO,Vadodara Airport,40.0,VABO 151200Z
+VAJL,,40.0,VAJL 151200Z
+OHS  OOSH,Sohar Airport,39.0,OOSH 151150Z
+LYP  OPFA,Faisalabad International Airport,39.0,OPFA 151155Z
+MFQ  DRRM,Maradi Airport,39.0,DRRM 151200Z
+ZND  DRZR,Zinder Airport,39.0,DRZ
+SRH  FTTA,Sarh Airport,39.0,FTTA 151200Z
+NIX  GANR,Nioro du Sahel Airport,39.0,GANR 151200Z
+MAX  GOSM,Ouro Sogui Airport,39.0,GOSM 151200Z
+LFM  OISR,Lamerd Airport,39.0,OISR 151200Z
+PEW  OPPS,Peshawar International Airport,39.0,OPPS 151200Z
+VAHS,,39.0,VAHS 151200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,39.0,VANP 151200Z
+UDR  VAUD,Maharana Pratap Airport,39.0,VAUD 151200Z
+KLH  VAKP,Kolhapur Airport,38.0,VAKP 151130Z
+LHE  OPLA,Alama Iqbal International Airport,38.0,OPLA 151155Z
+OUA  DFFD,Ouagadougou Airport,38.0,DFFD 151200Z
+AJY  DRZA,Mano Dayak International Airport,38.0,DRZ
+AEH  FTTC,Abeche Airport,38.0,FTTC 151200Z
+TUD  GOTT,Tambacounda Airport,38.0,GOTT 151200Z
+SHW  OESH,Sharurah Airport,38.0,OESH 151200Z
+RKT  OMRK,Ras Al Khaimah International Airport,38.0,OMRK 151200Z
+IDR  VAID,Devi Ahilyabai Holkar Airport,38.0,VAID 151200Z
+SAG  VASD,Shirdi Airport,38.0,VASD 151200Z
+CDP  VOCP,Kadapa Airport,38.0,VOCP 151200Z
+VOND,,38.0,VOND 151200Z
+MXJ  DNMN,Minna Airport,37.0,DNMN 151200Z
+MJN  FMNM,Amborovy Airport,37.0,FMNM 151200Z
+MZI  GAMB,Mopti Airport,37.0,GAMB 151200Z
+TOM  GATB,Timbuktu Airport,37.0,GATB 151200Z
+POD  GOSP,Podor Airport,37.0,GOSP 151200Z
+KGG  GOTK,Kédougou Airport,37.0,GOTK 151200Z
+TCX  OIMT,Tabas Airport,37.0,OIMT 151200Z
+LRR  OISL,Lar Airport,37.0,OISL 151200Z
