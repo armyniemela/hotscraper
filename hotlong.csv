@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-EED  KEED,Needles Airport,33.0,KEED 160056Z
-HII  KHII,Lake Havasu City Airport,33.0,KHII 160115Z
-GYM  MMGM,General José María Yáñez International Airport,32.0,MMGM 160040Z
-TRC  MMTC,Francisco Sarabia International Airport,32.0,MMTC 160042Z
-CUL  MMCL,Bachigualato Federal International Airport,32.0,MMCL 160045Z
-KCHD,Chandler Municipal Airport,32.0,KCHD 160047Z
-GYR  KGYR,Phoenix Goodyear Airport,32.0,KGYR 160047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,32.0,KIWA 160048Z
-PNI  PTPN,Pohnpei International Airport,32.0,PTPN 160050Z
-KGEU,Glendale Municipal Airport,32.0,KGEU 160051Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,32.0,KPHX 160051Z
-BLH  KBLH,Blythe Airport,32.0,KBLH 160052Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,32.0,KTUS 160053Z
-MSC  KFFZ,Falcon Field,32.0,KFFZ
-DMA  KDMA,Davis Monthan Air Force Base,32.0,KDMA 160055Z
-LGF  KLGF,Laguna Army Airfield,32.0,KLGF 160055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,KNJK 160056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,32.0,KNYL 160057Z
-OUA  DFFD,Ouagadougou Airport,32.0,DFFD 160100Z
-APW  NSFA,Faleolo International Airport,32.0,NSFA 160100Z
-MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 160100Z
-VUP  SKVP,Alfonso López Pumarejo Airport,32.0,SKVP 160100Z
-KNX  YPKU,Kununurra Airport,32.0,YPKU 160100Z
-KP08,,32.0,KP08 160110Z
-AVW  KAVQ,Marana Regional Airport,32.0,KAVQ 160115Z
-MZJ  KMZJ,Pinal Airpark,32.0,KMZ
-LMM  MMLM,Valle del Fuerte International Airport,31.0,MMLM 160040Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,31.0,MMML 160040Z
-CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 160041Z
-MCT  OOMS,Muscat International Airport,31.0,OOMS 160050Z
-PTTP,,31.0,PTTP 160050Z
-SAD  KSAD,Safford Regional Airport,31.0,KSAD 160051Z
-IPL  KIPL,Imperial County Airport,31.0,KIPL 160053Z
-SCF  KSDL,Scottsdale Airport,31.0,KSDL 160053Z
-LUF  KLUF,Luke Air Force Base,31.0,KLUF 160055Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 160056Z
-KNOZ,,31.0,KNOZ
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 160100Z
-NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 160100Z
-LIR  MRLB,Daniel Oduber Quiros International Airport,31.0,MRLB 160100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 160100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 160100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 160100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 160100Z
-TRW  NGTA,Bonriki International Airport,31.0,NGTA 160100Z
+ZND  DRZR,Zinder Airport,41.0,DRZ
+GAKD,,41.0,GAKD 161200Z
+ACZ  OIZB,Zabol Airport,41.0,OIZ
+FJR  OMFJ,Fujairah International Airport,41.0,OMFJ 161200Z
+OOAD,,40.0,OOAD 161150Z
+DNKT,,40.0,DNKT 161200Z
+MFQ  DRRM,Maradi Airport,40.0,DRRM 161200Z
+NIM  DRRN,Diori Hamani International Airport,40.0,DRRN 161200Z
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+DRZF,Diffa Airport,40.0,DRZ
+MQQ  FTTD,Moundou Airport,40.0,FTTD 161200Z
+GAQ  GAGO,Gao Airport,40.0,GAGO 161200Z
+MZI  GAMB,Mopti Airport,40.0,GAMB 161200Z
+IHR  OIZI,Iran Shahr Airport,40.0,OIZ
+VOND,,40.0,VOND 161200Z
+OHS  OOSH,Sohar Airport,39.0,OOSH 161150Z
+LYP  OPFA,Faisalabad International Airport,39.0,OPFA 161155Z
+OUA  DFFD,Ouagadougou Airport,39.0,DFFD 161200Z
+SRH  FTTA,Sarh Airport,39.0,FTTA 161200Z
+AEH  FTTC,Abeche Airport,39.0,FTTC 161200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,39.0,VAAH 161200Z
+NIX  GANR,Nioro du Sahel Airport,38.0,GANR 161200Z
+GOOG,,38.0,GOOG 161200Z
+TUD  GOTT,Tambacounda Airport,38.0,GOTT 161200Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,38.0,VANP 161200Z
+LHE  OPLA,Alama Iqbal International Airport,38.0,OPLA 161225Z
+CDP  VOCP,Kadapa Airport,37.0,VOCP 161130Z
+MCT  OOMS,Muscat International Airport,37.0,OOMS 161150Z
+TML  DGLE,Tamale Airport,37.0,DGLE 161200Z
+YOL  DNYO,Yola Airport,37.0,DNYO 161200Z
+ZAR  DNZA,Zaria Airport,37.0,DNZ
+TOM  GATB,Timbuktu Airport,37.0,GATB 161200Z
+KLC  GOOK,Kaolack Airport,37.0,GOOK 161200Z
+POD  GOSP,Podor Airport,37.0,GOSP 161200Z
+KGG  GOTK,Kédougou Airport,37.0,GOTK 161200Z
+OEMN,,37.0,OEMN 161200Z
+BDH  OIBL,Bandar Lengeh Airport,37.0,OIBL 161200Z
+AAN  OMAL,Al Ain International Airport,37.0,OMAL 161200Z
+SKT  OPST,Sialkot Airport,37.0,OPST 161200Z
+BHO  VABP,Raja Bhoj International Airport,37.0,VABP 161200Z
+VEKO,,37.0,VEKO 161200Z
+ATQ  VIAR,Sri Guru Ram Dass Jee International Airport,37.0,VIAR 161200Z
+JAI  VIJP,Jaipur International Airport,37.0,VIJP 161200Z
+VOGB,,37.0,VOGB 161200Z
+MJN  FMNM,Amborovy Airport,36.0,FMNM 161200Z
