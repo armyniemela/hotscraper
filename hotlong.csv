@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GAKD,,35.0,GAKD 190100Z
-KGG  GOTK,Kédougou Airport,34.0,GOTK 190000Z
-OUA  DFFD,Ouagadougou Airport,33.0,DFFD 190000Z
-NTR  MMAN,Del Norte International Airport,33.0,MMAN 190040Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,33.0,MMMD 190040Z
-CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,33.0,MMCP 190041Z
-K5T9,,33.0,K5T9 190055Z
-KFTN,,33.0,KFTN 190055Z
-NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 190100Z
-SFS  RPLB,Subic Bay International Airport,33.0,RPLB 190100Z
-MGA  MNMG,Augusto C. Sandino (Managua) International Airport,32.0,MNMG 190000Z
-MTY  MMMY,General Mariano Escobedo International Airport,32.0,MMMY 190040Z
-NLD  MMNL,Quetzalcóatl International Airport,32.0,MMNL 190040Z
-PTTP,,32.0,PTTP 190050Z
-DRT  KDRT,Del Rio International Airport,32.0,KDRT 190053Z
-PNI  PTPN,Pohnpei International Airport,32.0,PTPN 190054Z
-CZT  KCZT,Dimmit County Airport,32.0,KCZ
-YOL  DNYO,Yola Airport,32.0,DNYO 190100Z
-MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 190100Z
-MGTU,,31.0,MGTU 190000Z
-PQM  MMPQ,Palenque International Airport,31.0,MMPQ 190041Z
-CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 190045Z
-ROR  PTRO,Babelthuap Airport,31.0,PTRO 190050Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 190050Z
-SPN  PGSN,Saipan International Airport,31.0,PGSN 190054Z
-TKK  PTKK,Chuuk International Airport,31.0,PTKK 190054Z
-YAP  PTYA,Yap International Airport,31.0,PTYA 190054Z
-DLF  KDLF,DLF Airport,31.0,KDLF 190055Z
-KT70,,31.0,KT70 190055Z
-KT89,,31.0,KT89 190055Z
-UVA  KUVA,Garner Field,31.0,KUVA 190055Z
-LRD  KLRD,Laredo International Airport,31.0,KLRD 190056Z
-NCPL,,31.0,NCPL 190100Z
-PYE  NCPY,Tongareva Airport,31.0,NCPY 190100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 190100Z
-LBS  NFNL,Labasa Airport,31.0,NFNL 190100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 190100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 190100Z
-TRW  NGTA,Bonriki International Airport,31.0,NGTA 190100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 190100Z
-TSA  RCSS,Taipei Songshan Airport,31.0,RCSS 190100Z
-CRK  RPLC,Diosdado Macapagal International Airport,31.0,RPLC 190100Z
-LAO  RPLI,Laoag International Airport,31.0,RPLI 190100Z
-GES  RPMR,General Santos International Airport,31.0,RPMR 190100Z
-ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
+DNGO,,41.0,DNGO 191200Z
+MFQ  DRRM,Maradi Airport,41.0,DRRM 191200Z
+NIM  DRRN,Diori Hamani International Airport,41.0,DRRN 191200Z
+AJY  DRZA,Mano Dayak International Airport,41.0,DRZ
+DRZF,Diffa Airport,41.0,DRZ
+ZND  DRZR,Zinder Airport,41.0,DRZ
+VEKO,,41.0,VEKO 191200Z
+VOND,,41.0,VOND 191200Z
+OOAD,,40.0,OOAD 191150Z
+OUA  DFFD,Ouagadougou Airport,40.0,DFFD 191200Z
+KAN  DNKN,Mallam Aminu International Airport,40.0,DNKN 191200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,40.0,DNSO 191200Z
+AEH  FTTC,Abeche Airport,40.0,FTTC 191200Z
+MUX  OPMT,Multan International Airport,40.0,OPMT 191200Z
+MQQ  FTTD,Moundou Airport,39.0,FTTD 191200Z
+BHO  VABP,Raja Bhoj International Airport,39.0,VABP 191200Z
+JAI  VIJP,Jaipur International Airport,39.0,VIJP 191200Z
+TIR  VOTP,Tirupati Airport,39.0,VOTP 191200Z
+OODQ,,38.0,OODQ 191150Z
+DNKT,,38.0,DNKT 191200Z
+ZAR  DNZA,Zaria Airport,38.0,DNZ
+SRH  FTTA,Sarh Airport,38.0,FTTA 191200Z
+BKO  GABS,Modibo Keita International Airport,38.0,GABS 191200Z
+GAKD,,38.0,GAKD 191200Z
+GOOG,,38.0,GOOG 191200Z
+POD  GOSP,Podor Airport,38.0,GOSP 191200Z
+OEMN,,38.0,OEMN 191200Z
+SHW  OESH,Sharurah Airport,38.0,OESH 191200Z
+VERP,,38.0,VERP 191200Z
+CDP  VOCP,Kadapa Airport,38.0,VOCP 191200Z
+KGG  GOTK,Kédougou Airport,37.0,GOTK 191200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,37.0,OEMA 191200Z
+SKT  OPST,Sialkot Airport,37.0,OPST 191200Z
+GXF  OYSY,Sayun International Airport,37.0,OYSY 191200Z
+IDR  VAID,Devi Ahilyabai Holkar Airport,37.0,VAID 191200Z
+JRG  VEJH,Jharsuguda Airport,37.0,VEJH 191200Z
+IXM  VOMD,Madurai Airport,37.0,VOMD 191200Z
+LHE  OPLA,Alama Iqbal International Airport,37.0,OPLA 191225Z
+DEL  VIDP,Indira Gandhi International Airport,36.0,VIDP 191130Z
+LYP  OPFA,Faisalabad International Airport,36.0,OPFA 191155Z
+MXJ  DNMN,Minna Airport,36.0,DNMN 191200Z
+TUD  GOTT,Tambacounda Airport,36.0,GOTT 191200Z
+OEAO,,36.0,OEAO 191200Z
+AQJ  OJAQ,Aqaba King Hussein International Airport,36.0,OJAQ 191200Z
+ATQ  VIAR,Sri Guru Ram Dass Jee International Airport,36.0,VIAR 191200Z
