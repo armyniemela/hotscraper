@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-SFS  RPLB,Subic Bay International Airport,33.0,RPLB 210100Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,32.0,MMHO 210040Z
-CVJ  MMCB,General Mariano Matamoros Airport,32.0,MMCB 210043Z
-TGZ  MMTG,Angel Albino Corzo International Airport,32.0,MMTG 210051Z
-POM  AYPY,Port Moresby Jacksons International Airport,32.0,AYPY 210100Z
-LBS  NFNL,Labasa Airport,32.0,NFNL 210100Z
-MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 210100Z
-PPS  RPVP,Puerto Princesa Airport,32.0,RPVP 210100Z
-BME  YBRM,Broome International Airport,32.0,YBRM 210100Z
-DCN  YCIN,RAAF Base Curtin,32.0,YCIN 210100Z
-KTR  YPTN,Tindal Airport,32.0,YPTN 210100Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 210050Z
-SPN  PGSN,Saipan International Airport,31.0,PGSN 210054Z
-GUM  PGUM,Antonio B. Won Pat International Airport,31.0,PGUM 210054Z
-PTTP,,31.0,PTTP 210055Z
-HIR  AGGH,Honiara International Airport,31.0,AGGH 210100Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 210100Z
-BKO  GABS,Modibo Keita International Airport,31.0,GABS 210100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 210100Z
-PYE  NCPY,Tongareva Airport,31.0,NCPY 210100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 210100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 210100Z
-SVU  NFNS,Savusavu Airport,31.0,NFNS 210100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 210100Z
-OEMN,,31.0,OEMN 210100Z
-TNN  RCNN,Tainan Airport,31.0,RCNN 210100Z
-CRK  RPLC,Diosdado Macapagal International Airport,31.0,RPLC 210100Z
-LAO  RPLI,Laoag International Airport,31.0,RPLI 210100Z
-CEB  RPVM,Mactan Cebu International Airport,31.0,RPVM 210100Z
-PNH  VDPP,Phnom Penh International Airport,31.0,VDPP 210100Z
-PKZ  VLPS,Pakse International Airport,31.0,VLPS 210100Z
-BKK  VTBS,Suvarnabhumi Airport,31.0,VTBS 210100Z
-USM  VTSM,Samui Airport,31.0,VTSM 210100Z
-BFV  VTUO,Buri Ram Airport,31.0,VTUO 210100Z
-KOP  VTUW,Nakhon Phanom Airport,31.0,VTUW 210100Z
-SGN  VVTS,Tan Son Nhat International Airport,31.0,VVTS 210100Z
-DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 210100Z
-PHE  YPPD,Port Hedland International Airport,31.0,YPPD 210100Z
-GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,30.0,MMGL 210040Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,30.0,MMVA 210041Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,30.0,MMCV 210048Z
-TKK  PTKK,Chuuk International Airport,30.0,PTKK 210050Z
-ROR  PTRO,Babelthuap Airport,30.0,PTRO 210050Z
-YAP  PTYA,Yap International Airport,30.0,PTYA 210051Z
-PKMR,,30.0,PKMR 210052Z
+AJY  DRZA,Mano Dayak International Airport,41.0,DRZ
+ZND  DRZR,Zinder Airport,41.0,DRZ
+VOND,,41.0,VOND 211200Z
+OOAD,,40.0,OOAD 211150Z
+THZ  DRRT,Tahoua Airport,40.0,DRRT 211200Z
+AEH  FTTC,Abeche Airport,40.0,FTTC 211200Z
+MQQ  FTTD,Moundou Airport,40.0,FTTD 211200Z
+TOM  GATB,Timbuktu Airport,40.0,GATB 211200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,40.0,OEYN 211200Z
+VERP,,40.0,VERP 211200Z
+SRH  FTTA,Sarh Airport,39.0,FTTA 211200Z
+GAKD,,39.0,GAKD 211200Z
+MZI  GAMB,Mopti Airport,39.0,GAMB 211200Z
+NIX  GANR,Nioro du Sahel Airport,39.0,GANR 211200Z
+ASW  HESN,Aswan International Airport,39.0,HESN 211200Z
+HESW,,39.0,HESW 211200Z
+WAE  OEWD,Wadi Al Dawasir Airport,39.0,OEWD 211200Z
+GAY  VEGY,Gaya Airport,39.0,VEGY 211200Z
+JRG  VEJH,Jharsuguda Airport,39.0,VEJH 211200Z
+RRK  VERK,Rourkela Airport,39.0,VERK 211200Z
+DEL  VIDP,Indira Gandhi International Airport,39.0,VIDP 211200Z
+LYP  OPFA,Faisalabad International Airport,38.0,OPFA 211155Z
+OUA  DFFD,Ouagadougou Airport,38.0,DFFD 211200Z
+TUD  GOTT,Tambacounda Airport,38.0,GOTT 211200Z
+OEMN,,38.0,OEMN 211200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,38.0,OEPA 211200Z
+SHW  OESH,Sharurah Airport,38.0,OESH 211200Z
+LFM  OISR,Lamerd Airport,38.0,OISR 211200Z
+AAN  OMAL,Al Ain International Airport,38.0,OMAL 211200Z
+MUX  OPMT,Multan International Airport,38.0,OPMT 211200Z
+SKT  OPST,Sialkot Airport,38.0,OPST 211200Z
+BHO  VABP,Raja Bhoj International Airport,38.0,VABP 211200Z
+VEAY,,38.0,VEAY 211200Z
+IXW  VEJS,Sonari Airport,38.0,VEJS 211200Z
+PAT  VEPT,Lok Nayak Jayaprakash Airport,38.0,VEPT 211200Z
+LKO  VILK,Chaudhary Charan Singh International Airport,38.0,VILK 211200Z
+CDP  VOCP,Kadapa Airport,38.0,VOCP 211200Z
+TIR  VOTP,Tirupati Airport,38.0,VOTP 211200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,38.0,VOTR 211200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,37.0,DATM 211200Z
+TML  DGLE,Tamale Airport,37.0,DGLE 211200Z
+BKO  GABS,Modibo Keita International Airport,37.0,GABS 211200Z
+MAX  GOSM,Ouro Sogui Airport,37.0,GOSM 211200Z
+ABS  HEBL,Abu Simbel Airport,37.0,HEBL 211200Z
+LXR  HELX,Luxor International Airport,37.0,HELX 211200Z
