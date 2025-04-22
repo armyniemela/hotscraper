@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HMO  MMHO,General Ignacio P. Garcia International Airport,32.0,MMHO 220040Z
-TRC  MMTC,Francisco Sarabia International Airport,32.0,MMTC 220041Z
-PTTP,,32.0,PTTP 220050Z
-BLH  KBLH,Blythe Airport,32.0,KBLH 220052Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,32.0,KTRM 220052Z
-PNI  PTPN,Pohnpei International Airport,32.0,PTPN 220052Z
-IPL  KIPL,Imperial County Airport,32.0,KIPL 220053Z
-PSP  KPSP,Palm Springs International Airport,32.0,KPSP 220053Z
-LGF  KLGF,Laguna Army Airfield,32.0,KLGF 220055Z
-EED  KEED,Needles Airport,32.0,KEED 220056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,KNJK 220056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,32.0,KNYL 220057Z
-OEMN,,32.0,OEMN 220100Z
-SFS  RPLB,Subic Bay International Airport,32.0,RPLB 220100Z
-MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 220100Z
-PHE  YPPD,Port Hedland International Airport,32.0,YPPD 220100Z
-IFP  KIFP,Laughlin Bullhead International Airport,32.0,KIFP 220110Z
-HII  KHII,Lake Havasu City Airport,32.0,KHII 220115Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,31.0,MMML 220040Z
-PQM  MMPQ,Palenque International Airport,31.0,MMPQ 220040Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,31.0,MMMD 220041Z
-KRYN,Ryan Field,31.0,KRYN 220045Z
-LAP  MMLP,Manuel Márquez de León International Airport,31.0,MMLP 220045Z
-KCHD,Chandler Municipal Airport,31.0,KCHD 220047Z
-GYR  KGYR,Phoenix Goodyear Airport,31.0,KGYR 220047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,31.0,KPHX 220051Z
-TKK  PTKK,Chuuk International Airport,31.0,PTKK 220052Z
-DRT  KDRT,Del Rio International Airport,31.0,KDRT 220053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,31.0,KTUS 220053Z
-SPN  PGSN,Saipan International Airport,31.0,PGSN 220054Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,31.0,KIWA 220055Z
-LUF  KLUF,Luke Air Force Base,31.0,KLUF 220055Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 220055Z
-KNOZ,,31.0,KNOZ
-TML  DGLE,Tamale Airport,31.0,DGLE 220100Z
-NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 220100Z
-BKO  GABS,Modibo Keita International Airport,31.0,GABS 220100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 220100Z
-NCPL,,31.0,NCPL 220100Z
-PYE  NCPY,Tongareva Airport,31.0,NCPY 220100Z
-TVU  NFNM,Matei Airport,31.0,NFNM 220100Z
-CRK  RPLC,Diosdado Macapagal International Airport,31.0,RPLC 220100Z
-LAO  RPLI,Laoag International Airport,31.0,RPLI 220100Z
-CEB  RPVM,Mactan Cebu International Airport,31.0,RPVM 220100Z
-PPS  RPVP,Puerto Princesa Airport,31.0,RPVP 220100Z
+THZ  DRRT,Tahoua Airport,42.0,DRRT 221200Z
+LXR  HELX,Luxor International Airport,42.0,HELX 221200Z
+HOF  OEAH,Al Ahsa Airport,42.0,OEAH 221200Z
+IXW  VEJS,Sonari Airport,42.0,VEJS 221200Z
+AJY  DRZA,Mano Dayak International Airport,41.0,DRZ
+DRZF,Diffa Airport,41.0,DRZ
+ZND  DRZR,Zinder Airport,41.0,DRZ
+SRH  FTTA,Sarh Airport,41.0,FTTA 221200Z
+MZI  GAMB,Mopti Airport,41.0,GAMB 221200Z
+TOM  GATB,Timbuktu Airport,41.0,GATB 221200Z
+ATZ  HEAT,Asyut International Airport,41.0,HEAT 221200Z
+HESG,,41.0,HESG 221200Z
+VEBU,,41.0,VEBU 221200Z
+JRG  VEJH,Jharsuguda Airport,41.0,VEJH 221200Z
+VEKO,,41.0,VEKO 221200Z
+RRK  VERK,Rourkela Airport,41.0,VERK 221200Z
+VERP,,41.0,VERP 221200Z
+YOL  DNYO,Yola Airport,40.0,DNYO 221200Z
+ABS  HEBL,Abu Simbel Airport,40.0,HEBL 221200Z
+HECP,,40.0,HECP 221200Z
+HESW,,40.0,HESW 221200Z
+WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 221200Z
+BHO  VABP,Raja Bhoj International Airport,40.0,VABP 221200Z
+GAY  VEGY,Gaya Airport,40.0,VEGY 221200Z
+PAT  VEPT,Lok Nayak Jayaprakash Airport,40.0,VEPT 221200Z
+CDP  VOCP,Kadapa Airport,40.0,VOCP 221200Z
+CAI  HECA,Cairo International Airport,40.0,HECA 221230Z
+MDL  VYMD,Mandalay International Airport,39.0,VYMD 221130Z
+OOAD,,39.0,OOAD 221150Z
+AKH  OEPS,Prince Sultan Air Base,39.0,OEPS 221155Z
+OUA  DFFD,Ouagadougou Airport,39.0,DFFD 221200Z
+KAN  DNKN,Mallam Aminu International Airport,39.0,DNKN 221200Z
+GAKD,,39.0,GAKD 221200Z
+HEIS,,39.0,HEIS 221200Z
+SPX  HESX,Sphinx International Airport,39.0,HESX 221200Z
+OEAO,,39.0,OEAO 221200Z
+OEKJ,,39.0,OEKJ 221200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,39.0,OEMA 221200Z
+OEMN,,39.0,OEMN 221200Z
+RUH  OERK,King Khaled International Airport,39.0,OERK 221200Z
+SHW  OESH,Sharurah Airport,39.0,OESH 221200Z
+AWZ  OIAW,Ahwaz Airport,39.0,OIAW 221200Z
+LFM  OISR,Lamerd Airport,39.0,OISR 221200Z
+AAN  OMAL,Al Ain International Airport,39.0,OMAL 221200Z
+MUX  OPMT,Multan International Airport,39.0,OPMT 221200Z
