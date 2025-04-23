@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-IFP  KIFP,Laughlin Bullhead International Airport,33.0,KIFP 230110Z
-HII  KHII,Lake Havasu City Airport,33.0,KHII 230115Z
-KT89,,33.0,KT89 230115Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,32.0,MMCV 230040Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,32.0,MMHO 230040Z
-PQM  MMPQ,Palenque International Airport,32.0,MMPQ 230040Z
-KGEU,Glendale Municipal Airport,32.0,KGEU 230047Z
-GYR  KGYR,Phoenix Goodyear Airport,32.0,KGYR 230047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,32.0,KPHX 230051Z
-BLH  KBLH,Blythe Airport,32.0,KBLH 230052Z
-IPL  KIPL,Imperial County Airport,32.0,KIPL 230053Z
-LGF  KLGF,Laguna Army Airfield,32.0,KLGF 230055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,KNJK 230056Z
-OUA  DFFD,Ouagadougou Airport,32.0,DFFD 230100Z
-CAI  HECA,Cairo International Airport,32.0,HECA 230100Z
-MHX  NCMH,Manihiki Island Airport,32.0,NCMH 230100Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 230100Z
-APW  NSFA,Faleolo International Airport,32.0,NSFA 230100Z
-MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 230100Z
-DMK  VTBD,Don Mueang International Airport,32.0,VTBD 230100Z
-KPRS,Presidio Lely International Airport,32.0,KPRS 230115Z
-BJX  MMLO,Del Bajío International Airport,31.0,MMLO 230040Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,31.0,MMML 230040Z
-KCHD,Chandler Municipal Airport,31.0,KCHD 230047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,31.0,KIWA 230048Z
-GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,31.0,MMGL 230050Z
-ROR  PTRO,Babelthuap Airport,31.0,PTRO 230050Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,31.0,KTRM 230052Z
-PSP  KPSP,Palm Springs International Airport,31.0,KPSP 230053Z
-MSC  KFFZ,Falcon Field,31.0,KFFZ
-KGXF,,31.0,KGXF 230055Z
-LUF  KLUF,Luke Air Force Base,31.0,KLUF 230055Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,31.0,KNYL 230057Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 230100Z
-TML  DGLE,Tamale Airport,31.0,DGLE 230100Z
-NIM  DRRN,Diori Hamani International Airport,31.0,DRRN 230100Z
-NCPL,,31.0,NCPL 230100Z
-PYE  NCPY,Tongareva Airport,31.0,NCPY 230100Z
-NAN  NFFN,Nadi International Airport,31.0,NFFN 230100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 230100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 230100Z
-CXI  PLCH,Cassidy International Airport,31.0,PLCH 230100Z
-CRK  RPLC,Diosdado Macapagal International Airport,31.0,RPLC 230100Z
-DVO  RPMD,Francisco Bangoy International Airport,31.0,RPMD 230100Z
-KLO  RPVK,Kalibo International Airport,31.0,RPVK 230100Z
+HESG,,43.0,HESG 231200Z
+VOND,,42.0,VOND 231200Z
+ETM  LLER,Ramon Airport,41.0,LLER 231150Z
+OOAD,,41.0,OOAD 231150Z
+AJY  DRZA,Mano Dayak International Airport,41.0,DRZ
+SRH  FTTA,Sarh Airport,41.0,FTTA 231200Z
+HOF  OEAH,Al Ahsa Airport,41.0,OEAH 231200Z
+OEAO,,41.0,OEAO 231200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 231200Z
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 231200Z
+VEKO,,41.0,VEKO 231200Z
+LYP  OPFA,Faisalabad International Airport,40.0,OPFA 231155Z
+XJD  OTBH,Al Udeid Air Base,40.0,OTBH 231155Z
+THZ  DRRT,Tahoua Airport,40.0,DRRT 231200Z
+ZND  DRZR,Zinder Airport,40.0,DRZ
+GAKD,,40.0,GAKD 231200Z
+MZI  GAMB,Mopti Airport,40.0,GAMB 231200Z
+TOM  GATB,Timbuktu Airport,40.0,GATB 231200Z
+TUD  GOTT,Tambacounda Airport,40.0,GOTT 231200Z
+ABS  HEBL,Abu Simbel Airport,40.0,HEBL 231200Z
+SSH  HESH,Sharm El Sheikh International Airport,40.0,HESH 231200Z
+RAH  OERF,Rafha Domestic Airport,40.0,OERF 231200Z
+TUU  OETB,Tabuk Airport,40.0,OETB 231200Z
+WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 231200Z
+ABD  OIAA,Abadan Airport,40.0,OIAA 231200Z
+AKW  OIAG,Aghajari Airport,40.0,OIAG 231200Z
+AWZ  OIAW,Ahwaz Airport,40.0,OIAW 231200Z
+AQJ  OJAQ,Aqaba King Hussein International Airport,40.0,OJAQ 231200Z
+AUH  OMAA,Abu Dhabi International Airport,40.0,OMAA 231200Z
+NJF  ORNI,Al Najaf International Airport,40.0,ORNI 231200Z
+VEBU,,40.0,VEBU 231200Z
+IXW  VEJS,Sonari Airport,40.0,VEJS 231200Z
+PAT  VEPT,Lok Nayak Jayaprakash Airport,40.0,VEPT 231200Z
+RRK  VERK,Rourkela Airport,40.0,VERK 231200Z
+VERP,,40.0,VERP 231200Z
+CDP  VOCP,Kadapa Airport,40.0,VOCP 231200Z
+OODQ,,39.0,OODQ 231150Z
+BMW  DATM,Bordj Badji Mokhtar Airport,39.0,DATM 231200Z
+MFQ  DRRM,Maradi Airport,39.0,DRRM 231200Z
+NIM  DRRN,Diori Hamani International Airport,39.0,DRRN 231200Z
+GOU  FKKR,Garoua International Airport,39.0,FKKR 231200Z
+MQQ  FTTD,Moundou Airport,39.0,FTTD 231200Z
+NIX  GANR,Nioro du Sahel Airport,39.0,GANR 231200Z
+GOOG,,39.0,GOOG 231200Z
+KLC  GOOK,Kaolack Airport,39.0,GOOK 231200Z
