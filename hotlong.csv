@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-SFS  RPLB,Subic Bay International Airport,33.0,RPLB 250100Z
-MNL  RPLL,Ninoy Aquino International Airport,33.0,RPLL 250100Z
-KT89,,33.0,KT89 250115Z
-PQM  MMPQ,Palenque International Airport,32.0,MMPQ 250040Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,32.0,MMCV 250041Z
-KGXF,,32.0,KGXF 250055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,KNJK 250056Z
-BKO  GABS,Modibo Keita International Airport,32.0,GABS 250100Z
-OEMN,,32.0,OEMN 250100Z
-BKK  VTBS,Suvarnabhumi Airport,32.0,VTBS 250100Z
-PHY  VTPB,Phetchabun Airport,32.0,VTPB 250100Z
-USM  VTSM,Samui Airport,32.0,VTSM 250100Z
-KPRS,Presidio Lely International Airport,32.0,KPRS 250115Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 250040Z
-TRC  MMTC,Francisco Sarabia International Airport,31.0,MMTC 250046Z
-KCHD,Chandler Municipal Airport,31.0,KCHD 250047Z
-IFP  KIFP,Laughlin Bullhead International Airport,31.0,KIFP 250047Z
-TGZ  MMTG,Angel Albino Corzo International Airport,31.0,MMTG 250050Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 250050Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,31.0,KPHX 250051Z
-BLH  KBLH,Blythe Airport,31.0,KBLH 250052Z
-IPL  KIPL,Imperial County Airport,31.0,KIPL 250053Z
-SPN  PGSN,Saipan International Airport,31.0,PGSN 250054Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 250054Z
-LGF  KLGF,Laguna Army Airfield,31.0,KLGF 250055Z
-LUF  KLUF,Luke Air Force Base,31.0,KLUF 250055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,31.0,KCGZ
-EED  KEED,Needles Airport,31.0,KEED 250056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,31.0,KNYL 250057Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 250100Z
-TRW  NGTA,Bonriki International Airport,31.0,NGTA 250100Z
-SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 250100Z
-VLI  NVVV,Bauerfield International Airport,31.0,NVVV 250100Z
-RAH  OERF,Rafha Domestic Airport,31.0,OERF 250100Z
-CXI  PLCH,Cassidy International Airport,31.0,PLCH 250100Z
-TNN  RCNN,Tainan Airport,31.0,RCNN 250100Z
-CRK  RPLC,Diosdado Macapagal International Airport,31.0,RPLC 250100Z
-LAO  RPLI,Laoag International Airport,31.0,RPLI 250100Z
-ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
-DGT  RPVD,Sibulan Airport,31.0,RPVD 250100Z
-CEB  RPVM,Mactan Cebu International Airport,31.0,RPVM 250100Z
-VTE  VLVT,Wattay International Airport,31.0,VLVT 250100Z
-IXZ  VOPB,Vir Savarkar International Airport,31.0,VOPB 250100Z
-DMK  VTBD,Don Mueang International Airport,31.0,VTBD 250100Z
-TDX  VTBO,Trat Airport,31.0,VTBO 250100Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,44.0,OEPA 251200Z
+ABD  OIAA,Abadan Airport,44.0,OIAA 251200Z
+AWZ  OIAW,Ahwaz Airport,44.0,OIAW 251200Z
+BSR  ORMM,Basrah International Airport,44.0,ORMM 251200Z
+MFQ  DRRM,Maradi Airport,43.0,DRRM 251200Z
+NIM  DRRN,Diori Hamani International Airport,43.0,DRRN 251200Z
+THZ  DRRT,Tahoua Airport,43.0,DRRT 251200Z
+NDJ  FTTJ,N'Djamena International Airport,43.0,FTTJ 251200Z
+MRX  OIAM,Mahshahr Airport,43.0,OIAM 251200Z
+VEKO,,43.0,VEKO 251200Z
+XJD  OTBH,Al Udeid Air Base,42.0,OTBH 251155Z
+GOU  FKKR,Garoua International Airport,42.0,FKKR 251200Z
+GOOG,,42.0,GOOG 251200Z
+DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 251200Z
+ELQ  OEGS,Gassim Airport,42.0,OEGS 251200Z
+OKKK,,42.0,OKKK 251200Z
+VOND,,42.0,VOND 251200Z
+OOAD,,41.0,OOAD 251150Z
+OODQ,,41.0,OODQ 251150Z
+DNKT,,41.0,DNKT 251200Z
+YOL  DNYO,Yola Airport,41.0,DNYO 251200Z
+DRZF,Diffa Airport,41.0,DRZ
+ZND  DRZR,Zinder Airport,41.0,DRZ
+MZI  GAMB,Mopti Airport,41.0,GAMB 251200Z
+NIX  GANR,Nioro du Sahel Airport,41.0,GANR 251200Z
+TOM  GATB,Timbuktu Airport,41.0,GATB 251200Z
+MAX  GOSM,Ouro Sogui Airport,41.0,GOSM 251200Z
+POD  GOSP,Podor Airport,41.0,GOSP 251200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 251200Z
+OEMN,,41.0,OEMN 251200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 251200Z
+MUX  OPMT,Multan International Airport,41.0,OPMT 251200Z
+LKO  VILK,Chaudhary Charan Singh International Airport,41.0,VILK 251200Z
+RDP  VEDG,Kazi Nazrul Islam Airport,40.0,VEDG 251130Z
+LYP  OPFA,Faisalabad International Airport,40.0,OPFA 251155Z
+OUA  DFFD,Ouagadougou Airport,40.0,DFFD 251200Z
+KAN  DNKN,Mallam Aminu International Airport,40.0,DNKN 251200Z
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+AEH  FTTC,Abeche Airport,40.0,FTTC 251200Z
+RAH  OERF,Rafha Domestic Airport,40.0,OERF 251200Z
+RUH  OERK,King Khaled International Airport,40.0,OERK 251200Z
+SHW  OESH,Sharurah Airport,40.0,OESH 251200Z
+WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 251200Z
+ACZ  OIZB,Zabol Airport,40.0,OIZ
