@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 261200Z
-ABD  OIAA,Abadan Airport,43.0,OIAA 261200Z
-OOAD,,42.0,OOAD 261150Z
-TOM  GATB,Timbuktu Airport,42.0,GATB 261200Z
-ELQ  OEGS,Gassim Airport,42.0,OEGS 261200Z
-ACZ  OIZB,Zabol Airport,42.0,OIZ
-IHR  OIZI,Iran Shahr Airport,42.0,OIZ
-AAN  OMAL,Al Ain International Airport,42.0,OMAL 261200Z
-RKT  OMRK,Ras Al Khaimah International Airport,42.0,OMRK 261200Z
-KHS  OOKB,Khasab Air Base,41.0,OOKB 261150Z
-NIM  DRRN,Diori Hamani International Airport,41.0,DRRN 261200Z
-THZ  DRRT,Tahoua Airport,41.0,DRRT 261200Z
-AJY  DRZA,Mano Dayak International Airport,41.0,DRZ
-DMM  OEDF,King Fahd International Airport,41.0,OEDF 261200Z
-OEKJ,,41.0,OEKJ 261200Z
-RAH  OERF,Rafha Domestic Airport,41.0,OERF 261200Z
-RUH  OERK,King Khaled International Airport,41.0,OERK 261200Z
-AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 261155Z
-MFQ  DRRM,Maradi Airport,40.0,DRRM 261200Z
-DRZF,Diffa Airport,40.0,DRZ
-NDJ  FTTJ,N'Djamena International Airport,40.0,FTTJ 261200Z
-POD  GOSP,Podor Airport,40.0,GOSP 261200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 261200Z
-WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 261200Z
-AUH  OMAA,Abu Dhabi International Airport,40.0,OMAA 261200Z
-MUX  OPMT,Multan International Airport,40.0,OPMT 261200Z
-ASB  UTAA,Ashgabat International Airport,40.0,UTAA 261200Z
-GAY  VEGY,Gaya Airport,40.0,VEGY 261200Z
-VEKO,,40.0,VEKO 261200Z
-LKO  VILK,Chaudhary Charan Singh International Airport,40.0,VILK 261200Z
-VOND,,40.0,VOND 261200Z
-LYP  OPFA,Faisalabad International Airport,39.0,OPFA 261155Z
-DNKT,,39.0,DNKT 261200Z
-NIX  GANR,Nioro du Sahel Airport,39.0,GANR 261200Z
-MAX  GOSM,Ouro Sogui Airport,39.0,GOSM 261200Z
-DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 261200Z
-OEMN,,39.0,OEMN 261200Z
-SHW  OESH,Sharurah Airport,39.0,OESH 261200Z
-MRX  OIAM,Mahshahr Airport,39.0,OIAM 261200Z
-LRR  OISL,Lar Airport,39.0,OISL 261200Z
-SKT  OPST,Sialkot Airport,39.0,OPST 261200Z
-GXF  OYSY,Sayun International Airport,39.0,OYSY 261200Z
-MYP  UTAM,Mary Airport,39.0,UTAM 261200Z
-UGC  UTNU,Urgench Airport,39.0,UTNU 261200Z
-VEBN,,39.0,VEBN 261200Z
+KT89,,34.0,KT89 270115Z
+LBS  NFNL,Labasa Airport,33.0,NFNL 270100Z
+KIH  OIBK,Kish International Airport,33.0,OIBK 270100Z
+SFS  RPLB,Subic Bay International Airport,33.0,RPLB 270100Z
+CVM  MMCV,General Pedro Jose Mendez International Airport,32.0,MMCV 270040Z
+GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,32.0,MMGL 270040Z
+PQM  MMPQ,Palenque International Airport,32.0,MMPQ 270040Z
+CUU  MMCU,General Roberto Fierro Villalobos International Airport,32.0,MMCU 270050Z
+KHS  OOKB,Khasab Air Base,32.0,OOKB 270050Z
+NDJ  FTTJ,N'Djamena International Airport,32.0,FTTJ 270100Z
+NOU  NWWW,La Tontouta International Airport,32.0,NWWW 270100Z
+MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 270100Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 270040Z
+NLD  MMNL,Quetzalcóatl International Airport,31.0,MMNL 270040Z
+AGU  MMAS,Jesús Terán Paredo International Airport,31.0,MMAS 270041Z
+CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 270045Z
+PTTP,,31.0,PTTP 270050Z
+ELP  KELP,El Paso International Airport,31.0,KELP 270051Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 270054Z
+GUM  PGUM,Antonio B. Won Pat International Airport,31.0,PGUM 270054Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 270054Z
+INU  ANYN,Nauru International Airport,31.0,ANYN 270100Z
+BMW  DATM,Bordj Badji Mokhtar Airport,31.0,DATM 270100Z
+PYE  NCPY,Tongareva Airport,31.0,NCPY 270100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 270100Z
+TRW  NGTA,Bonriki International Airport,31.0,NGTA 270100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 270100Z
+APW  NSFA,Faleolo International Airport,31.0,NSFA 270100Z
+SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 270100Z
+TAH  NVVW,Tanna Airport,31.0,NVVW 270100Z
+AAN  OMAL,Al Ain International Airport,31.0,OMAL 270100Z
+FJR  OMFJ,Fujairah International Airport,31.0,OMFJ 270100Z
+CRK  RPLC,Diosdado Macapagal International Airport,31.0,RPLC 270100Z
+LAO  RPLI,Laoag International Airport,31.0,RPLI 270100Z
+TKT  VTPT,Tak Airport,31.0,VTPT 270100Z
+DXB  OMDB,Dubai International Airport,31.0,OMDB 270130Z
+CJS  MMCS,Abraham González International Airport,30.0,MMCS 270041Z
+TGZ  MMTG,Angel Albino Corzo International Airport,30.0,MMTG 270043Z
+DGO  MMDO,General Guadalupe Victoria International Airport,30.0,MMDO 270047Z
+CEN  MMCN,Ciudad Obregón International Airport,30.0,MMCN 270050Z
+MCT  OOMS,Muscat International Airport,30.0,OOMS 270050Z
+ROR  PTRO,Babelthuap Airport,30.0,PTRO 270050Z
+TKK  PTKK,Chuuk International Airport,30.0,PTKK 270052Z
+DRT  KDRT,Del Rio International Airport,30.0,KDRT 270053Z
+BIF  KBIF,Biggs Army Air Field (Fort Bliss),30.0,KBIF 270055Z
