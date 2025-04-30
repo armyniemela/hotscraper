@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AJY  DRZA,Mano Dayak International Airport,42.0,DRZ
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 291200Z
-WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 291200Z
-IHR  OIZI,Iran Shahr Airport,42.0,OIZ
-AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 291200Z
-AAN  OMAL,Al Ain International Airport,42.0,OMAL 291200Z
-MUX  OPMT,Multan International Airport,42.0,OPMT 291200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,42.0,VAAH 291200Z
-VOND,,42.0,VOND 291200Z
-OOAD,,41.0,OOAD 291150Z
-NIM  DRRN,Diori Hamani International Airport,41.0,DRRN 291200Z
-THZ  DRRT,Tahoua Airport,41.0,DRRT 291200Z
-DRZF,Diffa Airport,41.0,DRZ
-NDJ  FTTJ,N'Djamena International Airport,41.0,FTTJ 291200Z
-TOM  GATB,Timbuktu Airport,41.0,GATB 291200Z
-OEKJ,,41.0,OEKJ 291200Z
-AZI  OMAD,Bateen Airport,41.0,OMAD 291200Z
-BSR  ORMM,Basrah International Airport,41.0,ORMM 291200Z
-BDQ  VABO,Vadodara Airport,41.0,VABO 291200Z
-VAHS,,41.0,VAHS 291200Z
-VAJL,,41.0,VAJL 291200Z
-UDR  VAUD,Maharana Pratap Airport,41.0,VAUD 291200Z
-DWC  OMDW,Al Maktoum International Airport,41.0,OMDW 291230Z
-AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 291155Z
-MZI  GAMB,Mopti Airport,40.0,GAMB 291200Z
-NIX  GANR,Nioro du Sahel Airport,40.0,GANR 291200Z
-RUH  OERK,King Khaled International Airport,40.0,OERK 291200Z
-SHW  OESH,Sharurah Airport,40.0,OESH 291200Z
-AKW  OIAG,Aghajari Airport,40.0,OIAG 291200Z
-AWZ  OIAW,Ahwaz Airport,40.0,OIAW 291200Z
-PGU  OIBP,Persian Gulf International Airport,40.0,OIBP 291200Z
-TCX  OIMT,Tabas Airport,40.0,OIMT 291200Z
-LFM  OISR,Lamerd Airport,40.0,OISR 291200Z
-RKT  OMRK,Ras Al Khaimah International Airport,40.0,OMRK 291200Z
-IXU  VAAU,Aurangabad Airport,40.0,VAAU 291200Z
-BHO  VABP,Raja Bhoj International Airport,40.0,VABP 291200Z
-DXB  OMDB,Dubai International Airport,40.0,OMDB 291230Z
-SHJ  OMSJ,Sharjah International Airport,40.0,OMSJ 291230Z
-OKAS,Ali Al Salem Air Base,39.0,OKAS 291158Z
-GAKD,,39.0,GAKD 291200Z
-DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 291200Z
-OEMN,,39.0,OEMN 291200Z
-MRX  OIAM,Mahshahr Airport,39.0,OIAM 291200Z
-LRR  OISL,Lar Airport,39.0,OISL 291200Z
-OKKK,,39.0,OKKK 291200Z
+NDJ  FTTJ,N'Djamena International Airport,33.0,FTTJ 300100Z
+PYE  NCPY,Tongareva Airport,33.0,NCPY 300100Z
+LBS  NFNL,Labasa Airport,33.0,NFNL 300100Z
+APW  NSFA,Faleolo International Airport,33.0,NSFA 300100Z
+AAN  OMAL,Al Ain International Airport,33.0,OMAL 300100Z
+KPRS,Presidio Lely International Airport,33.0,KPRS 300115Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,32.0,MMML 300040Z
+PQM  MMPQ,Palenque International Airport,32.0,MMPQ 300042Z
+KHS  OOKB,Khasab Air Base,32.0,OOKB 300050Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,32.0,KTRM 300052Z
+DRT  KDRT,Del Rio International Airport,32.0,KDRT 300053Z
+PSP  KPSP,Palm Springs International Airport,32.0,KPSP 300053Z
+DLF  KDLF,DLF Airport,32.0,KDLF 300055Z
+KFTN,,32.0,KFTN 300055Z
+KT70,,32.0,KT70 300055Z
+FJR  OMFJ,Fujairah International Airport,32.0,OMFJ 300100Z
+MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 300100Z
+MDC  WAMM,Sam Ratulangi Airport,32.0,WAMM 300100Z
+CVJ  MMCB,General Mariano Matamoros Airport,31.0,MMCB 300040Z
+NLD  MMNL,Quetzalcóatl International Airport,31.0,MMNL 300040Z
+CVM  MMCV,General Pedro Jose Mendez International Airport,31.0,MMCV 300043Z
+TGZ  MMTG,Angel Albino Corzo International Airport,31.0,MMTG 300043Z
+PPG  NSTU,Pago Pago International Airport,31.0,NSTU 300050Z
+OHS  OOSH,Sohar Airport,31.0,OOSH 300050Z
+TKK  PTKK,Chuuk International Airport,31.0,PTKK 300050Z
+BLH  KBLH,Blythe Airport,31.0,KBLH 300052Z
+IPL  KIPL,Imperial County Airport,31.0,KIPL 300053Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 300054Z
+LGF  KLGF,Laguna Army Airfield,31.0,KLGF 300055Z
+OKAS,Ali Al Salem Air Base,31.0,OKAS 300055Z
+PKMR,,31.0,PKMR 300055Z
+EED  KEED,Needles Airport,31.0,KEED 300056Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),31.0,KNJK 300056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,31.0,KNYL 300057Z
+KNOZ,,31.0,KNOZ
+INU  ANYN,Nauru International Airport,31.0,ANYN 300100Z
+OUA  DFFD,Ouagadougou Airport,31.0,DFFD 300100Z
+TUD  GOTT,Tambacounda Airport,31.0,GOTT 300100Z
+NAN  NFFN,Nadi International Airport,31.0,NFFN 300100Z
+SUV  NFNA,Nausori International Airport,31.0,NFNA 300100Z
+SVU  NFNS,Savusavu Airport,31.0,NFNS 300100Z
+FUN  NGFU,Funafuti International Airport,31.0,NGFU 300100Z
+WLS  NLWW,Hihifo Airport,31.0,NLWW 300100Z
+SON  NVSS,Santo Pekoa International Airport,31.0,NVSS 300100Z
+OEMN,,31.0,OEMN 300100Z
