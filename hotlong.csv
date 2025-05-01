@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AAN  OMAL,Al Ain International Airport,42.0,OMAL 301200Z
-MUX  OPMT,Multan International Airport,42.0,OPMT 301230Z
-VOND,,41.0,VOND 301130Z
-OOAD,,41.0,OOAD 301150Z
-LYP  OPFA,Faisalabad International Airport,41.0,OPFA 301155Z
-DRZF,Diffa Airport,41.0,DRZ
-NDJ  FTTJ,N'Djamena International Airport,41.0,FTTJ 301200Z
-MZI  GAMB,Mopti Airport,41.0,GAMB 301200Z
-HOF  OEAH,Al Ahsa Airport,41.0,OEAH 301200Z
-WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 301200Z
-BSR  ORMM,Basrah International Airport,41.0,ORMM 301200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,41.0,VAAH 301200Z
-IXU  VAAU,Aurangabad Airport,41.0,VAAU 301200Z
-BDQ  VABO,Vadodara Airport,41.0,VABO 301200Z
-VAJL,,41.0,VAJL 301200Z
-UDR  VAUD,Maharana Pratap Airport,41.0,VAUD 301200Z
-NIM  DRRN,Diori Hamani International Airport,40.0,DRRN 301200Z
-THZ  DRRT,Tahoua Airport,40.0,DRRT 301200Z
-AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
-ZND  DRZR,Zinder Airport,40.0,DRZ
-GOU  FKKR,Garoua International Airport,40.0,FKKR 301200Z
-AAC  HEAR,El Arish International Airport,40.0,HEAR 301200Z
-LXR  HELX,Luxor International Airport,40.0,HELX 301200Z
-DMM  OEDF,King Fahd International Airport,40.0,OEDF 301200Z
-SHW  OESH,Sharurah Airport,40.0,OESH 301200Z
-AWZ  OIAW,Ahwaz Airport,40.0,OIAW 301200Z
-AUH  OMAA,Abu Dhabi International Airport,40.0,OMAA 301200Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,40.0,VANP 301200Z
-DWC  OMDW,Al Maktoum International Airport,40.0,OMDW 301230Z
-KQTZ,,39.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,39.0,OEPS 301155Z
-YOL  DNYO,Yola Airport,39.0,DNYO 301200Z
-MFQ  DRRM,Maradi Airport,39.0,DRRM 301200Z
-TOM  GATB,Timbuktu Airport,39.0,GATB 301200Z
-ABS  HEBL,Abu Simbel Airport,39.0,HEBL 301200Z
-ASW  HESN,Aswan International Airport,39.0,HESN 301200Z
-OEKJ,,39.0,OEKJ 301200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,39.0,OEMA 301200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,OEPA 301200Z
-AKW  OIAG,Aghajari Airport,39.0,OIAG 301200Z
-MRX  OIAM,Mahshahr Airport,39.0,OIAM 301200Z
-LRR  OISL,Lar Airport,39.0,OISL 301200Z
-OKKK,,39.0,OKKK 301200Z
-FJR  OMFJ,Fujairah International Airport,39.0,OMFJ 301200Z
-SKT  OPST,Sialkot Airport,39.0,OPST 301200Z
+DLF  KDLF,DLF Airport,34.0,KDLF 010055Z
+CVM  MMCV,General Pedro Jose Mendez International Airport,33.0,MMCV 010040Z
+MTY  MMMY,General Mariano Escobedo International Airport,33.0,MMMY 010040Z
+PQM  MMPQ,Palenque International Airport,33.0,MMPQ 010040Z
+TRC  MMTC,Francisco Sarabia International Airport,33.0,MMTC 010040Z
+NTR  MMAN,Del Norte International Airport,33.0,MMAN 010041Z
+MCT  OOMS,Muscat International Airport,33.0,OOMS 010050Z
+DRT  KDRT,Del Rio International Airport,33.0,KDRT 010053Z
+KT70,,33.0,KT70 010055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),33.0,KNJK 010056Z
+NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 010100Z
+APW  NSFA,Faleolo International Airport,33.0,NSFA 010100Z
+SFS  RPLB,Subic Bay International Airport,33.0,RPLB 010100Z
+MNL  RPLL,Ninoy Aquino International Airport,33.0,RPLL 010100Z
+VSA  MMVA,Carlos Rovirosa Pérez International Airport,32.0,MMVA 010045Z
+TGZ  MMTG,Angel Albino Corzo International Airport,32.0,MMTG 010046Z
+K6R6,,32.0,K6R6 010051Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,32.0,KTRM 010052Z
+IPL  KIPL,Imperial County Airport,32.0,KIPL 010053Z
+LGF  KLGF,Laguna Army Airfield,32.0,KLGF 010055Z
+EED  KEED,Needles Airport,32.0,KEED 010056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,32.0,KNYL 010057Z
+PNI  PTPN,Pohnpei International Airport,32.0,PTPN 010059Z
+DNKT,,32.0,DNKT 010100Z
+NAN  NFFN,Nadi International Airport,32.0,NFFN 010100Z
+CRK  RPLC,Diosdado Macapagal International Airport,32.0,RPLC 010100Z
+LAO  RPLI,Laoag International Airport,32.0,RPLI 010100Z
+DXB  OMDB,Dubai International Airport,32.0,OMDB 010130Z
+UDR  VAUD,Maharana Pratap Airport,32.0,VAUD 010130Z
+K5T9,,32.0,K5T9 010135Z
+KFTN,,32.0,KFTN 010135Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 010040Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,31.0,MMML 010042Z
+GYR  KGYR,Phoenix Goodyear Airport,31.0,KGYR 010047Z
+CIC  KCIC,Chico Municipal Airport,31.0,KCIC 010050Z
+KSA  PTSA,Kosrae International Airport,31.0,PTSA 010050Z
+KHDO,South Texas Regional Airport at Hondo,31.0,KHDO 010051Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,31.0,KPHX 010051Z
+PSP  KPSP,Palm Springs International Airport,31.0,KPSP 010053Z
+SMF  KSMF,Sacramento International Airport,31.0,KSMF 010053Z
+RBL  KRBL,Red Bluff Municipal Airport,31.0,KRBL 010054Z
+GUM  PGUM,Antonio B. Won Pat International Airport,31.0,PGUM 010054Z
+KGXF,,31.0,KGXF 010055Z
+TIQ  PGWT,Tinian International Airport,31.0,PGWT 010057Z
+HIR  AGGH,Honiara International Airport,31.0,AGGH 010100Z
