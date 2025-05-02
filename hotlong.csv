@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-IFP  KIFP,Laughlin Bullhead International Airport,33.0,KIFP 020047Z
-KGXF,,33.0,KGXF 020055Z
-LBS  NFNL,Labasa Airport,33.0,NFNL 020100Z
-APW  NSFA,Faleolo International Airport,33.0,NSFA 020100Z
-AKW  OIAG,Aghajari Airport,33.0,OIAG 020100Z
-SFS  RPLB,Subic Bay International Airport,33.0,RPLB 020100Z
-HII  KHII,Lake Havasu City Airport,33.0,KHII 020115Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,32.0,MMHO 020040Z
-GYR  KGYR,Phoenix Goodyear Airport,32.0,KGYR 020047Z
-TGZ  MMTG,Angel Albino Corzo International Airport,32.0,MMTG 020050Z
-KGEU,Glendale Municipal Airport,32.0,KGEU 020051Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,32.0,KPHX 020051Z
-SJT  KSJT,San Angelo Regional Mathis Field,32.0,KSJT 020051Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,32.0,MMML 020051Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,32.0,KTRM 020052Z
-FST  KFST,Fort Stockton Pecos County Airport,32.0,KFST 020053Z
-MAF  KMAF,Midland International Airport,32.0,KMAF 020053Z
-OVE  KOVE,Oroville Municipal Airport,32.0,KOVE 020053Z
-LGF  KLGF,Laguna Army Airfield,32.0,KLGF 020055Z
-EED  KEED,Needles Airport,32.0,KEED 020056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,KNJK 020056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,32.0,KNYL 020057Z
-HIR  AGGH,Honiara International Airport,32.0,AGGH 020100Z
-GAKD,,32.0,GAKD 020100Z
-TUD  GOTT,Tambacounda Airport,32.0,GOTT 020100Z
-FUN  NGFU,Funafuti International Airport,32.0,NGFU 020100Z
-ABD  OIAA,Abadan Airport,32.0,OIAA 020100Z
-MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 020100Z
-CEB  RPVM,Mactan Cebu International Airport,32.0,RPVM 020100Z
-KBV  VTSG,Krabi Airport,32.0,VTSG 020100Z
-KPRS,Presidio Lely International Airport,32.0,KPRS 020115Z
-NLD  MMNL,Quetzalcóatl International Airport,31.0,MMNL 020040Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,31.0,MMVA 020043Z
-KRYN,Ryan Field,31.0,KRYN 020045Z
-KCHD,Chandler Municipal Airport,31.0,KCHD 020047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,31.0,KIWA 020048Z
-CIC  KCIC,Chico Municipal Airport,31.0,KCIC 020050Z
-KSA  PTSA,Kosrae International Airport,31.0,PTSA 020050Z
-INK  KINK,Winkler County Airport,31.0,KINK 020053Z
-PSP  KPSP,Palm Springs International Airport,31.0,KPSP 020053Z
-RDD  KRDD,Redding Municipal Airport,31.0,KRDD 020053Z
-SCF  KSDL,Scottsdale Airport,31.0,KSDL 020053Z
-MSC  KFFZ,Falcon Field,31.0,KFFZ
-RBL  KRBL,Red Bluff Municipal Airport,31.0,KRBL 020054Z
-SPN  PGSN,Saipan International Airport,31.0,PGSN 020054Z
+RKT  OMRK,Ras Al Khaimah International Airport,43.0,OMRK 021200Z
+BSR  ORMM,Basrah International Airport,43.0,ORMM 021200Z
+OOAD,,42.0,OOAD 021150Z
+NDJ  FTTJ,N'Djamena International Airport,42.0,FTTJ 021200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 021200Z
+ABD  OIAA,Abadan Airport,42.0,OIAA 021200Z
+IHR  OIZI,Iran Shahr Airport,42.0,OIZ
+NJF  ORNI,Al Najaf International Airport,42.0,ORNI 021200Z
+BDQ  VABO,Vadodara Airport,42.0,VABO 021200Z
+OKAS,Ali Al Salem Air Base,41.0,OKAS 021155Z
+AEH  FTTC,Abeche Airport,41.0,FTTC 021200Z
+EMN  GQNI,Néma Airport,41.0,GQNI 021200Z
+DMM  OEDF,King Fahd International Airport,41.0,OEDF 021200Z
+OEKJ,,41.0,OEKJ 021200Z
+RUH  OERK,King Khaled International Airport,41.0,OERK 021200Z
+WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 021200Z
+AUH  OMAA,Abu Dhabi International Airport,41.0,OMAA 021200Z
+DIA  OTBD,Doha International Airport,41.0,OTBD 021200Z
+VAJL,,41.0,VAJL 021200Z
+VOND,,41.0,VOND 021200Z
+OHS  OOSH,Sohar Airport,40.0,OOSH 021150Z
+KQAJ,,40.0,KQAJ 021155Z
+KQTZ,,40.0,KQTZ
+AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 021155Z
+THZ  DRRT,Tahoua Airport,40.0,DRRT 021200Z
+SRH  FTTA,Sarh Airport,40.0,FTTA 021200Z
+DHA  OEDR,King Abdulaziz Air Base,40.0,OEDR 021200Z
+ELQ  OEGS,Gassim Airport,40.0,OEGS 021200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 021200Z
+SHW  OESH,Sharurah Airport,40.0,OESH 021200Z
+KNR  OIBJ,Jam Airport,40.0,OIBJ 021200Z
+OKKK,,40.0,OKKK 021200Z
+BGW  ORBI,Baghdad International Airport,40.0,ORBI 021200Z
+AMD  VAAH,Sardar Vallabhbhai Patel International Airport,40.0,VAAH 021200Z
+IXU  VAAU,Aurangabad Airport,40.0,VAAU 021200Z
+VAHS,,40.0,VAHS 021200Z
+VOGB,,40.0,VOGB 021200Z
+AZI  OMAD,Bateen Airport,40.0,OMAD 021230Z
+DWC  OMDW,Al Maktoum International Airport,40.0,OMDW 021230Z
+MFQ  DRRM,Maradi Airport,39.0,DRRM 021200Z
+NIM  DRRN,Diori Hamani International Airport,39.0,DRRN 021200Z
+DRZF,Diffa Airport,39.0,DRZ
+MQQ  FTTD,Moundou Airport,39.0,FTTD 021200Z
+BAH  OBBI,Bahrain International Airport,39.0,OBBI 021200Z
+DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 021200Z
