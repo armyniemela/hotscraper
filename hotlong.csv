@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-RKT  OMRK,Ras Al Khaimah International Airport,43.0,OMRK 021200Z
-BSR  ORMM,Basrah International Airport,43.0,ORMM 021200Z
-OOAD,,42.0,OOAD 021150Z
-NDJ  FTTJ,N'Djamena International Airport,42.0,FTTJ 021200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 021200Z
-ABD  OIAA,Abadan Airport,42.0,OIAA 021200Z
-IHR  OIZI,Iran Shahr Airport,42.0,OIZ
-NJF  ORNI,Al Najaf International Airport,42.0,ORNI 021200Z
-BDQ  VABO,Vadodara Airport,42.0,VABO 021200Z
-OKAS,Ali Al Salem Air Base,41.0,OKAS 021155Z
-AEH  FTTC,Abeche Airport,41.0,FTTC 021200Z
-EMN  GQNI,Néma Airport,41.0,GQNI 021200Z
-DMM  OEDF,King Fahd International Airport,41.0,OEDF 021200Z
-OEKJ,,41.0,OEKJ 021200Z
-RUH  OERK,King Khaled International Airport,41.0,OERK 021200Z
-WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 021200Z
-AUH  OMAA,Abu Dhabi International Airport,41.0,OMAA 021200Z
-DIA  OTBD,Doha International Airport,41.0,OTBD 021200Z
-VAJL,,41.0,VAJL 021200Z
-VOND,,41.0,VOND 021200Z
-OHS  OOSH,Sohar Airport,40.0,OOSH 021150Z
-KQAJ,,40.0,KQAJ 021155Z
-KQTZ,,40.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 021155Z
-THZ  DRRT,Tahoua Airport,40.0,DRRT 021200Z
-SRH  FTTA,Sarh Airport,40.0,FTTA 021200Z
-DHA  OEDR,King Abdulaziz Air Base,40.0,OEDR 021200Z
-ELQ  OEGS,Gassim Airport,40.0,OEGS 021200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 021200Z
-SHW  OESH,Sharurah Airport,40.0,OESH 021200Z
-KNR  OIBJ,Jam Airport,40.0,OIBJ 021200Z
-OKKK,,40.0,OKKK 021200Z
-BGW  ORBI,Baghdad International Airport,40.0,ORBI 021200Z
-AMD  VAAH,Sardar Vallabhbhai Patel International Airport,40.0,VAAH 021200Z
-IXU  VAAU,Aurangabad Airport,40.0,VAAU 021200Z
-VAHS,,40.0,VAHS 021200Z
-VOGB,,40.0,VOGB 021200Z
-AZI  OMAD,Bateen Airport,40.0,OMAD 021230Z
-DWC  OMDW,Al Maktoum International Airport,40.0,OMDW 021230Z
-MFQ  DRRM,Maradi Airport,39.0,DRRM 021200Z
-NIM  DRRN,Diori Hamani International Airport,39.0,DRRN 021200Z
-DRZF,Diffa Airport,39.0,DRZ
-MQQ  FTTD,Moundou Airport,39.0,FTTD 021200Z
-BAH  OBBI,Bahrain International Airport,39.0,OBBI 021200Z
-DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 021200Z
+DIA  OTBD,Doha International Airport,34.0,OTBD 030100Z
+HII  KHII,Lake Havasu City Airport,34.0,KHII 030115Z
+PQM  MMPQ,Palenque International Airport,33.0,MMPQ 030045Z
+CVM  MMCV,General Pedro Jose Mendez International Airport,33.0,MMCV 030046Z
+GYR  KGYR,Phoenix Goodyear Airport,33.0,KGYR 030047Z
+KGEU,Glendale Municipal Airport,33.0,KGEU 030048Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,33.0,KPHX 030051Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,33.0,KTRM 030052Z
+LGF  KLGF,Laguna Army Airfield,33.0,KLGF 030055Z
+LUF  KLUF,Luke Air Force Base,33.0,KLUF 030055Z
+EED  KEED,Needles Airport,33.0,KEED 030056Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),33.0,KNJK 030056Z
+BMW  DATM,Bordj Badji Mokhtar Airport,33.0,DATM 030100Z
+LBS  NFNL,Labasa Airport,33.0,NFNL 030100Z
+KL08,,33.0,KL08 030115Z
+OKAS,Ali Al Salem Air Base,33.0,OKAS 030115Z
+CUL  MMCL,Bachigualato Federal International Airport,32.0,MMCL 030040Z
+NLD  MMNL,Quetzalcóatl International Airport,32.0,MMNL 030040Z
+TRC  MMTC,Francisco Sarabia International Airport,32.0,MMTC 030042Z
+CVJ  MMCB,General Mariano Matamoros Airport,32.0,MMCB 030046Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,32.0,MMML 030046Z
+KCHD,Chandler Municipal Airport,32.0,KCHD 030047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,32.0,KIWA 030047Z
+SCF  KSDL,Scottsdale Airport,32.0,KSDL 030053Z
+MSC  KFFZ,Falcon Field,32.0,KFFZ
+SPN  PGSN,Saipan International Airport,32.0,PGSN 030054Z
+KGXF,,32.0,KGXF 030055Z
+LSV  KLSV,Nellis Air Force Base,32.0,KLSV 030055Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,32.0,KNYL 030057Z
+KNOZ,,32.0,KNOZ
+NDJ  FTTJ,N'Djamena International Airport,32.0,FTTJ 030100Z
+TUD  GOTT,Tambacounda Airport,32.0,GOTT 030100Z
+FUN  NGFU,Funafuti International Airport,32.0,NGFU 030100Z
+OKKK,,32.0,OKKK 030100Z
+SFS  RPLB,Subic Bay International Airport,32.0,RPLB 030100Z
+MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 030100Z
+KBV  VTSG,Krabi Airport,32.0,VTSG 030100Z
+KW22,,32.0,KW22 030110Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 030030Z
+NTR  MMAN,Del Norte International Airport,31.0,MMAN 030040Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 030040Z
+MTY  MMMY,General Mariano Escobedo International Airport,31.0,MMMY 030040Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,31.0,MMMD 030043Z
+VSA  MMVA,Carlos Rovirosa Pérez International Airport,31.0,MMVA 030044Z
+LAP  MMLP,Manuel Márquez de León International Airport,31.0,MMLP 030046Z
