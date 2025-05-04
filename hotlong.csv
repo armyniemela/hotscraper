@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KCHD,Chandler Municipal Airport,33.0,KCHD 040047Z
-KGEU,Glendale Municipal Airport,33.0,KGEU 040047Z
-GYR  KGYR,Phoenix Goodyear Airport,33.0,KGYR 040047Z
-IFP  KIFP,Laughlin Bullhead International Airport,33.0,KIFP 040047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,33.0,KIWA 040048Z
-BLH  KBLH,Blythe Airport,33.0,KBLH 040052Z
-LGF  KLGF,Laguna Army Airfield,33.0,KLGF 040055Z
-LUF  KLUF,Luke Air Force Base,33.0,KLUF 040055Z
-EED  KEED,Needles Airport,33.0,KEED 040056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,33.0,KNYL 040057Z
-POM  AYPY,Port Moresby Jacksons International Airport,33.0,AYPY 040100Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,33.0,DAUK 040100Z
-MCR  MGMM,Melchor de Mencos Airport,33.0,MGMM 040100Z
-AKW  OIAG,Aghajari Airport,33.0,OIAG 040100Z
-AWZ  OIAW,Ahwaz Airport,33.0,OIAW 040100Z
-MNL  RPLL,Ninoy Aquino International Airport,33.0,RPLL 040100Z
-HII  KHII,Lake Havasu City Airport,33.0,KHII 040135Z
-TGZ  MMTG,Angel Albino Corzo International Airport,32.0,MMTG 040041Z
-OHS  OOSH,Sohar Airport,32.0,OOSH 040050Z
-SCF  KSDL,Scottsdale Airport,32.0,KSDL 040053Z
-MSC  KFFZ,Falcon Field,32.0,KFFZ
-KGXF,,32.0,KGXF 040055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,32.0,KCGZ
-BMW  DATM,Bordj Badji Mokhtar Airport,32.0,DATM 040100Z
-OGX  DAUU,Ain el Beida Airport,32.0,DAUU 040100Z
-MHX  NCMH,Manihiki Island Airport,32.0,NCMH 040100Z
-NAN  NFFN,Nadi International Airport,32.0,NFFN 040100Z
-MRX  OIAM,Mahshahr Airport,32.0,OIAM 040100Z
-DJJ  WAJJ,Sentani International Airport,32.0,WAJJ 040100Z
-DIA  OTBD,Doha International Airport,32.0,OTBD 040130Z
-KP08,,32.0,KP08 040135Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,MMHO 040040Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,31.0,MMML 040040Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,31.0,MMMD 040044Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,31.0,MMVA 040044Z
-TRC  MMTC,Francisco Sarabia International Airport,31.0,MMTC 040049Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,31.0,KTRM 040052Z
-DVT  KDVT,Phoenix Deer Valley Airport,31.0,KDVT 040053Z
-SPN  PGSN,Saipan International Airport,31.0,PGSN 040054Z
-GUM  PGUM,Antonio B. Won Pat International Airport,31.0,PGUM 040054Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),31.0,KNJK 040056Z
-KNOZ,,31.0,KNOZ
-INU  ANYN,Nauru International Airport,31.0,ANYN 040100Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,31.0,DAUA 040100Z
-HME  DAUH,Oued Irara Airport,31.0,DAUH 040100Z
+BSR  ORMM,Basrah International Airport,44.0,ORMM 041200Z
+OKAS,Ali Al Salem Air Base,43.0,OKAS 041156Z
+KHK  OIBQ,Khark Island Airport,43.0,OIBQ 041200Z
+LFM  OISR,Lamerd Airport,43.0,OISR 041200Z
+AUH  OMAA,Abu Dhabi International Airport,43.0,OMAA 041200Z
+AAN  OMAL,Al Ain International Airport,43.0,OMAL 041200Z
+AZI  OMAD,Bateen Airport,43.0,OMAD 041230Z
+OOAD,,42.0,OOAD 041150Z
+AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 041155Z
+DMM  OEDF,King Fahd International Airport,42.0,OEDF 041200Z
+OEKJ,,42.0,OEKJ 041200Z
+MRX  OIAM,Mahshahr Airport,42.0,OIAM 041200Z
+PGU  OIBP,Persian Gulf International Airport,42.0,OIBP 041200Z
+IHR  OIZI,Iran Shahr Airport,42.0,OIZ
+NJF  ORNI,Al Najaf International Airport,42.0,ORNI 041200Z
+DWC  OMDW,Al Maktoum International Airport,42.0,OMDW 041230Z
+OHS  OOSH,Sohar Airport,41.0,OOSH 041150Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 041200Z
+RUH  OERK,King Khaled International Airport,41.0,OERK 041200Z
+WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 041200Z
+KNR  OIBJ,Jam Airport,41.0,OIBJ 041200Z
+LRR  OISL,Lar Airport,41.0,OISL 041200Z
+OKKK,,41.0,OKKK 041200Z
+NIM  DRRN,Diori Hamani International Airport,40.0,DRRN 041200Z
+NDJ  FTTJ,N'Djamena International Airport,40.0,FTTJ 041200Z
+SHW  OESH,Sharurah Airport,40.0,OESH 041200Z
+BUZ  OIBB,Bushehr Airport,40.0,OIBB 041200Z
+OIBH,Bastak Airport,40.0,OIBH 041200Z
+RKT  OMRK,Ras Al Khaimah International Airport,40.0,OMRK 041200Z
+DIA  OTBD,Doha International Airport,40.0,OTBD 041200Z
+DOH  OTHH,Hamad International Airport,40.0,OTHH 041200Z
+VAHS,,40.0,VAHS 041200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,40.0,VOTR 041200Z
+KHS  OOKB,Khasab Air Base,39.0,OOKB 041150Z
+MCT  OOMS,Muscat International Airport,39.0,OOMS 041150Z
+KQTZ,,39.0,KQTZ
+THZ  DRRT,Tahoua Airport,39.0,DRRT 041200Z
+GOU  FKKR,Garoua International Airport,39.0,FKKR 041200Z
+KLC  GOOK,Kaolack Airport,39.0,GOOK 041200Z
+MAX  GOSM,Ouro Sogui Airport,39.0,GOSM 041200Z
+DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 041200Z
+GCH  OIAH,Gachsaran Airport,39.0,OIAH 041200Z
+ACZ  OIZB,Zabol Airport,39.0,OIZ
+BGW  ORBI,Baghdad International Airport,39.0,ORBI 041200Z
+VEKO,,39.0,VEKO 041200Z
