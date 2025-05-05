@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BSR  ORMM,Basrah International Airport,44.0,ORMM 041200Z
-OKAS,Ali Al Salem Air Base,43.0,OKAS 041156Z
-KHK  OIBQ,Khark Island Airport,43.0,OIBQ 041200Z
-LFM  OISR,Lamerd Airport,43.0,OISR 041200Z
-AUH  OMAA,Abu Dhabi International Airport,43.0,OMAA 041200Z
-AAN  OMAL,Al Ain International Airport,43.0,OMAL 041200Z
-AZI  OMAD,Bateen Airport,43.0,OMAD 041230Z
-OOAD,,42.0,OOAD 041150Z
-AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 041155Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 041200Z
-OEKJ,,42.0,OEKJ 041200Z
-MRX  OIAM,Mahshahr Airport,42.0,OIAM 041200Z
-PGU  OIBP,Persian Gulf International Airport,42.0,OIBP 041200Z
-IHR  OIZI,Iran Shahr Airport,42.0,OIZ
-NJF  ORNI,Al Najaf International Airport,42.0,ORNI 041200Z
-DWC  OMDW,Al Maktoum International Airport,42.0,OMDW 041230Z
-OHS  OOSH,Sohar Airport,41.0,OOSH 041150Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 041200Z
-RUH  OERK,King Khaled International Airport,41.0,OERK 041200Z
-WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 041200Z
-KNR  OIBJ,Jam Airport,41.0,OIBJ 041200Z
-LRR  OISL,Lar Airport,41.0,OISL 041200Z
-OKKK,,41.0,OKKK 041200Z
-NIM  DRRN,Diori Hamani International Airport,40.0,DRRN 041200Z
-NDJ  FTTJ,N'Djamena International Airport,40.0,FTTJ 041200Z
-SHW  OESH,Sharurah Airport,40.0,OESH 041200Z
-BUZ  OIBB,Bushehr Airport,40.0,OIBB 041200Z
-OIBH,Bastak Airport,40.0,OIBH 041200Z
-RKT  OMRK,Ras Al Khaimah International Airport,40.0,OMRK 041200Z
-DIA  OTBD,Doha International Airport,40.0,OTBD 041200Z
-DOH  OTHH,Hamad International Airport,40.0,OTHH 041200Z
-VAHS,,40.0,VAHS 041200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,40.0,VOTR 041200Z
-KHS  OOKB,Khasab Air Base,39.0,OOKB 041150Z
-MCT  OOMS,Muscat International Airport,39.0,OOMS 041150Z
-KQTZ,,39.0,KQTZ
-THZ  DRRT,Tahoua Airport,39.0,DRRT 041200Z
-GOU  FKKR,Garoua International Airport,39.0,FKKR 041200Z
-KLC  GOOK,Kaolack Airport,39.0,GOOK 041200Z
-MAX  GOSM,Ouro Sogui Airport,39.0,GOSM 041200Z
-DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 041200Z
-GCH  OIAH,Gachsaran Airport,39.0,OIAH 041200Z
-ACZ  OIZB,Zabol Airport,39.0,OIZ
-BGW  ORBI,Baghdad International Airport,39.0,ORBI 041200Z
-VEKO,,39.0,VEKO 041200Z
+DIA  OTBD,Doha International Airport,34.0,OTBD 050100Z
+PQM  MMPQ,Palenque International Airport,33.0,MMPQ 050040Z
+CVJ  MMCB,General Mariano Matamoros Airport,33.0,MMCB 050041Z
+HIR  AGGH,Honiara International Airport,33.0,AGGH 050100Z
+MCR  MGMM,Melchor de Mencos Airport,33.0,MGMM 050100Z
+AKW  OIAG,Aghajari Airport,33.0,OIAG 050100Z
+TGZ  MMTG,Angel Albino Corzo International Airport,32.0,MMTG 050044Z
+MCT  OOMS,Muscat International Airport,32.0,OOMS 050050Z
+OUA  DFFD,Ouagadougou Airport,32.0,DFFD 050100Z
+GAKD,,32.0,GAKD 050100Z
+BAH  OBBI,Bahrain International Airport,32.0,OBBI 050100Z
+DHA  OEDR,King Abdulaziz Air Base,32.0,OEDR 050100Z
+ABD  OIAA,Abadan Airport,32.0,OIAA 050100Z
+AWZ  OIAW,Ahwaz Airport,32.0,OIAW 050100Z
+OKKK,,32.0,OKKK 050100Z
+SFS  RPLB,Subic Bay International Airport,32.0,RPLB 050100Z
+MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 050100Z
+KPRS,Presidio Lely International Airport,32.0,KPRS 050115Z
+PTTP,,31.0,PTTP 050053Z
+SPN  PGSN,Saipan International Airport,31.0,PGSN 050054Z
+PNI  PTPN,Pohnpei International Airport,31.0,PTPN 050055Z
+MHX  NCMH,Manihiki Island Airport,31.0,NCMH 050100Z
+LBS  NFNL,Labasa Airport,31.0,NFNL 050100Z
+HOF  OEAH,Al Ahsa Airport,31.0,OEAH 050100Z
+GIZ  OEGN,Jizan Regional Airport,31.0,OEGN 050100Z
+OEKJ,,31.0,OEKJ 050100Z
+DOH  OTHH,Hamad International Airport,31.0,OTHH 050100Z
+CXI  PLCH,Cassidy International Airport,31.0,PLCH 050100Z
+TNN  RCNN,Tainan Airport,31.0,RCNN 050100Z
+ZAM  RPMZ,Zamboanga International Airport,31.0,RPMZ
+CEB  RPVM,Mactan Cebu International Airport,31.0,RPVM 050100Z
+UTP  VTBU,U-Tapao International Airport,31.0,VTBU 050100Z
+DJJ  WAJJ,Sentani International Airport,31.0,WAJJ 050100Z
+MDC  WAMM,Sam Ratulangi Airport,31.0,WAMM 050100Z
+MYY  WBGR,Miri Airport,31.0,WBGR 050100Z
+KNX  YPKU,Kununurra Airport,31.0,YPKU 050100Z
+PHE  YPPD,Port Hedland International Airport,31.0,YPPD 050100Z
+KTR  YPTN,Tindal Airport,31.0,YPTN 050100Z
+DXB  OMDB,Dubai International Airport,31.0,OMDB 050130Z
+ZIH  MMZH,Ixtapa Zihuatanejo International Airport,30.0,MMZ
+CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,30.0,MMCP 050041Z
+GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,30.0,MMGL 050044Z
+BJX  MMLO,Del Bajío International Airport,30.0,MMLO 050045Z
+VSA  MMVA,Carlos Rovirosa Pérez International Airport,30.0,MMVA 050046Z
+OHS  OOSH,Sohar Airport,30.0,OOSH 050050Z
