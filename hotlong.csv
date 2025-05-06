@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-TUD  GOTT,Tambacounda Airport,35.0,GOTT 060100Z
-KT89,,35.0,KT89 060115Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,34.0,MMCV 060040Z
-TRC  MMTC,Francisco Sarabia International Airport,34.0,MMTC 060045Z
-OHS  OOSH,Sohar Airport,34.0,OOSH 060050Z
-GAKD,,34.0,GAKD 060100Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,33.0,MMVA 060042Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,33.0,MMMD 060045Z
-CVJ  MMCB,General Mariano Matamoros Airport,33.0,MMCB 060047Z
-OUA  DFFD,Ouagadougou Airport,33.0,DFFD 060100Z
-DIA  OTBD,Doha International Airport,33.0,OTBD 060100Z
-KPRS,Presidio Lely International Airport,33.0,KPRS 060115Z
-MTT  MMMT,Minatitlán/Coatzacoalcos National Airport,32.0,MMMT 060040Z
-LOV  MMMV,Monclova International Airport,32.0,MMMV 060042Z
-HIR  AGGH,Honiara International Airport,32.0,AGGH 060100Z
-MCR  MGMM,Melchor de Mencos Airport,32.0,MGMM 060100Z
-DHA  OEDR,King Abdulaziz Air Base,32.0,OEDR 060100Z
-DOH  OTHH,Hamad International Airport,32.0,OTHH 060100Z
-K5T9,,32.0,K5T9 060115Z
-NLD  MMNL,Quetzalcóatl International Airport,31.0,MMNL 060040Z
-CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,31.0,MMCP 060041Z
-CME  MMCE,Ciudad del Carmen International Airport,31.0,MMCE 060045Z
-CZA  MMCT,Chichen Itza International Airport,31.0,MMCT 060047Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 060051Z
-PTTP,,31.0,PTTP 060052Z
-DRT  KDRT,Del Rio International Airport,31.0,KDRT 060053Z
-TKK  PTKK,Chuuk International Airport,31.0,PTKK 060053Z
-SPN  PGSN,Saipan International Airport,31.0,PGSN 060054Z
-UKI  KUKI,Ukiah Municipal Airport,31.0,KUKI 060056Z
-INU  ANYN,Nauru International Airport,31.0,ANYN 060100Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-MGA  MNMG,Augusto C. Sandino (Managua) International Airport,31.0,MNMG 060100Z
-LIR  MRLB,Daniel Oduber Quiros International Airport,31.0,MRLB 060100Z
-MHX  NCMH,Manihiki Island Airport,31.0,NCMH 060100Z
-PYE  NCPY,Tongareva Airport,31.0,NCPY 060100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 060100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 060100Z
-BAH  OBBI,Bahrain International Airport,31.0,OBBI 060100Z
-HOF  OEAH,Al Ahsa Airport,31.0,OEAH 060100Z
-DMM  OEDF,King Fahd International Airport,31.0,OEDF 060100Z
-GIZ  OEGN,Jizan Regional Airport,31.0,OEGN 060100Z
-TTT  RCFN,Taitung Airport,31.0,RCFN 060100Z
-SFS  RPLB,Subic Bay International Airport,31.0,RPLB 060100Z
-TKT  VTPT,Tak Airport,31.0,VTPT 060100Z
-KBV  VTSG,Krabi Airport,31.0,VTSG 060100Z
+BDH  OIBL,Bandar Lengeh Airport,43.0,OIBL 061200Z
+ACZ  OIZB,Zabol Airport,43.0,OIZ
+IHR  OIZI,Iran Shahr Airport,43.0,OIZ
+GAQ  GAGO,Gao Airport,42.0,GAGO 061200Z
+AAN  OMAL,Al Ain International Airport,42.0,OMAL 061200Z
+THZ  DRRT,Tahoua Airport,41.0,DRRT 061200Z
+TOM  GATB,Timbuktu Airport,41.0,GATB 061200Z
+SHW  OESH,Sharurah Airport,41.0,OESH 061200Z
+LFM  OISR,Lamerd Airport,41.0,OISR 061200Z
+VVZ  DAAP,Illizi Takhamalt Airport,40.0,DAAP 061200Z
+SKO  DNSO,Sadiq Abubakar III International Airport,40.0,DNSO 061200Z
+YOL  DNYO,Yola Airport,40.0,DNYO 061200Z
+GOU  FKKR,Garoua International Airport,40.0,FKKR 061200Z
+NDJ  FTTJ,N'Djamena International Airport,40.0,FTTJ 061200Z
+MAX  GOSM,Ouro Sogui Airport,40.0,GOSM 061200Z
+EMN  GQNI,Néma Airport,40.0,GQNI 061200Z
+WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 061200Z
+LRR  OISL,Lar Airport,40.0,OISL 061200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,39.0,DATM 061200Z
+KAN  DNKN,Mallam Aminu International Airport,39.0,DNKN 061200Z
+MFQ  DRRM,Maradi Airport,39.0,DRRM 061200Z
+NIM  DRRN,Diori Hamani International Airport,39.0,DRRN 061200Z
+ZND  DRZR,Zinder Airport,39.0,DRZ
+AEH  FTTC,Abeche Airport,39.0,FTTC 061200Z
+MZI  GAMB,Mopti Airport,39.0,GAMB 061200Z
+KLC  GOOK,Kaolack Airport,39.0,GOOK 061200Z
+OEMN,,39.0,OEMN 061200Z
+AFZ  OIMS,Sabzevar National Airport,39.0,OIMS 061200Z
+GXF  OYSY,Sayun International Airport,39.0,OYSY 061200Z
+CRZ  UTAV,Turkmenabat Airport,39.0,UTAV 061200Z
+CDP  VOCP,Kadapa Airport,39.0,VOCP 061200Z
+KQD3,,38.0,KQD3 061155Z
+OUA  DFFD,Ouagadougou Airport,38.0,DFFD 061200Z
+DNGO,,38.0,DNGO 061200Z
+AJY  DRZA,Mano Dayak International Airport,38.0,DRZ
+GAKD,,38.0,GAKD 061200Z
+GOOD,,38.0,GOOD 061200Z
+GOOG,,38.0,GOOG 061200Z
+RKT  OMRK,Ras Al Khaimah International Airport,38.0,OMRK 061200Z
+UTAE,,38.0,UTAE 061200Z
+MYP  UTAM,Mary Airport,38.0,UTAM 061200Z
+TAZ  UTAT,Daşoguz Airport,38.0,UTAT 061200Z
+NCU  UTNN,Nukus Airport,38.0,UTNN 061200Z
+NVI  UTSA,Navoi Airport,38.0,UTSA 061200Z
+BHK  UTSB,Bukhara Airport,38.0,UTSB 061200Z
