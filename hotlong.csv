@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NLD  MMNL,Quetzalcóatl International Airport,35.0,MMNL 070040Z
-TRC  MMTC,Francisco Sarabia International Airport,35.0,MMTC 070042Z
-MTY  MMMY,General Mariano Escobedo International Airport,35.0,MMMY 070043Z
-OHS  OOSH,Sohar Airport,35.0,OOSH 070050Z
-NIM  DRRN,Diori Hamani International Airport,35.0,DRRN 070100Z
-MTT  MMMT,Minatitlán/Coatzacoalcos National Airport,34.0,MMMT 070041Z
-TGZ  MMTG,Angel Albino Corzo International Airport,34.0,MMTG 070047Z
-LRD  KLRD,Laredo International Airport,34.0,KLRD 070056Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,34.0,MMCV 070119Z
-CVJ  MMCB,General Mariano Matamoros Airport,33.0,MMCB 070045Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,33.0,MMVA 070058Z
-MCT  OOMS,Muscat International Airport,32.0,OOMS 070050Z
-DRT  KDRT,Del Rio International Airport,32.0,KDRT 070053Z
-DLF  KDLF,DLF Airport,32.0,KDLF 070055Z
-KT70,,32.0,KT70 070055Z
-MCR  MGMM,Melchor de Mencos Airport,32.0,MGMM 070100Z
-SFS  RPLB,Subic Bay International Airport,32.0,RPLB 070100Z
-MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 070100Z
-BWN  WBSB,Brunei International Airport,32.0,WBSB 070100Z
-KFTN,,32.0,KFTN 070115Z
-CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,31.0,MMCP 070043Z
-CME  MMCE,Ciudad del Carmen International Airport,31.0,MMCE 070045Z
-PNI  PTPN,Pohnpei International Airport,31.0,PTPN 070050Z
-RDD  KRDD,Redding Municipal Airport,31.0,KRDD 070053Z
-SMF  KSMF,Sacramento International Airport,31.0,KSMF 070053Z
-SSF  KSSF,Stinson Municipal Airport,31.0,KSSF 070053Z
-SPN  PGSN,Saipan International Airport,31.0,PGSN 070054Z
-BAB  KBAB,Beale Air Force Base,31.0,KBAB 070055Z
-KQD3,,31.0,KQD3 070055Z
-KQRH,,31.0,KQRH 070055Z
-LAE  AYNZ,Nadzab Airport,31.0,AYNZ
-POM  AYPY,Port Moresby Jacksons International Airport,31.0,AYPY 070100Z
-PYE  NCPY,Tongareva Airport,31.0,NCPY 070100Z
-FUN  NGFU,Funafuti International Airport,31.0,NGFU 070100Z
-TRW  NGTA,Bonriki International Airport,31.0,NGTA 070100Z
-WLS  NLWW,Hihifo Airport,31.0,NLWW 070100Z
-APW  NSFA,Faleolo International Airport,31.0,NSFA 070100Z
-CXI  PLCH,Cassidy International Airport,31.0,PLCH 070100Z
-LAO  RPLI,Laoag International Airport,31.0,RPLI 070100Z
-KOS  VDSV,Sihanoukville International Airport,31.0,VDSV 070100Z
-UTP  VTBU,U-Tapao International Airport,31.0,VTBU 070100Z
-PHS  VTPP,Phitsanulok Airport,31.0,VTPP 070100Z
-TKT  VTPT,Tak Airport,31.0,VTPT 070100Z
-USM  VTSM,Samui Airport,31.0,VTSM 070100Z
-CXR  VVCR,Cam Ranh Airport,31.0,VVCR 070100Z
+IHR  OIZI,Iran Shahr Airport,42.0,OIZ
+KHS  OOKB,Khasab Air Base,41.0,OOKB 071150Z
+THZ  DRRT,Tahoua Airport,41.0,DRRT 071200Z
+ZND  DRZR,Zinder Airport,41.0,DRZ
+GAQ  GAGO,Gao Airport,41.0,GAGO 071200Z
+DNKT,,40.0,DNKT 071200Z
+YOL  DNYO,Yola Airport,40.0,DNYO 071200Z
+NIM  DRRN,Diori Hamani International Airport,40.0,DRRN 071200Z
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+AEH  FTTC,Abeche Airport,40.0,FTTC 071200Z
+GOOG,,40.0,GOOG 071200Z
+OEMN,,40.0,OEMN 071200Z
+GXF  OYSY,Sayun International Airport,40.0,OYSY 071200Z
+KQD3,,39.0,KQD3 071155Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,39.0,OEMA 071200Z
+FJR  OMFJ,Fujairah International Airport,39.0,OMFJ 071200Z
+SRH  FTTA,Sarh Airport,38.0,FTTA 071200Z
+MZI  GAMB,Mopti Airport,38.0,GAMB 071200Z
+POD  GOSP,Podor Airport,38.0,GOSP 071200Z
+MUX  OPMT,Multan International Airport,38.0,OPMT 071200Z
+KQT  UTDT,Qurghonteppa International Airport,38.0,UTDT 071200Z
+UTSK,,38.0,UTSK 071200Z
+TMJ  UTST,Termez Airport,38.0,UTST 071200Z
+TRZ  VOTR,Tiruchirapally Civil Airport Airport,38.0,VOTR 071200Z
+VEBN,,37.0,VEBN 071130Z
+AKH  OEPS,Prince Sultan Air Base,37.0,OEPS 071155Z
+LYP  OPFA,Faisalabad International Airport,37.0,OPFA 071155Z
+INZ  DAUI,In Salah Airport,37.0,DAUI 071200Z
+DNGO,,37.0,DNGO 071200Z
+GAKD,,37.0,GAKD 071200Z
+NIX  GANR,Nioro du Sahel Airport,37.0,GANR 071200Z
+TOM  GATB,Timbuktu Airport,37.0,GATB 071200Z
+OEAO,,37.0,OEAO 071200Z
+SHW  OESH,Sharurah Airport,37.0,OESH 071200Z
+WAE  OEWD,Wadi Al Dawasir Airport,37.0,OEWD 071200Z
+AWZ  OIAW,Ahwaz Airport,37.0,OIAW 071200Z
+LRR  OISL,Lar Airport,37.0,OISL 071200Z
+ZAH  OIZH,Zahedan International Airport,37.0,OIZ
+AXK  OYAT,Ataq Airport,37.0,OYAT 071200Z
+TJU  UTDK,Kulob Airport,37.0,UTDK 071200Z
+NVI  UTSA,Navoi Airport,37.0,UTSA 071200Z
+TAS  UTTT,Tashkent International Airport,37.0,UTTT 071200Z
+VEBU,,37.0,VEBU 071200Z
+VEKO,,37.0,VEKO 071200Z
+VOGB,,37.0,VOGB 071200Z
