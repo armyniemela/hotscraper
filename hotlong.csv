@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NIM  DRRN,Diori Hamani International Airport,41.0,DRRN 081200Z
-THZ  DRRT,Tahoua Airport,41.0,DRRT 081200Z
-ZND  DRZR,Zinder Airport,41.0,DRZ
-NIX  GANR,Nioro du Sahel Airport,41.0,GANR 081200Z
-TOM  GATB,Timbuktu Airport,41.0,GATB 081200Z
-MFQ  DRRM,Maradi Airport,40.0,DRRM 081200Z
-AEH  FTTC,Abeche Airport,40.0,FTTC 081200Z
-MZI  GAMB,Mopti Airport,40.0,GAMB 081200Z
-GOOG,,40.0,GOOG 081200Z
-EMN  GQNI,Néma Airport,40.0,GQNI 081200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 081200Z
-AKW  OIAG,Aghajari Airport,40.0,OIAG 081200Z
-IHR  OIZI,Iran Shahr Airport,40.0,OIZ
-OODQ,,39.0,OODQ 081150Z
-INZ  DAUI,In Salah Airport,39.0,DAUI 081200Z
-GAKD,,39.0,GAKD 081200Z
-OEAO,,39.0,OEAO 081200Z
-OEMN,,39.0,OEMN 081200Z
-WAE  OEWD,Wadi Al Dawasir Airport,39.0,OEWD 081200Z
-ABD  OIAA,Abadan Airport,39.0,OIAA 081200Z
-AWZ  OIAW,Ahwaz Airport,39.0,OIAW 081200Z
-MUX  OPMT,Multan International Airport,39.0,OPMT 081200Z
-GXF  OYSY,Sayun International Airport,39.0,OYSY 081200Z
-VVZ  DAAP,Illizi Takhamalt Airport,38.0,DAAP 081200Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,38.0,DAUA 081200Z
-HME  DAUH,Oued Irara Airport,38.0,DAUH 081200Z
-OUA  DFFD,Ouagadougou Airport,38.0,DFFD 081200Z
-GOU  FKKR,Garoua International Airport,38.0,FKKR 081200Z
-POD  GOSP,Podor Airport,38.0,GOSP 081200Z
-HOF  OEAH,Al Ahsa Airport,38.0,OEAH 081200Z
-MRX  OIAM,Mahshahr Airport,38.0,OIAM 081200Z
-ACZ  OIZB,Zabol Airport,38.0,OIZ
-AQJ  OJAQ,Aqaba King Hussein International Airport,38.0,OJAQ 081200Z
-OKKK,,38.0,OKKK 081200Z
-BSR  ORMM,Basrah International Airport,38.0,ORMM 081200Z
-IXW  VEJS,Sonari Airport,38.0,VEJS 081200Z
-VEBN,,37.0,VEBN 081130Z
-KQAJ,,37.0,KQAJ 081155Z
-OKAS,Ali Al Salem Air Base,37.0,OKAS 081155Z
-IAM  DAUZ,In Aménas Airport,37.0,DAUZ
-SRH  FTTA,Sarh Airport,37.0,FTTA 081200Z
-GOOD,,37.0,GOOD 081200Z
-TUD  GOTT,Tambacounda Airport,37.0,GOTT 081200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,37.0,OEYN 081200Z
-NJF  ORNI,Al Najaf International Airport,37.0,ORNI 081200Z
+LGF  KLGF,Laguna Army Airfield,35.0,KLGF 090055Z
+EED  KEED,Needles Airport,35.0,KEED 090056Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,34.0,MMML 090045Z
+CVJ  MMCB,General Mariano Matamoros Airport,34.0,MMCB 090054Z
+HII  KHII,Lake Havasu City Airport,34.0,KHII 090115Z
+GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,33.0,MMGL 090040Z
+TRC  MMTC,Francisco Sarabia International Airport,33.0,MMTC 090040Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,33.0,MMMD 090044Z
+KGEU,Glendale Municipal Airport,33.0,KGEU 090047Z
+GYR  KGYR,Phoenix Goodyear Airport,33.0,KGYR 090047Z
+TGZ  MMTG,Angel Albino Corzo International Airport,33.0,MMTG 090048Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,33.0,KPHX 090051Z
+BLH  KBLH,Blythe Airport,33.0,KBLH 090052Z
+MSC  KFFZ,Falcon Field,33.0,KFFZ
+KGXF,,33.0,KGXF 090055Z
+LUF  KLUF,Luke Air Force Base,33.0,KLUF 090055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),33.0,KNJK 090056Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,33.0,KNLC 090056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,33.0,KNYL 090057Z
+KNOZ,,33.0,KNOZ
+OUA  DFFD,Ouagadougou Airport,33.0,DFFD 090100Z
+TNN  RCNN,Tainan Airport,33.0,RCNN 090100Z
+HUI  VVPB,Phu Bai Airport,33.0,VVPB 090100Z
+KL08,,33.0,KL08 090115Z
+GYM  MMGM,General José María Yáñez International Airport,32.0,MMGM 090040Z
+SLP  MMSP,Ponciano Arriaga International Airport,32.0,MMSP 090041Z
+KCHD,Chandler Municipal Airport,32.0,KCHD 090047Z
+DAG  KDAG,Barstow Daggett Airport,32.0,KDAG 090050Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,32.0,KIWA 090051Z
+DVT  KDVT,Phoenix Deer Valley Airport,32.0,KDVT 090053Z
+FAT  KFAT,Fresno Yosemite International Airport,32.0,KFAT 090053Z
+KHJO,Hanford Municipal Airport,32.0,KHJO 090053Z
+SCF  KSDL,Scottsdale Airport,32.0,KSDL 090053Z
+BFL  KBFL,Meadows Field,32.0,KBFL 090054Z
+GUM  PGUM,Antonio B. Won Pat International Airport,32.0,PGUM 090054Z
+KNID,China Lake Naws (Armitage Field) Airport,32.0,KNID 090056Z
+PTV  KPTV,Porterville Municipal Airport,32.0,KPTV 090056Z
+VIS  KVIS,Visalia Municipal Airport,32.0,KVIS 090056Z
+BMW  DATM,Bordj Badji Mokhtar Airport,32.0,DATM 090100Z
+TUD  GOTT,Tambacounda Airport,32.0,GOTT 090100Z
+MCR  MGMM,Melchor de Mencos Airport,32.0,MGMM 090100Z
+SFS  RPLB,Subic Bay International Airport,32.0,RPLB 090100Z
+MNL  RPLL,Ninoy Aquino International Airport,32.0,RPLL 090100Z
+KOS  VDSV,Sihanoukville International Airport,32.0,VDSV 090100Z
+KBV  VTSG,Krabi Airport,32.0,VTSG 090100Z
