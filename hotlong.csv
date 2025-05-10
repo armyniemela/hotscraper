@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NIM  DRRN,Diori Hamani International Airport,41.0,DRRN 091200Z
-ZND  DRZR,Zinder Airport,41.0,DRZ
-AEH  FTTC,Abeche Airport,41.0,FTTC 091200Z
-MZI  GAMB,Mopti Airport,41.0,GAMB 091200Z
-ASW  HESN,Aswan International Airport,41.0,HESN 091200Z
-ELQ  OEGS,Gassim Airport,41.0,OEGS 091200Z
-OEMN,,41.0,OEMN 091200Z
-WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 091200Z
-ABD  OIAA,Abadan Airport,41.0,OIAA 091200Z
-AKW  OIAG,Aghajari Airport,41.0,OIAG 091200Z
-MRX  OIAM,Mahshahr Airport,41.0,OIAM 091200Z
-OOAD,,40.0,OOAD 091150Z
-BMW  DATM,Bordj Badji Mokhtar Airport,40.0,DATM 091200Z
-SKO  DNSO,Sadiq Abubakar III International Airport,40.0,DNSO 091200Z
-MFQ  DRRM,Maradi Airport,40.0,DRRM 091200Z
-THZ  DRRT,Tahoua Airport,40.0,DRRT 091200Z
-LXR  HELX,Luxor International Airport,40.0,HELX 091200Z
-HESG,,40.0,HESG 091200Z
-OEAO,,40.0,OEAO 091200Z
-IHR  OIZI,Iran Shahr Airport,40.0,OIZ
-OKKK,,40.0,OKKK 091200Z
-BSR  ORMM,Basrah International Airport,40.0,ORMM 091200Z
-GXF  OYSY,Sayun International Airport,40.0,OYSY 091200Z
-TRZ  VOTR,Tiruchirapally Civil Airport Airport,39.0,VOTR 091130Z
-OODQ,,39.0,OODQ 091150Z
-KQAJ,,39.0,KQAJ 091155Z
-OKAS,Ali Al Salem Air Base,39.0,OKAS 091155Z
-YOL  DNYO,Yola Airport,39.0,DNYO 091200Z
-GOU  FKKR,Garoua International Airport,39.0,FKKR 091200Z
-GOOG,,39.0,GOOG 091200Z
-ATZ  HEAT,Asyut International Airport,39.0,HEAT 091200Z
-HOF  OEAH,Al Ahsa Airport,39.0,OEAH 091200Z
-OEKJ,,39.0,OEKJ 091200Z
-RUH  OERK,King Khaled International Airport,39.0,OERK 091200Z
-SHW  OESH,Sharurah Airport,39.0,OESH 091200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,39.0,OEYN 091200Z
-BGW  ORBI,Baghdad International Airport,39.0,ORBI 091200Z
-NJF  ORNI,Al Najaf International Airport,39.0,ORNI 091200Z
-KQTZ,,38.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,38.0,OEPS 091155Z
-VVZ  DAAP,Illizi Takhamalt Airport,38.0,DAAP 091200Z
-IAM  DAUZ,In Aménas Airport,38.0,DAUZ
-OUA  DFFD,Ouagadougou Airport,38.0,DFFD 091200Z
-SRH  FTTA,Sarh Airport,38.0,FTTA 091200Z
-NIX  GANR,Nioro du Sahel Airport,38.0,GANR 091200Z
+BLH  KBLH,Blythe Airport,39.0,KBLH 100052Z
+IFP  KIFP,Laughlin Bullhead International Airport,39.0,KIFP 100052Z
+LGF  KLGF,Laguna Army Airfield,39.0,KLGF 100055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),39.0,KNJK 100056Z
+KNOZ,,39.0,KNOZ
+PHX  KPHX,Phoenix Sky Harbor International Airport,38.0,KPHX 100051Z
+KGXF,,38.0,KGXF 100055Z
+LUF  KLUF,Luke Air Force Base,38.0,KLUF 100055Z
+EED  KEED,Needles Airport,38.0,KEED 100056Z
+KGEU,Glendale Municipal Airport,38.0,KGEU 100056Z
+HII  KHII,Lake Havasu City Airport,38.0,KHII 100115Z
+KL08,,38.0,KL08 100115Z
+KCHD,Chandler Municipal Airport,37.0,KCHD 100047Z
+GYR  KGYR,Phoenix Goodyear Airport,37.0,KGYR 100047Z
+SCF  KSDL,Scottsdale Airport,37.0,KSDL 100053Z
+MSC  KFFZ,Falcon Field,37.0,KFFZ
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,37.0,KIWA 100057Z
+DAG  KDAG,Barstow Daggett Airport,36.0,KDAG 100050Z
+DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 100053Z
+MZJ  KMZJ,Pinal Airpark,36.0,KMZ
+KP08,,36.0,KP08 100055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,36.0,KCGZ
+PTV  KPTV,Porterville Municipal Airport,36.0,KPTV 100056Z
+KA39,,36.0,KA39 100115Z
+BXK  KBXK,Buckeye Municipal Airport,36.0,KBXK 100115Z
+GYM  MMGM,General José María Yáñez International Airport,35.0,MMGM 100040Z
+KRYN,Ryan Field,35.0,KRYN 100045Z
+BUR  KBUR,Bob Hope Airport,35.0,KBUR 100053Z
+FAT  KFAT,Fresno Yosemite International Airport,35.0,KFAT 100053Z
+KHJO,Hanford Municipal Airport,35.0,KHJO 100053Z
+MAE  KMAE,Madera Municipal Airport,35.0,KMAE 100053Z
+VGT  KVGT,North Las Vegas Airport,35.0,KVGT 100053Z
+LSV  KLSV,Nellis Air Force Base,35.0,KLSV 100055Z
+WHP  KWHP,Whiteman Airport,35.0,KWHP 100055Z
+KNID,China Lake Naws (Armitage Field) Airport,35.0,KNID 100056Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,35.0,KNLC 100056Z
+VIS  KVIS,Visalia Municipal Airport,35.0,KVIS 100056Z
+NIM  DRRN,Diori Hamani International Airport,35.0,DRRN 100100Z
+AVW  KAVQ,Marana Regional Airport,35.0,KAVQ 100115Z
+KF70,,35.0,KF70 100115Z
+KO32,,35.0,KO32 100115Z
+EMT  KEMT,San Gabriel Valley Airport,34.0,KEMT 100045Z
+SBD  KSBD,San Bernardino International Airport,34.0,KSBD 100051Z
+PMD  KPMD,Palmdale Regional/USAF Plant 42 Airport,34.0,KPMD 100053Z
+BFL  KBFL,Meadows Field,34.0,KBFL 100054Z
