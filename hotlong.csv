@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NIX  GANR,Nioro du Sahel Airport,43.0,GANR 111200Z
-BMW  DATM,Bordj Badji Mokhtar Airport,42.0,DATM 111200Z
-NDJ  FTTJ,N'Djamena International Airport,42.0,FTTJ 111200Z
-GAKD,,42.0,GAKD 111200Z
-HOF  OEAH,Al Ahsa Airport,42.0,OEAH 111200Z
-ELQ  OEGS,Gassim Airport,42.0,OEGS 111200Z
-RAH  OERF,Rafha Domestic Airport,42.0,OERF 111200Z
-WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 111200Z
-NJF  ORNI,Al Najaf International Airport,42.0,ORNI 111200Z
-KQAJ,,41.0,KQAJ 111155Z
-KQTZ,,41.0,KQTZ
-OKAS,Ali Al Salem Air Base,41.0,OKAS 111155Z
-NIM  DRRN,Diori Hamani International Airport,41.0,DRRN 111200Z
-ZND  DRZR,Zinder Airport,41.0,DRZ
-MAX  GOSM,Ouro Sogui Airport,41.0,GOSM 111200Z
-HEIS,,41.0,HEIS 111200Z
-OEAO,,41.0,OEAO 111200Z
-OEMN,,41.0,OEMN 111200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 111200Z
-MRX  OIAM,Mahshahr Airport,41.0,OIAM 111200Z
-LFM  OISR,Lamerd Airport,41.0,OISR 111200Z
-IHR  OIZI,Iran Shahr Airport,41.0,OIZ
-OKKK,,41.0,OKKK 111200Z
-BGW  ORBI,Baghdad International Airport,41.0,ORBI 111200Z
-OOAD,,40.0,OOAD 111150Z
-KHS  OOKB,Khasab Air Base,40.0,OOKB 111150Z
-AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 111155Z
-SKO  DNSO,Sadiq Abubakar III International Airport,40.0,DNSO 111200Z
-MFQ  DRRM,Maradi Airport,40.0,DRRM 111200Z
-THZ  DRRT,Tahoua Airport,40.0,DRRT 111200Z
-AEH  FTTC,Abeche Airport,40.0,FTTC 111200Z
-MZI  GAMB,Mopti Airport,40.0,GAMB 111200Z
-DMM  OEDF,King Fahd International Airport,40.0,OEDF 111200Z
-DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 111200Z
-OEKJ,,40.0,OEKJ 111200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 111200Z
-RUH  OERK,King Khaled International Airport,40.0,OERK 111200Z
-RAE  OERR,Arar Domestic Airport,40.0,OERR 111200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,40.0,OEYN 111200Z
-AQJ  OJAQ,Aqaba King Hussein International Airport,40.0,OJAQ 111200Z
-AAN  OMAL,Al Ain International Airport,40.0,OMAL 111200Z
-GXF  OYSY,Sayun International Airport,40.0,OYSY 111200Z
-CAI  HECA,Cairo International Airport,40.0,HECA 111230Z
-YOL  DNYO,Yola Airport,39.0,DNYO 111200Z
-TUD  GOTT,Tambacounda Airport,39.0,GOTT 111200Z
+KGEU,Glendale Municipal Airport,38.0,KGEU 120047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,38.0,KPHX 120051Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,38.0,KTRM 120052Z
+PSP  KPSP,Palm Springs International Airport,38.0,KPSP 120053Z
+KGXF,,38.0,KGXF 120055Z
+LUF  KLUF,Luke Air Force Base,38.0,KLUF 120055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 120056Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,37.0,MMML 120046Z
+GYR  KGYR,Phoenix Goodyear Airport,37.0,KGYR 120047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,37.0,KIWA 120048Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,37.0,KNYL 120057Z
+KNOZ,,37.0,KNOZ
+GAKD,,37.0,GAKD 120100Z
+KL08,,37.0,KL08 120135Z
+KRYN,Ryan Field,36.0,KRYN 120045Z
+DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 120053Z
+SCF  KSDL,Scottsdale Airport,36.0,KSDL 120053Z
+MSC  KFFZ,Falcon Field,36.0,KFFZ
+LSV  KLSV,Nellis Air Force Base,36.0,KLSV 120055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,36.0,KCGZ
+KP08,,36.0,KP08 120115Z
+KA39,,36.0,KA39 120135Z
+DAG  KDAG,Barstow Daggett Airport,35.0,KDAG 120050Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,35.0,KTUS 120053Z
+VGT  KVGT,North Las Vegas Airport,35.0,KVGT 120053Z
+DMA  KDMA,Davis Monthan Air Force Base,35.0,KDMA 120055Z
+HSH  KHND,Henderson Executive Airport,35.0,KHND 120056Z
+LAS  KLAS,McCarran International Airport,35.0,KLAS 120056Z
+NIM  DRRN,Diori Hamani International Airport,35.0,DRRN 120100Z
+TUD  GOTT,Tambacounda Airport,35.0,GOTT 120100Z
+MZJ  KMZJ,Pinal Airpark,35.0,KMZ
+KBVU,,35.0,KBVU 120135Z
+BXK  KBXK,Buckeye Municipal Airport,35.0,KBXK 120135Z
+GYM  MMGM,General José María Yáñez International Airport,34.0,MMGM 120040Z
+KNXP,Twentynine Palms (Self) Airport,34.0,KNXP 120054Z
+BYS  KBYS,Bicycle Lake Army Air Field,34.0,KBYS 120055Z
+AVW  KAVQ,Marana Regional Airport,34.0,KAVQ 120135Z
+CEN  MMCN,Ciudad Obregón International Airport,33.0,MMCN 120040Z
+SAD  KSAD,Safford Regional Airport,33.0,KSAD 120051Z
+BIS  KBIS,Bismarck Municipal Airport,33.0,KBIS 120052Z
+KNID,China Lake Naws (Armitage Field) Airport,33.0,KNID 120056Z
+SGU  KSGU,St George Municipal Airport,33.0,KSGU 120056Z
+INS  KINS,Creech Air Force Base,33.0,KINS 120057Z
+BMW  DATM,Bordj Badji Mokhtar Airport,33.0,DATM 120100Z
+KE77,,33.0,KE77 120115Z
