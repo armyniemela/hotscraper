@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NJF  ORNI,Al Najaf International Airport,44.0,ORNI 121200Z
-ZND  DRZR,Zinder Airport,43.0,DRZ
-HOF  OEAH,Al Ahsa Airport,43.0,OEAH 121200Z
-OEMN,,43.0,OEMN 121200Z
-AWZ  OIAW,Ahwaz Airport,43.0,OIAW 121200Z
-BSR  ORMM,Basrah International Airport,43.0,ORMM 121200Z
-NIM  DRRN,Diori Hamani International Airport,42.0,DRRN 121200Z
-THZ  DRRT,Tahoua Airport,42.0,DRRT 121200Z
-NIX  GANR,Nioro du Sahel Airport,42.0,GANR 121200Z
-ASW  HESN,Aswan International Airport,42.0,HESN 121200Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 121200Z
-ELQ  OEGS,Gassim Airport,42.0,OEGS 121200Z
-RUH  OERK,King Khaled International Airport,42.0,OERK 121200Z
-WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 121200Z
-ABD  OIAA,Abadan Airport,42.0,OIAA 121200Z
-AKW  OIAG,Aghajari Airport,42.0,OIAG 121200Z
-OKKK,,42.0,OKKK 121200Z
-KHS  OOKB,Khasab Air Base,41.0,OOKB 121150Z
-AKH  OEPS,Prince Sultan Air Base,41.0,OEPS 121155Z
-MFQ  DRRM,Maradi Airport,41.0,DRRM 121200Z
-GAKD,,41.0,GAKD 121200Z
-MZI  GAMB,Mopti Airport,41.0,GAMB 121200Z
-SSH  HESH,Sharm El Sheikh International Airport,41.0,HESH 121200Z
-OEKJ,,41.0,OEKJ 121200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 121200Z
-LFM  OISR,Lamerd Airport,41.0,OISR 121200Z
-IHR  OIZI,Iran Shahr Airport,41.0,OIZ
-AAN  OMAL,Al Ain International Airport,41.0,OMAL 121200Z
-BGW  ORBI,Baghdad International Airport,41.0,ORBI 121200Z
-YOL  DNYO,Yola Airport,40.0,DNYO 121200Z
-GOU  FKKR,Garoua International Airport,40.0,FKKR 121200Z
-MAX  GOSM,Ouro Sogui Airport,40.0,GOSM 121200Z
-ABS  HEBL,Abu Simbel Airport,40.0,HEBL 121200Z
-ACZ  OIZB,Zabol Airport,40.0,OIZ
-KIK  ORKK,Kirkuk Air Base,40.0,ORKK 121200Z
-GXF  OYSY,Sayun International Airport,40.0,OYSY 121200Z
-VEKO,,40.0,VEKO 121200Z
-TIR  VOTP,Tirupati Airport,39.0,VOTP 121130Z
-OHS  OOSH,Sohar Airport,39.0,OOSH 121150Z
-XJD  OTBH,Al Udeid Air Base,39.0,OTBH 121155Z
-BAH  OBBI,Bahrain International Airport,39.0,OBBI 121200Z
-DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 121200Z
-DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 121200Z
-SHW  OESH,Sharurah Airport,39.0,OESH 121200Z
-AUH  OMAA,Abu Dhabi International Airport,39.0,OMAA 121200Z
+MSC  KFFZ,Falcon Field,35.0,KFFZ
+DLF  KDLF,DLF Airport,35.0,KDLF 130055Z
+LUF  KLUF,Luke Air Force Base,35.0,KLUF 130055Z
+GAKD,,35.0,GAKD 130100Z
+KT89,,35.0,KT89 130115Z
+LOV  MMMV,Monclova International Airport,34.0,MMMV 130040Z
+KCHD,Chandler Municipal Airport,34.0,KCHD 130047Z
+GYR  KGYR,Phoenix Goodyear Airport,34.0,KGYR 130047Z
+TRC  MMTC,Francisco Sarabia International Airport,34.0,MMTC 130047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,34.0,KIWA 130053Z
+KGXF,,34.0,KGXF 130055Z
+EED  KEED,Needles Airport,34.0,KEED 130056Z
+BMW  DATM,Bordj Badji Mokhtar Airport,34.0,DATM 130100Z
+OUA  DFFD,Ouagadougou Airport,34.0,DFFD 130100Z
+NIM  DRRN,Diori Hamani International Airport,34.0,DRRN 130100Z
+KPRS,Presidio Lely International Airport,34.0,KPRS 130115Z
+NTR  MMAN,Del Norte International Airport,33.0,MMAN 130040Z
+MTY  MMMY,General Mariano Escobedo International Airport,33.0,MMMY 130040Z
+ZIH  MMZH,Ixtapa Zihuatanejo International Airport,33.0,MMZ
+CVM  MMCV,General Pedro Jose Mendez International Airport,33.0,MMCV 130049Z
+KHS  OOKB,Khasab Air Base,33.0,OOKB 130050Z
+K6R6,,33.0,K6R6 130051Z
+SAD  KSAD,Safford Regional Airport,33.0,KSAD 130051Z
+COT  KCOT,Cotulla-La Salle County Airport,33.0,KCOT 130053Z
+DVT  KDVT,Phoenix Deer Valley Airport,33.0,KDVT 130053Z
+OLF  KOLF,L M Clayton Airport,33.0,KOLF 130053Z
+SCF  KSDL,Scottsdale Airport,33.0,KSDL 130053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,33.0,KTUS 130053Z
+K1MN,,33.0,K1MN 130055Z
+K1NN,,33.0,K1NN 130055Z
+K1ON,,33.0,K1ON 130055Z
+DMA  KDMA,Davis Monthan Air Force Base,33.0,KDMA 130055Z
+LGF  KLGF,Laguna Army Airfield,33.0,KLGF 130055Z
+MIB  KMIB,Minot Air Force Base,33.0,KMIB 130055Z
+PHP  KPHP,Philip Airport,33.0,KPHP 130055Z
+KT70,,33.0,KT70 130055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,33.0,KCGZ
+LRD  KLRD,Laredo International Airport,33.0,KLRD 130056Z
+CXWN,,33.0,CXWN 130100Z
+YPG  CYPG,Southport Airport,33.0,CYPG 130100Z
+YWG  CYWG,Winnipeg / James Armstrong Richardson International Airport,33.0,CYWG 130100Z
+K9Y1,,33.0,K9Y1 130115Z
+KA39,,33.0,KA39 130115Z
+BXK  KBXK,Buckeye Municipal Airport,33.0,KBXK 130115Z
+KGYF,,33.0,KGYF 130115Z
