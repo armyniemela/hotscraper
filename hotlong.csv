@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MTY  MMMY,General Mariano Escobedo International Airport,38.0,MMMY 140040Z
-NLD  MMNL,Quetzalcóatl International Airport,38.0,MMNL 140040Z
-K6R6,,38.0,K6R6 140051Z
-KT70,,38.0,KT70 140055Z
-TRC  MMTC,Francisco Sarabia International Airport,37.0,MMTC 140041Z
-LRD  KLRD,Laredo International Airport,37.0,KLRD 140056Z
-KT89,,37.0,KT89 140115Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,36.0,MMCV 140040Z
-KHDO,South Texas Regional Airport at Hondo,36.0,KHDO 140051Z
-JCT  KJCT,Kimble County Airport,36.0,KJCT 140051Z
-SAT  KSAT,San Antonio International Airport,36.0,KSAT 140051Z
-SSF  KSSF,Stinson Municipal Airport,36.0,KSSF 140053Z
-SKF  KSKF,Lackland Air Force Base,36.0,KSKF 140055Z
-NIM  DRRN,Diori Hamani International Airport,36.0,DRRN 140100Z
-KAQO,Llano Municipal Airport,36.0,KAQO 140115Z
-KCVB,Castroville Municipal Airport,36.0,KCVB 140115Z
-KFTN,,36.0,KFTN 140115Z
-KPRS,Presidio Lely International Airport,36.0,KPRS 140115Z
-PQM  MMPQ,Palenque International Airport,35.0,MMPQ 140041Z
-MCT  OOMS,Muscat International Airport,35.0,OOMS 140050Z
-FST  KFST,Fort Stockton Pecos County Airport,35.0,KFST 140053Z
-MAF  KMAF,Midland International Airport,35.0,KMAF 140053Z
-DYS  KDYS,Dyess Air Force Base,35.0,KDYS 140055Z
-RND  KRND,Randolph Air Force Base,35.0,KRND 140055Z
-BMW  DATM,Bordj Badji Mokhtar Airport,35.0,DATM 140100Z
-K5T9,,35.0,K5T9 140115Z
-CZT  KCZT,Dimmit County Airport,35.0,KCZ
-KE01,,35.0,KE01 140115Z
-KATT,,34.0,KATT 140051Z
-SJT  KSJT,San Angelo Regional Mathis Field,34.0,KSJT 140051Z
-KBMQ,Burnet Municipal Kate Craddock Field,34.0,KBMQ 140053Z
-SLW  MMIO,Plan De Guadalupe International Airport,34.0,MMIO 140053Z
-TUD  GOTT,Tambacounda Airport,34.0,GOTT 140100Z
-BBD  KBBD,Curtis Field,34.0,KBBD 140115Z
-KDZB,Horseshoe Bay Resort Airpark,34.0,KDZ
-MDD  KMDD,Midland Airpark,34.0,KMDD 140115Z
-SWW  KSWW,Avenger Field,34.0,KSWW 140115Z
-UVA  KUVA,Garner Field,34.0,KUVA 140115Z
-ADS  KADS,Addison Airport,33.0,KADS 140050Z
-KBAZ,New Braunfels Municipal Airport,33.0,KBAZ
-ABI  KABI,Abilene Regional Airport,33.0,KABI 140052Z
-AUS  KAUS,Austin Bergstrom International Airport,33.0,KAUS 140053Z
-CNM  KCNM,Cavern City Air Terminal,33.0,KCNM 140053Z
-KODO,Odessa Schlemeyer Field,33.0,KODO 140053Z
-HLR  KHLR,Hood Army Air Field,33.0,KHLR 140055Z
+NDJ  FTTJ,N'Djamena International Airport,43.0,FTTJ 141200Z
+WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 141200Z
+MYP  UTAM,Mary Airport,43.0,UTAM 141200Z
+OHS  OOSH,Sohar Airport,42.0,OOSH 141150Z
+LYP  OPFA,Faisalabad International Airport,42.0,OPFA 141155Z
+DRZF,Diffa Airport,42.0,DRZ
+AEH  FTTC,Abeche Airport,42.0,FTTC 141200Z
+NIX  GANR,Nioro du Sahel Airport,42.0,GANR 141200Z
+TOM  GATB,Timbuktu Airport,42.0,GATB 141200Z
+ABS  HEBL,Abu Simbel Airport,42.0,HEBL 141200Z
+DMM  OEDF,King Fahd International Airport,42.0,OEDF 141200Z
+DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 141200Z
+AKW  OIAG,Aghajari Airport,42.0,OIAG 141200Z
+TCX  OIMT,Tabas Airport,42.0,OIMT 141200Z
+IHR  OIZI,Iran Shahr Airport,42.0,OIZ
+AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 141201Z
+MUX  OPMT,Multan International Airport,42.0,OPMT 141230Z
+BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 141200Z
+MAX  GOSM,Ouro Sogui Airport,41.0,GOSM 141200Z
+ASW  HESN,Aswan International Airport,41.0,HESN 141200Z
+JED  OEJN,King Abdulaziz International Airport,41.0,OEJN 141200Z
+ABD  OIAA,Abadan Airport,41.0,OIAA 141200Z
+MRX  OIAM,Mahshahr Airport,41.0,OIAM 141200Z
+AWZ  OIAW,Ahwaz Airport,41.0,OIAW 141200Z
+PGU  OIBP,Persian Gulf International Airport,41.0,OIBP 141200Z
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 141200Z
+BSR  ORMM,Basrah International Airport,41.0,ORMM 141200Z
+GXF  OYSY,Sayun International Airport,41.0,OYSY 141200Z
+TAZ  UTAT,Daşoguz Airport,41.0,UTAT 141200Z
+NCU  UTNN,Nukus Airport,41.0,UTNN 141200Z
+KHS  OOKB,Khasab Air Base,40.0,OOKB 141150Z
+OKAS,Ali Al Salem Air Base,40.0,OKAS 141155Z
+VVZ  DAAP,Illizi Takhamalt Airport,40.0,DAAP 141200Z
+GAKD,,40.0,GAKD 141200Z
+MZI  GAMB,Mopti Airport,40.0,GAMB 141200Z
+OEKJ,,40.0,OEKJ 141200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 141200Z
+SHW  OESH,Sharurah Airport,40.0,OESH 141200Z
+LVP  OIBV,Lavan Island Airport,40.0,OIBV 141200Z
+AFZ  OIMS,Sabzevar National Airport,40.0,OIMS 141200Z
+LRR  OISL,Lar Airport,40.0,OISL 141200Z
+OKKK,,40.0,OKKK 141200Z
+AXK  OYAT,Ataq Airport,40.0,OYAT 141200Z
+KZO  UAOO,Kzyl-Orda Southwest Airport,40.0,UAOO 141200Z
+UTAE,,40.0,UTAE 141200Z
