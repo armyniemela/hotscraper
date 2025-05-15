@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NDJ  FTTJ,N'Djamena International Airport,43.0,FTTJ 141200Z
-WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 141200Z
-MYP  UTAM,Mary Airport,43.0,UTAM 141200Z
-OHS  OOSH,Sohar Airport,42.0,OOSH 141150Z
-LYP  OPFA,Faisalabad International Airport,42.0,OPFA 141155Z
-DRZF,Diffa Airport,42.0,DRZ
-AEH  FTTC,Abeche Airport,42.0,FTTC 141200Z
-NIX  GANR,Nioro du Sahel Airport,42.0,GANR 141200Z
-TOM  GATB,Timbuktu Airport,42.0,GATB 141200Z
-ABS  HEBL,Abu Simbel Airport,42.0,HEBL 141200Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 141200Z
-DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 141200Z
-AKW  OIAG,Aghajari Airport,42.0,OIAG 141200Z
-TCX  OIMT,Tabas Airport,42.0,OIMT 141200Z
-IHR  OIZI,Iran Shahr Airport,42.0,OIZ
-AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 141201Z
-MUX  OPMT,Multan International Airport,42.0,OPMT 141230Z
-BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 141200Z
-MAX  GOSM,Ouro Sogui Airport,41.0,GOSM 141200Z
-ASW  HESN,Aswan International Airport,41.0,HESN 141200Z
-JED  OEJN,King Abdulaziz International Airport,41.0,OEJN 141200Z
-ABD  OIAA,Abadan Airport,41.0,OIAA 141200Z
-MRX  OIAM,Mahshahr Airport,41.0,OIAM 141200Z
-AWZ  OIAW,Ahwaz Airport,41.0,OIAW 141200Z
-PGU  OIBP,Persian Gulf International Airport,41.0,OIBP 141200Z
-AAN  OMAL,Al Ain International Airport,41.0,OMAL 141200Z
-BSR  ORMM,Basrah International Airport,41.0,ORMM 141200Z
-GXF  OYSY,Sayun International Airport,41.0,OYSY 141200Z
-TAZ  UTAT,Daşoguz Airport,41.0,UTAT 141200Z
-NCU  UTNN,Nukus Airport,41.0,UTNN 141200Z
-KHS  OOKB,Khasab Air Base,40.0,OOKB 141150Z
-OKAS,Ali Al Salem Air Base,40.0,OKAS 141155Z
-VVZ  DAAP,Illizi Takhamalt Airport,40.0,DAAP 141200Z
-GAKD,,40.0,GAKD 141200Z
-MZI  GAMB,Mopti Airport,40.0,GAMB 141200Z
-OEKJ,,40.0,OEKJ 141200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 141200Z
-SHW  OESH,Sharurah Airport,40.0,OESH 141200Z
-LVP  OIBV,Lavan Island Airport,40.0,OIBV 141200Z
-AFZ  OIMS,Sabzevar National Airport,40.0,OIMS 141200Z
-LRR  OISL,Lar Airport,40.0,OISL 141200Z
-OKKK,,40.0,OKKK 141200Z
-AXK  OYAT,Ataq Airport,40.0,OYAT 141200Z
-KZO  UAOO,Kzyl-Orda Southwest Airport,40.0,UAOO 141200Z
-UTAE,,40.0,UTAE 141200Z
+GAKD,,38.0,GAKD 150100Z
+NLD  MMNL,Quetzalcóatl International Airport,37.0,MMNL 150040Z
+KHS  OOKB,Khasab Air Base,37.0,OOKB 150050Z
+K6R6,,37.0,K6R6 150051Z
+COT  KCOT,Cotulla-La Salle County Airport,37.0,KCOT 150053Z
+K5T9,,37.0,K5T9 150115Z
+CZT  KCZT,Dimmit County Airport,37.0,KCZ
+KT89,,37.0,KT89 150115Z
+KHDO,South Texas Regional Airport at Hondo,36.0,KHDO 150051Z
+KFTN,,36.0,KFTN 150115Z
+PQM  MMPQ,Palenque International Airport,35.0,MMPQ 150040Z
+MCT  OOMS,Muscat International Airport,35.0,OOMS 150050Z
+JCT  KJCT,Kimble County Airport,35.0,KJCT 150051Z
+SAT  KSAT,San Antonio International Airport,35.0,KSAT 150051Z
+FST  KFST,Fort Stockton Pecos County Airport,35.0,KFST 150053Z
+SSF  KSSF,Stinson Municipal Airport,35.0,KSSF 150053Z
+OEMN,,35.0,OEMN 150100Z
+KAQO,Llano Municipal Airport,35.0,KAQO 150115Z
+KCVB,Castroville Municipal Airport,35.0,KCVB 150115Z
+UVA  KUVA,Garner Field,35.0,KUVA 150115Z
+TGZ  MMTG,Angel Albino Corzo International Airport,34.0,MMTG 150043Z
+SLW  MMIO,Plan De Guadalupe International Airport,34.0,MMIO 150049Z
+OHS  OOSH,Sohar Airport,34.0,OOSH 150050Z
+KBMQ,Burnet Municipal Kate Craddock Field,34.0,KBMQ 150053Z
+RND  KRND,Randolph Air Force Base,34.0,KRND 150055Z
+KDZB,Horseshoe Bay Resort Airpark,34.0,KDZ
+KE01,,34.0,KE01 150115Z
+KPRS,Presidio Lely International Airport,34.0,KPRS 150115Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,33.0,MMMD 150044Z
+LAP  MMLP,Manuel Márquez de León International Airport,33.0,MMLP 150045Z
+KATT,,33.0,KATT 150051Z
+AUS  KAUS,Austin Bergstrom International Airport,33.0,KAUS 150053Z
+KODO,Odessa Schlemeyer Field,33.0,KODO 150053Z
+KQD3,,33.0,KQD3 150055Z
+TUD  GOTT,Tambacounda Airport,33.0,GOTT 150100Z
+MAF  KMAF,Midland International Airport,33.0,KMAF 150108Z
+HCA  KBPG,Big Spring Mc Mahon-Wrinkle Airport,33.0,KBPG 150115Z
+MDD  KMDD,Midland Airpark,33.0,KMDD 150115Z
+OZA  KOZA,Ozona Municipal Airport,33.0,KOZ
+SNK  KSNK,Winston Field,33.0,KSNK 150115Z
+KSOA,Sonora Municipal Airport,33.0,KSOA 150115Z
+CUU  MMCU,General Roberto Fierro Villalobos International Airport,32.0,MMCU 150040Z
+GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,32.0,MMGL 150040Z
+SLP  MMSP,Ponciano Arriaga International Airport,32.0,MMSP 150041Z
+VSA  MMVA,Carlos Rovirosa Pérez International Airport,32.0,MMVA 150043Z
