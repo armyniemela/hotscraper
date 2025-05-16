@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MTY  MMMY,General Mariano Escobedo International Airport,37.0,MMMY 160040Z
-PDS  MMPG,Piedras Negras International Airport,37.0,MMPG 160040Z
-COT  KCOT,Cotulla-La Salle County Airport,37.0,KCOT 160053Z
-KT70,,37.0,KT70 160055Z
-LRD  KLRD,Laredo International Airport,37.0,KLRD 160056Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,36.0,MMCV 160040Z
-TRC  MMTC,Francisco Sarabia International Airport,36.0,MMTC 160040Z
-CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,36.0,MMCP 160042Z
-GAKD,,36.0,GAKD 160100Z
-FJR  OMFJ,Fujairah International Airport,36.0,OMFJ 160100Z
-KFTN,,36.0,KFTN 160115Z
-PQM  MMPQ,Palenque International Airport,35.0,MMPQ 160041Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,35.0,MMMD 160042Z
-K6R6,,35.0,K6R6 160051Z
-SSF  KSSF,Stinson Municipal Airport,35.0,KSSF 160053Z
-SKF  KSKF,Lackland Air Force Base,35.0,KSKF 160055Z
-K5T9,,35.0,K5T9 160115Z
-CZT  KCZT,Dimmit County Airport,35.0,KCZ
-KT89,,35.0,KT89 160115Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,34.0,MMHO 160040Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,34.0,MMVA 160043Z
-CVJ  MMCB,General Mariano Matamoros Airport,34.0,MMCB 160049Z
-KHDO,South Texas Regional Airport at Hondo,34.0,KHDO 160051Z
-SAT  KSAT,San Antonio International Airport,34.0,KSAT 160051Z
-RND  KRND,Randolph Air Force Base,34.0,KRND 160055Z
-TUD  GOTT,Tambacounda Airport,34.0,GOTT 160100Z
-KCVB,Castroville Municipal Airport,34.0,KCVB 160115Z
-KPRS,Presidio Lely International Airport,34.0,KPRS 160115Z
-GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,33.0,MMGL 160046Z
-SLW  MMIO,Plan De Guadalupe International Airport,33.0,MMIO 160050Z
-PSP  KPSP,Palm Springs International Airport,33.0,KPSP 160053Z
-EED  KEED,Needles Airport,33.0,KEED 160056Z
-NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 160100Z
-TNN  RCNN,Tainan Airport,33.0,RCNN 160100Z
-TSA  RCSS,Taipei Songshan Airport,33.0,RCSS 160100Z
-MNL  RPLL,Ninoy Aquino International Airport,33.0,RPLL 160100Z
-KBV  VTSG,Krabi Airport,33.0,VTSG 160100Z
-KPEZ,Pleasanton Municipal Airport,33.0,KPEZ
-AGU  MMAS,Jesús Terán Paredo International Airport,32.0,MMAS 160041Z
-QRO  MMQT,Querétaro Intercontinental Airport,32.0,MMQT 160042Z
-IFP  KIFP,Laughlin Bullhead International Airport,32.0,KIFP 160047Z
-BJX  MMLO,Del Bajío International Airport,32.0,MMLO 160047Z
-MCT  OOMS,Muscat International Airport,32.0,OOMS 160050Z
-OHS  OOSH,Sohar Airport,32.0,OOSH 160050Z
-KATT,,32.0,KATT 160051Z
+OOAD,,43.0,OOAD 161150Z
+KHS  OOKB,Khasab Air Base,43.0,OOKB 161150Z
+LYP  OPFA,Faisalabad International Airport,43.0,OPFA 161155Z
+MUX  OPMT,Multan International Airport,43.0,OPMT 161200Z
+UTAE,,43.0,UTAE 161200Z
+OHS  OOSH,Sohar Airport,42.0,OOSH 161150Z
+LHE  OPLA,Alama Iqbal International Airport,42.0,OPLA 161155Z
+AAN  OMAL,Al Ain International Airport,42.0,OMAL 161200Z
+KZO  UAOO,Kzyl-Orda Southwest Airport,42.0,UAOO 161200Z
+TMJ  UTST,Termez Airport,42.0,UTST 161200Z
+MCT  OOMS,Muscat International Airport,41.0,OOMS 161150Z
+MFQ  DRRM,Maradi Airport,41.0,DRRM 161200Z
+AJY  DRZA,Mano Dayak International Airport,41.0,DRZ
+NDJ  FTTJ,N'Djamena International Airport,41.0,FTTJ 161200Z
+GAQ  GAGO,Gao Airport,41.0,GAGO 161200Z
+NIX  GANR,Nioro du Sahel Airport,41.0,GANR 161200Z
+HOF  OEAH,Al Ahsa Airport,41.0,OEAH 161200Z
+WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 161200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,41.0,OEYN 161200Z
+AKW  OIAG,Aghajari Airport,41.0,OIAG 161200Z
+KNR  OIBJ,Jam Airport,41.0,OIBJ 161200Z
+TCX  OIMT,Tabas Airport,41.0,OIMT 161200Z
+LRR  OISL,Lar Airport,41.0,OISL 161200Z
+PEW  OPPS,Peshawar International Airport,41.0,OPPS 161200Z
+UAIT,,41.0,UAIT 161200Z
+CRZ  UTAV,Turkmenabat Airport,41.0,UTAV 161200Z
+NVI  UTSA,Navoi Airport,41.0,UTSA 161200Z
+ATQ  VIAR,Sri Guru Ram Dass Jee International Airport,41.0,VIAR 161200Z
+JAI  VIJP,Jaipur International Airport,41.0,VIJP 161200Z
+OODQ,,40.0,OODQ 161150Z
+XJD  OTBH,Al Udeid Air Base,40.0,OTBH 161155Z
+MAX  GOSM,Ouro Sogui Airport,40.0,GOSM 161200Z
+HESW,,40.0,HESW 161200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 161200Z
+OERS,,40.0,OERS 161200Z
+MRX  OIAM,Mahshahr Airport,40.0,OIAM 161200Z
+AWZ  OIAW,Ahwaz Airport,40.0,OIAW 161200Z
+ZBR  OIZC,Konarak Airport,40.0,OIZ
+ZAH  OIZH,Zahedan International Airport,40.0,OIZ
+DIA  OTBD,Doha International Airport,40.0,OTBD 161200Z
+KQT  UTDT,Qurghonteppa International Airport,40.0,UTDT 161200Z
+BHK  UTSB,Bukhara Airport,40.0,UTSB 161200Z
+UTSK,,40.0,UTSK 161200Z
+VEBU,,40.0,VEBU 161200Z
+GAY  VEGY,Gaya Airport,40.0,VEGY 161200Z
