@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LYP  OPFA,Faisalabad International Airport,43.0,OPFA 151155Z
-XJD  OTBH,Al Udeid Air Base,43.0,OTBH 151155Z
-AJY  DRZA,Mano Dayak International Airport,43.0,DRZ
-GAQ  GAGO,Gao Airport,43.0,GAGO 151200Z
-HOF  OEAH,Al Ahsa Airport,43.0,OEAH 151200Z
-OEMN,,43.0,OEMN 151200Z
-AKW  OIAG,Aghajari Airport,43.0,OIAG 151200Z
-AWZ  OIAW,Ahwaz Airport,43.0,OIAW 151200Z
-IHR  OIZI,Iran Shahr Airport,43.0,OIZ
-LHE  OPLA,Alama Iqbal International Airport,42.0,OPLA 151155Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 151200Z
-OEKJ,,42.0,OEKJ 151200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 151200Z
-WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 151200Z
-ABD  OIAA,Abadan Airport,42.0,OIAA 151200Z
-AAN  OMAL,Al Ain International Airport,42.0,OMAL 151200Z
-PEW  OPPS,Peshawar International Airport,42.0,OPPS 151200Z
-CRZ  UTAV,Turkmenabat Airport,42.0,UTAV 151200Z
-OOAD,,41.0,OOAD 151150Z
-KHS  OOKB,Khasab Air Base,41.0,OOKB 151150Z
-AKH  OEPS,Prince Sultan Air Base,41.0,OEPS 151155Z
-AEH  FTTC,Abeche Airport,41.0,FTTC 151200Z
-DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 151200Z
-RUH  OERK,King Khaled International Airport,41.0,OERK 151200Z
-AFZ  OIMS,Sabzevar National Airport,41.0,OIMS 151200Z
-OKKK,,41.0,OKKK 151200Z
-GXF  OYSY,Sayun International Airport,41.0,OYSY 151200Z
-UTAE,,41.0,UTAE 151200Z
-GAY  VEGY,Gaya Airport,41.0,VEGY 151200Z
-LKO  VILK,Chaudhary Charan Singh International Airport,41.0,VILK 151200Z
-SKT  OPST,Sialkot Airport,41.0,OPST 151230Z
-NIM  DRRN,Diori Hamani International Airport,40.0,DRRN 151200Z
-THZ  DRRT,Tahoua Airport,40.0,DRRT 151200Z
-DRZF,Diffa Airport,40.0,DRZ
-NDJ  FTTJ,N'Djamena International Airport,40.0,FTTJ 151200Z
-MAX  GOSM,Ouro Sogui Airport,40.0,GOSM 151200Z
-DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 151200Z
-SHW  OESH,Sharurah Airport,40.0,OESH 151200Z
-LRR  OISL,Lar Airport,40.0,OISL 151200Z
-ISB  OPIS,Islamabad International Airport,40.0,OPIS 151200Z
-UAIT,,40.0,UAIT 151200Z
-KZO  UAOO,Kzyl-Orda Southwest Airport,40.0,UAOO 151200Z
-NVI  UTSA,Navoi Airport,40.0,UTSA 151200Z
-BHK  UTSB,Bukhara Airport,40.0,UTSB 151200Z
-UTSK,,40.0,UTSK 151200Z
+MTY  MMMY,General Mariano Escobedo International Airport,37.0,MMMY 160040Z
+PDS  MMPG,Piedras Negras International Airport,37.0,MMPG 160040Z
+COT  KCOT,Cotulla-La Salle County Airport,37.0,KCOT 160053Z
+KT70,,37.0,KT70 160055Z
+LRD  KLRD,Laredo International Airport,37.0,KLRD 160056Z
+CVM  MMCV,General Pedro Jose Mendez International Airport,36.0,MMCV 160040Z
+TRC  MMTC,Francisco Sarabia International Airport,36.0,MMTC 160040Z
+CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,36.0,MMCP 160042Z
+GAKD,,36.0,GAKD 160100Z
+FJR  OMFJ,Fujairah International Airport,36.0,OMFJ 160100Z
+KFTN,,36.0,KFTN 160115Z
+PQM  MMPQ,Palenque International Airport,35.0,MMPQ 160041Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,35.0,MMMD 160042Z
+K6R6,,35.0,K6R6 160051Z
+SSF  KSSF,Stinson Municipal Airport,35.0,KSSF 160053Z
+SKF  KSKF,Lackland Air Force Base,35.0,KSKF 160055Z
+K5T9,,35.0,K5T9 160115Z
+CZT  KCZT,Dimmit County Airport,35.0,KCZ
+KT89,,35.0,KT89 160115Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,34.0,MMHO 160040Z
+VSA  MMVA,Carlos Rovirosa Pérez International Airport,34.0,MMVA 160043Z
+CVJ  MMCB,General Mariano Matamoros Airport,34.0,MMCB 160049Z
+KHDO,South Texas Regional Airport at Hondo,34.0,KHDO 160051Z
+SAT  KSAT,San Antonio International Airport,34.0,KSAT 160051Z
+RND  KRND,Randolph Air Force Base,34.0,KRND 160055Z
+TUD  GOTT,Tambacounda Airport,34.0,GOTT 160100Z
+KCVB,Castroville Municipal Airport,34.0,KCVB 160115Z
+KPRS,Presidio Lely International Airport,34.0,KPRS 160115Z
+GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,33.0,MMGL 160046Z
+SLW  MMIO,Plan De Guadalupe International Airport,33.0,MMIO 160050Z
+PSP  KPSP,Palm Springs International Airport,33.0,KPSP 160053Z
+EED  KEED,Needles Airport,33.0,KEED 160056Z
+NIM  DRRN,Diori Hamani International Airport,33.0,DRRN 160100Z
+TNN  RCNN,Tainan Airport,33.0,RCNN 160100Z
+TSA  RCSS,Taipei Songshan Airport,33.0,RCSS 160100Z
+MNL  RPLL,Ninoy Aquino International Airport,33.0,RPLL 160100Z
+KBV  VTSG,Krabi Airport,33.0,VTSG 160100Z
+KPEZ,Pleasanton Municipal Airport,33.0,KPEZ
+AGU  MMAS,Jesús Terán Paredo International Airport,32.0,MMAS 160041Z
+QRO  MMQT,Querétaro Intercontinental Airport,32.0,MMQT 160042Z
+IFP  KIFP,Laughlin Bullhead International Airport,32.0,KIFP 160047Z
+BJX  MMLO,Del Bajío International Airport,32.0,MMLO 160047Z
+MCT  OOMS,Muscat International Airport,32.0,OOMS 160050Z
+OHS  OOSH,Sohar Airport,32.0,OOSH 160050Z
+KATT,,32.0,KATT 160051Z
