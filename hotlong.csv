@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-K5T9,,37.0,K5T9 170115Z
-NLD  MMNL,Quetzalcóatl International Airport,36.0,MMNL 170040Z
-PQM  MMPQ,Palenque International Airport,36.0,MMPQ 170040Z
-TRC  MMTC,Francisco Sarabia International Airport,36.0,MMTC 170041Z
-CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,36.0,MMCP 170042Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,36.0,MMCV 170044Z
-CZT  KCZT,Dimmit County Airport,36.0,KCZ
-KFTN,,36.0,KFTN 170115Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,35.0,MMMD 170040Z
-KHDO,South Texas Regional Airport at Hondo,35.0,KHDO 170051Z
-SKF  KSKF,Lackland Air Force Base,35.0,KSKF 170055Z
-LRD  KLRD,Laredo International Airport,35.0,KLRD 170056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),35.0,KNJK 170056Z
-GAKD,,35.0,GAKD 170100Z
-NTR  MMAN,Del Norte International Airport,34.0,MMAN 170040Z
-BJX  MMLO,Del Bajío International Airport,34.0,MMLO 170043Z
-TGZ  MMTG,Angel Albino Corzo International Airport,34.0,MMTG 170045Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,34.0,MMML 170046Z
-IFP  KIFP,Laughlin Bullhead International Airport,34.0,KIFP 170049Z
-SAT  KSAT,San Antonio International Airport,34.0,KSAT 170051Z
-BLH  KBLH,Blythe Airport,34.0,KBLH 170052Z
-SSF  KSSF,Stinson Municipal Airport,34.0,KSSF 170053Z
-KGXF,,34.0,KGXF 170055Z
-LGF  KLGF,Laguna Army Airfield,34.0,KLGF 170055Z
-EED  KEED,Needles Airport,34.0,KEED 170056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,34.0,KNYL 170057Z
-OERS,,34.0,OERS 170100Z
-FJR  OMFJ,Fujairah International Airport,34.0,OMFJ 170100Z
-KBV  VTSG,Krabi Airport,34.0,VTSG 170100Z
-KCVB,Castroville Municipal Airport,34.0,KCVB 170115Z
-KT89,,34.0,KT89 170115Z
-CUL  MMCL,Bachigualato Federal International Airport,33.0,MMCL 170040Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,33.0,MMHO 170040Z
-MTY  MMMY,General Mariano Escobedo International Airport,33.0,MMMY 170040Z
-AGU  MMAS,Jesús Terán Paredo International Airport,33.0,MMAS 170041Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,33.0,MMVA 170043Z
-KRYN,Ryan Field,33.0,KRYN 170045Z
-CVJ  MMCB,General Mariano Matamoros Airport,33.0,MMCB 170045Z
-KCHD,Chandler Municipal Airport,33.0,KCHD 170047Z
-KGEU,Glendale Municipal Airport,33.0,KGEU 170047Z
-GYR  KGYR,Phoenix Goodyear Airport,33.0,KGYR 170047Z
-K6R6,,33.0,K6R6 170051Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,33.0,KTRM 170052Z
-PSP  KPSP,Palm Springs International Airport,33.0,KPSP 170053Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,33.0,KIWA 170055Z
+OOAD,,44.0,OOAD 171150Z
+KHS  OOKB,Khasab Air Base,44.0,OOKB 171150Z
+LYP  OPFA,Faisalabad International Airport,44.0,OPFA 171155Z
+HESG,,44.0,HESG 171200Z
+ETM  LLER,Ramon Airport,43.0,LLER 171150Z
+OODQ,,43.0,OODQ 171150Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,43.0,OEYN 171200Z
+AKW  OIAG,Aghajari Airport,43.0,OIAG 171200Z
+AQJ  OJAQ,Aqaba King Hussein International Airport,43.0,OJAQ 171200Z
+NIX  GANR,Nioro du Sahel Airport,42.0,GANR 171200Z
+HECP,,42.0,HECP 171200Z
+HEIS,,42.0,HEIS 171200Z
+LXR  HELX,Luxor International Airport,42.0,HELX 171200Z
+SSH  HESH,Sharm El Sheikh International Airport,42.0,HESH 171200Z
+OEMN,,42.0,OEMN 171200Z
+MRX  OIAM,Mahshahr Airport,42.0,OIAM 171200Z
+PEW  OPPS,Peshawar International Airport,42.0,OPPS 171200Z
+LHE  OPLA,Alama Iqbal International Airport,42.0,OPLA 171225Z
+SKT  OPST,Sialkot Airport,42.0,OPST 171230Z
+HFA  LLHA,Haifa International Airport,41.0,LLHA 171150Z
+AAC  HEAR,El Arish International Airport,41.0,HEAR 171200Z
+ABS  HEBL,Abu Simbel Airport,41.0,HEBL 171200Z
+OEAO,,41.0,OEAO 171200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 171200Z
+ABD  OIAA,Abadan Airport,41.0,OIAA 171200Z
+LRR  OISL,Lar Airport,41.0,OISL 171200Z
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 171200Z
+ATQ  VIAR,Sri Guru Ram Dass Jee International Airport,41.0,VIAR 171200Z
+TLV  LLBG,Ben Gurion International Airport,41.0,LLBG 171220Z
+GAKD,,40.0,GAKD 171200Z
+MZI  GAMB,Mopti Airport,40.0,GAMB 171200Z
+HRG  HEGN,Hurghada International Airport,40.0,HEGN 171200Z
+KNR  OIBJ,Jam Airport,40.0,OIBJ 171200Z
+ACZ  OIZB,Zabol Airport,40.0,OIZ
+BSR  ORMM,Basrah International Airport,40.0,ORMM 171200Z
+CAI  HECA,Cairo International Airport,40.0,HECA 171230Z
+VAGD,,39.0,VAGD 171130Z
+RPN  LLIB,Ben Ya'akov Airport,39.0,LLIB 171150Z
+OHS  OOSH,Sohar Airport,39.0,OOSH 171150Z
+TUU  OETB,Tabuk Airport,39.0,OETB 171200Z
+OKKK,,39.0,OKKK 171200Z
+ISB  OPIS,Islamabad International Airport,39.0,OPIS 171200Z
+NJF  ORNI,Al Najaf International Airport,39.0,ORNI 171200Z
+KQTZ,,38.0,KQTZ
+AKH  OEPS,Prince Sultan Air Base,38.0,OEPS 171155Z

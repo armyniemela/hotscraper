@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PDS  MMPG,Piedras Negras International Airport,39.0,MMPG 170051Z
-DLF  KDLF,DLF Airport,38.0,KDLF 170055Z
-COT  KCOT,Cotulla-La Salle County Airport,37.0,KCOT 170053Z
-DRT  KDRT,Del Rio International Airport,37.0,KDRT 170053Z
-KT70,,37.0,KT70 170055Z
+OERS,,47.0,OERS 171200Z
+ASW  HESN,Aswan International Airport,46.0,HESN 171200Z
+IHR  OIZI,Iran Shahr Airport,46.0,OIZ
+ATZ  HEAT,Asyut International Airport,45.0,HEAT 171200Z
+MUX  OPMT,Multan International Airport,45.0,OPMT 171200Z
