@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-CUL  MMCL,Bachigualato Federal International Airport,35.0,MMCL 180042Z
-LAP  MMLP,Manuel Márquez de León International Airport,35.0,MMLP 180042Z
-OHS  OOSH,Sohar Airport,35.0,OOSH 180050Z
-K6R6,,35.0,K6R6 180051Z
-COT  KCOT,Cotulla-La Salle County Airport,35.0,KCOT 180053Z
-KBV  VTSG,Krabi Airport,35.0,VTSG 180100Z
-KFTN,,35.0,KFTN 180115Z
-KT89,,35.0,KT89 180115Z
-LMM  MMLM,Valle del Fuerte International Airport,34.0,MMLM 180040Z
-NLD  MMNL,Quetzalcóatl International Airport,34.0,MMNL 180040Z
-AGU  MMAS,Jesús Terán Paredo International Airport,34.0,MMAS 180041Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,34.0,MMVA 180041Z
-KHDO,South Texas Regional Airport at Hondo,34.0,KHDO 180051Z
-DRT  KDRT,Del Rio International Airport,34.0,KDRT 180053Z
-MAF  KMAF,Midland International Airport,34.0,KMAF 180053Z
-DLF  KDLF,DLF Airport,34.0,KDLF 180055Z
-GAKD,,34.0,GAKD 180100Z
-OEMN,,34.0,OEMN 180100Z
-KE01,,34.0,KE01 180115Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,34.0,MMCV 180140Z
-MTY  MMMY,General Mariano Escobedo International Airport,33.0,MMMY 180040Z
-BJX  MMLO,Del Bajío International Airport,33.0,MMLO 180042Z
-FST  KFST,Fort Stockton Pecos County Airport,33.0,KFST 180053Z
-SKF  KSKF,Lackland Air Force Base,33.0,KSKF 180055Z
-KT70,,33.0,KT70 180055Z
-LRD  KLRD,Laredo International Airport,33.0,KLRD 180056Z
-FJR  OMFJ,Fujairah International Airport,33.0,OMFJ 180100Z
-SFS  RPLB,Subic Bay International Airport,33.0,RPLB 180100Z
-MNL  RPLL,Ninoy Aquino International Airport,33.0,RPLL 180100Z
-K5T9,,33.0,K5T9 180115Z
-TNN  RCNN,Tainan Airport,33.0,RCNN 180130Z
-TSA  RCSS,Taipei Songshan Airport,33.0,RCSS 180130Z
-KCVB,Castroville Municipal Airport,33.0,KCVB 180135Z
-CZT  KCZT,Dimmit County Airport,33.0,KCZ
-KDZB,Horseshoe Bay Resort Airpark,33.0,KDZ
-KPRS,Presidio Lely International Airport,33.0,KPRS 180135Z
-NTR  MMAN,Del Norte International Airport,32.0,MMAN 180040Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,32.0,MMHO 180040Z
-CUU  MMCU,General Roberto Fierro Villalobos International Airport,32.0,MMCU 180044Z
-GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,32.0,MMGL 180046Z
-KCHD,Chandler Municipal Airport,32.0,KCHD 180047Z
-KGEU,Glendale Municipal Airport,32.0,KGEU 180047Z
-GYR  KGYR,Phoenix Goodyear Airport,32.0,KGYR 180047Z
-CVJ  MMCB,General Mariano Matamoros Airport,32.0,MMCB 180047Z
-MCT  OOMS,Muscat International Airport,32.0,OOMS 180050Z
+OOAD,,45.0,OOAD 181150Z
+ABD  OIAA,Abadan Airport,45.0,OIAA 181200Z
+LFM  OISR,Lamerd Airport,45.0,OISR 181200Z
+OODQ,,44.0,OODQ 181150Z
+OKKK,,44.0,OKKK 181200Z
+BSR  ORMM,Basrah International Airport,44.0,ORMM 181200Z
+NJF  ORNI,Al Najaf International Airport,44.0,ORNI 181200Z
+OKAS,Ali Al Salem Air Base,43.0,OKAS 181155Z
+OEAR,,43.0,OEAR 181200Z
+KQTZ,,42.0,KQTZ
+AJY  DRZA,Mano Dayak International Airport,42.0,DRZ
+DRZF,Diffa Airport,42.0,DRZ
+HOF  OEAH,Al Ahsa Airport,42.0,OEAH 181200Z
+OEMN,,42.0,OEMN 181200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 181200Z
+GCH  OIAH,Gachsaran Airport,42.0,OIAH 181200Z
+LRR  OISL,Lar Airport,42.0,OISL 181200Z
+MUX  OPMT,Multan International Airport,42.0,OPMT 181200Z
+BGW  ORBI,Baghdad International Airport,42.0,ORBI 181200Z
+VEKO,,42.0,VEKO 181200Z
+ATQ  VIAR,Sri Guru Ram Dass Jee International Airport,42.0,VIAR 181200Z
+JAI  VIJP,Jaipur International Airport,42.0,VIJP 181200Z
+LHE  OPLA,Alama Iqbal International Airport,42.0,OPLA 181225Z
+SKT  OPST,Sialkot Airport,42.0,OPST 181230Z
+XJD  OTBH,Al Udeid Air Base,41.0,OTBH 181155Z
+AEH  FTTC,Abeche Airport,41.0,FTTC 181200Z
+NDJ  FTTJ,N'Djamena International Airport,41.0,FTTJ 181200Z
+OEAO,,41.0,OEAO 181200Z
+DMM  OEDF,King Fahd International Airport,41.0,OEDF 181200Z
+URY  OEGT,Gurayat Domestic Airport,41.0,OEGT 181200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 181200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 181200Z
+RAE  OERR,Arar Domestic Airport,41.0,OERR 181200Z
+TUU  OETB,Tabuk Airport,41.0,OETB 181200Z
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 181200Z
+ZND  DRZR,Zinder Airport,40.0,DRZ
+DHA  OEDR,King Abdulaziz Air Base,40.0,OEDR 181200Z
+RAH  OERF,Rafha Domestic Airport,40.0,OERF 181200Z
+AJF  OESK,Al-Jawf Domestic Airport,40.0,OESK 181200Z
+WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 181200Z
+AQJ  OJAQ,Aqaba King Hussein International Airport,40.0,OJAQ 181200Z
+ISB  OPIS,Islamabad International Airport,40.0,OPIS 181200Z
+KIK  ORKK,Kirkuk Air Base,40.0,ORKK 181200Z
+DEL  VIDP,Indira Gandhi International Airport,40.0,VIDP 181200Z
+ETM  LLER,Ramon Airport,39.0,LLER 181150Z
