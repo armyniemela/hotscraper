@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OOAD,,45.0,OOAD 181150Z
-ABD  OIAA,Abadan Airport,45.0,OIAA 181200Z
-LFM  OISR,Lamerd Airport,45.0,OISR 181200Z
-OODQ,,44.0,OODQ 181150Z
-OKKK,,44.0,OKKK 181200Z
-BSR  ORMM,Basrah International Airport,44.0,ORMM 181200Z
-NJF  ORNI,Al Najaf International Airport,44.0,ORNI 181200Z
-OKAS,Ali Al Salem Air Base,43.0,OKAS 181155Z
-OEAR,,43.0,OEAR 181200Z
-KQTZ,,42.0,KQTZ
-AJY  DRZA,Mano Dayak International Airport,42.0,DRZ
-DRZF,Diffa Airport,42.0,DRZ
-HOF  OEAH,Al Ahsa Airport,42.0,OEAH 181200Z
-OEMN,,42.0,OEMN 181200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 181200Z
-GCH  OIAH,Gachsaran Airport,42.0,OIAH 181200Z
-LRR  OISL,Lar Airport,42.0,OISL 181200Z
-MUX  OPMT,Multan International Airport,42.0,OPMT 181200Z
-BGW  ORBI,Baghdad International Airport,42.0,ORBI 181200Z
-VEKO,,42.0,VEKO 181200Z
-ATQ  VIAR,Sri Guru Ram Dass Jee International Airport,42.0,VIAR 181200Z
-JAI  VIJP,Jaipur International Airport,42.0,VIJP 181200Z
-LHE  OPLA,Alama Iqbal International Airport,42.0,OPLA 181225Z
-SKT  OPST,Sialkot Airport,42.0,OPST 181230Z
-XJD  OTBH,Al Udeid Air Base,41.0,OTBH 181155Z
-AEH  FTTC,Abeche Airport,41.0,FTTC 181200Z
-NDJ  FTTJ,N'Djamena International Airport,41.0,FTTJ 181200Z
-OEAO,,41.0,OEAO 181200Z
-DMM  OEDF,King Fahd International Airport,41.0,OEDF 181200Z
-URY  OEGT,Gurayat Domestic Airport,41.0,OEGT 181200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 181200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 181200Z
-RAE  OERR,Arar Domestic Airport,41.0,OERR 181200Z
-TUU  OETB,Tabuk Airport,41.0,OETB 181200Z
-AAN  OMAL,Al Ain International Airport,41.0,OMAL 181200Z
-ZND  DRZR,Zinder Airport,40.0,DRZ
-DHA  OEDR,King Abdulaziz Air Base,40.0,OEDR 181200Z
-RAH  OERF,Rafha Domestic Airport,40.0,OERF 181200Z
-AJF  OESK,Al-Jawf Domestic Airport,40.0,OESK 181200Z
-WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 181200Z
-AQJ  OJAQ,Aqaba King Hussein International Airport,40.0,OJAQ 181200Z
-ISB  OPIS,Islamabad International Airport,40.0,OPIS 181200Z
-KIK  ORKK,Kirkuk Air Base,40.0,ORKK 181200Z
-DEL  VIDP,Indira Gandhi International Airport,40.0,VIDP 181200Z
-ETM  LLER,Ramon Airport,39.0,LLER 181150Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,35.0,MMMD 190040Z
+COT  KCOT,Cotulla-La Salle County Airport,35.0,KCOT 190053Z
+FST  KFST,Fort Stockton Pecos County Airport,35.0,KFST 190053Z
+MAF  KMAF,Midland International Airport,35.0,KMAF 190053Z
+KE01,,35.0,KE01 190115Z
+NLD  MMNL,Quetzalcóatl International Airport,34.0,MMNL 190040Z
+TGZ  MMTG,Angel Albino Corzo International Airport,34.0,MMTG 190041Z
+VSA  MMVA,Carlos Rovirosa Pérez International Airport,34.0,MMVA 190043Z
+DRT  KDRT,Del Rio International Airport,34.0,KDRT 190053Z
+DLF  KDLF,DLF Airport,34.0,KDLF 190055Z
+KT70,,34.0,KT70 190055Z
+K5T9,,34.0,K5T9 190115Z
+HCA  KBPG,Big Spring Mc Mahon-Wrinkle Airport,34.0,KBPG 190115Z
+KFTN,,34.0,KFTN 190115Z
+KPRS,Presidio Lely International Airport,34.0,KPRS 190135Z
+CVJ  MMCB,General Mariano Matamoros Airport,33.0,MMCB 190040Z
+CUU  MMCU,General Roberto Fierro Villalobos International Airport,33.0,MMCU 190043Z
+KODO,Odessa Schlemeyer Field,33.0,KODO 190053Z
+LYP  OPFA,Faisalabad International Airport,33.0,OPFA 190055Z
+LRD  KLRD,Laredo International Airport,33.0,KLRD 190056Z
+BMW  DATM,Bordj Badji Mokhtar Airport,33.0,DATM 190100Z
+NDJ  FTTJ,N'Djamena International Airport,33.0,FTTJ 190100Z
+MNL  RPLL,Ninoy Aquino International Airport,33.0,RPLL 190100Z
+KBV  VTSG,Krabi Airport,33.0,VTSG 190100Z
+CZT  KCZT,Dimmit County Airport,33.0,KCZ
+MDD  KMDD,Midland Airpark,33.0,KMDD 190115Z
+KT89,,33.0,KT89 190115Z
+TNN  RCNN,Tainan Airport,33.0,RCNN 190130Z
+JAI  VIJP,Jaipur International Airport,33.0,VIJP 190130Z
+CVM  MMCV,General Pedro Jose Mendez International Airport,33.0,MMCV 190140Z
+NTR  MMAN,Del Norte International Airport,32.0,MMAN 190040Z
+AGU  MMAS,Jesús Terán Paredo International Airport,32.0,MMAS 190040Z
+CUL  MMCL,Bachigualato Federal International Airport,32.0,MMCL 190040Z
+GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,32.0,MMGL 190040Z
+BJX  MMLO,Del Bajío International Airport,32.0,MMLO 190041Z
+MTT  MMMT,Minatitlán/Coatzacoalcos National Airport,32.0,MMMT 190045Z
+PAZ  MMPA,El Tajín National Airport,32.0,MMPA 190046Z
+KHDO,South Texas Regional Airport at Hondo,32.0,KHDO 190051Z
+JCT  KJCT,Kimble County Airport,32.0,KJCT 190051Z
+SJT  KSJT,San Angelo Regional Mathis Field,32.0,KSJT 190051Z
+LBB  KLBB,Lubbock Preston Smith International Airport,32.0,KLBB 190053Z
+ORL  KORL,Orlando Executive Airport,32.0,KORL 190053Z
+NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 190100Z
+MCR  MGMM,Melchor de Mencos Airport,32.0,MGMM 190100Z
+MHX  NCMH,Manihiki Island Airport,32.0,NCMH 190100Z
