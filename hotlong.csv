@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,35.0,MMMD 190040Z
-COT  KCOT,Cotulla-La Salle County Airport,35.0,KCOT 190053Z
-FST  KFST,Fort Stockton Pecos County Airport,35.0,KFST 190053Z
-MAF  KMAF,Midland International Airport,35.0,KMAF 190053Z
-KE01,,35.0,KE01 190115Z
-NLD  MMNL,Quetzalcóatl International Airport,34.0,MMNL 190040Z
-TGZ  MMTG,Angel Albino Corzo International Airport,34.0,MMTG 190041Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,34.0,MMVA 190043Z
-DRT  KDRT,Del Rio International Airport,34.0,KDRT 190053Z
-DLF  KDLF,DLF Airport,34.0,KDLF 190055Z
-KT70,,34.0,KT70 190055Z
-K5T9,,34.0,K5T9 190115Z
-HCA  KBPG,Big Spring Mc Mahon-Wrinkle Airport,34.0,KBPG 190115Z
-KFTN,,34.0,KFTN 190115Z
-KPRS,Presidio Lely International Airport,34.0,KPRS 190135Z
-CVJ  MMCB,General Mariano Matamoros Airport,33.0,MMCB 190040Z
-CUU  MMCU,General Roberto Fierro Villalobos International Airport,33.0,MMCU 190043Z
-KODO,Odessa Schlemeyer Field,33.0,KODO 190053Z
-LYP  OPFA,Faisalabad International Airport,33.0,OPFA 190055Z
-LRD  KLRD,Laredo International Airport,33.0,KLRD 190056Z
-BMW  DATM,Bordj Badji Mokhtar Airport,33.0,DATM 190100Z
-NDJ  FTTJ,N'Djamena International Airport,33.0,FTTJ 190100Z
-MNL  RPLL,Ninoy Aquino International Airport,33.0,RPLL 190100Z
-KBV  VTSG,Krabi Airport,33.0,VTSG 190100Z
-CZT  KCZT,Dimmit County Airport,33.0,KCZ
-MDD  KMDD,Midland Airpark,33.0,KMDD 190115Z
-KT89,,33.0,KT89 190115Z
-TNN  RCNN,Tainan Airport,33.0,RCNN 190130Z
-JAI  VIJP,Jaipur International Airport,33.0,VIJP 190130Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,33.0,MMCV 190140Z
-NTR  MMAN,Del Norte International Airport,32.0,MMAN 190040Z
-AGU  MMAS,Jesús Terán Paredo International Airport,32.0,MMAS 190040Z
-CUL  MMCL,Bachigualato Federal International Airport,32.0,MMCL 190040Z
-GDL  MMGL,Don Miguel Hidalgo Y Costilla International Airport,32.0,MMGL 190040Z
-BJX  MMLO,Del Bajío International Airport,32.0,MMLO 190041Z
-MTT  MMMT,Minatitlán/Coatzacoalcos National Airport,32.0,MMMT 190045Z
-PAZ  MMPA,El Tajín National Airport,32.0,MMPA 190046Z
-KHDO,South Texas Regional Airport at Hondo,32.0,KHDO 190051Z
-JCT  KJCT,Kimble County Airport,32.0,KJCT 190051Z
-SJT  KSJT,San Angelo Regional Mathis Field,32.0,KSJT 190051Z
-LBB  KLBB,Lubbock Preston Smith International Airport,32.0,KLBB 190053Z
-ORL  KORL,Orlando Executive Airport,32.0,KORL 190053Z
-NIM  DRRN,Diori Hamani International Airport,32.0,DRRN 190100Z
-MCR  MGMM,Melchor de Mencos Airport,32.0,MGMM 190100Z
-MHX  NCMH,Manihiki Island Airport,32.0,NCMH 190100Z
+OKAS,Ali Al Salem Air Base,46.0,OKAS 191155Z
+OEAR,,46.0,OEAR 191200Z
+OKKK,,46.0,OKKK 191200Z
+ASW  HESN,Aswan International Airport,45.0,HESN 191200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 191200Z
+OICM,,45.0,OICM 191200Z
+AAN  OMAL,Al Ain International Airport,45.0,OMAL 191200Z
+AJY  DRZA,Mano Dayak International Airport,44.0,DRZ
+LXR  HELX,Luxor International Airport,44.0,HELX 191200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 191200Z
+MRX  OIAM,Mahshahr Airport,44.0,OIAM 191200Z
+KNR  OIBJ,Jam Airport,44.0,OIBJ 191200Z
+LRR  OISL,Lar Airport,44.0,OISL 191200Z
+IHR  OIZI,Iran Shahr Airport,44.0,OIZ
+NJF  ORNI,Al Najaf International Airport,44.0,ORNI 191200Z
+VEKO,,44.0,VEKO 191200Z
+OOAD,,43.0,OOAD 191150Z
+XJD  OTBH,Al Udeid Air Base,43.0,OTBH 191155Z
+HOF  OEAH,Al Ahsa Airport,43.0,OEAH 191200Z
+DMM  OEDF,King Fahd International Airport,43.0,OEDF 191200Z
+OEMN,,43.0,OEMN 191200Z
+RAH  OERF,Rafha Domestic Airport,43.0,OERF 191200Z
+OERS,,43.0,OERS 191200Z
+GCH  OIAH,Gachsaran Airport,43.0,OIAH 191200Z
+KQTZ,,42.0,KQTZ
+AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 191155Z
+ABS  HEBL,Abu Simbel Airport,42.0,HEBL 191200Z
+ELQ  OEGS,Gassim Airport,42.0,OEGS 191200Z
+OEKJ,,42.0,OEKJ 191200Z
+RUH  OERK,King Khaled International Airport,42.0,OERK 191200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 191200Z
+BGW  ORBI,Baghdad International Airport,42.0,ORBI 191200Z
+LYP  OPFA,Faisalabad International Airport,41.0,OPFA 191155Z
+BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 191200Z
+NDJ  FTTJ,N'Djamena International Airport,41.0,FTTJ 191200Z
+OEAO,,41.0,OEAO 191200Z
+DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 191200Z
+AJF  OESK,Al-Jawf Domestic Airport,41.0,OESK 191200Z
+ACZ  OIZB,Zabol Airport,41.0,OIZ
+PEW  OPPS,Peshawar International Airport,41.0,OPPS 191200Z
+SKT  OPST,Sialkot Airport,41.0,OPST 191230Z
+AEH  FTTC,Abeche Airport,40.0,FTTC 191200Z
+NIX  GANR,Nioro du Sahel Airport,40.0,GANR 191200Z
+TOM  GATB,Timbuktu Airport,40.0,GATB 191200Z
+RAE  OERR,Arar Domestic Airport,40.0,OERR 191200Z
