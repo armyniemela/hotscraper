@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OKAS,Ali Al Salem Air Base,46.0,OKAS 191155Z
-OEAR,,46.0,OEAR 191200Z
-OKKK,,46.0,OKKK 191200Z
-ASW  HESN,Aswan International Airport,45.0,HESN 191200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 191200Z
-OICM,,45.0,OICM 191200Z
-AAN  OMAL,Al Ain International Airport,45.0,OMAL 191200Z
-AJY  DRZA,Mano Dayak International Airport,44.0,DRZ
-LXR  HELX,Luxor International Airport,44.0,HELX 191200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 191200Z
-MRX  OIAM,Mahshahr Airport,44.0,OIAM 191200Z
-KNR  OIBJ,Jam Airport,44.0,OIBJ 191200Z
-LRR  OISL,Lar Airport,44.0,OISL 191200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-NJF  ORNI,Al Najaf International Airport,44.0,ORNI 191200Z
-VEKO,,44.0,VEKO 191200Z
-OOAD,,43.0,OOAD 191150Z
-XJD  OTBH,Al Udeid Air Base,43.0,OTBH 191155Z
-HOF  OEAH,Al Ahsa Airport,43.0,OEAH 191200Z
-DMM  OEDF,King Fahd International Airport,43.0,OEDF 191200Z
-OEMN,,43.0,OEMN 191200Z
-RAH  OERF,Rafha Domestic Airport,43.0,OERF 191200Z
-OERS,,43.0,OERS 191200Z
-GCH  OIAH,Gachsaran Airport,43.0,OIAH 191200Z
-KQTZ,,42.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 191155Z
-ABS  HEBL,Abu Simbel Airport,42.0,HEBL 191200Z
-ELQ  OEGS,Gassim Airport,42.0,OEGS 191200Z
-OEKJ,,42.0,OEKJ 191200Z
-RUH  OERK,King Khaled International Airport,42.0,OERK 191200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 191200Z
-BGW  ORBI,Baghdad International Airport,42.0,ORBI 191200Z
-LYP  OPFA,Faisalabad International Airport,41.0,OPFA 191155Z
-BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 191200Z
-NDJ  FTTJ,N'Djamena International Airport,41.0,FTTJ 191200Z
-OEAO,,41.0,OEAO 191200Z
-DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 191200Z
-AJF  OESK,Al-Jawf Domestic Airport,41.0,OESK 191200Z
-ACZ  OIZB,Zabol Airport,41.0,OIZ
-PEW  OPPS,Peshawar International Airport,41.0,OPPS 191200Z
-SKT  OPST,Sialkot Airport,41.0,OPST 191230Z
-AEH  FTTC,Abeche Airport,40.0,FTTC 191200Z
-NIX  GANR,Nioro du Sahel Airport,40.0,GANR 191200Z
-TOM  GATB,Timbuktu Airport,40.0,GATB 191200Z
-RAE  OERR,Arar Domestic Airport,40.0,OERR 191200Z
+LRD  KLRD,Laredo International Airport,38.0,KLRD 200056Z
+PQM  MMPQ,Palenque International Airport,37.0,MMPQ 200040Z
+TRC  MMTC,Francisco Sarabia International Airport,37.0,MMTC 200043Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,37.0,KTRM 200052Z
+KFTN,,37.0,KFTN 200115Z
+COT  KCOT,Cotulla-La Salle County Airport,36.0,KCOT 200053Z
+DRT  KDRT,Del Rio International Airport,36.0,KDRT 200053Z
+PSP  KPSP,Palm Springs International Airport,36.0,KPSP 200053Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,36.0,KNYL 200057Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,35.0,MMMD 200040Z
+K6R6,,35.0,K6R6 200051Z
+BLH  KBLH,Blythe Airport,35.0,KBLH 200052Z
+DLF  KDLF,DLF Airport,35.0,KDLF 200055Z
+LGF  KLGF,Laguna Army Airfield,35.0,KLGF 200055Z
+KT70,,35.0,KT70 200055Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,35.0,MMML 200055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),35.0,KNJK 200056Z
+KNOZ,,35.0,KNOZ
+OKKK,,35.0,OKKK 200100Z
+K5T9,,35.0,K5T9 200115Z
+CZT  KCZT,Dimmit County Airport,35.0,KCZ
+MTT  MMMT,Minatitlán/Coatzacoalcos National Airport,34.0,MMMT 200040Z
+CVJ  MMCB,General Mariano Matamoros Airport,34.0,MMCB 200041Z
+VSA  MMVA,Carlos Rovirosa Pérez International Airport,34.0,MMVA 200041Z
+GYR  KGYR,Phoenix Goodyear Airport,34.0,KGYR 200047Z
+KHDO,South Texas Regional Airport at Hondo,34.0,KHDO 200051Z
+SLW  MMIO,Plan De Guadalupe International Airport,34.0,MMIO 200051Z
+NIM  DRRN,Diori Hamani International Airport,34.0,DRRN 200100Z
+AWZ  OIAW,Ahwaz Airport,34.0,OIAW 200100Z
+KL08,,34.0,KL08 200115Z
+KT89,,34.0,KT89 200115Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,33.0,MMHO 200040Z
+SLP  MMSP,Ponciano Arriaga International Airport,33.0,MMSP 200045Z
+IFP  KIFP,Laughlin Bullhead International Airport,33.0,KIFP 200047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,33.0,KPHX 200051Z
+KGXF,,33.0,KGXF 200055Z
+LUF  KLUF,Luke Air Force Base,33.0,KLUF 200055Z
+EED  KEED,Needles Airport,33.0,KEED 200056Z
+BMW  DATM,Bordj Badji Mokhtar Airport,33.0,DATM 200100Z
+MCR  MGMM,Melchor de Mencos Airport,33.0,MGMM 200100Z
+HOF  OEAH,Al Ahsa Airport,33.0,OEAH 200100Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,33.0,OEMA 200100Z
+LAO  RPLI,Laoag International Airport,33.0,RPLI 200100Z
+BXK  KBXK,Buckeye Municipal Airport,33.0,KBXK 200115Z
+HII  KHII,Lake Havasu City Airport,33.0,KHII 200115Z
