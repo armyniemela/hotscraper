@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-COT  KCOT,Cotulla-La Salle County Airport,37.0,KCOT 210053Z
-PSP  KPSP,Palm Springs International Airport,37.0,KPSP 210053Z
-LGF  KLGF,Laguna Army Airfield,37.0,KLGF 210055Z
-EED  KEED,Needles Airport,37.0,KEED 210056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),37.0,KNJK 210056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,37.0,KNYL 210057Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,36.0,MMHO 210040Z
-NLD  MMNL,Quetzalcóatl International Airport,36.0,MMNL 210040Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,36.0,MMMD 210045Z
-KGEU,Glendale Municipal Airport,36.0,KGEU 210047Z
-DOH  OTHH,Hamad International Airport,36.0,OTHH 210100Z
-HII  KHII,Lake Havasu City Airport,36.0,KHII 210115Z
-IFP  KIFP,Laughlin Bullhead International Airport,36.0,KIFP 210115Z
-KL08,,36.0,KL08 210115Z
-KAPY,Zapata County Airport,35.0,KAPY 210030Z
-TRC  MMTC,Francisco Sarabia International Airport,35.0,MMTC 210041Z
-KCHD,Chandler Municipal Airport,35.0,KCHD 210047Z
-GYR  KGYR,Phoenix Goodyear Airport,35.0,KGYR 210047Z
-DAG  KDAG,Barstow Daggett Airport,35.0,KDAG 210050Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,35.0,KPHX 210051Z
-SCF  KSDL,Scottsdale Airport,35.0,KSDL 210053Z
-SSF  KSSF,Stinson Municipal Airport,35.0,KSSF 210053Z
-KGXF,,35.0,KGXF 210055Z
-LUF  KLUF,Luke Air Force Base,35.0,KLUF 210055Z
-SKF  KSKF,Lackland Air Force Base,35.0,KSKF 210055Z
-KT70,,35.0,KT70 210055Z
-LRD  KLRD,Laredo International Airport,35.0,KLRD 210056Z
-ABD  OIAA,Abadan Airport,35.0,OIAA 210100Z
-OKKK,,35.0,OKKK 210100Z
-BXK  KBXK,Buckeye Municipal Airport,35.0,KBXK 210115Z
-VSA  MMVA,Carlos Rovirosa Pérez International Airport,34.0,MMVA 210040Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,34.0,KIWA 210050Z
-KHDO,South Texas Regional Airport at Hondo,34.0,KHDO 210051Z
-DRT  KDRT,Del Rio International Airport,34.0,KDRT 210053Z
-DVT  KDVT,Phoenix Deer Valley Airport,34.0,KDVT 210053Z
-MSC  KFFZ,Falcon Field,34.0,KFFZ
-DLF  KDLF,DLF Airport,34.0,KDLF 210055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,34.0,KCGZ
-TUD  GOTT,Tambacounda Airport,34.0,GOTT 210100Z
-BYS  KBYS,Bicycle Lake Army Air Field,34.0,KBYS 210100Z
-MCR  MGMM,Melchor de Mencos Airport,34.0,MGMM 210100Z
-DHA  OEDR,King Abdulaziz Air Base,34.0,OEDR 210100Z
-KBV  VTSG,Krabi Airport,34.0,VTSG 210100Z
-CGO  ZHCC,Zhengzhou Xinzheng International Airport,34.0,Z
-KP08,,34.0,KP08 210110Z
+BSR  ORMM,Basrah International Airport,48.0,ORMM 211200Z
+OKAS,Ali Al Salem Air Base,47.0,OKAS 211155Z
+XJD  OTBH,Al Udeid Air Base,47.0,OTBH 211155Z
+HOF  OEAH,Al Ahsa Airport,47.0,OEAH 211200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 211200Z
+IHR  OIZI,Iran Shahr Airport,46.0,OIZ
+AAN  OMAL,Al Ain International Airport,46.0,OMAL 211200Z
+MUX  OPMT,Multan International Airport,46.0,OPMT 211200Z
+DMM  OEDF,King Fahd International Airport,45.0,OEDF 211200Z
+DHA  OEDR,King Abdulaziz Air Base,45.0,OEDR 211200Z
+RAH  OERF,Rafha Domestic Airport,45.0,OERF 211200Z
+ACZ  OIZB,Zabol Airport,45.0,OIZ
+NJF  ORNI,Al Najaf International Airport,45.0,ORNI 211200Z
+OOAD,,44.0,OOAD 211150Z
+LYP  OPFA,Faisalabad International Airport,44.0,OPFA 211155Z
+ELQ  OEGS,Gassim Airport,44.0,OEGS 211200Z
+OEKJ,,44.0,OEKJ 211200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 211200Z
+RUH  OERK,King Khaled International Airport,44.0,OERK 211200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 211200Z
+LRR  OISL,Lar Airport,44.0,OISL 211200Z
+PEW  OPPS,Peshawar International Airport,44.0,OPPS 211200Z
+ATQ  VIAR,Sri Guru Ram Dass Jee International Airport,43.0,VIAR 211130Z
+MAX  GOSM,Ouro Sogui Airport,43.0,GOSM 211200Z
+OEAO,,43.0,OEAO 211200Z
+RAE  OERR,Arar Domestic Airport,43.0,OERR 211200Z
+SHW  OESH,Sharurah Airport,43.0,OESH 211200Z
+GCH  OIAH,Gachsaran Airport,43.0,OIAH 211200Z
+BGW  ORBI,Baghdad International Airport,43.0,ORBI 211200Z
+GXF  OYSY,Sayun International Airport,43.0,OYSY 211200Z
+JAI  VIJP,Jaipur International Airport,43.0,VIJP 211200Z
+LHE  OPLA,Alama Iqbal International Airport,43.0,OPLA 211230Z
+INZ  DAUI,In Salah Airport,42.0,DAUI 211200Z
+NIX  GANR,Nioro du Sahel Airport,42.0,GANR 211200Z
+GOOG,,42.0,GOOG 211200Z
+POD  GOSP,Podor Airport,42.0,GOSP 211200Z
+OEAR,,42.0,OEAR 211200Z
+SKT  OPST,Sialkot Airport,42.0,OPST 211200Z
+ELG  DAUE,El Golea Airport,41.0,DAUE 211200Z
+HME  DAUH,Oued Irara Airport,41.0,DAUH 211200Z
+AJY  DRZA,Mano Dayak International Airport,41.0,DRZ
+GAKD,,41.0,GAKD 211200Z
+DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 211200Z
+OEMN,,41.0,OEMN 211200Z
+KNR  OIBJ,Jam Airport,41.0,OIBJ 211200Z
