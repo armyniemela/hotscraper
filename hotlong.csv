@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LGF  KLGF,Laguna Army Airfield,39.0,KLGF 220055Z
-EED  KEED,Needles Airport,39.0,KEED 220056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),39.0,KNJK 220056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,39.0,KNYL 220057Z
-HII  KHII,Lake Havasu City Airport,39.0,KHII 220115Z
-KGEU,Glendale Municipal Airport,38.0,KGEU 220047Z
-GYR  KGYR,Phoenix Goodyear Airport,38.0,KGYR 220047Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,38.0,KTRM 220052Z
-KL08,,38.0,KL08 220115Z
-KCHD,Chandler Municipal Airport,37.0,KCHD 220047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,37.0,KIWA 220049Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,37.0,KPHX 220051Z
-LUF  KLUF,Luke Air Force Base,37.0,KLUF 220055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,37.0,KCGZ
-KA39,,37.0,KA39 220115Z
-BXK  KBXK,Buckeye Municipal Airport,37.0,KBXK 220115Z
-PQM  MMPQ,Palenque International Airport,36.0,MMPQ 220043Z
-KRYN,Ryan Field,36.0,KRYN 220045Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,36.0,MMMD 220045Z
-DAG  KDAG,Barstow Daggett Airport,36.0,KDAG 220050Z
-DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 220053Z
-SCF  KSDL,Scottsdale Airport,36.0,KSDL 220053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,36.0,KTUS 220053Z
-MSC  KFFZ,Falcon Field,36.0,KFFZ
-DMA  KDMA,Davis Monthan Air Force Base,36.0,KDMA 220055Z
-LSV  KLSV,Nellis Air Force Base,36.0,KLSV 220055Z
-LAS  KLAS,McCarran International Airport,36.0,KLAS 220056Z
-AWZ  OIAW,Ahwaz Airport,36.0,OIAW 220100Z
-AVW  KAVQ,Marana Regional Airport,36.0,KAVQ 220115Z
-MZJ  KMZJ,Pinal Airpark,36.0,KMZ
-KP08,,36.0,KP08 220115Z
-KT89,,36.0,KT89 220115Z
-SAD  KSAD,Safford Regional Airport,35.0,KSAD 220051Z
-COT  KCOT,Cotulla-La Salle County Airport,35.0,KCOT 220053Z
-DRT  KDRT,Del Rio International Airport,35.0,KDRT 220053Z
-VGT  KVGT,North Las Vegas Airport,35.0,KVGT 220053Z
-KNXP,Twentynine Palms (Self) Airport,35.0,KNXP 220054Z
-BYS  KBYS,Bicycle Lake Army Air Field,35.0,KBYS 220055Z
-DLF  KDLF,DLF Airport,35.0,KDLF 220055Z
-KT70,,35.0,KT70 220055Z
-HSH  KHND,Henderson Executive Airport,35.0,KHND 220056Z
-BAH  OBBI,Bahrain International Airport,35.0,OBBI 220100Z
-KNID,China Lake Naws (Armitage Field) Airport,35.0,KNID 220107Z
-K5T9,,35.0,K5T9 220110Z
-KBVU,,35.0,KBVU 220115Z
+KGXF,,40.0,KGXF 230102Z
+KCHD,Chandler Municipal Airport,39.0,KCHD 230047Z
+GYR  KGYR,Phoenix Goodyear Airport,39.0,KGYR 230047Z
+KGEU,Glendale Municipal Airport,39.0,KGEU 230048Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,39.0,KIWA 230048Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,39.0,KPHX 230051Z
+LUF  KLUF,Luke Air Force Base,39.0,KLUF 230055Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,39.0,KNYL 230112Z
+HII  KHII,Lake Havasu City Airport,39.0,KHII 230115Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,38.0,MMHO 230040Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,38.0,KTRM 230052Z
+PSP  KPSP,Palm Springs International Airport,38.0,KPSP 230053Z
+MSC  KFFZ,Falcon Field,38.0,KFFZ
+CGZ  KCGZ,Casa Grande Municipal Airport,38.0,KCGZ
+KA39,,38.0,KA39 230115Z
+AVW  KAVQ,Marana Regional Airport,38.0,KAVQ 230115Z
+MZJ  KMZJ,Pinal Airpark,38.0,KMZ
+KP08,,38.0,KP08 230115Z
+KPRS,Presidio Lely International Airport,38.0,KPRS 230115Z
+KT89,,38.0,KT89 230115Z
+SAD  KSAD,Safford Regional Airport,37.0,KSAD 230051Z
+DVT  KDVT,Phoenix Deer Valley Airport,37.0,KDVT 230053Z
+SCF  KSDL,Scottsdale Airport,37.0,KSDL 230053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,37.0,KTUS 230053Z
+DMA  KDMA,Davis Monthan Air Force Base,37.0,KDMA 230055Z
+LSV  KLSV,Nellis Air Force Base,37.0,KLSV 230055Z
+CJS  MMCS,Abraham González International Airport,36.0,MMCS 230041Z
+PQM  MMPQ,Palenque International Airport,36.0,MMPQ 230042Z
+TRC  MMTC,Francisco Sarabia International Airport,36.0,MMTC 230042Z
+DAG  KDAG,Barstow Daggett Airport,36.0,KDAG 230050Z
+ELP  KELP,El Paso International Airport,36.0,KELP 230051Z
+ROW  KROW,Roswell Air Center Airport,36.0,KROW 230051Z
+CNM  KCNM,Cavern City Air Terminal,36.0,KCNM 230053Z
+VGT  KVGT,North Las Vegas Airport,36.0,KVGT 230053Z
+KT70,,36.0,KT70 230055Z
+OKKK,,36.0,OKKK 230100Z
+K5T9,,36.0,K5T9 230115Z
+ATS  KATS,Artesia Municipal Airport,36.0,KATS 230115Z
+KBVU,,36.0,KBVU 230115Z
+BXK  KBXK,Buckeye Municipal Airport,36.0,KBXK 230115Z
+KFTN,,36.0,KFTN 230115Z
+KL08,,36.0,KL08 230115Z
+CUU  MMCU,General Roberto Fierro Villalobos International Airport,35.0,MMCU 230040Z
+NLD  MMNL,Quetzalcóatl International Airport,35.0,MMNL 230040Z
+PDS  MMPG,Piedras Negras International Airport,35.0,MMPG 230040Z
