@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AWZ  OIAW,Ahwaz Airport,48.0,OIAW 241200Z
-OKKK,,48.0,OKKK 241200Z
-OKAS,Ali Al Salem Air Base,46.0,OKAS 241155Z
-XJD  OTBH,Al Udeid Air Base,46.0,OTBH 241155Z
-DHA  OEDR,King Abdulaziz Air Base,46.0,OEDR 241200Z
-MRX  OIAM,Mahshahr Airport,46.0,OIAM 241200Z
-IHR  OIZI,Iran Shahr Airport,46.0,OIZ
-BSR  ORMM,Basrah International Airport,46.0,ORMM 241200Z
-RUH  OERK,King Khaled International Airport,45.0,OERK 241200Z
-WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 241200Z
-AUH  OMAA,Abu Dhabi International Airport,45.0,OMAA 241200Z
-OOAD,,44.0,OOAD 241150Z
-KQTZ,,44.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 241155Z
-OEAR,,44.0,OEAR 241200Z
-OEKJ,,44.0,OEKJ 241200Z
-SHW  OESH,Sharurah Airport,44.0,OESH 241200Z
-LRR  OISL,Lar Airport,44.0,OISL 241200Z
-DWC  OMDW,Al Maktoum International Airport,44.0,OMDW 241200Z
-BGW  ORBI,Baghdad International Airport,44.0,ORBI 241200Z
-NJF  ORNI,Al Najaf International Airport,44.0,ORNI 241200Z
-AJY  DRZA,Mano Dayak International Airport,43.0,DRZ
-NDJ  FTTJ,N'Djamena International Airport,43.0,FTTJ 241200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 241200Z
-LVP  OIBV,Lavan Island Airport,43.0,OIBV 241200Z
-AZI  OMAD,Bateen Airport,43.0,OMAD 241200Z
-MUX  OPMT,Multan International Airport,43.0,OPMT 241200Z
-GXF  OYSY,Sayun International Airport,43.0,OYSY 241200Z
-OEMN,,42.0,OEMN 241200Z
-GCH  OIAH,Gachsaran Airport,42.0,OIAH 241200Z
-KNR  OIBJ,Jam Airport,42.0,OIBJ 241200Z
-ACZ  OIZB,Zabol Airport,42.0,OIZ
-DXB  OMDB,Dubai International Airport,42.0,OMDB 241200Z
-RKT  OMRK,Ras Al Khaimah International Airport,42.0,OMRK 241200Z
-KIK  ORKK,Kirkuk Air Base,42.0,ORKK 241200Z
-ZND  DRZR,Zinder Airport,41.0,DRZ
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 241200Z
-DIA  OTBD,Doha International Airport,41.0,OTBD 241200Z
-DOH  OTHH,Hamad International Airport,41.0,OTHH 241200Z
-UDR  VAUD,Maharana Pratap Airport,41.0,VAUD 241200Z
-VAHS,,41.0,VAHS 241203Z
-SHJ  OMSJ,Sharjah International Airport,41.0,OMSJ 241230Z
-DJG  DAAJ,Djanet Inedbirene Airport,40.0,DAAJ 241200Z
-BAH  OBBI,Bahrain International Airport,40.0,OBBI 241200Z
-BHH  OEBH,Bisha Airport,40.0,OEBH 241200Z
+CUU  MMCU,General Roberto Fierro Villalobos International Airport,36.0,MMCU 250043Z
+GYR  KGYR,Phoenix Goodyear Airport,36.0,KGYR 250047Z
+BLH  KBLH,Blythe Airport,36.0,KBLH 250052Z
+DRT  KDRT,Del Rio International Airport,36.0,KDRT 250053Z
+LBB  KLBB,Lubbock Preston Smith International Airport,36.0,KLBB 250053Z
+DLF  KDLF,DLF Airport,36.0,KDLF 250055Z
+KGXF,,36.0,KGXF 250055Z
+LGF  KLGF,Laguna Army Airfield,36.0,KLGF 250055Z
+KT70,,36.0,KT70 250055Z
+EED  KEED,Needles Airport,36.0,KEED 250056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,36.0,KNYL 250057Z
+K5T9,,36.0,K5T9 250115Z
+KFTN,,36.0,KFTN 250115Z
+KT89,,36.0,KT89 250115Z
+CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,35.0,MMCP 250042Z
+KCHD,Chandler Municipal Airport,35.0,KCHD 250047Z
+KGEU,Glendale Municipal Airport,35.0,KGEU 250050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,35.0,KPHX 250051Z
+ROW  KROW,Roswell Air Center Airport,35.0,KROW 250051Z
+SJT  KSJT,San Angelo Regional Mathis Field,35.0,KSJT 250051Z
+CNM  KCNM,Cavern City Air Terminal,35.0,KCNM 250053Z
+MAF  KMAF,Midland International Airport,35.0,KMAF 250053Z
+SCF  KSDL,Scottsdale Airport,35.0,KSDL 250053Z
+LUF  KLUF,Luke Air Force Base,35.0,KLUF 250055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,35.0,KCGZ
+LRD  KLRD,Laredo International Airport,35.0,KLRD 250056Z
+KA39,,35.0,KA39 250135Z
+CZT  KCZT,Dimmit County Airport,35.0,KCZ
+HII  KHII,Lake Havasu City Airport,35.0,KHII 250135Z
+SNK  KSNK,Winston Field,35.0,KSNK 250135Z
+CEN  MMCN,Ciudad Obregón International Airport,34.0,MMCN 250040Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,34.0,MMMD 250040Z
+MTY  MMMY,General Mariano Escobedo International Airport,34.0,MMMY 250040Z
+PQM  MMPQ,Palenque International Airport,34.0,MMPQ 250040Z
+CUL  MMCL,Bachigualato Federal International Airport,34.0,MMCL 250041Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,34.0,KIWA 250050Z
+KHDO,South Texas Regional Airport at Hondo,34.0,KHDO 250051Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,34.0,MMML 250052Z
+CDS  KCDS,Childress Municipal Airport,34.0,KCDS 250053Z
+MSC  KFFZ,Falcon Field,34.0,KFFZ
+DYS  KDYS,Dyess Air Force Base,34.0,KDYS 250055Z
+DJG  DAAJ,Djanet Inedbirene Airport,34.0,DAAJ 250100Z
+GAKD,,34.0,GAKD 250100Z
+OKKK,,34.0,OKKK 250100Z
+KP08,,34.0,KP08 250115Z
