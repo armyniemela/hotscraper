@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OEAR,,45.0,OEAR 251200Z
-WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 251200Z
-AKW  OIAG,Aghajari Airport,45.0,OIAG 251200Z
-OKKK,,45.0,OKKK 251200Z
-OOAD,,44.0,OOAD 251150Z
-AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 251155Z
-DHA  OEDR,King Abdulaziz Air Base,44.0,OEDR 251200Z
-OEKJ,,44.0,OEKJ 251200Z
-SHW  OESH,Sharurah Airport,44.0,OESH 251200Z
-MRX  OIAM,Mahshahr Airport,44.0,OIAM 251200Z
-GXF  OYSY,Sayun International Airport,44.0,OYSY 251200Z
-OKAS,Ali Al Salem Air Base,44.0,OKAS 251223Z
-DMM  OEDF,King Fahd International Airport,43.0,OEDF 251200Z
-OEMN,,43.0,OEMN 251200Z
-RUH  OERK,King Khaled International Airport,43.0,OERK 251200Z
-ABD  OIAA,Abadan Airport,43.0,OIAA 251200Z
-AWZ  OIAW,Ahwaz Airport,43.0,OIAW 251200Z
-KNR  OIBJ,Jam Airport,43.0,OIBJ 251200Z
-LRR  OISL,Lar Airport,43.0,OISL 251200Z
-ACZ  OIZB,Zabol Airport,43.0,OIZ
-AUH  OMAA,Abu Dhabi International Airport,43.0,OMAA 251200Z
-BSR  ORMM,Basrah International Airport,43.0,ORMM 251200Z
-AJY  DRZA,Mano Dayak International Airport,42.0,DRZ
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 251200Z
-DIA  OTBD,Doha International Airport,42.0,OTBD 251200Z
-AZI  OMAD,Bateen Airport,42.0,OMAD 251230Z
-KQTZ,,41.0,KQTZ
-NDJ  FTTJ,N'Djamena International Airport,41.0,FTTJ 251200Z
-NIX  GANR,Nioro du Sahel Airport,41.0,GANR 251200Z
-ELQ  OEGS,Gassim Airport,41.0,OEGS 251200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 251200Z
-EAM  OENG,Nejran Airport,41.0,OENG 251200Z
-TCX  OIMT,Tabas Airport,41.0,OIMT 251200Z
-RKT  OMRK,Ras Al Khaimah International Airport,41.0,OMRK 251200Z
-KIK  ORKK,Kirkuk Air Base,41.0,ORKK 251200Z
-DWC  OMDW,Al Maktoum International Airport,41.0,OMDW 251230Z
-ZND  DRZR,Zinder Airport,40.0,DRZ
-BHH  OEBH,Bisha Airport,40.0,OEBH 251200Z
-OERS,,40.0,OERS 251200Z
-PGU  OIBP,Persian Gulf International Airport,40.0,OIBP 251200Z
-BGW  ORBI,Baghdad International Airport,40.0,ORBI 251200Z
-DOH  OTHH,Hamad International Airport,40.0,OTHH 251200Z
-AXK  OYAT,Ataq Airport,40.0,OYAT 251200Z
-DXB  OMDB,Dubai International Airport,40.0,OMDB 251230Z
-SHJ  OMSJ,Sharjah International Airport,40.0,OMSJ 251230Z
+CEN  MMCN,Ciudad Obregón International Airport,36.0,MMCN 260040Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,36.0,MMHO 260040Z
+BLH  KBLH,Blythe Airport,36.0,KBLH 260052Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,36.0,KTRM 260052Z
+DRT  KDRT,Del Rio International Airport,36.0,KDRT 260053Z
+FST  KFST,Fort Stockton Pecos County Airport,36.0,KFST 260053Z
+MAF  KMAF,Midland International Airport,36.0,KMAF 260053Z
+DLF  KDLF,DLF Airport,36.0,KDLF 260055Z
+KGXF,,36.0,KGXF 260055Z
+KT70,,36.0,KT70 260055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),36.0,KNJK 260056Z
+K5T9,,36.0,K5T9 260115Z
+HII  KHII,Lake Havasu City Airport,36.0,KHII 260135Z
+KPRS,Presidio Lely International Airport,36.0,KPRS 260135Z
+MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,35.0,MMMD 260040Z
+NLD  MMNL,Quetzalcóatl International Airport,35.0,MMNL 260040Z
+PDS  MMPG,Piedras Negras International Airport,35.0,MMPG 260040Z
+PQM  MMPQ,Palenque International Airport,35.0,MMPQ 260040Z
+KGEU,Glendale Municipal Airport,35.0,KGEU 260047Z
+GYR  KGYR,Phoenix Goodyear Airport,35.0,KGYR 260047Z
+DAG  KDAG,Barstow Daggett Airport,35.0,KDAG 260050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,35.0,KPHX 260051Z
+CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,35.0,MMCP 260051Z
+LOV  MMMV,Monclova International Airport,35.0,MMMV 260053Z
+LUF  KLUF,Luke Air Force Base,35.0,KLUF 260055Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,35.0,KNYL 260057Z
+KFTN,,35.0,KFTN 260115Z
+LSV  KLSV,Nellis Air Force Base,35.0,KLSV 260129Z
+DIA  OTBD,Doha International Airport,35.0,OTBD 260130Z
+TRC  MMTC,Francisco Sarabia International Airport,34.0,MMTC 260040Z
+LMM  MMLM,Valle del Fuerte International Airport,34.0,MMLM 260041Z
+CUU  MMCU,General Roberto Fierro Villalobos International Airport,34.0,MMCU 260043Z
+MMSL,Cabo San Lucas International Airport,34.0,MMSL 260048Z
+KODO,Odessa Schlemeyer Field,34.0,KODO 260053Z
+PSP  KPSP,Palm Springs International Airport,34.0,KPSP 260053Z
+VGT  KVGT,North Las Vegas Airport,34.0,KVGT 260053Z
+LRD  KLRD,Laredo International Airport,34.0,KLRD 260056Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,34.0,KIWA 260059Z
+NIM  DRRN,Diori Hamani International Airport,34.0,DRRN 260100Z
+TUD  GOTT,Tambacounda Airport,34.0,GOTT 260100Z
+KP08,,34.0,KP08 260110Z
+KA39,,34.0,KA39 260135Z
+AVW  KAVQ,Marana Regional Airport,34.0,KAVQ 260135Z
+BXK  KBXK,Buckeye Municipal Airport,34.0,KBXK 260135Z
+CZT  KCZT,Dimmit County Airport,34.0,KCZ
