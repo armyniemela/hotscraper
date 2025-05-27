@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KGXF,,37.0,KGXF 270055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),37.0,KNJK 270056Z
-HII  KHII,Lake Havasu City Airport,37.0,KHII 270115Z
-PQM  MMPQ,Palenque International Airport,36.0,MMPQ 270040Z
-KCHD,Chandler Municipal Airport,36.0,KCHD 270047Z
-GYR  KGYR,Phoenix Goodyear Airport,36.0,KGYR 270047Z
-KGEU,Glendale Municipal Airport,36.0,KGEU 270050Z
-K6R6,,36.0,K6R6 270051Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,36.0,KPHX 270051Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,36.0,KTRM 270052Z
-DRT  KDRT,Del Rio International Airport,36.0,KDRT 270053Z
-DLF  KDLF,DLF Airport,36.0,KDLF 270055Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 270055Z
-LUF  KLUF,Luke Air Force Base,36.0,KLUF 270055Z
-LRD  KLRD,Laredo International Airport,36.0,KLRD 270056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,36.0,KNYL 270057Z
-FJR  OMFJ,Fujairah International Airport,36.0,OMFJ 270100Z
-K5T9,,36.0,K5T9 270115Z
-KA39,,36.0,KA39 270115Z
-KT89,,36.0,KT89 270115Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,35.0,MMML 270040Z
-TRC  MMTC,Francisco Sarabia International Airport,35.0,MMTC 270040Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,35.0,MMMD 270042Z
-SCF  KSDL,Scottsdale Airport,35.0,KSDL 270053Z
-MSC  KFFZ,Falcon Field,35.0,KFFZ
-LSV  KLSV,Nellis Air Force Base,35.0,KLSV 270055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,35.0,KCGZ
-AVW  KAVQ,Marana Regional Airport,35.0,KAVQ 270115Z
-BXK  KBXK,Buckeye Municipal Airport,35.0,KBXK 270115Z
-CZT  KCZT,Dimmit County Airport,35.0,KCZ
-MZJ  KMZJ,Pinal Airpark,35.0,KMZ
-KP08,,35.0,KP08 270115Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,34.0,MMHO 270040Z
-KRYN,Ryan Field,34.0,KRYN 270045Z
-LAP  MMLP,Manuel Márquez de León International Airport,34.0,MMLP 270045Z
-CUL  MMCL,Bachigualato Federal International Airport,34.0,MMCL 270049Z
-COT  KCOT,Cotulla-La Salle County Airport,34.0,KCOT 270053Z
-DVT  KDVT,Phoenix Deer Valley Airport,34.0,KDVT 270053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,34.0,KTUS 270053Z
-VGT  KVGT,North Las Vegas Airport,34.0,KVGT 270053Z
-DMA  KDMA,Davis Monthan Air Force Base,34.0,KDMA 270055Z
-KT70,,34.0,KT70 270055Z
-LAS  KLAS,McCarran International Airport,34.0,KLAS 270056Z
-NIM  DRRN,Diori Hamani International Airport,34.0,DRRN 270100Z
-TUD  GOTT,Tambacounda Airport,34.0,GOTT 270100Z
+OKKK,,45.0,OKKK 271200Z
+NJF  ORNI,Al Najaf International Airport,45.0,ORNI 271200Z
+OKAS,Ali Al Salem Air Base,45.0,OKAS 271213Z
+XJD  OTBH,Al Udeid Air Base,44.0,OTBH 271155Z
+NIX  GANR,Nioro du Sahel Airport,44.0,GANR 271200Z
+HOF  OEAH,Al Ahsa Airport,44.0,OEAH 271200Z
+DMM  OEDF,King Fahd International Airport,44.0,OEDF 271200Z
+DHA  OEDR,King Abdulaziz Air Base,44.0,OEDR 271200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 271200Z
+MRX  OIAM,Mahshahr Airport,44.0,OIAM 271200Z
+LFM  OISR,Lamerd Airport,44.0,OISR 271200Z
+BGW  ORBI,Baghdad International Airport,44.0,ORBI 271200Z
+BSR  ORMM,Basrah International Airport,44.0,ORMM 271200Z
+KQTZ,,43.0,KQTZ
+AKH  OEPS,Prince Sultan Air Base,43.0,OEPS 271155Z
+AJY  DRZA,Mano Dayak International Airport,43.0,DRZ
+POD  GOSP,Podor Airport,43.0,GOSP 271200Z
+EMN  GQNI,Néma Airport,43.0,GQNI 271200Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,43.0,GQNO 271200Z
+ELQ  OEGS,Gassim Airport,43.0,OEGS 271200Z
+OEMN,,43.0,OEMN 271200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 271200Z
+RAH  OERF,Rafha Domestic Airport,43.0,OERF 271200Z
+SHW  OESH,Sharurah Airport,43.0,OESH 271200Z
+MZI  GAMB,Mopti Airport,42.0,GAMB 271200Z
+OEAO,,42.0,OEAO 271200Z
+OEKJ,,42.0,OEKJ 271200Z
+RUH  OERK,King Khaled International Airport,42.0,OERK 271200Z
+RAE  OERR,Arar Domestic Airport,42.0,OERR 271200Z
+IHR  OIZI,Iran Shahr Airport,42.0,OIZ
+KIK  ORKK,Kirkuk Air Base,42.0,ORKK 271200Z
+GXF  OYSY,Sayun International Airport,42.0,OYSY 271200Z
+KHS  OOKB,Khasab Air Base,41.0,OOKB 271150Z
+MAX  GOSM,Ouro Sogui Airport,41.0,GOSM 271200Z
+BHH  OEBH,Bisha Airport,41.0,OEBH 271200Z
+DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 271200Z
+AJF  OESK,Al-Jawf Domestic Airport,41.0,OESK 271200Z
+TUU  OETB,Tabuk Airport,41.0,OETB 271200Z
+WAE  OEWD,Wadi Al Dawasir Airport,41.0,OEWD 271200Z
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 271200Z
+MUX  OPMT,Multan International Airport,41.0,OPMT 271200Z
+OHS  OOSH,Sohar Airport,40.0,OOSH 271150Z
+THZ  DRRT,Tahoua Airport,40.0,DRRT 271200Z
+ATR  GQPA,Atar International Airport,40.0,GQPA 271200Z
+HAS  OEHL,Ha'il Airport,40.0,OEHL 271200Z
