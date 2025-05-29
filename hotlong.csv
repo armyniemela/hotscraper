@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LGF  KLGF,Laguna Army Airfield,37.0,KLGF 290055Z
-LUF  KLUF,Luke Air Force Base,37.0,KLUF 290055Z
-EED  KEED,Needles Airport,37.0,KEED 290056Z
-LSV  KLSV,Nellis Air Force Base,37.0,KLSV 290111Z
-AVW  KAVQ,Marana Regional Airport,37.0,KAVQ 290115Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,36.0,MMHO 290040Z
-PQM  MMPQ,Palenque International Airport,36.0,MMPQ 290040Z
-KGEU,Glendale Municipal Airport,36.0,KGEU 290049Z
-BLH  KBLH,Blythe Airport,36.0,KBLH 290052Z
-SCF  KSDL,Scottsdale Airport,36.0,KSDL 290053Z
-MSC  KFFZ,Falcon Field,36.0,KFFZ
-CGZ  KCGZ,Casa Grande Municipal Airport,36.0,KCGZ
-YUM  KNYL,Yuma MCAS/Yuma International Airport,36.0,KNYL 290057Z
-KNOZ,,36.0,KNOZ
-KA39,,36.0,KA39 290115Z
-BXK  KBXK,Buckeye Municipal Airport,36.0,KBXK 290115Z
-HII  KHII,Lake Havasu City Airport,36.0,KHII 290115Z
-MZJ  KMZJ,Pinal Airpark,36.0,KMZ
-KP08,,36.0,KP08 290115Z
-LAP  MMLP,Manuel Márquez de León International Airport,35.0,MMLP 290040Z
-TRC  MMTC,Francisco Sarabia International Airport,35.0,MMTC 290044Z
-KRYN,Ryan Field,35.0,KRYN 290045Z
-SAD  KSAD,Safford Regional Airport,35.0,KSAD 290051Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,35.0,KTRM 290052Z
-DVT  KDVT,Phoenix Deer Valley Airport,35.0,KDVT 290053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,35.0,KTUS 290053Z
-VGT  KVGT,North Las Vegas Airport,35.0,KVGT 290053Z
-DMA  KDMA,Davis Monthan Air Force Base,35.0,KDMA 290055Z
-LAS  KLAS,McCarran International Airport,35.0,KLAS 290056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),35.0,KNJK 290056Z
-KBVU,,35.0,KBVU 290115Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,35.0,MMML 290119Z
-CEN  MMCN,Ciudad Obregón International Airport,34.0,MMCN 290040Z
-MID  MMMD,Licenciado Manuel Crescencio Rejon Int Airport,34.0,MMMD 290040Z
-DAG  KDAG,Barstow Daggett Airport,34.0,KDAG 290050Z
-KHS  OOKB,Khasab Air Base,34.0,OOKB 290050Z
-KNID,China Lake Naws (Armitage Field) Airport,34.0,KNID 290056Z
-SGU  KSGU,St George Municipal Airport,34.0,KSGU 290056Z
-YKA  CYKA,Kamloops Airport,34.0,CYKA 290100Z
-TUD  GOTT,Tambacounda Airport,34.0,GOTT 290100Z
-AWZ  OIAW,Ahwaz Airport,34.0,OIAW 290100Z
-KE77,,34.0,KE77 290115Z
-KL08,,34.0,KL08 290115Z
-KPRS,Presidio Lely International Airport,34.0,KPRS 290115Z
-HSH  KHND,Henderson Executive Airport,34.0,KHND 290122Z
+DMM  OEDF,King Fahd International Airport,45.0,OEDF 291200Z
+ABD  OIAA,Abadan Airport,45.0,OIAA 291200Z
+MRX  OIAM,Mahshahr Airport,45.0,OIAM 291200Z
+AWZ  OIAW,Ahwaz Airport,45.0,OIAW 291200Z
+OKKK,,45.0,OKKK 291200Z
+AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 291155Z
+OKAS,Ali Al Salem Air Base,44.0,OKAS 291155Z
+DHA  OEDR,King Abdulaziz Air Base,44.0,OEDR 291200Z
+OEKJ,,44.0,OEKJ 291200Z
+RUH  OERK,King Khaled International Airport,44.0,OERK 291200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 291200Z
+MUX  OPMT,Multan International Airport,44.0,OPMT 291200Z
+BSR  ORMM,Basrah International Airport,44.0,ORMM 291200Z
+OHS  OOSH,Sohar Airport,43.0,OOSH 291150Z
+POD  GOSP,Podor Airport,43.0,GOSP 291200Z
+SHW  OESH,Sharurah Airport,43.0,OESH 291200Z
+GXF  OYSY,Sayun International Airport,43.0,OYSY 291200Z
+NIX  GANR,Nioro du Sahel Airport,42.0,GANR 291200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 291200Z
+LRR  OISL,Lar Airport,42.0,OISL 291200Z
+SKT  OPST,Sialkot Airport,42.0,OPST 291230Z
+OODQ,,41.0,OODQ 291150Z
+AJY  DRZA,Mano Dayak International Airport,41.0,DRZ
+AEH  FTTC,Abeche Airport,41.0,FTTC 291200Z
+MAX  GOSM,Ouro Sogui Airport,41.0,GOSM 291200Z
+EMN  GQNI,Néma Airport,41.0,GQNI 281200Z
+OEAR,,41.0,OEAR 291200Z
+ELQ  OEGS,Gassim Airport,41.0,OEGS 291200Z
+GCH  OIAH,Gachsaran Airport,41.0,OIAH 291200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+FJR  OMFJ,Fujairah International Airport,41.0,OMFJ 291200Z
+RKT  OMRK,Ras Al Khaimah International Airport,41.0,OMRK 291200Z
+LHE  OPLA,Alama Iqbal International Airport,41.0,OPLA 291230Z
+KHS  OOKB,Khasab Air Base,40.0,OOKB 291150Z
+NDJ  FTTJ,N'Djamena International Airport,40.0,FTTJ 291200Z
+GAKD,,40.0,GAKD 291200Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,40.0,GQNO 291200Z
+BAH  OBBI,Bahrain International Airport,40.0,OBBI 291200Z
+DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 291200Z
+BND  OIKB,Bandar Abbas International Airport,40.0,OIKB 291200Z
+ZBR  OIZC,Konarak Airport,40.0,OIZ
+LYP  OPFA,Faisalabad International Airport,40.0,OPFA 291200Z
+ATQ  VIAR,Sri Guru Ram Dass Jee International Airport,40.0,VIAR 291200Z
+DWC  OMDW,Al Maktoum International Airport,40.0,OMDW 291230Z
+INZ  DAUI,In Salah Airport,39.0,DAUI 291200Z
