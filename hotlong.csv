@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HII  KHII,Lake Havasu City Airport,40.0,KHII 310115Z
-KGEU,Glendale Municipal Airport,39.0,KGEU 310047Z
-VGT  KVGT,North Las Vegas Airport,39.0,KVGT 310053Z
-LSV  KLSV,Nellis Air Force Base,39.0,KLSV 310055Z
-KBVU,,39.0,KBVU 310115Z
-KCHD,Chandler Municipal Airport,38.0,KCHD 310047Z
-GYR  KGYR,Phoenix Goodyear Airport,38.0,KGYR 310047Z
-CIC  KCIC,Chico Municipal Airport,38.0,KCIC 310050Z
-DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 310050Z
-MCT  OOMS,Muscat International Airport,38.0,OOMS 310050Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,38.0,KPHX 310051Z
-BLH  KBLH,Blythe Airport,38.0,KBLH 310052Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 310052Z
-DRA  KDRA,Desert Rock Airport,38.0,KDRA 310053Z
-SAC  KSAC,Sacramento Executive Airport,38.0,KSAC 310053Z
-K9L2,,38.0,K9L2 310055Z
-EDW  KEDW,Edwards Air Force Base,38.0,KEDW 310055Z
-LGF  KLGF,Laguna Army Airfield,38.0,KLGF 310055Z
-LUF  KLUF,Luke Air Force Base,38.0,KLUF 310055Z
-SCK  KSCK,Stockton Metropolitan Airport,38.0,KSCK 310055Z
-WHP  KWHP,Whiteman Airport,38.0,KWHP 310055Z
-HSH  KHND,Henderson Executive Airport,38.0,KHND 310056Z
-LAS  KLAS,McCarran International Airport,38.0,KLAS 310056Z
-BXK  KBXK,Buckeye Municipal Airport,38.0,KBXK 310115Z
-KC83,,38.0,KC83 310115Z
-KRYN,Ryan Field,37.0,KRYN 310045Z
-SBD  KSBD,San Bernardino International Airport,37.0,KSBD 310050Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,37.0,KTRM 310052Z
-DVT  KDVT,Phoenix Deer Valley Airport,37.0,KDVT 310053Z
-FAT  KFAT,Fresno Yosemite International Airport,37.0,KFAT 310053Z
-MYV  KMYV,Yuba County Airport,37.0,KMYV 310053Z
-OVE  KOVE,Oroville Municipal Airport,37.0,KOVE 310053Z
-SCF  KSDL,Scottsdale Airport,37.0,KSDL 310053Z
-SMF  KSMF,Sacramento International Airport,37.0,KSMF 310053Z
-KVCB,Nut Tree Airport,37.0,KVCB 310053Z
-MSC  KFFZ,Falcon Field,37.0,KFFZ
-BAB  KBAB,Beale Air Force Base,37.0,KBAB 310055Z
-BYS  KBYS,Bicycle Lake Army Air Field,37.0,KBYS 310055Z
-KGXF,,37.0,KGXF 310055Z
-INS  KINS,Creech Air Force Base,37.0,KINS 310055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,37.0,KCGZ
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),37.0,KNJK 310056Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,37.0,KNLC 310056Z
-SGU  KSGU,St George Municipal Airport,37.0,KSGU 310056Z
-MHV  KMHV,Mojave Airport,37.0,KMHV 310100Z
+ABD  OIAA,Abadan Airport,43.0,OIAA 311200Z
+MRX  OIAM,Mahshahr Airport,43.0,OIAM 311200Z
+AAN  OMAL,Al Ain International Airport,43.0,OMAL 311200Z
+OKAS,Ali Al Salem Air Base,42.0,OKAS 311155Z
+AJY  DRZA,Mano Dayak International Airport,42.0,DRZ
+DRZF,Diffa Airport,42.0,DRZ
+NDJ  FTTJ,N'Djamena International Airport,42.0,FTTJ 311200Z
+TOM  GATB,Timbuktu Airport,42.0,GATB 311200Z
+ATR  GQPA,Atar International Airport,42.0,GQPA 311200Z
+OEAR,,42.0,OEAR 311200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 311200Z
+WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 311200Z
+OKKK,,42.0,OKKK 311200Z
+BSR  ORMM,Basrah International Airport,42.0,ORMM 311200Z
+GXF  OYSY,Sayun International Airport,42.0,OYSY 311200Z
+HOF  OEAH,Al Ahsa Airport,41.0,OEAH 311200Z
+LRR  OISL,Lar Airport,41.0,OISL 311200Z
+AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 311155Z
+XJD  OTBH,Al Udeid Air Base,40.0,OTBH 311155Z
+NIM  DRRN,Diori Hamani International Airport,40.0,DRRN 311200Z
+EMN  GQNI,Néma Airport,40.0,GQNI 311200Z
+DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 311200Z
+ELQ  OEGS,Gassim Airport,40.0,OEGS 311200Z
+OEKJ,,40.0,OEKJ 311200Z
+RUH  OERK,King Khaled International Airport,40.0,OERK 311200Z
+KNR  OIBJ,Jam Airport,40.0,OIBJ 311200Z
+MUX  OPMT,Multan International Airport,40.0,OPMT 311200Z
+BGW  ORBI,Baghdad International Airport,40.0,ORBI 311200Z
+NJF  ORNI,Al Najaf International Airport,40.0,ORNI 311200Z
+DIA  OTBD,Doha International Airport,40.0,OTBD 311200Z
+DOH  OTHH,Hamad International Airport,40.0,OTHH 311200Z
+AXK  OYAT,Ataq Airport,40.0,OYAT 311200Z
+MCT  OOMS,Muscat International Airport,39.0,OOMS 311150Z
+OHS  OOSH,Sohar Airport,39.0,OOSH 311150Z
+KQTZ,,39.0,KQTZ
+MFQ  DRRM,Maradi Airport,39.0,DRRM 311200Z
+ZND  DRZR,Zinder Airport,39.0,DRZ
+MZI  GAMB,Mopti Airport,39.0,GAMB 311200Z
+DMM  OEDF,King Fahd International Airport,39.0,OEDF 311200Z
+DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 311200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,OEPA 311200Z
+BND  OIKB,Bandar Abbas International Airport,39.0,OIKB 311200Z
+RKT  OMRK,Ras Al Khaimah International Airport,39.0,OMRK 311200Z
+LKO  VILK,Chaudhary Charan Singh International Airport,39.0,VILK 311200Z
+THZ  DRRT,Tahoua Airport,38.0,DRRT 311200Z
