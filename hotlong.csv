@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KBVU,,39.0,KBVU 010155Z
-HII  KHII,Lake Havasu City Airport,39.0,KHII 010155Z
-LAS  KLAS,McCarran International Airport,39.0,KLAS 010156Z
-PTV  KPTV,Porterville Municipal Airport,39.0,KPTV 010156Z
-KTCY,Tracy Municipal Airport,38.0,KTCY 010125Z
-MCC  KMCC,Mc Clellan Airfield,38.0,KMCC 010135Z
-DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 010150Z
-BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 010155Z
-HSH  KHND,Henderson Executive Airport,38.0,KHND 010156Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,38.0,KNLC 010156Z
-CIC  KCIC,Chico Municipal Airport,37.0,KCIC 010050Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,37.0,KIWA 010053Z
-LUF  KLUF,Luke Air Force Base,37.0,KLUF 010055Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,37.0,KNYL 010057Z
-FCH  KFCH,Fresno Chandler Executive Airport,37.0,KFCH 010135Z
-MHR  KMHR,Sacramento Mather Airport,37.0,KMHR 010135Z
-KCHD,Chandler Municipal Airport,37.0,KCHD 010147Z
-GYR  KGYR,Phoenix Goodyear Airport,37.0,KGYR 010147Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,37.0,KPHX 010151Z
-FAT  KFAT,Fresno Yosemite International Airport,37.0,KFAT 010153Z
-KHJO,Hanford Municipal Airport,37.0,KHJO 010153Z
-MCE  KMCE,Merced Regional Macready Field,37.0,KMCE 010153Z
-MOD  KMOD,Modesto City Co-Harry Sham Field,37.0,KMOD 010153Z
-MYV  KMYV,Yuba County Airport,37.0,KMYV 010153Z
-RDD  KRDD,Redding Municipal Airport,37.0,KRDD 010153Z
-BFL  KBFL,Meadows Field,37.0,KBFL 010154Z
-RBL  KRBL,Red Bluff Municipal Airport,37.0,KRBL 010154Z
-BAB  KBAB,Beale Air Force Base,37.0,KBAB 010155Z
-INS  KINS,Creech Air Force Base,37.0,KINS 010155Z
-KL08,,37.0,KL08 010155Z
-SGU  KSGU,St George Municipal Airport,37.0,KSGU 010156Z
-VIS  KVIS,Visalia Municipal Airport,37.0,KVIS 010156Z
-NFL  KNFL,Fallon Naval Air Station,36.0,KNFL 010057Z
-KP08,,36.0,KP08 010135Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,36.0,MMHO 010140Z
-KGEU,Glendale Municipal Airport,36.0,KGEU 010147Z
-BLH  KBLH,Blythe Airport,36.0,KBLH 010152Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,36.0,KTRM 010152Z
-DRA  KDRA,Desert Rock Airport,36.0,KDRA 010153Z
-OVE  KOVE,Oroville Municipal Airport,36.0,KOVE 010153Z
-PSP  KPSP,Palm Springs International Airport,36.0,KPSP 010153Z
-SCF  KSDL,Scottsdale Airport,36.0,KSDL 010153Z
-SMF  KSMF,Sacramento International Airport,36.0,KSMF 010153Z
-MSC  KFFZ,Falcon Field,36.0,KFFZ
-KGXF,,36.0,KGXF 010155Z
+MRX  OIAM,Mahshahr Airport,45.0,OIAM 011200Z
+LFM  OISR,Lamerd Airport,45.0,OISR 011200Z
+OKKK,,45.0,OKKK 011200Z
+OKAS,Ali Al Salem Air Base,44.0,OKAS 011155Z
+ABD  OIAA,Abadan Airport,44.0,OIAA 011200Z
+BSR  ORMM,Basrah International Airport,44.0,ORMM 011200Z
+NJF  ORNI,Al Najaf International Airport,44.0,ORNI 011200 Z
+KQTZ,,43.0,KQTZ
+ELQ  OEGS,Gassim Airport,43.0,OEGS 011200Z
+LRR  OISL,Lar Airport,43.0,OISL 011200Z
+BGW  ORBI,Baghdad International Airport,43.0,ORBI 011200Z
+KIK  ORKK,Kirkuk Air Base,43.0,ORKK 011200Z
+DIA  OTBD,Doha International Airport,43.0,OTBD 011200Z
+XJD  OTBH,Al Udeid Air Base,42.0,OTBH 011155Z
+NDJ  FTTJ,N'Djamena International Airport,42.0,FTTJ 011200Z
+OEAR,,42.0,OEAR 011200Z
+DMM  OEDF,King Fahd International Airport,42.0,OEDF 011200Z
+DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 011200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 011200Z
+RUH  OERK,King Khaled International Airport,42.0,OERK 011200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 011200Z
+WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 011200Z
+AAN  OMAL,Al Ain International Airport,42.0,OMAL 011200Z
+GXF  OYSY,Sayun International Airport,42.0,OYSY 011200Z
+DRZF,Diffa Airport,41.0,DRZ
+DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 011200Z
+OEKJ,,41.0,OEKJ 011200Z
+GCH  OIAH,Gachsaran Airport,41.0,OIAH 011200Z
+KNR  OIBJ,Jam Airport,41.0,OIBJ 011200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+DOH  OTHH,Hamad International Airport,41.0,OTHH 011200Z
+OHS  OOSH,Sohar Airport,40.0,OOSH 011150Z
+NIM  DRRN,Diori Hamani International Airport,40.0,DRRN 011200Z
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+OEMN,,40.0,OEMN 011200Z
+RAH  OERF,Rafha Domestic Airport,40.0,OERF 011200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,40.0,OEYN 011200Z
+BND  OIKB,Bandar Abbas International Airport,40.0,OIKB 011200Z
+FAZ  OISF,Fasa Airport,40.0,OISF 011200Z
+MUX  OPMT,Multan International Airport,40.0,OPMT 011200Z
+EBL  ORER,Erbil International Airport,40.0,ORER 011200Z
+ISU  ORSU,Sulaymaniyah International Airport,40.0,ORSU 011200Z
+AXK  OYAT,Ataq Airport,40.0,OYAT 011200Z
+DNKT,,39.0,DNKT 011200Z
+MZI  GAMB,Mopti Airport,39.0,GAMB 011200Z
