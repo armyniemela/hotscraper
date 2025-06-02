@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MAF  KMAF,Midland International Airport,36.0,KMAF 020053Z
-VIS  KVIS,Visalia Municipal Airport,36.0,KVIS 020056Z
-RDD  KRDD,Redding Municipal Airport,36.0,KRDD 020104Z
-KE01,,36.0,KE01 020115Z
-NLD  MMNL,Quetzalcóatl International Airport,35.0,MMNL 020040Z
-K6R6,,35.0,K6R6 020051Z
-ELP  KELP,El Paso International Airport,35.0,KELP 020051Z
-DRT  KDRT,Del Rio International Airport,35.0,KDRT 020053Z
-DLF  KDLF,DLF Airport,35.0,KDLF 020055Z
-KT70,,35.0,KT70 020055Z
-LRD  KLRD,Laredo International Airport,35.0,KLRD 020056Z
-KNID,China Lake Naws (Armitage Field) Airport,35.0,KNID 020056Z
-K5T9,,35.0,K5T9 020115Z
-FCH  KFCH,Fresno Chandler Executive Airport,35.0,KFCH 020115Z
-KFTN,,35.0,KFTN 020115Z
-KT89,,35.0,KT89 020115Z
-DIA  OTBD,Doha International Airport,35.0,OTBD 020130Z
-HAN  VVNB,Noi Bai International Airport,35.0,VVNB 020130Z
-HUI  VVPB,Phu Bai Airport,35.0,VVPB 020130Z
-KO32,,35.0,KO32 020135Z
-CJS  MMCS,Abraham González International Airport,34.0,MMCS 020040Z
-TRC  MMTC,Francisco Sarabia International Airport,34.0,MMTC 020040Z
-KHS  OOKB,Khasab Air Base,34.0,OOKB 020050Z
-CNM  KCNM,Cavern City Air Terminal,34.0,KCNM 020053Z
-FST  KFST,Fort Stockton Pecos County Airport,34.0,KFST 020053Z
-BIF  KBIF,Biggs Army Air Field (Fort Bliss),34.0,KBIF 020055Z
-NFL  KNFL,Fallon Naval Air Station,34.0,KNFL 020057Z
-DOH  OTHH,Hamad International Airport,34.0,OTHH 020100Z
-DAD  VVDN,Da Nang International Airport,34.0,VVDN 020130Z
-HMN  KHMN,Holloman Air Force Base,34.0,KHMN 020131Z
-SNK  KSNK,Winston Field,34.0,KSNK 020135Z
-KHDO,South Texas Regional Airport at Hondo,33.0,KHDO 020051Z
-ROW  KROW,Roswell Air Center Airport,33.0,KROW 020051Z
-SJT  KSJT,San Angelo Regional Mathis Field,33.0,KSJT 020051Z
-ABI  KABI,Abilene Regional Airport,33.0,KABI 020052Z
-CNY  KCNY,Canyonlands Field,33.0,KCNY 020053Z
-DMN  KDMN,Deming Municipal Airport,33.0,KDMN 020053Z
-DRA  KDRA,Desert Rock Airport,33.0,KDRA 020053Z
-MAE  KMAE,Madera Municipal Airport,33.0,KMAE 020053Z
-KODO,Odessa Schlemeyer Field,33.0,KODO 020053Z
-PSP  KPSP,Palm Springs International Airport,33.0,KPSP 020053Z
-VGT  KVGT,North Las Vegas Airport,33.0,KVGT 020053Z
-INS  KINS,Creech Air Force Base,33.0,KINS 020055Z
-LSV  KLSV,Nellis Air Force Base,33.0,KLSV 020055Z
-KQBR,,33.0,KQBR 020055Z
+ABD  OIAA,Abadan Airport,45.0,OIAA 021200Z
+MRX  OIAM,Mahshahr Airport,45.0,OIAM 021200Z
+AWZ  OIAW,Ahwaz Airport,45.0,OIAW 021200Z
+OKKK,,45.0,OKKK 021200Z
+AAN  OMAL,Al Ain International Airport,45.0,OMAL 021200Z
+BSR  ORMM,Basrah International Airport,45.0,ORMM 021200Z
+OKAS,Ali Al Salem Air Base,45.0,OKAS 021207Z
+XJD  OTBH,Al Udeid Air Base,44.0,OTBH 021155Z
+OEAR,,44.0,OEAR 021200Z
+DMM  OEDF,King Fahd International Airport,43.0,OEDF 021200Z
+DHA  OEDR,King Abdulaziz Air Base,43.0,OEDR 021200Z
+OEKJ,,43.0,OEKJ 021200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 021200Z
+RUH  OERK,King Khaled International Airport,43.0,OERK 021200Z
+KNR  OIBJ,Jam Airport,43.0,OIBJ 021200Z
+LRR  OISL,Lar Airport,43.0,OISL 021200Z
+DIA  OTBD,Doha International Airport,43.0,OTBD 021200Z
+OHS  OOSH,Sohar Airport,42.0,OOSH 021150Z
+AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 021155Z
+SHW  OESH,Sharurah Airport,42.0,OESH 021200Z
+PGU  OIBP,Persian Gulf International Airport,42.0,OIBP 021200Z
+OICM,,42.0,OICM 021200Z
+BND  OIKB,Bandar Abbas International Airport,42.0,OIKB 021200Z
+ELQ  OEGS,Gassim Airport,41.0,OEGS 021200Z
+OEMN,,41.0,OEMN 021200Z
+GCH  OIAH,Gachsaran Airport,41.0,OIAH 021200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+FJR  OMFJ,Fujairah International Airport,41.0,OMFJ 021200Z
+GXF  OYSY,Sayun International Airport,41.0,OYSY 021200Z
+KHS  OOKB,Khasab Air Base,40.0,OOKB 021150Z
+MCT  OOMS,Muscat International Airport,40.0,OOMS 021150Z
+TOM  GATB,Timbuktu Airport,40.0,GATB 021200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 021200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,40.0,OEYN 021200Z
+ACZ  OIZB,Zabol Airport,40.0,OIZ
+MUX  OPMT,Multan International Airport,40.0,OPMT 021200Z
+NJF  ORNI,Al Najaf International Airport,40.0,ORNI 021200Z
+DOH  OTHH,Hamad International Airport,40.0,OTHH 021200Z
+OODQ,,39.0,OODQ 021150Z
+AEH  FTTC,Abeche Airport,39.0,FTTC 021200Z
+MZI  GAMB,Mopti Airport,39.0,GAMB 021200Z
+DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 021200Z
+JED  OEJN,King Abdulaziz International Airport,39.0,OEJN 021200Z
+OIBH,Bastak Airport,39.0,OIBH 021200Z
+KLM  OINE,Kalaleh Airport,39.0,OINE 021200Z
