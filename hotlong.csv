@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MRX  OIAM,Mahshahr Airport,45.0,OIAM 011200Z
-LFM  OISR,Lamerd Airport,45.0,OISR 011200Z
-OKKK,,45.0,OKKK 011200Z
-OKAS,Ali Al Salem Air Base,44.0,OKAS 011155Z
-ABD  OIAA,Abadan Airport,44.0,OIAA 011200Z
-BSR  ORMM,Basrah International Airport,44.0,ORMM 011200Z
-NJF  ORNI,Al Najaf International Airport,44.0,ORNI 011200 Z
-KQTZ,,43.0,KQTZ
-ELQ  OEGS,Gassim Airport,43.0,OEGS 011200Z
-LRR  OISL,Lar Airport,43.0,OISL 011200Z
-BGW  ORBI,Baghdad International Airport,43.0,ORBI 011200Z
-KIK  ORKK,Kirkuk Air Base,43.0,ORKK 011200Z
-DIA  OTBD,Doha International Airport,43.0,OTBD 011200Z
-XJD  OTBH,Al Udeid Air Base,42.0,OTBH 011155Z
-NDJ  FTTJ,N'Djamena International Airport,42.0,FTTJ 011200Z
-OEAR,,42.0,OEAR 011200Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 011200Z
-DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 011200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 011200Z
-RUH  OERK,King Khaled International Airport,42.0,OERK 011200Z
-SHW  OESH,Sharurah Airport,42.0,OESH 011200Z
-WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 011200Z
-AAN  OMAL,Al Ain International Airport,42.0,OMAL 011200Z
-GXF  OYSY,Sayun International Airport,42.0,OYSY 011200Z
-DRZF,Diffa Airport,41.0,DRZ
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 011200Z
-OEKJ,,41.0,OEKJ 011200Z
-GCH  OIAH,Gachsaran Airport,41.0,OIAH 011200Z
-KNR  OIBJ,Jam Airport,41.0,OIBJ 011200Z
-IHR  OIZI,Iran Shahr Airport,41.0,OIZ
-DOH  OTHH,Hamad International Airport,41.0,OTHH 011200Z
-OHS  OOSH,Sohar Airport,40.0,OOSH 011150Z
-NIM  DRRN,Diori Hamani International Airport,40.0,DRRN 011200Z
-AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
-OEMN,,40.0,OEMN 011200Z
-RAH  OERF,Rafha Domestic Airport,40.0,OERF 011200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,40.0,OEYN 011200Z
-BND  OIKB,Bandar Abbas International Airport,40.0,OIKB 011200Z
-FAZ  OISF,Fasa Airport,40.0,OISF 011200Z
-MUX  OPMT,Multan International Airport,40.0,OPMT 011200Z
-EBL  ORER,Erbil International Airport,40.0,ORER 011200Z
-ISU  ORSU,Sulaymaniyah International Airport,40.0,ORSU 011200Z
-AXK  OYAT,Ataq Airport,40.0,OYAT 011200Z
-DNKT,,39.0,DNKT 011200Z
-MZI  GAMB,Mopti Airport,39.0,GAMB 011200Z
+MAF  KMAF,Midland International Airport,36.0,KMAF 020053Z
+VIS  KVIS,Visalia Municipal Airport,36.0,KVIS 020056Z
+RDD  KRDD,Redding Municipal Airport,36.0,KRDD 020104Z
+KE01,,36.0,KE01 020115Z
+NLD  MMNL,Quetzalcóatl International Airport,35.0,MMNL 020040Z
+K6R6,,35.0,K6R6 020051Z
+ELP  KELP,El Paso International Airport,35.0,KELP 020051Z
+DRT  KDRT,Del Rio International Airport,35.0,KDRT 020053Z
+DLF  KDLF,DLF Airport,35.0,KDLF 020055Z
+KT70,,35.0,KT70 020055Z
+LRD  KLRD,Laredo International Airport,35.0,KLRD 020056Z
+KNID,China Lake Naws (Armitage Field) Airport,35.0,KNID 020056Z
+K5T9,,35.0,K5T9 020115Z
+FCH  KFCH,Fresno Chandler Executive Airport,35.0,KFCH 020115Z
+KFTN,,35.0,KFTN 020115Z
+KT89,,35.0,KT89 020115Z
+DIA  OTBD,Doha International Airport,35.0,OTBD 020130Z
+HAN  VVNB,Noi Bai International Airport,35.0,VVNB 020130Z
+HUI  VVPB,Phu Bai Airport,35.0,VVPB 020130Z
+KO32,,35.0,KO32 020135Z
+CJS  MMCS,Abraham González International Airport,34.0,MMCS 020040Z
+TRC  MMTC,Francisco Sarabia International Airport,34.0,MMTC 020040Z
+KHS  OOKB,Khasab Air Base,34.0,OOKB 020050Z
+CNM  KCNM,Cavern City Air Terminal,34.0,KCNM 020053Z
+FST  KFST,Fort Stockton Pecos County Airport,34.0,KFST 020053Z
+BIF  KBIF,Biggs Army Air Field (Fort Bliss),34.0,KBIF 020055Z
+NFL  KNFL,Fallon Naval Air Station,34.0,KNFL 020057Z
+DOH  OTHH,Hamad International Airport,34.0,OTHH 020100Z
+DAD  VVDN,Da Nang International Airport,34.0,VVDN 020130Z
+HMN  KHMN,Holloman Air Force Base,34.0,KHMN 020131Z
+SNK  KSNK,Winston Field,34.0,KSNK 020135Z
+KHDO,South Texas Regional Airport at Hondo,33.0,KHDO 020051Z
+ROW  KROW,Roswell Air Center Airport,33.0,KROW 020051Z
+SJT  KSJT,San Angelo Regional Mathis Field,33.0,KSJT 020051Z
+ABI  KABI,Abilene Regional Airport,33.0,KABI 020052Z
+CNY  KCNY,Canyonlands Field,33.0,KCNY 020053Z
+DMN  KDMN,Deming Municipal Airport,33.0,KDMN 020053Z
+DRA  KDRA,Desert Rock Airport,33.0,KDRA 020053Z
+MAE  KMAE,Madera Municipal Airport,33.0,KMAE 020053Z
+KODO,Odessa Schlemeyer Field,33.0,KODO 020053Z
+PSP  KPSP,Palm Springs International Airport,33.0,KPSP 020053Z
+VGT  KVGT,North Las Vegas Airport,33.0,KVGT 020053Z
+INS  KINS,Creech Air Force Base,33.0,KINS 020055Z
+LSV  KLSV,Nellis Air Force Base,33.0,KLSV 020055Z
+KQBR,,33.0,KQBR 020055Z
