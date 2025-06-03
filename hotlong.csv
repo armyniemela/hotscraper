@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PSP  KPSP,Palm Springs International Airport,36.0,KPSP 030053Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),36.0,KNJK 030056Z
-KPRS,Presidio Lely International Airport,36.0,KPRS 030135Z
-CUU  MMCU,General Roberto Fierro Villalobos International Airport,35.0,MMCU 030040Z
-NLD  MMNL,Quetzalcóatl International Airport,35.0,MMNL 030040Z
-PQM  MMPQ,Palenque International Airport,35.0,MMPQ 030040Z
-CIC  KCIC,Chico Municipal Airport,35.0,KCIC 030050Z
-DAG  KDAG,Barstow Daggett Airport,35.0,KDAG 030050Z
-BLH  KBLH,Blythe Airport,35.0,KBLH 030052Z
-DRT  KDRT,Del Rio International Airport,35.0,KDRT 030053Z
-EED  KEED,Needles Airport,35.0,KEED 030056Z
-K5T9,,35.0,K5T9 030115Z
-KFTN,,35.0,KFTN 030115Z
-HUI  VVPB,Phu Bai Airport,35.0,VVPB 030130Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,34.0,MMML 030043Z
-IFP  KIFP,Laughlin Bullhead International Airport,34.0,KIFP 030051Z
-DLF  KDLF,DLF Airport,34.0,KDLF 030055Z
-LGF  KLGF,Laguna Army Airfield,34.0,KLGF 030055Z
-LRD  KLRD,Laredo International Airport,34.0,KLRD 030056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,34.0,KNYL 030057Z
-GAKD,,34.0,GAKD 030100Z
-DHA  OEDR,King Abdulaziz Air Base,34.0,OEDR 030100Z
-BYS  KBYS,Bicycle Lake Army Air Field,34.0,KBYS 030129Z
-DIA  OTBD,Doha International Airport,34.0,OTBD 030130Z
-DAD  VVDN,Da Nang International Airport,34.0,VVDN 030130Z
-HII  KHII,Lake Havasu City Airport,34.0,KHII 030135Z
-NTR  MMAN,Del Norte International Airport,33.0,MMAN 030040Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,33.0,MMHO 030040Z
-MTY  MMMY,General Mariano Escobedo International Airport,33.0,MMMY 030040Z
-CVM  MMCV,General Pedro Jose Mendez International Airport,33.0,MMCV 030041Z
-K6R6,,33.0,K6R6 030051Z
-COT  KCOT,Cotulla-La Salle County Airport,33.0,KCOT 030053Z
-FAT  KFAT,Fresno Yosemite International Airport,33.0,KFAT 030053Z
-KHJO,Hanford Municipal Airport,33.0,KHJO 030053Z
-VGT  KVGT,North Las Vegas Airport,33.0,KVGT 030053Z
-BFL  KBFL,Meadows Field,33.0,KBFL 030054Z
-BAB  KBAB,Beale Air Force Base,33.0,KBAB 030055Z
-LSV  KLSV,Nellis Air Force Base,33.0,KLSV 030055Z
-LAS  KLAS,McCarran International Airport,33.0,KLAS 030056Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,33.0,KNLC 030056Z
-PTV  KPTV,Porterville Municipal Airport,33.0,KPTV 030056Z
-VIS  KVIS,Visalia Municipal Airport,33.0,KVIS 030056Z
-KLHM,Lincoln Regional Karl Harder Field,33.0,KLHM 030123Z
-CXR  VVCR,Cam Ranh Airport,33.0,VVCR 030130Z
-KL08,,33.0,KL08 030135Z
+IHR  OIZI,Iran Shahr Airport,43.0,OIZ
+OEAR,,42.0,OEAR 031200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 031200Z
+AWZ  OIAW,Ahwaz Airport,42.0,OIAW 031200Z
+LRR  OISL,Lar Airport,42.0,OISL 031200Z
+EMN  GQNI,Néma Airport,41.0,GQNI 031200Z
+HOF  OEAH,Al Ahsa Airport,41.0,OEAH 031200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 031200Z
+MRX  OIAM,Mahshahr Airport,41.0,OIAM 031200Z
+ACZ  OIZB,Zabol Airport,41.0,OIZ
+ZBR  OIZC,Konarak Airport,41.0,OIZ
+GXF  OYSY,Sayun International Airport,41.0,OYSY 031200Z
+OHS  OOSH,Sohar Airport,40.0,OOSH 031150Z
+AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 031155Z
+AEH  FTTC,Abeche Airport,40.0,FTTC 031200Z
+DHA  OEDR,King Abdulaziz Air Base,40.0,OEDR 031200Z
+RUH  OERK,King Khaled International Airport,40.0,OERK 031200Z
+ABD  OIAA,Abadan Airport,40.0,OIAA 031200Z
+BND  OIKB,Bandar Abbas International Airport,40.0,OIKB 031200Z
+OKKK,,40.0,OKKK 031200Z
+BSR  ORMM,Basrah International Airport,40.0,ORMM 031200Z
+ASB  UTAA,Ashgabat International Airport,40.0,UTAA 031200Z
+TAZ  UTAT,Daşoguz Airport,40.0,UTAT 031200Z
+XJD  OTBH,Al Udeid Air Base,39.0,OTBH 031155Z
+DMM  OEDF,King Fahd International Airport,39.0,OEDF 031200Z
+ELQ  OEGS,Gassim Airport,39.0,OEGS 031200Z
+OEKJ,,39.0,OEKJ 031200Z
+OEMN,,39.0,OEMN 031200Z
+EAM  OENG,Nejran Airport,39.0,OENG 031200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,OEPA 031200Z
+GCH  OIAH,Gachsaran Airport,39.0,OIAH 031200Z
+KNR  OIBJ,Jam Airport,39.0,OIBJ 031200Z
+IFN  OIFM,Esfahan Shahid Beheshti International Airport,39.0,OIFM 031200Z
+IKA  OIIE,Imam Khomeini International Airport,39.0,OIIE 031200Z
+AZD  OIYY,Shahid Sadooghi Airport,39.0,OIYY 031200Z
+FJR  OMFJ,Fujairah International Airport,39.0,OMFJ 031200Z
+RKT  OMRK,Ras Al Khaimah International Airport,39.0,OMRK 031200Z
+MUX  OPMT,Multan International Airport,39.0,OPMT 031200Z
+DIA  OTBD,Doha International Airport,39.0,OTBD 031200Z
+AXK  OYAT,Ataq Airport,39.0,OYAT 031200Z
+MYP  UTAM,Mary Airport,39.0,UTAM 031200Z
+NCU  UTNN,Nukus Airport,39.0,UTNN 031200Z
+UGC  UTNU,Urgench Airport,39.0,UTNU 031200Z
+OKAS,Ali Al Salem Air Base,39.0,OKAS 031202Z
+KHS  OOKB,Khasab Air Base,38.0,OOKB 031150Z
