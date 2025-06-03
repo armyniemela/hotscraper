@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ABD  OIAA,Abadan Airport,45.0,OIAA 021200Z
-MRX  OIAM,Mahshahr Airport,45.0,OIAM 021200Z
-AWZ  OIAW,Ahwaz Airport,45.0,OIAW 021200Z
-OKKK,,45.0,OKKK 021200Z
-AAN  OMAL,Al Ain International Airport,45.0,OMAL 021200Z
-BSR  ORMM,Basrah International Airport,45.0,ORMM 021200Z
-OKAS,Ali Al Salem Air Base,45.0,OKAS 021207Z
-XJD  OTBH,Al Udeid Air Base,44.0,OTBH 021155Z
-OEAR,,44.0,OEAR 021200Z
-DMM  OEDF,King Fahd International Airport,43.0,OEDF 021200Z
-DHA  OEDR,King Abdulaziz Air Base,43.0,OEDR 021200Z
-OEKJ,,43.0,OEKJ 021200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 021200Z
-RUH  OERK,King Khaled International Airport,43.0,OERK 021200Z
-KNR  OIBJ,Jam Airport,43.0,OIBJ 021200Z
-LRR  OISL,Lar Airport,43.0,OISL 021200Z
-DIA  OTBD,Doha International Airport,43.0,OTBD 021200Z
-OHS  OOSH,Sohar Airport,42.0,OOSH 021150Z
-AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 021155Z
-SHW  OESH,Sharurah Airport,42.0,OESH 021200Z
-PGU  OIBP,Persian Gulf International Airport,42.0,OIBP 021200Z
-OICM,,42.0,OICM 021200Z
-BND  OIKB,Bandar Abbas International Airport,42.0,OIKB 021200Z
-ELQ  OEGS,Gassim Airport,41.0,OEGS 021200Z
-OEMN,,41.0,OEMN 021200Z
-GCH  OIAH,Gachsaran Airport,41.0,OIAH 021200Z
-IHR  OIZI,Iran Shahr Airport,41.0,OIZ
-FJR  OMFJ,Fujairah International Airport,41.0,OMFJ 021200Z
-GXF  OYSY,Sayun International Airport,41.0,OYSY 021200Z
-KHS  OOKB,Khasab Air Base,40.0,OOKB 021150Z
-MCT  OOMS,Muscat International Airport,40.0,OOMS 021150Z
-TOM  GATB,Timbuktu Airport,40.0,GATB 021200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,OEMA 021200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,40.0,OEYN 021200Z
-ACZ  OIZB,Zabol Airport,40.0,OIZ
-MUX  OPMT,Multan International Airport,40.0,OPMT 021200Z
-NJF  ORNI,Al Najaf International Airport,40.0,ORNI 021200Z
-DOH  OTHH,Hamad International Airport,40.0,OTHH 021200Z
-OODQ,,39.0,OODQ 021150Z
-AEH  FTTC,Abeche Airport,39.0,FTTC 021200Z
-MZI  GAMB,Mopti Airport,39.0,GAMB 021200Z
-DWD  OEDM,King Salman Abdulaziz Airport,39.0,OEDM 021200Z
-JED  OEJN,King Abdulaziz International Airport,39.0,OEJN 021200Z
-OIBH,Bastak Airport,39.0,OIBH 021200Z
-KLM  OINE,Kalaleh Airport,39.0,OINE 021200Z
+PSP  KPSP,Palm Springs International Airport,36.0,KPSP 030053Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),36.0,KNJK 030056Z
+KPRS,Presidio Lely International Airport,36.0,KPRS 030135Z
+CUU  MMCU,General Roberto Fierro Villalobos International Airport,35.0,MMCU 030040Z
+NLD  MMNL,Quetzalcóatl International Airport,35.0,MMNL 030040Z
+PQM  MMPQ,Palenque International Airport,35.0,MMPQ 030040Z
+CIC  KCIC,Chico Municipal Airport,35.0,KCIC 030050Z
+DAG  KDAG,Barstow Daggett Airport,35.0,KDAG 030050Z
+BLH  KBLH,Blythe Airport,35.0,KBLH 030052Z
+DRT  KDRT,Del Rio International Airport,35.0,KDRT 030053Z
+EED  KEED,Needles Airport,35.0,KEED 030056Z
+K5T9,,35.0,K5T9 030115Z
+KFTN,,35.0,KFTN 030115Z
+HUI  VVPB,Phu Bai Airport,35.0,VVPB 030130Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,34.0,MMML 030043Z
+IFP  KIFP,Laughlin Bullhead International Airport,34.0,KIFP 030051Z
+DLF  KDLF,DLF Airport,34.0,KDLF 030055Z
+LGF  KLGF,Laguna Army Airfield,34.0,KLGF 030055Z
+LRD  KLRD,Laredo International Airport,34.0,KLRD 030056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,34.0,KNYL 030057Z
+GAKD,,34.0,GAKD 030100Z
+DHA  OEDR,King Abdulaziz Air Base,34.0,OEDR 030100Z
+BYS  KBYS,Bicycle Lake Army Air Field,34.0,KBYS 030129Z
+DIA  OTBD,Doha International Airport,34.0,OTBD 030130Z
+DAD  VVDN,Da Nang International Airport,34.0,VVDN 030130Z
+HII  KHII,Lake Havasu City Airport,34.0,KHII 030135Z
+NTR  MMAN,Del Norte International Airport,33.0,MMAN 030040Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,33.0,MMHO 030040Z
+MTY  MMMY,General Mariano Escobedo International Airport,33.0,MMMY 030040Z
+CVM  MMCV,General Pedro Jose Mendez International Airport,33.0,MMCV 030041Z
+K6R6,,33.0,K6R6 030051Z
+COT  KCOT,Cotulla-La Salle County Airport,33.0,KCOT 030053Z
+FAT  KFAT,Fresno Yosemite International Airport,33.0,KFAT 030053Z
+KHJO,Hanford Municipal Airport,33.0,KHJO 030053Z
+VGT  KVGT,North Las Vegas Airport,33.0,KVGT 030053Z
+BFL  KBFL,Meadows Field,33.0,KBFL 030054Z
+BAB  KBAB,Beale Air Force Base,33.0,KBAB 030055Z
+LSV  KLSV,Nellis Air Force Base,33.0,KLSV 030055Z
+LAS  KLAS,McCarran International Airport,33.0,KLAS 030056Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,33.0,KNLC 030056Z
+PTV  KPTV,Porterville Municipal Airport,33.0,KPTV 030056Z
+VIS  KVIS,Visalia Municipal Airport,33.0,KVIS 030056Z
+KLHM,Lincoln Regional Karl Harder Field,33.0,KLHM 030123Z
+CXR  VVCR,Cam Ranh Airport,33.0,VVCR 030130Z
+KL08,,33.0,KL08 030135Z
