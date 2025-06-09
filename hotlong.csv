@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MUX  OPMT,Multan International Airport,44.0,OPMT 081200Z
-SKT  OPST,Sialkot Airport,44.0,OPST 081230Z
-OEAO,,43.0,OEAO 081200Z
-ELQ  OEGS,Gassim Airport,43.0,OEGS 081200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 081200Z
-RAH  OERF,Rafha Domestic Airport,43.0,OERF 081200Z
-WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 081200Z
-AWZ  OIAW,Ahwaz Airport,43.0,OIAW 081200Z
-LYP  OPFA,Faisalabad International Airport,43.0,OPFA 081200Z
-BSR  ORMM,Basrah International Airport,43.0,ORMM 081200Z
-NJF  ORNI,Al Najaf International Airport,43.0,ORNI 081200Z
-ATQ  VIAR,Sri Guru Ram Dass Jee International Airport,43.0,VIAR 081200Z
-LHE  OPLA,Alama Iqbal International Airport,43.0,OPLA 081230Z
-KQTZ,,42.0,KQTZ
-TLM  DAON,Zenata – Messali El Hadj Airport,42.0,DAON 081200Z
-OUD  GMFO,Angads Airport,42.0,GMFO 081200Z
-HOF  OEAH,Al Ahsa Airport,42.0,OEAH 081200Z
-RUH  OERK,King Khaled International Airport,42.0,OERK 081200Z
-SHW  OESH,Sharurah Airport,42.0,OESH 081200Z
-OKKK,,42.0,OKKK 081200Z
-VEKO,,42.0,VEKO 081200Z
-DEL  VIDP,Indira Gandhi International Airport,42.0,VIDP 081200Z
-JAI  VIJP,Jaipur International Airport,42.0,VIJP 081200Z
-CFK  DAOI,Ech Cheliff Airport,41.0,DAOI 081200Z
-HME  DAUH,Oued Irara Airport,41.0,DAUH 081200Z
-INZ  DAUI,In Salah Airport,41.0,DAUI 081200Z
-OGX  DAUU,Ain el Beida Airport,41.0,DAUU 081200Z
-AJY  DRZA,Mano Dayak International Airport,41.0,DRZ
-MEK  GMFM,Bassatine Airport,41.0,GMFM 081200Z
-DMM  OEDF,King Fahd International Airport,41.0,OEDF 081200Z
-RAE  OERR,Arar Domestic Airport,41.0,OERR 081200Z
-PEW  OPPS,Peshawar International Airport,41.0,OPPS 081200Z
-BGW  ORBI,Baghdad International Airport,41.0,ORBI 081200Z
-MUW  DAOV,Ghriss Airport,40.0,DAOV 081200Z
-BSK  DAUB,Biskra Airport,40.0,DAUB 081200Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,40.0,DAUK 081200Z
-ELU  DAUO,Guemar Airport,40.0,DAUO 081200Z
-TMX  DAUT,Timimoun Airport,40.0,DAUT 081200Z
-TOE  DTTZ,Tozeur Nefta International Airport,40.0,DTTZ
-MZI  GAMB,Mopti Airport,40.0,GAMB 081200Z
-FEZ  GMFF,Saïss Airport,40.0,GMFF 081200Z
-BHH  OEBH,Bisha Airport,40.0,OEBH 081200Z
-DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 081200Z
-DHA  OEDR,King Abdulaziz Air Base,40.0,OEDR 081200Z
-HAS  OEHL,Ha'il Airport,40.0,OEHL 081200Z
+KGEU,Glendale Municipal Airport,41.0,KGEU 090047Z
+GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 090047Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,41.0,KTRM 090052Z
+KGXF,,41.0,KGXF 090055Z
+LGF  KLGF,Laguna Army Airfield,41.0,KLGF 090055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),41.0,KNJK 090056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 090057Z
+DAG  KDAG,Barstow Daggett Airport,40.0,KDAG 090050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,40.0,KPHX 090051Z
+PSP  KPSP,Palm Springs International Airport,40.0,KPSP 090053Z
+LSV  KLSV,Nellis Air Force Base,40.0,KLSV 090055Z
+LAS  KLAS,McCarran International Airport,40.0,KLAS 090056Z
+KL08,,40.0,KL08 090135Z
+KPRS,Presidio Lely International Airport,40.0,KPRS 090135Z
+KRYN,Ryan Field,39.0,KRYN 090045Z
+KCHD,Chandler Municipal Airport,39.0,KCHD 090047Z
+SCF  KSDL,Scottsdale Airport,39.0,KSDL 090053Z
+VGT  KVGT,North Las Vegas Airport,39.0,KVGT 090053Z
+MSC  KFFZ,Falcon Field,39.0,KFFZ
+CGZ  KCGZ,Casa Grande Municipal Airport,39.0,KCGZ
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,39.0,KIWA 090056Z
+KNID,China Lake Naws (Armitage Field) Airport,39.0,KNID 090056Z
+KP08,,39.0,KP08 090130Z
+KA39,,39.0,KA39 090135Z
+KBVU,,39.0,KBVU 090135Z
+BXK  KBXK,Buckeye Municipal Airport,39.0,KBXK 090135Z
+KT89,,39.0,KT89 090135Z
+CJS  MMCS,Abraham González International Airport,38.0,MMCS 090040Z
+ELP  KELP,El Paso International Airport,38.0,KELP 090051Z
+CNM  KCNM,Cavern City Air Terminal,38.0,KCNM 090053Z
+DVT  KDVT,Phoenix Deer Valley Airport,38.0,KDVT 090053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,38.0,KTUS 090053Z
+TRC  MMTC,Francisco Sarabia International Airport,38.0,MMTC 090053Z
+BIF  KBIF,Biggs Army Air Field (Fort Bliss),38.0,KBIF 090055Z
+BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 090055Z
+DMA  KDMA,Davis Monthan Air Force Base,38.0,KDMA 090055Z
+HMN  KHMN,Holloman Air Force Base,38.0,KHMN 090055Z
+HSH  KHND,Henderson Executive Airport,38.0,KHND 090056Z
+ATS  KATS,Artesia Municipal Airport,38.0,KATS 090135Z
+MZJ  KMZJ,Pinal Airpark,38.0,KMZ
+VHN  KVHN,Culberson County Airport,38.0,KVHN 090135Z
+NLD  MMNL,Quetzalcóatl International Airport,37.0,MMNL 090040Z
+ROW  KROW,Roswell Air Center Airport,37.0,KROW 090051Z
+SAD  KSAD,Safford Regional Airport,37.0,KSAD 090051Z
+COT  KCOT,Cotulla-La Salle County Airport,37.0,KCOT 090053Z
