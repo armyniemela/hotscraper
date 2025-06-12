@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OEMN,,45.0,OEMN 111200Z
-RUH  OERK,King Khaled International Airport,45.0,OERK 111200Z
-AWZ  OIAW,Ahwaz Airport,45.0,OIAW 111200Z
-LYP  OPFA,Faisalabad International Airport,45.0,OPFA 111200Z
-MUX  OPMT,Multan International Airport,45.0,OPMT 111200Z
-BSR  ORMM,Basrah International Airport,45.0,ORMM 111200Z
-NJF  ORNI,Al Najaf International Airport,45.0,ORNI 111200Z
-ATQ  VIAR,Sri Guru Ram Dass Jee International Airport,45.0,VIAR 111200Z
-SKT  OPST,Sialkot Airport,45.0,OPST 111230Z
-AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 111155Z
-XJD  OTBH,Al Udeid Air Base,44.0,OTBH 111155Z
-DHA  OEDR,King Abdulaziz Air Base,44.0,OEDR 111200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,44.0,OEPA 111200Z
-WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 111200Z
-BND  OIKB,Bandar Abbas International Airport,44.0,OIKB 111200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 111200Z
-ISB  OPIS,Islamabad International Airport,44.0,OPIS 111200Z
-BGW  ORBI,Baghdad International Airport,44.0,ORBI 111200Z
-LHE  OPLA,Alama Iqbal International Airport,44.0,OPLA 111230Z
-OOAD,,43.0,OOAD 111150Z
-KQTZ,,43.0,KQTZ
-INZ  DAUI,In Salah Airport,43.0,DAUI 111200Z
-ELQ  OEGS,Gassim Airport,43.0,OEGS 111200Z
-JED  OEJN,King Abdulaziz International Airport,43.0,OEJN 111200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 111200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 111200Z
-AKW  OIAG,Aghajari Airport,43.0,OIAG 111200Z
-DEL  VIDP,Indira Gandhi International Airport,43.0,VIDP 111200Z
-KHS  OOKB,Khasab Air Base,42.0,OOKB 111150Z
-OHS  OOSH,Sohar Airport,42.0,OOSH 111150Z
-BMW  DATM,Bordj Badji Mokhtar Airport,42.0,DATM 111200Z
-AJY  DRZA,Mano Dayak International Airport,42.0,DRZ
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,42.0,GQNO 111200Z
-DWD  OEDM,King Salman Abdulaziz Airport,42.0,OEDM 111200Z
-RAH  OERF,Rafha Domestic Airport,42.0,OERF 111200Z
-AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 111200Z
-PEW  OPPS,Peshawar International Airport,42.0,OPPS 111200Z
-KIK  ORKK,Kirkuk Air Base,42.0,ORKK 111200Z
-JAI  VIJP,Jaipur International Airport,42.0,VIJP 111200Z
-MCT  OOMS,Muscat International Airport,41.0,OOMS 111150Z
-HME  DAUH,Oued Irara Airport,41.0,DAUH 111200Z
-OGX  DAUU,Ain el Beida Airport,41.0,DAUU 111200Z
-DRZF,Diffa Airport,41.0,DRZ
-ATR  GQPA,Atar International Airport,41.0,GQPA 111200Z
+OEMN,,46.0,OEMN 121200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 121200Z
+ABD  OIAA,Abadan Airport,46.0,OIAA 121200Z
+AWZ  OIAW,Ahwaz Airport,46.0,OIAW 121200Z
+BSR  ORMM,Basrah International Airport,46.0,ORMM 121200Z
+NJF  ORNI,Al Najaf International Airport,46.0,ORNI 121200Z
+OHS  OOSH,Sohar Airport,45.0,OOSH 121150Z
+KQTZ,,45.0,KQTZ
+AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 121155Z
+ELQ  OEGS,Gassim Airport,45.0,OEGS 121200Z
+RUH  OERK,King Khaled International Airport,45.0,OERK 121200Z
+IHR  OIZI,Iran Shahr Airport,45.0,OIZ
+AAN  OMAL,Al Ain International Airport,45.0,OMAL 121200Z
+LYP  OPFA,Faisalabad International Airport,45.0,OPFA 121200Z
+BGW  ORBI,Baghdad International Airport,45.0,ORBI 121200Z
+SKT  OPST,Sialkot Airport,45.0,OPST 121230Z
+OOAD,,44.0,OOAD 121150Z
+KHS  OOKB,Khasab Air Base,44.0,OOKB 121150Z
+DMM  OEDF,King Fahd International Airport,44.0,OEDF 121200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 121200Z
+FJR  OMFJ,Fujairah International Airport,44.0,OMFJ 121200Z
+MUX  OPMT,Multan International Airport,44.0,OPMT 121200Z
+KIK  ORKK,Kirkuk Air Base,44.0,ORKK 121200Z
+VEKO,,44.0,VEKO 121200Z
+ATQ  VIAR,Sri Guru Ram Dass Jee International Airport,44.0,VIAR 121200Z
+LHE  OPLA,Alama Iqbal International Airport,44.0,OPLA 121230Z
+INZ  DAUI,In Salah Airport,43.0,DAUI 121200Z
+DWD  OEDM,King Salman Abdulaziz Airport,43.0,OEDM 121200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 121200Z
+RAH  OERF,Rafha Domestic Airport,43.0,OERF 121200Z
+AJF  OESK,Al-Jawf Domestic Airport,43.0,OESK 121200Z
+BND  OIKB,Bandar Abbas International Airport,43.0,OIKB 121200Z
+DWC  OMDW,Al Maktoum International Airport,43.0,OMDW 121200Z
+JAI  VIJP,Jaipur International Airport,43.0,VIJP 121200Z
+OKAS,Ali Al Salem Air Base,42.0,OKAS 121155Z
+DRZF,Diffa Airport,42.0,DRZ
+RAE  OERR,Arar Domestic Airport,42.0,OERR 121200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 121200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 121200Z
+KNR  OIBJ,Jam Airport,42.0,OIBJ 121200Z
+LRR  OISL,Lar Airport,42.0,OISL 121200Z
+DXB  OMDB,Dubai International Airport,42.0,OMDB 121200Z
+RKT  OMRK,Ras Al Khaimah International Airport,42.0,OMRK 121200Z
+SHJ  OMSJ,Sharjah International Airport,42.0,OMSJ 121200Z
+ISB  OPIS,Islamabad International Airport,42.0,OPIS 121200Z
