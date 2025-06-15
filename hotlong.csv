@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OKKK,,49.0,OKKK 141200Z
-NJF  ORNI,Al Najaf International Airport,49.0,ORNI 141200Z
-OEAR,,47.0,OEAR 141200Z
-DMM  OEDF,King Fahd International Airport,47.0,OEDF 141200Z
-MRX  OIAM,Mahshahr Airport,47.0,OIAM 141200Z
-BGW  ORBI,Baghdad International Airport,47.0,ORBI 141200Z
-OOAD,,46.0,OOAD 141150Z
-KQTZ,,46.0,KQTZ
-HOF  OEAH,Al Ahsa Airport,46.0,OEAH 141200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,46.0,OEMA 141200Z
-OEMN,,46.0,OEMN 141200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 141200Z
-AAN  OMAL,Al Ain International Airport,46.0,OMAL 141200Z
-OHS  OOSH,Sohar Airport,45.0,OOSH 141150Z
-OEAO,,45.0,OEAO 141200Z
-OEKJ,,45.0,OEKJ 141200Z
-RAH  OERF,Rafha Domestic Airport,45.0,OERF 141200Z
-RUH  OERK,King Khaled International Airport,45.0,OERK 141200Z
-WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 141200Z
-AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 141155Z
-XJD  OTBH,Al Udeid Air Base,44.0,OTBH 141155Z
-DWD  OEDM,King Salman Abdulaziz Airport,44.0,OEDM 141200Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 141200Z
-AJF  OESK,Al-Jawf Domestic Airport,44.0,OESK 141200Z
-GCH  OIAH,Gachsaran Airport,44.0,OIAH 141200Z
-LRR  OISL,Lar Airport,44.0,OISL 141200Z
-KIK  ORKK,Kirkuk Air Base,44.0,ORKK 141200Z
-KLNC,Lancaster Airport,44.0,KLNC 141215Z
-RAE  OERR,Arar Domestic Airport,43.0,OERR 141200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 141200Z
-IHR  OIZI,Iran Shahr Airport,43.0,OIZ
-LHE  OPLA,Alama Iqbal International Airport,43.0,OPLA 141200Z
-AJY  DRZA,Mano Dayak International Airport,42.0,DRZ
-ASW  HESN,Aswan International Airport,42.0,HESN 141200Z
-BHH  OEBH,Bisha Airport,42.0,OEBH 141200Z
-DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 141200Z
-HAS  OEHL,Ha'il Airport,42.0,OEHL 141200Z
-BND  OIKB,Bandar Abbas International Airport,42.0,OIKB 141200Z
-LYP  OPFA,Faisalabad International Airport,42.0,OPFA 141200Z
-ISU  ORSU,Sulaymaniyah International Airport,42.0,ORSU 141200Z
-GXF  OYSY,Sayun International Airport,42.0,OYSY 141200Z
-KHS  OOKB,Khasab Air Base,41.0,OOKB 141150Z
-INZ  DAUI,In Salah Airport,41.0,DAUI 141200Z
-DRZF,Diffa Airport,41.0,DRZ
-LXR  HELX,Luxor International Airport,41.0,HELX 141200Z
+KGXF,,42.0,KGXF 150055Z
+LGF  KLGF,Laguna Army Airfield,42.0,KLGF 150055Z
+LUF  KLUF,Luke Air Force Base,42.0,KLUF 150055Z
+EED  KEED,Needles Airport,42.0,KEED 150056Z
+HII  KHII,Lake Havasu City Airport,42.0,KHII 150135Z
+KRYN,Ryan Field,41.0,KRYN 150045Z
+KCHD,Chandler Municipal Airport,41.0,KCHD 150047Z
+SAD  KSAD,Safford Regional Airport,41.0,KSAD 150051Z
+PSP  KPSP,Palm Springs International Airport,41.0,KPSP 150053Z
+SCF  KSDL,Scottsdale Airport,41.0,KSDL 150053Z
+CGZ  KCGZ,Casa Grande Municipal Airport,41.0,KCGZ
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),41.0,KNJK 150056Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,41.0,KIWA 150057Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 150057Z
+KA39,,41.0,KA39 150135Z
+BXK  KBXK,Buckeye Municipal Airport,41.0,KBXK 150135Z
+KL08,,41.0,KL08 150135Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 150046Z
+DAG  KDAG,Barstow Daggett Airport,40.0,KDAG 150050Z
+ELP  KELP,El Paso International Airport,40.0,KELP 150051Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,40.0,KTRM 150052Z
+DVT  KDVT,Phoenix Deer Valley Airport,40.0,KDVT 150053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,40.0,KTUS 150053Z
+MSC  KFFZ,Falcon Field,40.0,KFFZ
+DMA  KDMA,Davis Monthan Air Force Base,40.0,KDMA 150055Z
+MZJ  KMZJ,Pinal Airpark,40.0,KMZ
+KP08,,40.0,KP08 150115Z
+AVW  KAVQ,Marana Regional Airport,40.0,KAVQ 150135Z
+KBVU,,40.0,KBVU 150135Z
+CJS  MMCS,Abraham González International Airport,39.0,MMCS 150040Z
+VGT  KVGT,North Las Vegas Airport,39.0,KVGT 150053Z
+KNXP,Twentynine Palms (Self) Airport,39.0,KNXP 150054Z
+BIF  KBIF,Biggs Army Air Field (Fort Bliss),39.0,KBIF 150055Z
+BYS  KBYS,Bicycle Lake Army Air Field,39.0,KBYS 150055Z
+LAS  KLAS,McCarran International Airport,39.0,KLAS 150056Z
+DMN  KDMN,Deming Municipal Airport,38.0,KDMN 150053Z
+HMN  KHMN,Holloman Air Force Base,38.0,KHMN 150055Z
+DUG  KDUG,Bisbee Douglas International Airport,38.0,KDUG 150056Z
+HSH  KHND,Henderson Executive Airport,38.0,KHND 150056Z
+KNID,China Lake Naws (Armitage Field) Airport,38.0,KNID 150056Z
+SGU  KSGU,St George Municipal Airport,38.0,KSGU 150056Z
+OKKK,,38.0,OKKK 150100Z
+GYM  MMGM,General José María Yáñez International Airport,38.0,MMGM 150103Z
+KE77,,38.0,KE77 150115Z
+KDNA,,38.0,KDNA 150135Z
