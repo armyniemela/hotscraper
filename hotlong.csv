@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-XJD  OTBH,Al Udeid Air Base,48.0,OTBH 161155Z
-DMM  OEDF,King Fahd International Airport,48.0,OEDF 161200Z
-KHS  OOKB,Khasab Air Base,47.0,OOKB 161150Z
-DHA  OEDR,King Abdulaziz Air Base,47.0,OEDR 161200Z
-AAN  OMAL,Al Ain International Airport,47.0,OMAL 161200Z
-RKT  OMRK,Ras Al Khaimah International Airport,47.0,OMRK 161200Z
-OOAD,,46.0,OOAD 161150Z
-AKH  OEPS,Prince Sultan Air Base,46.0,OEPS 161155Z
-ELQ  OEGS,Gassim Airport,46.0,OEGS 161200Z
-RUH  OERK,King Khaled International Airport,46.0,OERK 161200Z
-WAE  OEWD,Wadi Al Dawasir Airport,46.0,OEWD 161200Z
-OEAR,,45.0,OEAR 161200Z
-OEKJ,,45.0,OEKJ 161200Z
-NJF  ORNI,Al Najaf International Airport,45.0,ORNI 161200Z
-DWD  OEDM,King Salman Abdulaziz Airport,44.0,OEDM 161200Z
-SHW  OESH,Sharurah Airport,44.0,OESH 161200Z
-GXF  OYSY,Sayun International Airport,44.0,OYSY 161200Z
-KQTZ,,43.0,KQTZ
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 161200Z
-OEMN,,43.0,OEMN 161200Z
-KATP,,43.0,KATP 161215Z
-OHS  OOSH,Sohar Airport,42.0,OOSH 161150Z
-BMW  DATM,Bordj Badji Mokhtar Airport,42.0,DATM 161200Z
-INZ  DAUI,In Salah Airport,42.0,DAUI 161200Z
-OEAO,,42.0,OEAO 161200Z
-RAH  OERF,Rafha Domestic Airport,42.0,OERF 161200Z
-BGW  ORBI,Baghdad International Airport,42.0,ORBI 161200Z
-VVZ  DAAP,Illizi Takhamalt Airport,41.0,DAAP 161200Z
-GAQ  GAGO,Gao Airport,41.0,GAGO 161200Z
-BHH  OEBH,Bisha Airport,41.0,OEBH 161200Z
-ASB  UTAA,Ashgabat International Airport,41.0,UTAA 161200Z
-UTAE,,41.0,UTAE 161200Z
-NCU  UTNN,Nukus Airport,41.0,UTNN 161200Z
-BHK  UTSB,Bukhara Airport,41.0,UTSB 161200Z
-SHJ  OMSJ,Sharjah International Airport,41.0,OMSJ 161230Z
-AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
-HAS  OEHL,Ha'il Airport,40.0,OEHL 161200Z
-EAM  OENG,Nejran Airport,40.0,OENG 161200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,40.0,OEYN 161200Z
-KIK  ORKK,Kirkuk Air Base,40.0,ORKK 161200Z
-AXK  OYAT,Ataq Airport,40.0,OYAT 161200Z
-KZO  UAOO,Kzyl-Orda Southwest Airport,40.0,UAOO 161200Z
-MYP  UTAM,Mary Airport,40.0,UTAM 161200Z
-TAZ  UTAT,Daşoguz Airport,40.0,UTAT 161200Z
-NVI  UTSA,Navoi Airport,40.0,UTSA 161200Z
+KCHD,Chandler Municipal Airport,44.0,KCHD 170047Z
+KGEU,Glendale Municipal Airport,44.0,KGEU 170047Z
+GYR  KGYR,Phoenix Goodyear Airport,44.0,KGYR 170047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,44.0,KPHX 170051Z
+KGXF,,44.0,KGXF 170055Z
+LUF  KLUF,Luke Air Force Base,44.0,KLUF 170055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),44.0,KNJK 170056Z
+HII  KHII,Lake Havasu City Airport,44.0,KHII 170135Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,43.0,KIWA 170050Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,43.0,KTRM 170052Z
+SCF  KSDL,Scottsdale Airport,43.0,KSDL 170053Z
+MSC  KFFZ,Falcon Field,43.0,KFFZ
+LGF  KLGF,Laguna Army Airfield,43.0,KLGF 170055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,43.0,KCGZ
+KA39,,43.0,KA39 170135Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,42.0,MMML 170040Z
+KRYN,Ryan Field,42.0,KRYN 170045Z
+DVT  KDVT,Phoenix Deer Valley Airport,42.0,KDVT 170053Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,42.0,KNYL 170057Z
+AVW  KAVQ,Marana Regional Airport,42.0,KAVQ 170135Z
+KL08,,42.0,KL08 170135Z
+MZJ  KMZJ,Pinal Airpark,42.0,KMZ
+KP08,,42.0,KP08 170135Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,41.0,KTUS 170053Z
+VGT  KVGT,North Las Vegas Airport,41.0,KVGT 170053Z
+KNXP,Twentynine Palms (Self) Airport,41.0,KNXP 170054Z
+DMA  KDMA,Davis Monthan Air Force Base,41.0,KDMA 170055Z
+LAS  KLAS,McCarran International Airport,41.0,KLAS 170056Z
+KBVU,,41.0,KBVU 170135Z
+BXK  KBXK,Buckeye Municipal Airport,41.0,KBXK 170135Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,40.0,MMHO 170040Z
+ELP  KELP,El Paso International Airport,40.0,KELP 170051Z
+SAD  KSAD,Safford Regional Airport,40.0,KSAD 170051Z
+BIF  KBIF,Biggs Army Air Field (Fort Bliss),40.0,KBIF 170055Z
+LSV  KLSV,Nellis Air Force Base,40.0,KLSV 170055Z
+HSH  KHND,Henderson Executive Airport,40.0,KHND 170056Z
+SGU  KSGU,St George Municipal Airport,40.0,KSGU 170056Z
+CJS  MMCS,Abraham González International Airport,39.0,MMCS 170040Z
+DAG  KDAG,Barstow Daggett Airport,39.0,KDAG 170050Z
+DRA  KDRA,Desert Rock Airport,39.0,KDRA 170053Z
+HMN  KHMN,Holloman Air Force Base,39.0,KHMN 170055Z
+INS  KINS,Creech Air Force Base,39.0,KINS 170055Z
+IGM  KIGM,Kingman Airport,38.0,KIGM 170051Z
+DMN  KDMN,Deming Municipal Airport,38.0,KDMN 170053Z
+BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 170055Z
