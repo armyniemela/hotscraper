@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KCHD,Chandler Municipal Airport,44.0,KCHD 170047Z
-KGEU,Glendale Municipal Airport,44.0,KGEU 170047Z
-GYR  KGYR,Phoenix Goodyear Airport,44.0,KGYR 170047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,44.0,KPHX 170051Z
-KGXF,,44.0,KGXF 170055Z
-LUF  KLUF,Luke Air Force Base,44.0,KLUF 170055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),44.0,KNJK 170056Z
-HII  KHII,Lake Havasu City Airport,44.0,KHII 170135Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,43.0,KIWA 170050Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,43.0,KTRM 170052Z
-SCF  KSDL,Scottsdale Airport,43.0,KSDL 170053Z
-MSC  KFFZ,Falcon Field,43.0,KFFZ
-LGF  KLGF,Laguna Army Airfield,43.0,KLGF 170055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,43.0,KCGZ
-KA39,,43.0,KA39 170135Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,42.0,MMML 170040Z
-KRYN,Ryan Field,42.0,KRYN 170045Z
-DVT  KDVT,Phoenix Deer Valley Airport,42.0,KDVT 170053Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,42.0,KNYL 170057Z
-AVW  KAVQ,Marana Regional Airport,42.0,KAVQ 170135Z
-KL08,,42.0,KL08 170135Z
-MZJ  KMZJ,Pinal Airpark,42.0,KMZ
-KP08,,42.0,KP08 170135Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,41.0,KTUS 170053Z
-VGT  KVGT,North Las Vegas Airport,41.0,KVGT 170053Z
-KNXP,Twentynine Palms (Self) Airport,41.0,KNXP 170054Z
-DMA  KDMA,Davis Monthan Air Force Base,41.0,KDMA 170055Z
-LAS  KLAS,McCarran International Airport,41.0,KLAS 170056Z
-KBVU,,41.0,KBVU 170135Z
-BXK  KBXK,Buckeye Municipal Airport,41.0,KBXK 170135Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,40.0,MMHO 170040Z
-ELP  KELP,El Paso International Airport,40.0,KELP 170051Z
-SAD  KSAD,Safford Regional Airport,40.0,KSAD 170051Z
-BIF  KBIF,Biggs Army Air Field (Fort Bliss),40.0,KBIF 170055Z
-LSV  KLSV,Nellis Air Force Base,40.0,KLSV 170055Z
-HSH  KHND,Henderson Executive Airport,40.0,KHND 170056Z
-SGU  KSGU,St George Municipal Airport,40.0,KSGU 170056Z
-CJS  MMCS,Abraham González International Airport,39.0,MMCS 170040Z
-DAG  KDAG,Barstow Daggett Airport,39.0,KDAG 170050Z
-DRA  KDRA,Desert Rock Airport,39.0,KDRA 170053Z
-HMN  KHMN,Holloman Air Force Base,39.0,KHMN 170055Z
-INS  KINS,Creech Air Force Base,39.0,KINS 170055Z
-IGM  KIGM,Kingman Airport,38.0,KIGM 170051Z
-DMN  KDMN,Deming Municipal Airport,38.0,KDMN 170053Z
-BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 170055Z
+XJD  OTBH,Al Udeid Air Base,45.0,OTBH 171155Z
+HOF  OEAH,Al Ahsa Airport,45.0,OEAH 171200Z
+ELQ  OEGS,Gassim Airport,45.0,OEGS 171200Z
+OEKJ,,45.0,OEKJ 171200Z
+RUH  OERK,King Khaled International Airport,45.0,OERK 171200Z
+OKKK,,45.0,OKKK 171200Z
+OKAS,Ali Al Salem Air Base,44.0,OKAS 171155Z
+BMW  DATM,Bordj Badji Mokhtar Airport,44.0,DATM 171200Z
+DWD  OEDM,King Salman Abdulaziz Airport,44.0,OEDM 171200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 171200Z
+SHW  OESH,Sharurah Airport,44.0,OESH 171200Z
+BSR  ORMM,Basrah International Airport,44.0,ORMM 171200Z
+DIA  OTBD,Doha International Airport,44.0,OTBD 171200Z
+OHS  OOSH,Sohar Airport,43.0,OOSH 171150Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 171200Z
+RKT  OMRK,Ras Al Khaimah International Airport,43.0,OMRK 171200Z
+GXF  OYSY,Sayun International Airport,43.0,OYSY 171200Z
+AJY  DRZA,Mano Dayak International Airport,42.0,DRZ
+GAQ  GAGO,Gao Airport,42.0,GAGO 171200Z
+DMM  OEDF,King Fahd International Airport,42.0,OEDF 171200Z
+DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 171200Z
+OEMN,,42.0,OEMN 171200Z
+DOH  OTHH,Hamad International Airport,42.0,OTHH 171200Z
+KZO  UAOO,Kzyl-Orda Southwest Airport,42.0,UAOO 171200Z
+UTAE,,42.0,UTAE 171200Z
+MYP  UTAM,Mary Airport,42.0,UTAM 171200Z
+CRZ  UTAV,Turkmenabat Airport,42.0,UTAV 171200Z
+TMJ  UTST,Termez Airport,42.0,UTST 171200Z
+OEAO,,41.0,OEAO 171200Z
+BHH  OEBH,Bisha Airport,41.0,OEBH 171200Z
+HAS  OEHL,Ha'il Airport,41.0,OEHL 171200Z
+RAH  OERF,Rafha Domestic Airport,41.0,OERF 171200Z
+NJF  ORNI,Al Najaf International Airport,41.0,ORNI 171200Z
+NVI  UTSA,Navoi Airport,41.0,UTSA 171200Z
+BHK  UTSB,Bukhara Airport,41.0,UTSB 171200Z
+UTSK,,41.0,UTSK 171200Z
+PEW  OPPS,Peshawar International Airport,40.0,OPPS 171130Z
+BSK  DAUB,Biskra Airport,40.0,DAUB 171200Z
+BEM  GMMD,Beni Mellal Airport,40.0,GMMD 171200Z
+EAM  OENG,Nejran Airport,40.0,OENG 171200Z
+AJF  OESK,Al-Jawf Domestic Airport,40.0,OESK 171200Z
+FJR  OMFJ,Fujairah International Airport,40.0,OMFJ 171200Z
+BGW  ORBI,Baghdad International Airport,40.0,ORBI 171200Z
+UAIT,,40.0,UAIT 171200Z
+KQT  UTDT,Qurghonteppa International Airport,40.0,UTDT 171200Z
