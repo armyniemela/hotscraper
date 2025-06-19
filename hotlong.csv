@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KCHD,Chandler Municipal Airport,43.0,KCHD 190047Z
-KGEU,Glendale Municipal Airport,43.0,KGEU 190047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,43.0,KPHX 190051Z
-BLH  KBLH,Blythe Airport,43.0,KBLH 190052Z
-IPL  KIPL,Imperial County Airport,43.0,KIPL 190053Z
-PSP  KPSP,Palm Springs International Airport,43.0,KPSP 190053Z
-LGF  KLGF,Laguna Army Airfield,43.0,KLGF 190055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),43.0,KNJK 190056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,43.0,KNYL 190057Z
-KRYN,Ryan Field,42.0,KRYN 190045Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,42.0,KIWA 190048Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,42.0,MMML 190048Z
-DAG  KDAG,Barstow Daggett Airport,42.0,KDAG 190050Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,42.0,KTRM 190052Z
-SCF  KSDL,Scottsdale Airport,42.0,KSDL 190053Z
-VGT  KVGT,North Las Vegas Airport,42.0,KVGT 190053Z
-MSC  KFFZ,Falcon Field,42.0,KFFZ
-LSV  KLSV,Nellis Air Force Base,42.0,KLSV 190055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,42.0,KCGZ
-LAS  KLAS,McCarran International Airport,42.0,KLAS 190056Z
-KNID,China Lake Naws (Armitage Field) Airport,42.0,KNID 190056Z
-KA39,,42.0,KA39 190135Z
-KBVU,,42.0,KBVU 190135Z
-KL08,,42.0,KL08 190135Z
-KP08,,42.0,KP08 190135Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,41.0,MMHO 190040Z
-SAD  KSAD,Safford Regional Airport,41.0,KSAD 190051Z
-DVT  KDVT,Phoenix Deer Valley Airport,41.0,KDVT 190053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,41.0,KTUS 190053Z
-KNXP,Twentynine Palms (Self) Airport,41.0,KNXP 190054Z
-DMA  KDMA,Davis Monthan Air Force Base,41.0,KDMA 190055Z
-HSH  KHND,Henderson Executive Airport,41.0,KHND 190056Z
-AVW  KAVQ,Marana Regional Airport,41.0,KAVQ 190135Z
-BXK  KBXK,Buckeye Municipal Airport,41.0,KBXK 190135Z
-MZJ  KMZJ,Pinal Airpark,41.0,KMZ
-DRA  KDRA,Desert Rock Airport,40.0,KDRA 190053Z
-RDD  KRDD,Redding Municipal Airport,40.0,KRDD 190053Z
-BYS  KBYS,Bicycle Lake Army Air Field,40.0,KBYS 190055Z
-INS  KINS,Creech Air Force Base,40.0,KINS 190055Z
-SGU  KSGU,St George Municipal Airport,40.0,KSGU 190056Z
-EDW  KEDW,Edwards Air Force Base,40.0,KEDW 190112Z
-K9L2,,40.0,K9L2 190120Z
-VCV  KVCV,Southern California Logistics Airport,39.0,KVCV 190135Z
-CUU  MMCU,General Roberto Fierro Villalobos International Airport,38.0,MMCU 190040Z
-IGM  KIGM,Kingman Airport,38.0,KIGM 190051Z
+LRR  OISL,Lar Airport,45.0,OISL 191200Z
+HOF  OEAH,Al Ahsa Airport,44.0,OEAH 191200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 191200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 191200Z
+ABD  OIAA,Abadan Airport,44.0,OIAA 191200Z
+MRX  OIAM,Mahshahr Airport,44.0,OIAM 191200Z
+OKKK,,44.0,OKKK 191200Z
+BSR  ORMM,Basrah International Airport,44.0,ORMM 191200Z
+OKAS,Ali Al Salem Air Base,43.0,OKAS 191155Z
+INZ  DAUI,In Salah Airport,43.0,DAUI 191200Z
+SHW  OESH,Sharurah Airport,43.0,OESH 191200Z
+ACZ  OIZB,Zabol Airport,43.0,OIZ
+AAN  OMAL,Al Ain International Airport,43.0,OMAL 191200Z
+NJF  ORNI,Al Najaf International Airport,43.0,ORNI 191200Z
+KHS  OOKB,Khasab Air Base,42.0,OOKB 191150Z
+AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 191155Z
+RAK  GMMX,Menara Airport,42.0,GMMX 191200Z
+DMM  OEDF,King Fahd International Airport,42.0,OEDF 191200Z
+OEKJ,,42.0,OEKJ 191200Z
+OEMN,,42.0,OEMN 191200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 191200Z
+RUH  OERK,King Khaled International Airport,42.0,OERK 191200Z
+MUX  OPMT,Multan International Airport,42.0,OPMT 191200Z
+PEW  OPPS,Peshawar International Airport,42.0,OPPS 191200Z
+BGW  ORBI,Baghdad International Airport,42.0,ORBI 191200Z
+GXF  OYSY,Sayun International Airport,42.0,OYSY 191200Z
+OHS  OOSH,Sohar Airport,41.0,OOSH 191150Z
+KQTZ,,41.0,KQTZ
+OEAO,,41.0,OEAO 191200Z
+DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 191200Z
+DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 191200Z
+ELQ  OEGS,Gassim Airport,41.0,OEGS 191200Z
+GCH  OIAH,Gachsaran Airport,41.0,OIAH 191200Z
+LYP  OPFA,Faisalabad International Airport,41.0,OPFA 191200Z
+AXK  OYAT,Ataq Airport,41.0,OYAT 191200Z
+TMJ  UTST,Termez Airport,41.0,UTST 191200Z
+XJD  OTBH,Al Udeid Air Base,40.0,OTBH 191155Z
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+TOM  GATB,Timbuktu Airport,40.0,GATB 191200Z
+CMN  GMMN,Mohammed V International Airport,40.0,GMMN 191200Z
+BHH  OEBH,Bisha Airport,40.0,OEBH 191200Z
+RAH  OERF,Rafha Domestic Airport,40.0,OERF 191200Z
+BND  OIKB,Bandar Abbas International Airport,40.0,OIKB 191200Z
+FAZ  OISF,Fasa Airport,40.0,OISF 191200Z
+ISB  OPIS,Islamabad International Airport,40.0,OPIS 191200Z
