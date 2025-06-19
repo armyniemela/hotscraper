@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HOF  OEAH,Al Ahsa Airport,45.0,OEAH 181200Z
-ABD  OIAA,Abadan Airport,45.0,OIAA 181200Z
-OKKK,,45.0,OKKK 181200Z
-OKAS,Ali Al Salem Air Base,44.0,OKAS 181155Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 181200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 181200Z
-LRR  OISL,Lar Airport,44.0,OISL 181200Z
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 181200Z
-AKH  OEPS,Prince Sultan Air Base,43.0,OEPS 181155Z
-DWD  OEDM,King Salman Abdulaziz Airport,43.0,OEDM 181200Z
-OEKJ,,43.0,OEKJ 181200Z
-RUH  OERK,King Khaled International Airport,43.0,OERK 181200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 181200Z
-WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 181200Z
-PGU  OIBP,Persian Gulf International Airport,43.0,OIBP 181200Z
-DIA  OTBD,Doha International Airport,43.0,OTBD 181200Z
-GXF  OYSY,Sayun International Airport,43.0,OYSY 181200Z
-TMJ  UTST,Termez Airport,43.0,UTST 181200Z
-OOAD,,42.0,OOAD 181150Z
-XJD  OTBH,Al Udeid Air Base,42.0,OTBH 181155Z
-INZ  DAUI,In Salah Airport,42.0,DAUI 181200Z
-GAQ  GAGO,Gao Airport,42.0,GAGO 181200Z
-GMD  GMMB,Ben Slimane Airport,42.0,GMMB 181200Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 181200Z
-OEMN,,42.0,OEMN 181200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 181200Z
-KNR  OIBJ,Jam Airport,42.0,OIBJ 181200Z
-NJF  ORNI,Al Najaf International Airport,42.0,ORNI 181200Z
-UTAE,,42.0,UTAE 181200Z
-HME  DAUH,Oued Irara Airport,41.0,DAUH 181200Z
-DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 181200Z
-HAS  OEHL,Ha'il Airport,41.0,OEHL 181200Z
-GCH  OIAH,Gachsaran Airport,41.0,OIAH 181200Z
-AZD  OIYY,Shahid Sadooghi Airport,41.0,OIYY 181200Z
-DOH  OTHH,Hamad International Airport,41.0,OTHH 181200Z
-UAIT,,41.0,UAIT 181200Z
-TJU  UTDK,Kulob Airport,41.0,UTDK 181200Z
-KQT  UTDT,Qurghonteppa International Airport,41.0,UTDT 181200Z
-NVI  UTSA,Navoi Airport,41.0,UTSA 181200Z
-BHK  UTSB,Bukhara Airport,41.0,UTSB 181200Z
-UTSK,,41.0,UTSK 181200Z
-KHS  OOKB,Khasab Air Base,40.0,OOKB 181150Z
-KQTZ,,40.0,KQTZ
-RAK  GMMX,Menara Airport,40.0,GMMX 181200Z
-OEAO,,40.0,OEAO 181200Z
+KCHD,Chandler Municipal Airport,43.0,KCHD 190047Z
+KGEU,Glendale Municipal Airport,43.0,KGEU 190047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,43.0,KPHX 190051Z
+BLH  KBLH,Blythe Airport,43.0,KBLH 190052Z
+IPL  KIPL,Imperial County Airport,43.0,KIPL 190053Z
+PSP  KPSP,Palm Springs International Airport,43.0,KPSP 190053Z
+LGF  KLGF,Laguna Army Airfield,43.0,KLGF 190055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),43.0,KNJK 190056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,43.0,KNYL 190057Z
+KRYN,Ryan Field,42.0,KRYN 190045Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,42.0,KIWA 190048Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,42.0,MMML 190048Z
+DAG  KDAG,Barstow Daggett Airport,42.0,KDAG 190050Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,42.0,KTRM 190052Z
+SCF  KSDL,Scottsdale Airport,42.0,KSDL 190053Z
+VGT  KVGT,North Las Vegas Airport,42.0,KVGT 190053Z
+MSC  KFFZ,Falcon Field,42.0,KFFZ
+LSV  KLSV,Nellis Air Force Base,42.0,KLSV 190055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,42.0,KCGZ
+LAS  KLAS,McCarran International Airport,42.0,KLAS 190056Z
+KNID,China Lake Naws (Armitage Field) Airport,42.0,KNID 190056Z
+KA39,,42.0,KA39 190135Z
+KBVU,,42.0,KBVU 190135Z
+KL08,,42.0,KL08 190135Z
+KP08,,42.0,KP08 190135Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,41.0,MMHO 190040Z
+SAD  KSAD,Safford Regional Airport,41.0,KSAD 190051Z
+DVT  KDVT,Phoenix Deer Valley Airport,41.0,KDVT 190053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,41.0,KTUS 190053Z
+KNXP,Twentynine Palms (Self) Airport,41.0,KNXP 190054Z
+DMA  KDMA,Davis Monthan Air Force Base,41.0,KDMA 190055Z
+HSH  KHND,Henderson Executive Airport,41.0,KHND 190056Z
+AVW  KAVQ,Marana Regional Airport,41.0,KAVQ 190135Z
+BXK  KBXK,Buckeye Municipal Airport,41.0,KBXK 190135Z
+MZJ  KMZJ,Pinal Airpark,41.0,KMZ
+DRA  KDRA,Desert Rock Airport,40.0,KDRA 190053Z
+RDD  KRDD,Redding Municipal Airport,40.0,KRDD 190053Z
+BYS  KBYS,Bicycle Lake Army Air Field,40.0,KBYS 190055Z
+INS  KINS,Creech Air Force Base,40.0,KINS 190055Z
+SGU  KSGU,St George Municipal Airport,40.0,KSGU 190056Z
+EDW  KEDW,Edwards Air Force Base,40.0,KEDW 190112Z
+K9L2,,40.0,K9L2 190120Z
+VCV  KVCV,Southern California Logistics Airport,39.0,KVCV 190135Z
+CUU  MMCU,General Roberto Fierro Villalobos International Airport,38.0,MMCU 190040Z
+IGM  KIGM,Kingman Airport,38.0,KIGM 190051Z
