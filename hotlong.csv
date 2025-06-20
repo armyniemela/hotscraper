@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KGEU,Glendale Municipal Airport,44.0,KGEU 200055Z
-KGXF,,44.0,KGXF 200055Z
-LUF  KLUF,Luke Air Force Base,44.0,KLUF 200055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,44.0,KCGZ
-EED  KEED,Needles Airport,44.0,KEED 200056Z
-BLH  KBLH,Blythe Airport,43.0,KBLH 200052Z
-SCF  KSDL,Scottsdale Airport,43.0,KSDL 200053Z
-DMA  KDMA,Davis Monthan Air Force Base,43.0,KDMA 200055Z
-LGF  KLGF,Laguna Army Airfield,43.0,KLGF 200055Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,43.0,KNYL 200057Z
-MSC  KFFZ,Falcon Field,43.0,KFFZ
-AVW  KAVQ,Marana Regional Airport,43.0,KAVQ 200135Z
-HII  KHII,Lake Havasu City Airport,43.0,KHII 200135Z
-MZJ  KMZJ,Pinal Airpark,43.0,KMZ
-KP08,,43.0,KP08 200135Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,42.0,MMHO 200040Z
-SAD  KSAD,Safford Regional Airport,42.0,KSAD 200051Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,42.0,KTRM 200052Z
-DVT  KDVT,Phoenix Deer Valley Airport,42.0,KDVT 200053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,42.0,KTUS 200053Z
-KA39,,42.0,KA39 200135Z
-VGT  KVGT,North Las Vegas Airport,41.0,KVGT 200053Z
-BXK  KBXK,Buckeye Municipal Airport,41.0,KBXK 200135Z
-PSP  KPSP,Palm Springs International Airport,40.0,KPSP 200053Z
-HSH  KHND,Henderson Executive Airport,40.0,KHND 200056Z
-LAS  KLAS,McCarran International Airport,40.0,KLAS 200056Z
-SGU  KSGU,St George Municipal Airport,40.0,KSGU 200056Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 200133Z
-KBVU,,40.0,KBVU 200135Z
-KE77,,40.0,KE77 200135Z
-DAG  KDAG,Barstow Daggett Airport,39.0,KDAG 200050Z
-BYS  KBYS,Bicycle Lake Army Air Field,39.0,KBYS 200055Z
-DUG  KDUG,Bisbee Douglas International Airport,39.0,KDUG 200056Z
-KL08,,39.0,KL08 200135Z
-CEN  MMCN,Ciudad Obregón International Airport,38.0,MMCN 200040Z
-DMN  KDMN,Deming Municipal Airport,38.0,KDMN 200053Z
-IPL  KIPL,Imperial County Airport,38.0,KIPL 200053Z
-PGA  KPGA,Page Municipal Airport,38.0,KPGA 200053Z
-OLS  KOLS,Nogales International Airport,38.0,KOLS 200054Z
-SLC  KSLC,Salt Lake City International Airport,38.0,KSLC 200054Z
-INS  KINS,Creech Air Force Base,38.0,KINS 200055Z
-KU16,,38.0,KU16 200055Z
-ENV  KENV,Wendover Airport,38.0,KENV 200056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 200056Z
-FHU  KFHU,Sierra Vista Municipal Airport / Libby Army Air Field,38.0,KFHU 200059Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,44.0,OEYN 201200Z
+AAN  OMAL,Al Ain International Airport,44.0,OMAL 201200Z
+VVZ  DAAP,Illizi Takhamalt Airport,43.0,DAAP 201200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,43.0,DATM 201200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 201200Z
+WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 201200Z
+MUX  OPMT,Multan International Airport,43.0,OPMT 201200Z
+BGW  ORBI,Baghdad International Airport,43.0,ORBI 201200Z
+KIK  ORKK,Kirkuk Air Base,43.0,ORKK 201200Z
+GXF  OYSY,Sayun International Airport,43.0,OYSY 201200Z
+AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 201155Z
+XJD  OTBH,Al Udeid Air Base,42.0,OTBH 201155Z
+INZ  DAUI,In Salah Airport,42.0,DAUI 201200Z
+OEAO,,42.0,OEAO 201200Z
+DMM  OEDF,King Fahd International Airport,42.0,OEDF 201200Z
+DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 201200Z
+OEKJ,,42.0,OEKJ 201200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 201200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 201200Z
+DIA  OTBD,Doha International Airport,42.0,OTBD 201200Z
+OHS  OOSH,Sohar Airport,41.0,OOSH 201150Z
+TIN  DAOF,Tindouf Airport,41.0,DAOF 201200Z
+BEM  GMMD,Beni Mellal Airport,41.0,GMMD 201200Z
+ELQ  OEGS,Gassim Airport,41.0,OEGS 201200Z
+OEMN,,41.0,OEMN 201200Z
+RAH  OERF,Rafha Domestic Airport,41.0,OERF 201200Z
+RUH  OERK,King Khaled International Airport,41.0,OERK 201200Z
+RAE  OERR,Arar Domestic Airport,41.0,OERR 201200Z
+LYP  OPFA,Faisalabad International Airport,41.0,OPFA 201200Z
+ISB  OPIS,Islamabad International Airport,41.0,OPIS 201200Z
+PEW  OPPS,Peshawar International Airport,41.0,OPPS 201200Z
+EBL  ORER,Erbil International Airport,41.0,ORER 201200Z
+KHS  OOKB,Khasab Air Base,40.0,OOKB 201150Z
+MCT  OOMS,Muscat International Airport,40.0,OOMS 201150Z
+TMX  DAUT,Timimoun Airport,40.0,DAUT 201200Z
+IAM  DAUZ,In Aménas Airport,40.0,DAUZ
+AJY  DRZA,Mano Dayak International Airport,40.0,DRZ
+DRZF,Diffa Airport,40.0,DRZ
+FEZ  GMFF,Saïss Airport,40.0,GMFF 201200Z
+BHH  OEBH,Bisha Airport,40.0,OEBH 201200Z
+DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 201200Z
+AJF  OESK,Al-Jawf Domestic Airport,40.0,OESK 201200Z
+ISU  ORSU,Sulaymaniyah International Airport,40.0,ORSU 201200Z
+DOH  OTHH,Hamad International Airport,40.0,OTHH 201200Z
+AXK  OYAT,Ataq Airport,40.0,OYAT 201200Z
