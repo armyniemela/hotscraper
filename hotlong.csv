@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-EED  KEED,Needles Airport,42.0,KEED 210056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,42.0,KNYL 210057Z
-HII  KHII,Lake Havasu City Airport,42.0,KHII 210115Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,41.0,MMML 210043Z
-GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 210047Z
-KGEU,Glendale Municipal Airport,41.0,KGEU 210051Z
-MSC  KFFZ,Falcon Field,41.0,KFFZ
-KGXF,,41.0,KGXF 210055Z
-LUF  KLUF,Luke Air Force Base,41.0,KLUF 210055Z
-SAD  KSAD,Safford Regional Airport,40.0,KSAD 210051Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,40.0,KTRM 210052Z
-SCF  KSDL,Scottsdale Airport,40.0,KSDL 210053Z
-CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
-KA39,,40.0,KA39 210115Z
-AVW  KAVQ,Marana Regional Airport,40.0,KAVQ 210115Z
-BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 210115Z
-KP08,,40.0,KP08 210115Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,39.0,MMHO 210040Z
-DVT  KDVT,Phoenix Deer Valley Airport,39.0,KDVT 210053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,39.0,KTUS 210053Z
-DMA  KDMA,Davis Monthan Air Force Base,39.0,KDMA 210055Z
-LSV  KLSV,Nellis Air Force Base,39.0,KLSV 210055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),39.0,KNJK 210056Z
-KBVU,,39.0,KBVU 210115Z
-MZJ  KMZJ,Pinal Airpark,39.0,KMZ
-PSP  KPSP,Palm Springs International Airport,38.0,KPSP 210053Z
-VGT  KVGT,North Las Vegas Airport,38.0,KVGT 210053Z
-HMN  KHMN,Holloman Air Force Base,38.0,KHMN 210055Z
-LAS  KLAS,McCarran International Airport,38.0,KLAS 210056Z
-RAP  KRAP,Rapid City Regional Airport,37.0,KRAP 210052Z
-MCK  KMCK,Mc Cook Ben Nelson Regional Airport,37.0,KMCK 210053Z
-BIF  KBIF,Biggs Army Air Field (Fort Bliss),37.0,KBIF 210055Z
-INS  KINS,Creech Air Force Base,37.0,KINS 210055Z
-HSH  KHND,Henderson Executive Airport,37.0,KHND 210056Z
-SGU  KSGU,St George Municipal Airport,37.0,KSGU 210056Z
-KCSB,Cambridge Municipal Airport,37.0,KCSB 210115Z
-KE77,,37.0,KE77 210115Z
-LSB  KLSB,Lordsburg Municipal Airport,37.0,KLSB 210115Z
-KPRS,Presidio Lely International Airport,37.0,KPRS 210115Z
-KSYF,Cheyenne County Municipal Airport,37.0,KSYF 210115Z
-KT89,,37.0,KT89 210115Z
-CJS  MMCS,Abraham González International Airport,36.0,MMCS 210040Z
-BJC  KBJC,Rocky Mountain Metropolitan Airport,36.0,KBJC 210045Z
-ELP  KELP,El Paso International Airport,36.0,KELP 210051Z
-DMN  KDMN,Deming Municipal Airport,36.0,KDMN 210053Z
+AAN  OMAL,Al Ain International Airport,45.0,OMAL 211200Z
+XJD  OTBH,Al Udeid Air Base,44.0,OTBH 211155Z
+DMM  OEDF,King Fahd International Airport,44.0,OEDF 211200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 211200Z
+RKT  OMRK,Ras Al Khaimah International Airport,44.0,OMRK 211200Z
+NJF  ORNI,Al Najaf International Airport,44.0,ORNI 211200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 211200Z
+MUX  OPMT,Multan International Airport,43.0,OPMT 211200Z
+AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 211155Z
+DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 211200Z
+ELQ  OEGS,Gassim Airport,42.0,OEGS 211200Z
+OEKJ,,42.0,OEKJ 211200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 211200Z
+OEMN,,42.0,OEMN 211200Z
+RUH  OERK,King Khaled International Airport,42.0,OERK 211200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 211200Z
+BGW  ORBI,Baghdad International Airport,42.0,ORBI 211200Z
+KIK  ORKK,Kirkuk Air Base,42.0,ORKK 211200Z
+GXF  OYSY,Sayun International Airport,42.0,OYSY 211200Z
+SHJ  OMSJ,Sharjah International Airport,42.0,OMSJ 211230Z
+KHS  OOKB,Khasab Air Base,41.0,OOKB 211150Z
+OHS  OOSH,Sohar Airport,41.0,OOSH 211150Z
+BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 211200Z
+AJY  DRZA,Mano Dayak International Airport,41.0,DRZ
+DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 211200Z
+RAH  OERF,Rafha Domestic Airport,41.0,OERF 211200Z
+RAE  OERR,Arar Domestic Airport,41.0,OERR 211200Z
+LYP  OPFA,Faisalabad International Airport,41.0,OPFA 211200Z
+EBL  ORER,Erbil International Airport,41.0,ORER 211200Z
+DXB  OMDB,Dubai International Airport,41.0,OMDB 211230Z
+DWC  OMDW,Al Maktoum International Airport,41.0,OMDW 211230Z
+MCT  OOMS,Muscat International Airport,40.0,OOMS 211150Z
+DRZF,Diffa Airport,40.0,DRZ
+GAQ  GAGO,Gao Airport,40.0,GAGO 211200Z
+OEAO,,40.0,OEAO 211200Z
+JED  OEJN,King Abdulaziz International Airport,40.0,OEJN 211200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,40.0,OEYN 211200Z
+FJR  OMFJ,Fujairah International Airport,40.0,OMFJ 211200Z
+ISU  ORSU,Sulaymaniyah International Airport,40.0,ORSU 211200Z
+AXK  OYAT,Ataq Airport,40.0,OYAT 211200Z
+UTAE,,40.0,UTAE 211200Z
+TMJ  UTST,Termez Airport,40.0,UTST 211200Z
+SXZ  LTCL,Siirt Airport,39.0,LTCL 211150Z
+MQM  LTCR,Mardin Airport,39.0,LTCR 211150Z
+NKT  LTCV,Şırnak Şerafettin Elçi Airport,39.0,LTCV 211150Z
