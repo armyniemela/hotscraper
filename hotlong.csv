@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AAN  OMAL,Al Ain International Airport,45.0,OMAL 221200Z
-NJF  ORNI,Al Najaf International Airport,45.0,ORNI 221200Z
-XJD  OTBH,Al Udeid Air Base,44.0,OTBH 221155Z
-HOF  OEAH,Al Ahsa Airport,44.0,OEAH 221200Z
-KQTZ,,43.0,KQTZ
-BMW  DATM,Bordj Badji Mokhtar Airport,43.0,DATM 221200Z
-DMM  OEDF,King Fahd International Airport,43.0,OEDF 221200Z
-DHA  OEDR,King Abdulaziz Air Base,43.0,OEDR 221200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 221200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 221200Z
-RUH  OERK,King Khaled International Airport,43.0,OERK 221200Z
-WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 221200Z
-BGW  ORBI,Baghdad International Airport,43.0,ORBI 221200Z
-OHS  OOSH,Sohar Airport,42.0,OOSH 221150Z
-AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 221155Z
-AJY  DRZA,Mano Dayak International Airport,42.0,DRZ
-ELQ  OEGS,Gassim Airport,42.0,OEGS 221200Z
-RAE  OERR,Arar Domestic Airport,42.0,OERR 221200Z
-SHW  OESH,Sharurah Airport,42.0,OESH 221200Z
-RKT  OMRK,Ras Al Khaimah International Airport,42.0,OMRK 221200Z
-KIK  ORKK,Kirkuk Air Base,42.0,ORKK 221200Z
-GXF  OYSY,Sayun International Airport,42.0,OYSY 221200Z
-ATR  GQPA,Atar International Airport,41.0,GQPA 221200Z
-OEAO,,41.0,OEAO 221200Z
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 221200Z
-OEKJ,,41.0,OEKJ 221200Z
-OEMN,,41.0,OEMN 221200Z
-RAH  OERF,Rafha Domestic Airport,41.0,OERF 221200Z
-UTAE,,41.0,UTAE 221200Z
-MYP  UTAM,Mary Airport,41.0,UTAM 221200Z
-TMJ  UTST,Termez Airport,41.0,UTST 221200Z
-EMN  GQNI,Néma Airport,40.0,GQNI 221200Z
-BHH  OEBH,Bisha Airport,40.0,OEBH 221200Z
-AJF  OESK,Al-Jawf Domestic Airport,40.0,OESK 221200Z
-MUX  OPMT,Multan International Airport,40.0,OPMT 221200Z
-EBL  ORER,Erbil International Airport,40.0,ORER 221200Z
-ISU  ORSU,Sulaymaniyah International Airport,40.0,ORSU 221200Z
-ASB  UTAA,Ashgabat International Airport,40.0,UTAA 221200Z
-CRZ  UTAV,Turkmenabat Airport,40.0,UTAV 221200Z
-DXB  OMDB,Dubai International Airport,40.0,OMDB 221230Z
-DWC  OMDW,Al Maktoum International Airport,40.0,OMDW 221230Z
-SHJ  OMSJ,Sharjah International Airport,40.0,OMSJ 221230Z
-MCT  OOMS,Muscat International Airport,39.0,OOMS 221150Z
-INZ  DAUI,In Salah Airport,39.0,DAUI 221200Z
-DRZF,Diffa Airport,39.0,DRZ
+KGEU,Glendale Municipal Airport,36.0,KGEU 230047Z
+GYR  KGYR,Phoenix Goodyear Airport,36.0,KGYR 230047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 230050Z
+ELP  KELP,El Paso International Airport,36.0,KELP 230051Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,36.0,KPHX 230051Z
+SAD  KSAD,Safford Regional Airport,36.0,KSAD 230051Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,36.0,KTRM 230052Z
+IML  KIML,Imperial Municipal Airport,36.0,KIML 230053Z
+PSP  KPSP,Palm Springs International Airport,36.0,KPSP 230053Z
+KGXF,,36.0,KGXF 230055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,36.0,KCGZ
+EED  KEED,Needles Airport,36.0,KEED 230056Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),36.0,KNJK 230056Z
+KP08,,36.0,KP08 230115Z
+KA39,,36.0,KA39 230135Z
+AVW  KAVQ,Marana Regional Airport,36.0,KAVQ 230135Z
+CJS  MMCS,Abraham González International Airport,35.0,MMCS 230040Z
+BLH  KBLH,Blythe Airport,35.0,KBLH 230052Z
+IPL  KIPL,Imperial County Airport,35.0,KIPL 230053Z
+MCK  KMCK,Mc Cook Ben Nelson Regional Airport,35.0,KMCK 230053Z
+SCF  KSDL,Scottsdale Airport,35.0,KSDL 230053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,35.0,KTUS 230053Z
+MSC  KFFZ,Falcon Field,35.0,KFFZ
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,35.0,MMML 230054Z
+BIF  KBIF,Biggs Army Air Field (Fort Bliss),35.0,KBIF 230055Z
+HMN  KHMN,Holloman Air Force Base,35.0,KHMN 230055Z
+LGF  KLGF,Laguna Army Airfield,35.0,KLGF 230055Z
+LUF  KLUF,Luke Air Force Base,35.0,KLUF 230055Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,35.0,KNYL 230057Z
+BMW  DATM,Bordj Badji Mokhtar Airport,35.0,DATM 230100Z
+OKKK,,35.0,OKKK 230100Z
+DMA  KDMA,Davis Monthan Air Force Base,35.0,KDMA 230122Z
+HII  KHII,Lake Havasu City Airport,35.0,KHII 230135Z
+KL08,,35.0,KL08 230135Z
+MZJ  KMZJ,Pinal Airpark,35.0,KMZ
+KANE,Anoka County-Blaine (Janes Field) Airport,34.0,KANE 230045Z
+ADS  KADS,Addison Airport,34.0,KADS 230047Z
+MCT  OOMS,Muscat International Airport,34.0,OOMS 230050Z
+ABQ  KABQ,Albuquerque International Sunport,34.0,KABQ 230052Z
+GYY  KGYY,Gary Chicago International Airport,34.0,KGYY 230054Z
+TIN  DAOF,Tindouf Airport,34.0,DAOF 230100Z
+OEMN,,34.0,OEMN 230100Z
+MUX  OPMT,Multan International Airport,34.0,OPMT 230100Z
+K5T9,,34.0,K5T9 230115Z
+BAH  OBBI,Bahrain International Airport,34.0,OBBI 230130Z
