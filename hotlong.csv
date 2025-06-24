@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-FJR  OMFJ,Fujairah International Airport,38.0,OMFJ 240100Z
-KRYN,Ryan Field,37.0,KRYN 240045Z
-OHS  OOSH,Sohar Airport,37.0,OOSH 240050Z
-SAD  KSAD,Safford Regional Airport,37.0,KSAD 240051Z
-BLH  KBLH,Blythe Airport,37.0,KBLH 240052Z
-SCF  KSDL,Scottsdale Airport,37.0,KSDL 240053Z
-MSC  KFFZ,Falcon Field,37.0,KFFZ
-KGXF,,37.0,KGXF 240055Z
-LUF  KLUF,Luke Air Force Base,37.0,KLUF 240055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,37.0,KCGZ
-EED  KEED,Needles Airport,37.0,KEED 240056Z
-BMW  DATM,Bordj Badji Mokhtar Airport,37.0,DATM 240100Z
-KA39,,37.0,KA39 240135Z
-AVW  KAVQ,Marana Regional Airport,37.0,KAVQ 240135Z
-KP08,,37.0,KP08 240135Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,36.0,MMHO 240040Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,36.0,KTRM 240052Z
-KDMH,,36.0,KDMH 240053Z
-DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 240053Z
-LGF  KLGF,Laguna Army Airfield,36.0,KLGF 240055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),36.0,KNJK 240056Z
-OKKK,,36.0,OKKK 240100Z
-DMA  KDMA,Davis Monthan Air Force Base,36.0,KDMA 240123Z
-HII  KHII,Lake Havasu City Airport,36.0,KHII 240135Z
-MZJ  KMZJ,Pinal Airpark,36.0,KMZ
-OOAD,,35.0,OOAD 240050Z
-DRT  KDRT,Del Rio International Airport,35.0,KDRT 240053Z
-IPL  KIPL,Imperial County Airport,35.0,KIPL 240053Z
-PSP  KPSP,Palm Springs International Airport,35.0,KPSP 240053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,35.0,KTUS 240053Z
-DLF  KDLF,DLF Airport,35.0,KDLF 240055Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,35.0,KNYL 240057Z
-DIA  OTBD,Doha International Airport,35.0,OTBD 240130Z
-BXK  KBXK,Buckeye Municipal Airport,35.0,KBXK 240135Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,34.0,MMML 240040Z
-MCT  OOMS,Muscat International Airport,34.0,OOMS 240050Z
-PHL  KPHL,Philadelphia International Airport,34.0,KPHL 240054Z
-RBL  KRBL,Red Bluff Municipal Airport,34.0,KRBL 240054Z
-LDJ  KLDJ,Linden Airport,34.0,KLDJ 240055Z
-LSV  KLSV,Nellis Air Force Base,34.0,KLSV 240055Z
-KT70,,34.0,KT70 240055Z
-INZ  DAUI,In Salah Airport,34.0,DAUI 240100Z
-OEMN,,34.0,OEMN 240100Z
-DOH  OTHH,Hamad International Airport,34.0,OTHH 240100Z
-TSA  RCSS,Taipei Songshan Airport,34.0,RCSS 240130Z
+BSR  ORMM,Basrah International Airport,46.0,ORMM 241200Z
+DMM  OEDF,King Fahd International Airport,45.0,OEDF 241200Z
+DHA  OEDR,King Abdulaziz Air Base,45.0,OEDR 241200Z
+WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 241200Z
+UTAE,,45.0,UTAE 241200Z
+OKAS,Ali Al Salem Air Base,45.0,OKAS 241225Z
+XJD  OTBH,Al Udeid Air Base,44.0,OTBH 241155Z
+BMW  DATM,Bordj Badji Mokhtar Airport,44.0,DATM 241200Z
+ELQ  OEGS,Gassim Airport,44.0,OEGS 241200Z
+NJF  ORNI,Al Najaf International Airport,44.0,ORNI 241200Z
+DIA  OTBD,Doha International Airport,44.0,OTBD 241200Z
+AKH  OEPS,Prince Sultan Air Base,43.0,OEPS 241155Z
+ATR  GQPA,Atar International Airport,43.0,GQPA 241200Z
+OEKJ,,43.0,OEKJ 241200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 241200Z
+RUH  OERK,King Khaled International Airport,43.0,OERK 241200Z
+AAN  OMAL,Al Ain International Airport,43.0,OMAL 241200Z
+BGW  ORBI,Baghdad International Airport,43.0,ORBI 241200Z
+DOH  OTHH,Hamad International Airport,43.0,OTHH 241200Z
+CRZ  UTAV,Turkmenabat Airport,43.0,UTAV 241200Z
+UTSK,,43.0,UTSK 241200Z
+TMJ  UTST,Termez Airport,43.0,UTST 241200Z
+KQTZ,,42.0,KQTZ
+DWD  OEDM,King Salman Abdulaziz Airport,42.0,OEDM 241200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 241200Z
+RAH  OERF,Rafha Domestic Airport,42.0,OERF 241200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 241200Z
+LYP  OPFA,Faisalabad International Airport,42.0,OPFA 241200Z
+MUX  OPMT,Multan International Airport,42.0,OPMT 241200Z
+KIK  ORKK,Kirkuk Air Base,42.0,ORKK 241200Z
+GXF  OYSY,Sayun International Airport,42.0,OYSY 241200Z
+NVI  UTSA,Navoi Airport,42.0,UTSA 241200Z
+BHK  UTSB,Bukhara Airport,42.0,UTSB 241200Z
+SHJ  OMSJ,Sharjah International Airport,42.0,OMSJ 241230Z
+INZ  DAUI,In Salah Airport,41.0,DAUI 241200Z
+ABS  HEBL,Abu Simbel Airport,41.0,HEBL 241200Z
+OEMN,,41.0,OEMN 241200Z
+AJF  OESK,Al-Jawf Domestic Airport,41.0,OESK 241200Z
+RKT  OMRK,Ras Al Khaimah International Airport,41.0,OMRK 241200Z
+PEW  OPPS,Peshawar International Airport,41.0,OPPS 241200Z
+MYP  UTAM,Mary Airport,41.0,UTAM 241200Z
+TJU  UTDK,Kulob Airport,41.0,UTDK 241200Z
+MCT  OOMS,Muscat International Airport,40.0,OOMS 241150Z
+ASW  HESN,Aswan International Airport,40.0,HESN 241200Z
+BAH  OBBI,Bahrain International Airport,40.0,OBBI 241200Z
