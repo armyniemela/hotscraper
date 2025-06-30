@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LGF  KLGF,Laguna Army Airfield,44.0,KLGF 300055Z
-LUF  KLUF,Luke Air Force Base,44.0,KLUF 300055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),44.0,KNJK 300056Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,43.0,MMML 300046Z
-KCHD,Chandler Municipal Airport,43.0,KCHD 300047Z
-BLH  KBLH,Blythe Airport,43.0,KBLH 300052Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,43.0,KTRM 300052Z
-IPL  KIPL,Imperial County Airport,43.0,KIPL 300053Z
-SCF  KSDL,Scottsdale Airport,43.0,KSDL 300053Z
-EED  KEED,Needles Airport,43.0,KEED 300056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,43.0,KNYL 300057Z
-BXK  KBXK,Buckeye Municipal Airport,43.0,KBXK 300135Z
-HII  KHII,Lake Havasu City Airport,43.0,KHII 300135Z
-DVT  KDVT,Phoenix Deer Valley Airport,42.0,KDVT 300053Z
-PSP  KPSP,Palm Springs International Airport,42.0,KPSP 300053Z
-MSC  KFFZ,Falcon Field,42.0,KFFZ
-CGZ  KCGZ,Casa Grande Municipal Airport,42.0,KCGZ
-KP08,,42.0,KP08 300115Z
-KA39,,42.0,KA39 300135Z
-GYM  MMGM,General José María Yáñez International Airport,41.0,MMGM 300040Z
-KRYN,Ryan Field,41.0,KRYN 300045Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,41.0,KTUS 300053Z
-DMA  KDMA,Davis Monthan Air Force Base,41.0,KDMA 300055Z
-MZJ  KMZJ,Pinal Airpark,41.0,KMZ
-AVW  KAVQ,Marana Regional Airport,41.0,KAVQ 300135Z
-RDD  KRDD,Redding Municipal Airport,40.0,KRDD 300053Z
-LSV  KLSV,Nellis Air Force Base,40.0,KLSV 300055Z
-KBVU,,40.0,KBVU 300135Z
-KL08,,40.0,KL08 300135Z
-CEN  MMCN,Ciudad Obregón International Airport,39.0,MMCN 300044Z
-VGT  KVGT,North Las Vegas Airport,39.0,KVGT 300053Z
-KP52,,39.0,KP52 300115Z
-LTO  MMLT,Loreto International Airport,38.0,MMLT 300040Z
-DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 300050Z
-BFL  KBFL,Meadows Field,38.0,KBFL 300054Z
-KNXP,Twentynine Palms (Self) Airport,38.0,KNXP 300054Z
-RBL  KRBL,Red Bluff Municipal Airport,38.0,KRBL 300054Z
-HSH  KHND,Henderson Executive Airport,38.0,KHND 300056Z
-LAS  KLAS,McCarran International Airport,38.0,KLAS 300056Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,38.0,KNLC 300056Z
-SGU  KSGU,St George Municipal Airport,38.0,KSGU 300056Z
-KE77,,38.0,KE77 300115Z
-KO54,,38.0,KO54 300115Z
-INS  KINS,Creech Air Force Base,38.0,KINS 300120Z
-LAP  MMLP,Manuel Márquez de León International Airport,37.0,MMLP 300045Z
+HOF  OEAH,Al Ahsa Airport,48.0,OEAH 301200Z
+DMM  OEDF,King Fahd International Airport,48.0,OEDF 301200Z
+OKKK,,48.0,OKKK 301200Z
+XJD  OTBH,Al Udeid Air Base,46.0,OTBH 301155Z
+DHA  OEDR,King Abdulaziz Air Base,46.0,OEDR 301200Z
+LFM  OISR,Lamerd Airport,46.0,OISR 301200Z
+IHR  OIZI,Iran Shahr Airport,46.0,OIZ
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 301200Z
+MRX  OIAM,Mahshahr Airport,45.0,OIAM 301200Z
+ACZ  OIZB,Zabol Airport,45.0,OIZ
+BGW  ORBI,Baghdad International Airport,45.0,ORBI 301200Z
+AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 301155Z
+BAH  OBBI,Bahrain International Airport,44.0,OBBI 301200Z
+LRR  OISL,Lar Airport,44.0,OISL 301200Z
+AAN  OMAL,Al Ain International Airport,44.0,OMAL 301200Z
+TIN  DAOF,Tindouf Airport,43.0,DAOF 301200Z
+ABS  HEBL,Abu Simbel Airport,43.0,HEBL 301200Z
+OEKJ,,43.0,OEKJ 301200Z
+SHW  OESH,Sharurah Airport,43.0,OESH 301200Z
+WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 301200Z
+GCH  OIAH,Gachsaran Airport,43.0,OIAH 301200Z
+AZD  OIYY,Shahid Sadooghi Airport,43.0,OIYY 301200Z
+KIK  ORKK,Kirkuk Air Base,43.0,ORKK 301200Z
+GXF  OYSY,Sayun International Airport,43.0,OYSY 301200Z
+CMN  GMMN,Mohammed V International Airport,42.0,GMMN 301200Z
+ASW  HESN,Aswan International Airport,42.0,HESN 301200Z
+ELQ  OEGS,Gassim Airport,42.0,OEGS 301200Z
+RAH  OERF,Rafha Domestic Airport,42.0,OERF 301200Z
+RUH  OERK,King Khaled International Airport,42.0,OERK 301200Z
+KNR  OIBJ,Jam Airport,42.0,OIBJ 301200Z
+AFZ  OIMS,Sabzevar National Airport,42.0,OIMS 301200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 301200Z
+INZ  DAUI,In Salah Airport,41.0,DAUI 301200Z
+BEM  GMMD,Beni Mellal Airport,41.0,GMMD 301200Z
+RAK  GMMX,Menara Airport,41.0,GMMX 301200Z
+LXR  HELX,Luxor International Airport,41.0,HELX 301200Z
+BYJ  LPBJ,Beja Airport / Airbase,41.0,LPBJ 301200Z
+JED  OEJN,King Abdulaziz International Airport,41.0,OEJN 301200Z
+OEMN,,41.0,OEMN 301200Z
+RAE  OERR,Arar Domestic Airport,41.0,OERR 301200Z
+KHK  OIBQ,Khark Island Airport,41.0,OIBQ 301200Z
+IFN  OIFM,Esfahan Shahid Beheshti International Airport,41.0,OIFM 301200Z
+FAZ  OISF,Fasa Airport,41.0,OISF 301200Z
+SYZ  OISS,Shiraz Shahid Dastghaib International Airport,41.0,OISS 301200Z
+ISU  ORSU,Sulaymaniyah International Airport,41.0,ORSU 301200Z
