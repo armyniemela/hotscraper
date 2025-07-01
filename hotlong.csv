@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HOF  OEAH,Al Ahsa Airport,48.0,OEAH 301200Z
-DMM  OEDF,King Fahd International Airport,48.0,OEDF 301200Z
-OKKK,,48.0,OKKK 301200Z
-XJD  OTBH,Al Udeid Air Base,46.0,OTBH 301155Z
-DHA  OEDR,King Abdulaziz Air Base,46.0,OEDR 301200Z
-LFM  OISR,Lamerd Airport,46.0,OISR 301200Z
-IHR  OIZI,Iran Shahr Airport,46.0,OIZ
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 301200Z
-MRX  OIAM,Mahshahr Airport,45.0,OIAM 301200Z
-ACZ  OIZB,Zabol Airport,45.0,OIZ
-BGW  ORBI,Baghdad International Airport,45.0,ORBI 301200Z
-AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 301155Z
-BAH  OBBI,Bahrain International Airport,44.0,OBBI 301200Z
-LRR  OISL,Lar Airport,44.0,OISL 301200Z
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 301200Z
-TIN  DAOF,Tindouf Airport,43.0,DAOF 301200Z
-ABS  HEBL,Abu Simbel Airport,43.0,HEBL 301200Z
-OEKJ,,43.0,OEKJ 301200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 301200Z
-WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 301200Z
-GCH  OIAH,Gachsaran Airport,43.0,OIAH 301200Z
-AZD  OIYY,Shahid Sadooghi Airport,43.0,OIYY 301200Z
-KIK  ORKK,Kirkuk Air Base,43.0,ORKK 301200Z
-GXF  OYSY,Sayun International Airport,43.0,OYSY 301200Z
-CMN  GMMN,Mohammed V International Airport,42.0,GMMN 301200Z
-ASW  HESN,Aswan International Airport,42.0,HESN 301200Z
-ELQ  OEGS,Gassim Airport,42.0,OEGS 301200Z
-RAH  OERF,Rafha Domestic Airport,42.0,OERF 301200Z
-RUH  OERK,King Khaled International Airport,42.0,OERK 301200Z
-KNR  OIBJ,Jam Airport,42.0,OIBJ 301200Z
-AFZ  OIMS,Sabzevar National Airport,42.0,OIMS 301200Z
-BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 301200Z
-INZ  DAUI,In Salah Airport,41.0,DAUI 301200Z
-BEM  GMMD,Beni Mellal Airport,41.0,GMMD 301200Z
-RAK  GMMX,Menara Airport,41.0,GMMX 301200Z
-LXR  HELX,Luxor International Airport,41.0,HELX 301200Z
-BYJ  LPBJ,Beja Airport / Airbase,41.0,LPBJ 301200Z
-JED  OEJN,King Abdulaziz International Airport,41.0,OEJN 301200Z
-OEMN,,41.0,OEMN 301200Z
-RAE  OERR,Arar Domestic Airport,41.0,OERR 301200Z
-KHK  OIBQ,Khark Island Airport,41.0,OIBQ 301200Z
-IFN  OIFM,Esfahan Shahid Beheshti International Airport,41.0,OIFM 301200Z
-FAZ  OISF,Fasa Airport,41.0,OISF 301200Z
-SYZ  OISS,Shiraz Shahid Dastghaib International Airport,41.0,OISS 301200Z
-ISU  ORSU,Sulaymaniyah International Airport,41.0,ORSU 301200Z
+LGF  KLGF,Laguna Army Airfield,45.0,KLGF 010055Z
+LUF  KLUF,Luke Air Force Base,45.0,KLUF 010055Z
+EED  KEED,Needles Airport,45.0,KEED 010056Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,45.0,KIWA 010057Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,44.0,MMHO 010040Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,44.0,MMML 010049Z
+SCF  KSDL,Scottsdale Airport,44.0,KSDL 010053Z
+MSC  KFFZ,Falcon Field,44.0,KFFZ
+YUM  KNYL,Yuma MCAS/Yuma International Airport,44.0,KNYL 010057Z
+HII  KHII,Lake Havasu City Airport,44.0,KHII 010135Z
+KP08,,44.0,KP08 010135Z
+KRYN,Ryan Field,43.0,KRYN 010045Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,43.0,KTRM 010052Z
+DVT  KDVT,Phoenix Deer Valley Airport,43.0,KDVT 010053Z
+CGZ  KCGZ,Casa Grande Municipal Airport,43.0,KCGZ
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),43.0,KNJK 010056Z
+KA39,,43.0,KA39 010135Z
+IPL  KIPL,Imperial County Airport,42.0,KIPL 010053Z
+PSP  KPSP,Palm Springs International Airport,42.0,KPSP 010053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,42.0,KTUS 010053Z
+DMA  KDMA,Davis Monthan Air Force Base,42.0,KDMA 010055Z
+LSV  KLSV,Nellis Air Force Base,42.0,KLSV 010055Z
+LAS  KLAS,McCarran International Airport,42.0,KLAS 010056Z
+AVW  KAVQ,Marana Regional Airport,42.0,KAVQ 010135Z
+KBVU,,42.0,KBVU 010135Z
+BXK  KBXK,Buckeye Municipal Airport,42.0,KBXK 010135Z
+MZJ  KMZJ,Pinal Airpark,42.0,KMZ
+VGT  KVGT,North Las Vegas Airport,41.0,KVGT 010053Z
+HSH  KHND,Henderson Executive Airport,41.0,KHND 010056Z
+DAG  KDAG,Barstow Daggett Airport,40.0,KDAG 010050Z
+SGU  KSGU,St George Municipal Airport,40.0,KSGU 010056Z
+KL08,,40.0,KL08 010135Z
+KNXP,Twentynine Palms (Self) Airport,39.0,KNXP 010054Z
+INS  KINS,Creech Air Force Base,39.0,KINS 010104Z
+DRA  KDRA,Desert Rock Airport,38.0,KDRA 010053Z
+PGA  KPGA,Page Municipal Airport,38.0,KPGA 010053Z
+BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 010055Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,38.0,KNLC 010056Z
+DOH  OTHH,Hamad International Airport,38.0,OTHH 010100Z
+DIA  OTBD,Doha International Airport,38.0,OTBD 010130Z
+LAP  MMLP,Manuel Márquez de León International Airport,37.0,MMLP 010040Z
+IGM  KIGM,Kingman Airport,37.0,KIGM 010051Z
+DLS  KDLS,Columbia Gorge Regional the Dalles Municipal Airport,37.0,KDLS 010053Z
+FAT  KFAT,Fresno Yosemite International Airport,37.0,KFAT 010053Z
+LOL  KLOL,Derby Field,37.0,KLOL 010053Z
