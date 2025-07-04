@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LRR  OISL,Lar Airport,45.0,OISL 031200Z
-AZD  OIYY,Shahid Sadooghi Airport,45.0,OIYY 031200Z
-DMM  OEDF,King Fahd International Airport,44.0,OEDF 031200Z
-ABD  OIAA,Abadan Airport,44.0,OIAA 031200Z
-MRX  OIAM,Mahshahr Airport,44.0,OIAM 031200Z
-AWZ  OIAW,Ahwaz Airport,44.0,OIAW 031200Z
-OKKK,,44.0,OKKK 031200Z
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 031200Z
-BSR  ORMM,Basrah International Airport,44.0,ORMM 031200Z
-UTAE,,44.0,UTAE 031200Z
-CRZ  UTAV,Turkmenabat Airport,44.0,UTAV 031200Z
-TMJ  UTST,Termez Airport,44.0,UTST 031200Z
-OKAS,Ali Al Salem Air Base,43.0,OKAS 031155Z
-XJD  OTBH,Al Udeid Air Base,43.0,OTBH 031155Z
-SHW  OESH,Sharurah Airport,43.0,OESH 031200Z
-IFN  OIFM,Esfahan Shahid Beheshti International Airport,43.0,OIFM 031200Z
-AFZ  OIMS,Sabzevar National Airport,43.0,OIMS 031200Z
-NJF  ORNI,Al Najaf International Airport,43.0,ORNI 031200Z
-DIA  OTBD,Doha International Airport,43.0,OTBD 031200Z
-GXF  OYSY,Sayun International Airport,43.0,OYSY 031200Z
-MYP  UTAM,Mary Airport,43.0,UTAM 031200Z
-TJU  UTDK,Kulob Airport,43.0,UTDK 031200Z
-KQT  UTDT,Qurghonteppa International Airport,43.0,UTDT 031200Z
-AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 031155Z
-BMW  DATM,Bordj Badji Mokhtar Airport,42.0,DATM 031200Z
-TMX  DAUT,Timimoun Airport,42.0,DAUT 031200Z
-DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 031200Z
-OEKJ,,42.0,OEKJ 031200Z
-OEMN,,42.0,OEMN 031200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 031200Z
-RUH  OERK,King Khaled International Airport,42.0,OERK 031200Z
-WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 031200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 031200Z
-DOH  OTHH,Hamad International Airport,42.0,OTHH 031200Z
-KZO  UAOO,Kzyl-Orda Southwest Airport,42.0,UAOO 031200Z
-DYU  UTDD,Dushanbe Airport,42.0,UTDD 031200Z
-NVI  UTSA,Navoi Airport,42.0,UTSA 031200Z
-BHK  UTSB,Bukhara Airport,42.0,UTSB 031200Z
-UTSK,,42.0,UTSK 031200Z
-KQTZ,,41.0,KQTZ
-VVZ  DAAP,Illizi Takhamalt Airport,41.0,DAAP 031200Z
-HME  DAUH,Oued Irara Airport,41.0,DAUH 031200Z
-ELQ  OEGS,Gassim Airport,41.0,OEGS 031200Z
-PGU  OIBP,Persian Gulf International Airport,41.0,OIBP 031200Z
-KER  OIKK,Kerman Airport,41.0,OIKK 031200Z
+LGF  KLGF,Laguna Army Airfield,39.0,KLGF 040055Z
+HII  KHII,Lake Havasu City Airport,39.0,KHII 040135Z
+IPL  KIPL,Imperial County Airport,38.0,KIPL 040053Z
+BFL  KBFL,Meadows Field,38.0,KBFL 040054Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 040056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 040057Z
+KL08,,38.0,KL08 040135Z
+KGEU,Glendale Municipal Airport,37.0,KGEU 040047Z
+GYR  KGYR,Phoenix Goodyear Airport,37.0,KGYR 040047Z
+DAG  KDAG,Barstow Daggett Airport,37.0,KDAG 040050Z
+SCF  KSDL,Scottsdale Airport,37.0,KSDL 040053Z
+LUF  KLUF,Luke Air Force Base,37.0,KLUF 040055Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,37.0,KNLC 040056Z
+PTV  KPTV,Porterville Municipal Airport,37.0,KPTV 040056Z
+KNOZ,,37.0,KNOZ
+INZ  DAUI,In Salah Airport,37.0,DAUI 040100Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,37.0,KPHX 040100Z
+DHA  OEDR,King Abdulaziz Air Base,37.0,OEDR 040100Z
+BXK  KBXK,Buckeye Municipal Airport,37.0,KBXK 040135Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 040047Z
+RAP  KRAP,Rapid City Regional Airport,36.0,KRAP 040052Z
+DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 040053Z
+MSC  KFFZ,Falcon Field,36.0,KFFZ
+BYS  KBYS,Bicycle Lake Army Air Field,36.0,KBYS 040055Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,36.0,MMML 040106Z
+TPE  RCTP,Taiwan Taoyuan International Airport,36.0,RCTP 040130Z
+KP08,,35.0,KP08 040040Z
+MBG  KMBG,Mobridge Municipal Airport,35.0,KMBG 040052Z
+DRA  KDRA,Desert Rock Airport,35.0,KDRA 040053Z
+FAT  KFAT,Fresno Yosemite International Airport,35.0,KFAT 040053Z
+KNXP,Twentynine Palms (Self) Airport,35.0,KNXP 040054Z
+K9L2,,35.0,K9L2 040055Z
+EDW  KEDW,Edwards Air Force Base,35.0,KEDW 040055Z
+RCA  KRCA,Ellsworth Air Force Base,35.0,KRCA 040055Z
+VIS  KVIS,Visalia Municipal Airport,35.0,KVIS 040056Z
+TIN  DAOF,Tindouf Airport,35.0,DAOF 040100Z
+ACZ  OIZB,Zabol Airport,35.0,OIZ
+TAO  ZSQD,Liuting Airport,35.0,Z
+DIA  OTBD,Doha International Airport,35.0,OTBD 040130Z
+TOY  RJNT,Toyama Airport,35.0,RJNT 040134Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,34.0,MMHO 040040Z
+KCHD,Chandler Municipal Airport,34.0,KCHD 040047Z
+KHJO,Hanford Municipal Airport,34.0,KHJO 040053Z
+CGZ  KCGZ,Casa Grande Municipal Airport,34.0,KCGZ
+BMW  DATM,Bordj Badji Mokhtar Airport,34.0,DATM 040100Z
