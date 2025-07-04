@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LGF  KLGF,Laguna Army Airfield,39.0,KLGF 040055Z
-HII  KHII,Lake Havasu City Airport,39.0,KHII 040135Z
-IPL  KIPL,Imperial County Airport,38.0,KIPL 040053Z
-BFL  KBFL,Meadows Field,38.0,KBFL 040054Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 040056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 040057Z
-KL08,,38.0,KL08 040135Z
-KGEU,Glendale Municipal Airport,37.0,KGEU 040047Z
-GYR  KGYR,Phoenix Goodyear Airport,37.0,KGYR 040047Z
-DAG  KDAG,Barstow Daggett Airport,37.0,KDAG 040050Z
-SCF  KSDL,Scottsdale Airport,37.0,KSDL 040053Z
-LUF  KLUF,Luke Air Force Base,37.0,KLUF 040055Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,37.0,KNLC 040056Z
-PTV  KPTV,Porterville Municipal Airport,37.0,KPTV 040056Z
-KNOZ,,37.0,KNOZ
-INZ  DAUI,In Salah Airport,37.0,DAUI 040100Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,37.0,KPHX 040100Z
-DHA  OEDR,King Abdulaziz Air Base,37.0,OEDR 040100Z
-BXK  KBXK,Buckeye Municipal Airport,37.0,KBXK 040135Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 040047Z
-RAP  KRAP,Rapid City Regional Airport,36.0,KRAP 040052Z
-DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 040053Z
-MSC  KFFZ,Falcon Field,36.0,KFFZ
-BYS  KBYS,Bicycle Lake Army Air Field,36.0,KBYS 040055Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,36.0,MMML 040106Z
-TPE  RCTP,Taiwan Taoyuan International Airport,36.0,RCTP 040130Z
-KP08,,35.0,KP08 040040Z
-MBG  KMBG,Mobridge Municipal Airport,35.0,KMBG 040052Z
-DRA  KDRA,Desert Rock Airport,35.0,KDRA 040053Z
-FAT  KFAT,Fresno Yosemite International Airport,35.0,KFAT 040053Z
-KNXP,Twentynine Palms (Self) Airport,35.0,KNXP 040054Z
-K9L2,,35.0,K9L2 040055Z
-EDW  KEDW,Edwards Air Force Base,35.0,KEDW 040055Z
-RCA  KRCA,Ellsworth Air Force Base,35.0,KRCA 040055Z
-VIS  KVIS,Visalia Municipal Airport,35.0,KVIS 040056Z
-TIN  DAOF,Tindouf Airport,35.0,DAOF 040100Z
-ACZ  OIZB,Zabol Airport,35.0,OIZ
-TAO  ZSQD,Liuting Airport,35.0,Z
-DIA  OTBD,Doha International Airport,35.0,OTBD 040130Z
-TOY  RJNT,Toyama Airport,35.0,RJNT 040134Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,34.0,MMHO 040040Z
-KCHD,Chandler Municipal Airport,34.0,KCHD 040047Z
-KHJO,Hanford Municipal Airport,34.0,KHJO 040053Z
-CGZ  KCGZ,Casa Grande Municipal Airport,34.0,KCGZ
-BMW  DATM,Bordj Badji Mokhtar Airport,34.0,DATM 040100Z
+AWZ  OIAW,Ahwaz Airport,45.0,OIAW 041200Z
+LRR  OISL,Lar Airport,45.0,OISL 041200Z
+BSR  ORMM,Basrah International Airport,45.0,ORMM 041200Z
+NVI  UTSA,Navoi Airport,45.0,UTSA 041200Z
+BHK  UTSB,Bukhara Airport,45.0,UTSB 041200Z
+TMJ  UTST,Termez Airport,45.0,UTST 041200Z
+HOF  OEAH,Al Ahsa Airport,44.0,OEAH 041200Z
+ABD  OIAA,Abadan Airport,44.0,OIAA 041200Z
+MRX  OIAM,Mahshahr Airport,44.0,OIAM 041200Z
+AZD  OIYY,Shahid Sadooghi Airport,44.0,OIYY 041200Z
+OKKK,,44.0,OKKK 041200Z
+CIT  UAII,Shymkent Airport,44.0,UAII 041200Z
+UAIT,,44.0,UAIT 041200Z
+MYP  UTAM,Mary Airport,44.0,UTAM 041200Z
+UTSK,,44.0,UTSK 041200Z
+TAS  UTTT,Tashkent International Airport,44.0,UTTT 041200Z
+OKAS,Ali Al Salem Air Base,43.0,OKAS 041155Z
+DMM  OEDF,King Fahd International Airport,43.0,OEDF 041200Z
+DHA  OEDR,King Abdulaziz Air Base,43.0,OEDR 041200Z
+WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 041200Z
+IFN  OIFM,Esfahan Shahid Beheshti International Airport,43.0,OIFM 041200Z
+IHR  OIZI,Iran Shahr Airport,43.0,OIZ
+AAN  OMAL,Al Ain International Airport,43.0,OMAL 041200Z
+GXF  OYSY,Sayun International Airport,43.0,OYSY 041200Z
+TJU  UTDK,Kulob Airport,43.0,UTDK 041200Z
+KQT  UTDT,Qurghonteppa International Airport,43.0,UTDT 041200Z
+AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 041155Z
+XJD  OTBH,Al Udeid Air Base,42.0,OTBH 041155Z
+BMW  DATM,Bordj Badji Mokhtar Airport,42.0,DATM 041200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,42.0,OEPA 041200Z
+XBJ  OIMB,Birjand Airport,42.0,OIMB 041200Z
+AFZ  OIMS,Sabzevar National Airport,42.0,OIMS 041200Z
+NJF  ORNI,Al Najaf International Airport,42.0,ORNI 041200Z
+DIA  OTBD,Doha International Airport,42.0,OTBD 041200Z
+DYU  UTDD,Dushanbe Airport,42.0,UTDD 041200Z
+DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 041200Z
+JED  OEJN,King Abdulaziz International Airport,41.0,OEJN 041200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 041200Z
+RUH  OERK,King Khaled International Airport,41.0,OERK 041200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,41.0,OEYN 041200Z
+OICM,,41.0,OICM 041200Z
+KER  OIKK,Kerman Airport,41.0,OIKK 041200Z
+FAZ  OISF,Fasa Airport,41.0,OISF 041200Z
+ZAH  OIZH,Zahedan International Airport,41.0,OIZ
+AQJ  OJAQ,Aqaba King Hussein International Airport,41.0,OJAQ 041200Z
