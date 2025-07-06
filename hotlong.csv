@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MRX  OIAM,Mahshahr Airport,44.0,OIAM 051200Z
-IFN  OIFM,Esfahan Shahid Beheshti International Airport,44.0,OIFM 051200Z
-LRR  OISL,Lar Airport,44.0,OISL 051200Z
-AZD  OIYY,Shahid Sadooghi Airport,44.0,OIYY 051200Z
-BSR  ORMM,Basrah International Airport,44.0,ORMM 051200Z
-UTAE,,44.0,UTAE 051200Z
-INZ  DAUI,In Salah Airport,43.0,DAUI 051200Z
-HOF  OEAH,Al Ahsa Airport,43.0,OEAH 051200Z
-OKKK,,43.0,OKKK 051200Z
-AAN  OMAL,Al Ain International Airport,43.0,OMAL 051200Z
-TJU  UTDK,Kulob Airport,43.0,UTDK 051200Z
-UTSK,,43.0,UTSK 051200Z
-TMJ  UTST,Termez Airport,43.0,UTST 051200Z
-OKAS,Ali Al Salem Air Base,42.0,OKAS 051155Z
-TMX  DAUT,Timimoun Airport,42.0,DAUT 051200Z
-ASW  HESN,Aswan International Airport,42.0,HESN 051200Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 051200Z
-OEMN,,42.0,OEMN 051200Z
-SHW  OESH,Sharurah Airport,42.0,OESH 051200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 051200Z
-SYZ  OISS,Shiraz Shahid Dastghaib International Airport,42.0,OISS 051200Z
-GXF  OYSY,Sayun International Airport,42.0,OYSY 051200Z
-KQT  UTDT,Qurghonteppa International Airport,42.0,UTDT 051200Z
-ZAH  OIZH,Zahedan International Airport,41.0,OIZ
-AKH  OEPS,Prince Sultan Air Base,41.0,OEPS 051155Z
-ABS  HEBL,Abu Simbel Airport,41.0,HEBL 051200Z
-LXR  HELX,Luxor International Airport,41.0,HELX 051200Z
-JED  OEJN,King Abdulaziz International Airport,41.0,OEJN 051200Z
-OEKJ,,41.0,OEKJ 051200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 051200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 051200Z
-RUH  OERK,King Khaled International Airport,41.0,OERK 051200Z
-IKA  OIIE,Imam Khomeini International Airport,41.0,OIIE 051200Z
-AFZ  OIMS,Sabzevar National Airport,41.0,OIMS 051200Z
-MUX  OPMT,Multan International Airport,41.0,OPMT 051200Z
-MYP  UTAM,Mary Airport,41.0,UTAM 051200Z
-CRZ  UTAV,Turkmenabat Airport,41.0,UTAV 051200Z
-TAS  UTTT,Tashkent International Airport,41.0,UTTT 051200Z
-XJD  OTBH,Al Udeid Air Base,40.0,OTBH 051155Z
-VVZ  DAAP,Illizi Takhamalt Airport,40.0,DAAP 051200Z
-OZG  GMAZ,Zagora Airport,40.0,GMAZ
-HESG,,40.0,HESG 051200Z
-DHA  OEDR,King Abdulaziz Air Base,40.0,OEDR 051200Z
-ELQ  OEGS,Gassim Airport,40.0,OEGS 051200Z
-GCH  OIAH,Gachsaran Airport,40.0,OIAH 051200Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,41.0,MMML 060052Z
+KGXF,,41.0,KGXF 060055Z
+LGF  KLGF,Laguna Army Airfield,41.0,KLGF 060055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),41.0,KNJK 060056Z
+KNOZ,,41.0,KNOZ
+HII  KHII,Lake Havasu City Airport,41.0,KHII 060135Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,40.0,MMHO 060040Z
+KCHD,Chandler Municipal Airport,40.0,KCHD 060047Z
+GYR  KGYR,Phoenix Goodyear Airport,40.0,KGYR 060047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,40.0,KPHX 060051Z
+SCF  KSDL,Scottsdale Airport,40.0,KSDL 060053Z
+MSC  KFFZ,Falcon Field,40.0,KFFZ
+LUF  KLUF,Luke Air Force Base,40.0,KLUF 060055Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,39.0,KIWA 060055Z
+LSV  KLSV,Nellis Air Force Base,39.0,KLSV 060055Z
+KA39,,39.0,KA39 060135Z
+KBVU,,39.0,KBVU 060135Z
+KL08,,39.0,KL08 060135Z
+DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 060050Z
+DVT  KDVT,Phoenix Deer Valley Airport,38.0,KDVT 060053Z
+VGT  KVGT,North Las Vegas Airport,38.0,KVGT 060053Z
+CGZ  KCGZ,Casa Grande Municipal Airport,38.0,KCGZ
+LAS  KLAS,McCarran International Airport,38.0,KLAS 060056Z
+MZJ  KMZJ,Pinal Airpark,38.0,KMZ
+KP08,,38.0,KP08 060115Z
+AVW  KAVQ,Marana Regional Airport,38.0,KAVQ 060135Z
+BXK  KBXK,Buckeye Municipal Airport,38.0,KBXK 060135Z
+CJS  MMCS,Abraham González International Airport,37.0,MMCS 060040Z
+ELP  KELP,El Paso International Airport,37.0,KELP 060051Z
+SAD  KSAD,Safford Regional Airport,37.0,KSAD 060051Z
+KNXP,Twentynine Palms (Self) Airport,37.0,KNXP 060054Z
+BIF  KBIF,Biggs Army Air Field (Fort Bliss),37.0,KBIF 060055Z
+BYS  KBYS,Bicycle Lake Army Air Field,37.0,KBYS 060055Z
+HMN  KHMN,Holloman Air Force Base,37.0,KHMN 060055Z
+HSH  KHND,Henderson Executive Airport,37.0,KHND 060056Z
+SGU  KSGU,St George Municipal Airport,37.0,KSGU 060056Z
+KT89,,37.0,KT89 060115Z
+CEN  MMCN,Ciudad Obregón International Airport,36.0,MMCN 060040Z
+GYM  MMGM,General José María Yáñez International Airport,36.0,MMGM 060040Z
+DMN  KDMN,Deming Municipal Airport,36.0,KDMN 060053Z
+NKG  ZSNJ,Nanjing Lukou Airport,36.0,Z
+TAO  ZSQD,Liuting Airport,36.0,Z
+KE77,,36.0,KE77 060115Z
+KP52,,36.0,KP52 060115Z
+KDNA,,36.0,KDNA 060135Z
