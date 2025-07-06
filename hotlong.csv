@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,41.0,MMML 060052Z
-KGXF,,41.0,KGXF 060055Z
-LGF  KLGF,Laguna Army Airfield,41.0,KLGF 060055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),41.0,KNJK 060056Z
-KNOZ,,41.0,KNOZ
-HII  KHII,Lake Havasu City Airport,41.0,KHII 060135Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,40.0,MMHO 060040Z
-KCHD,Chandler Municipal Airport,40.0,KCHD 060047Z
-GYR  KGYR,Phoenix Goodyear Airport,40.0,KGYR 060047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,40.0,KPHX 060051Z
-SCF  KSDL,Scottsdale Airport,40.0,KSDL 060053Z
-MSC  KFFZ,Falcon Field,40.0,KFFZ
-LUF  KLUF,Luke Air Force Base,40.0,KLUF 060055Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,39.0,KIWA 060055Z
-LSV  KLSV,Nellis Air Force Base,39.0,KLSV 060055Z
-KA39,,39.0,KA39 060135Z
-KBVU,,39.0,KBVU 060135Z
-KL08,,39.0,KL08 060135Z
-DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 060050Z
-DVT  KDVT,Phoenix Deer Valley Airport,38.0,KDVT 060053Z
-VGT  KVGT,North Las Vegas Airport,38.0,KVGT 060053Z
-CGZ  KCGZ,Casa Grande Municipal Airport,38.0,KCGZ
-LAS  KLAS,McCarran International Airport,38.0,KLAS 060056Z
-MZJ  KMZJ,Pinal Airpark,38.0,KMZ
-KP08,,38.0,KP08 060115Z
-AVW  KAVQ,Marana Regional Airport,38.0,KAVQ 060135Z
-BXK  KBXK,Buckeye Municipal Airport,38.0,KBXK 060135Z
-CJS  MMCS,Abraham González International Airport,37.0,MMCS 060040Z
-ELP  KELP,El Paso International Airport,37.0,KELP 060051Z
-SAD  KSAD,Safford Regional Airport,37.0,KSAD 060051Z
-KNXP,Twentynine Palms (Self) Airport,37.0,KNXP 060054Z
-BIF  KBIF,Biggs Army Air Field (Fort Bliss),37.0,KBIF 060055Z
-BYS  KBYS,Bicycle Lake Army Air Field,37.0,KBYS 060055Z
-HMN  KHMN,Holloman Air Force Base,37.0,KHMN 060055Z
-HSH  KHND,Henderson Executive Airport,37.0,KHND 060056Z
-SGU  KSGU,St George Municipal Airport,37.0,KSGU 060056Z
-KT89,,37.0,KT89 060115Z
-CEN  MMCN,Ciudad Obregón International Airport,36.0,MMCN 060040Z
-GYM  MMGM,General José María Yáñez International Airport,36.0,MMGM 060040Z
-DMN  KDMN,Deming Municipal Airport,36.0,KDMN 060053Z
-NKG  ZSNJ,Nanjing Lukou Airport,36.0,Z
-TAO  ZSQD,Liuting Airport,36.0,Z
-KE77,,36.0,KE77 060115Z
-KP52,,36.0,KP52 060115Z
-KDNA,,36.0,KDNA 060135Z
+LFM  OISR,Lamerd Airport,44.0,OISR 061200Z
+AZD  OIYY,Shahid Sadooghi Airport,44.0,OIYY 061200Z
+UTAE,,44.0,UTAE 061200Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,43.0,DAUA 061200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 061200Z
+SHW  OESH,Sharurah Airport,43.0,OESH 061200Z
+WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 061200Z
+ABD  OIAA,Abadan Airport,43.0,OIAA 061200Z
+AKW  OIAG,Aghajari Airport,43.0,OIAG 061200Z
+MRX  OIAM,Mahshahr Airport,43.0,OIAM 061200Z
+BSR  ORMM,Basrah International Airport,43.0,ORMM 061200Z
+DMM  OEDF,King Fahd International Airport,42.0,OEDF 061200Z
+FAZ  OISF,Fasa Airport,42.0,OISF 061200Z
+SYZ  OISS,Shiraz Shahid Dastghaib International Airport,42.0,OISS 061200Z
+OKKK,,42.0,OKKK 061200Z
+UTSK,,42.0,UTSK 061200Z
+TMJ  UTST,Termez Airport,42.0,UTST 061200Z
+OKAS,Ali Al Salem Air Base,41.0,OKAS 061155Z
+OZG  GMAZ,Zagora Airport,41.0,GMAZ
+OEMN,,41.0,OEMN 061200Z
+OICM,,41.0,OICM 061200Z
+GXF  OYSY,Sayun International Airport,41.0,OYSY 061200Z
+TJU  UTDK,Kulob Airport,41.0,UTDK 061200Z
+BHK  UTSB,Bukhara Airport,41.0,UTSB 061200Z
+HOF  OEAH,Al Ahsa Airport,41.0,OEAH 061202Z
+AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 061155Z
+TIN  DAOF,Tindouf Airport,40.0,DAOF 061200Z
+OEAO,,40.0,OEAO 061200Z
+OEKJ,,40.0,OEKJ 061200Z
+EAM  OENG,Nejran Airport,40.0,OENG 061200Z
+KER  OIKK,Kerman Airport,40.0,OIKK 061200Z
+AFZ  OIMS,Sabzevar National Airport,40.0,OIMS 061200Z
+AAN  OMAL,Al Ain International Airport,40.0,OMAL 061200Z
+MYP  UTAM,Mary Airport,40.0,UTAM 061200Z
+CRZ  UTAV,Turkmenabat Airport,40.0,UTAV 061200Z
+KQT  UTDT,Qurghonteppa International Airport,40.0,UTDT 061200Z
+TAS  UTTT,Tashkent International Airport,40.0,UTTT 061200Z
+SKP  LWSK,Skopje International Airport,40.0,LWSK 061220Z
+XJD  OTBH,Al Udeid Air Base,39.0,OTBH 061155Z
+HME  DAUH,Oued Irara Airport,39.0,DAUH 061200Z
+DTTK,,39.0,DTTK 061200Z
+DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 061200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,OEPA 061200Z
+RUH  OERK,King Khaled International Airport,39.0,OERK 061200Z
+GCH  OIAH,Gachsaran Airport,39.0,OIAH 061200Z
