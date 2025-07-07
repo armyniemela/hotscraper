@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LFM  OISR,Lamerd Airport,44.0,OISR 061200Z
-AZD  OIYY,Shahid Sadooghi Airport,44.0,OIYY 061200Z
-UTAE,,44.0,UTAE 061200Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,43.0,DAUA 061200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 061200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 061200Z
-WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 061200Z
-ABD  OIAA,Abadan Airport,43.0,OIAA 061200Z
-AKW  OIAG,Aghajari Airport,43.0,OIAG 061200Z
-MRX  OIAM,Mahshahr Airport,43.0,OIAM 061200Z
-BSR  ORMM,Basrah International Airport,43.0,ORMM 061200Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 061200Z
-FAZ  OISF,Fasa Airport,42.0,OISF 061200Z
-SYZ  OISS,Shiraz Shahid Dastghaib International Airport,42.0,OISS 061200Z
-OKKK,,42.0,OKKK 061200Z
-UTSK,,42.0,UTSK 061200Z
-TMJ  UTST,Termez Airport,42.0,UTST 061200Z
-OKAS,Ali Al Salem Air Base,41.0,OKAS 061155Z
-OZG  GMAZ,Zagora Airport,41.0,GMAZ
-OEMN,,41.0,OEMN 061200Z
-OICM,,41.0,OICM 061200Z
-GXF  OYSY,Sayun International Airport,41.0,OYSY 061200Z
-TJU  UTDK,Kulob Airport,41.0,UTDK 061200Z
-BHK  UTSB,Bukhara Airport,41.0,UTSB 061200Z
-HOF  OEAH,Al Ahsa Airport,41.0,OEAH 061202Z
-AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 061155Z
-TIN  DAOF,Tindouf Airport,40.0,DAOF 061200Z
-OEAO,,40.0,OEAO 061200Z
-OEKJ,,40.0,OEKJ 061200Z
-EAM  OENG,Nejran Airport,40.0,OENG 061200Z
-KER  OIKK,Kerman Airport,40.0,OIKK 061200Z
-AFZ  OIMS,Sabzevar National Airport,40.0,OIMS 061200Z
-AAN  OMAL,Al Ain International Airport,40.0,OMAL 061200Z
-MYP  UTAM,Mary Airport,40.0,UTAM 061200Z
-CRZ  UTAV,Turkmenabat Airport,40.0,UTAV 061200Z
-KQT  UTDT,Qurghonteppa International Airport,40.0,UTDT 061200Z
-TAS  UTTT,Tashkent International Airport,40.0,UTTT 061200Z
-SKP  LWSK,Skopje International Airport,40.0,LWSK 061220Z
-XJD  OTBH,Al Udeid Air Base,39.0,OTBH 061155Z
-HME  DAUH,Oued Irara Airport,39.0,DAUH 061200Z
-DTTK,,39.0,DTTK 061200Z
-DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 061200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,OEPA 061200Z
-RUH  OERK,King Khaled International Airport,39.0,OERK 061200Z
-GCH  OIAH,Gachsaran Airport,39.0,OIAH 061200Z
+HII  KHII,Lake Havasu City Airport,43.0,KHII 070135Z
+KCHD,Chandler Municipal Airport,42.0,KCHD 070047Z
+GYR  KGYR,Phoenix Goodyear Airport,42.0,KGYR 070047Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,42.0,KTRM 070052Z
+KGEU,Glendale Municipal Airport,42.0,KGEU 070053Z
+LUF  KLUF,Luke Air Force Base,42.0,KLUF 070055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),42.0,KNJK 070056Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,42.0,MMML 070056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,42.0,KNYL 070057Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,42.0,KIWA 070058Z
+KNOZ,,42.0,KNOZ
+PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 070051Z
+SCF  KSDL,Scottsdale Airport,41.0,KSDL 070053Z
+MSC  KFFZ,Falcon Field,41.0,KFFZ
+CGZ  KCGZ,Casa Grande Municipal Airport,41.0,KCGZ
+KA39,,41.0,KA39 070135Z
+KL08,,41.0,KL08 070135Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,40.0,MMHO 070040Z
+KRYN,Ryan Field,40.0,KRYN 070045Z
+SAD  KSAD,Safford Regional Airport,40.0,KSAD 070051Z
+DVT  KDVT,Phoenix Deer Valley Airport,40.0,KDVT 070053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,40.0,KTUS 070053Z
+VGT  KVGT,North Las Vegas Airport,40.0,KVGT 070053Z
+DMA  KDMA,Davis Monthan Air Force Base,40.0,KDMA 070055Z
+LSV  KLSV,Nellis Air Force Base,40.0,KLSV 070055Z
+LAS  KLAS,McCarran International Airport,40.0,KLAS 070056Z
+MZJ  KMZJ,Pinal Airpark,40.0,KMZ
+KP08,,40.0,KP08 070115Z
+AVW  KAVQ,Marana Regional Airport,40.0,KAVQ 070135Z
+KBVU,,40.0,KBVU 070135Z
+BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 070135Z
+DAG  KDAG,Barstow Daggett Airport,39.0,KDAG 070050Z
+RDD  KRDD,Redding Municipal Airport,38.0,KRDD 070053Z
+BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 070055Z
+HSH  KHND,Henderson Executive Airport,38.0,KHND 070056Z
+SGU  KSGU,St George Municipal Airport,38.0,KSGU 070056Z
+INS  KINS,Creech Air Force Base,37.0,KINS 070055Z
+KE77,,37.0,KE77 070115Z
+KP52,,37.0,KP52 070115Z
+ADS  KADS,Addison Airport,36.0,KADS 070047Z
+IGM  KIGM,Kingman Airport,36.0,KIGM 070051Z
+DMN  KDMN,Deming Municipal Airport,36.0,KDMN 070053Z
+DRA  KDRA,Desert Rock Airport,36.0,KDRA 070053Z
+PGA  KPGA,Page Municipal Airport,36.0,KPGA 070053Z
+RBL  KRBL,Red Bluff Municipal Airport,36.0,KRBL 070054Z
