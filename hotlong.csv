@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AWZ  OIAW,Ahwaz Airport,48.0,OIAW 131200Z
-BGW  ORBI,Baghdad International Airport,48.0,ORBI 131200Z
-KIK  ORKK,Kirkuk Air Base,48.0,ORKK 131200Z
-AKW  OIAG,Aghajari Airport,47.0,OIAG 131200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 131200Z
-AAN  OMAL,Al Ain International Airport,46.0,OMAL 131200Z
-EBL  ORER,Erbil International Airport,46.0,ORER 131200Z
-MQM  LTCR,Mardin Airport,45.0,LTCR 131150Z
-AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 131155Z
-INZ  DAUI,In Salah Airport,45.0,DAUI 131200Z
-HOF  OEAH,Al Ahsa Airport,45.0,OEAH 131200Z
-OEKJ,,45.0,OEKJ 131200Z
-WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 131200Z
-LFM  OISR,Lamerd Airport,45.0,OISR 131200Z
-IHR  OIZI,Iran Shahr Airport,45.0,OIZ
-SXZ  LTCL,Siirt Airport,44.0,LTCL 131150Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,44.0,LTCV 131150Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,44.0,DAUA 131200Z
-TMX  DAUT,Timimoun Airport,44.0,DAUT 131200Z
-DMM  OEDF,King Fahd International Airport,44.0,OEDF 131200Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 131200Z
-RAH  OERF,Rafha Domestic Airport,44.0,OERF 131200Z
-RUH  OERK,King Khaled International Airport,44.0,OERK 131200Z
-RAE  OERR,Arar Domestic Airport,44.0,OERR 131200Z
-DIY  LTCC,Diyarbakir Airport,44.0,LTCC 131220Z
-BAL  LTCJ,Batman Airport,44.0,LTCJ 131220Z
-ADF  LTCP,Adıyaman Airport,43.0,LTCP 131150Z
-VVZ  DAAP,Illizi Takhamalt Airport,43.0,DAAP 131200Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,43.0,DAUK 131200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 131200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 131200Z
-ISU  ORSU,Sulaymaniyah International Airport,43.0,ORSU 131200Z
-GXF  OYSY,Sayun International Airport,43.0,OYSY 131200Z
-GNY  LTCS,Şanlıurfa GAP Airport,43.0,LTCS 131220Z
-XJD  OTBH,Al Udeid Air Base,42.0,OTBH 131155Z
-ELG  DAUE,El Golea Airport,42.0,DAUE 131200Z
-OEAO,,42.0,OEAO 131200Z
-DWD  OEDM,King Salman Abdulaziz Airport,42.0,OEDM 131200Z
-DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 131200Z
-JED  OEJN,King Abdulaziz International Airport,42.0,OEJN 131200Z
-OEMN,,42.0,OEMN 131200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 131200Z
-GCH  OIAH,Gachsaran Airport,42.0,OIAH 131200Z
-LRR  OISL,Lar Airport,42.0,OISL 131200Z
-RKT  OMRK,Ras Al Khaimah International Airport,42.0,OMRK 131200Z
+BLH  KBLH,Blythe Airport,42.0,KBLH 140052Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,42.0,KTRM 140052Z
+IPL  KIPL,Imperial County Airport,42.0,KIPL 140053Z
+VGT  KVGT,North Las Vegas Airport,42.0,KVGT 140053Z
+KGXF,,42.0,KGXF 140055Z
+HSH  KHND,Henderson Executive Airport,42.0,KHND 140056Z
+LAS  KLAS,McCarran International Airport,42.0,KLAS 140056Z
+KNID,China Lake Naws (Armitage Field) Airport,42.0,KNID 140056Z
+LUF  KLUF,Luke Air Force Base,42.0,KLUF 140058Z
+KBVU,,42.0,KBVU 140135Z
+KL08,,42.0,KL08 140135Z
+KCHD,Chandler Municipal Airport,41.0,KCHD 140047Z
+GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 140047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,41.0,KIWA 140048Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 140051Z
+BYS  KBYS,Bicycle Lake Army Air Field,41.0,KBYS 140055Z
+KGEU,Glendale Municipal Airport,41.0,KGEU 140055Z
+INS  KINS,Creech Air Force Base,41.0,KINS 140055Z
+LGF  KLGF,Laguna Army Airfield,41.0,KLGF 140055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),41.0,KNJK 140056Z
+SGU  KSGU,St George Municipal Airport,41.0,KSGU 140056Z
+NFL  KNFL,Fallon Naval Air Station,41.0,KNFL 140057Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 140051Z
+DRA  KDRA,Desert Rock Airport,40.0,KDRA 140053Z
+DVT  KDVT,Phoenix Deer Valley Airport,40.0,KDVT 140053Z
+SCF  KSDL,Scottsdale Airport,40.0,KSDL 140053Z
+MSC  KFFZ,Falcon Field,40.0,KFFZ
+K9L2,,40.0,K9L2 140055Z
+DMA  KDMA,Davis Monthan Air Force Base,40.0,KDMA 140055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,40.0,KNLC 140056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,40.0,KNYL 140057Z
+KNOZ,,40.0,KNOZ
+KA39,,40.0,KA39 140135Z
+KP08,,40.0,KP08 140135Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,39.0,MMHO 140040Z
+KRYN,Ryan Field,39.0,KRYN 140045Z
+MFR  KMFR,Rogue Valley International Medford Airport,39.0,KMFR 140053Z
+PGA  KPGA,Page Municipal Airport,39.0,KPGA 140053Z
+RDD  KRDD,Redding Municipal Airport,39.0,KRDD 140053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,39.0,KTUS 140053Z
+EDW  KEDW,Edwards Air Force Base,39.0,KEDW 140055Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,39.0,DAUA 140100Z
+TMX  DAUT,Timimoun Airport,39.0,DAUT 140100Z
+AVW  KAVQ,Marana Regional Airport,39.0,KAVQ 140135Z
