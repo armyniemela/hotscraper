@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,47.0,OEPA 141200Z
-AAN  OMAL,Al Ain International Airport,47.0,OMAL 141200Z
-KIK  ORKK,Kirkuk Air Base,47.0,ORKK 141200Z
+NJF  ORNI,Al Najaf International Airport,48.0,ORNI 151200Z
+AKW  OIAG,Aghajari Airport,47.0,OIAG 151200Z
+AAN  OMAL,Al Ain International Airport,47.0,OMAL 151200Z
+AWZ  OIAW,Ahwaz Airport,47.0,OIAW 151230Z
 KQTZ,,46.0,KQTZ
-HOF  OEAH,Al Ahsa Airport,46.0,OEAH 141200Z
-DMM  OEDF,King Fahd International Airport,46.0,OEDF 141200Z
-OEKJ,,46.0,OEKJ 141200Z
-BGW  ORBI,Baghdad International Airport,46.0,ORBI 141200Z
-AWZ  OIAW,Ahwaz Airport,46.0,OIAW 141230Z
-AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 141155Z
-HME  DAUH,Oued Irara Airport,45.0,DAUH 141200Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,45.0,DAUK 141200Z
-RUH  OERK,King Khaled International Airport,45.0,OERK 141200Z
-WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 141200Z
-LFM  OISR,Lamerd Airport,45.0,OISR 141200Z
-EBL  ORER,Erbil International Airport,45.0,ORER 141200Z
-SXZ  LTCL,Siirt Airport,44.0,LTCL 141150Z
-KHS  OOKB,Khasab Air Base,44.0,OOKB 141150Z
-XJD  OTBH,Al Udeid Air Base,44.0,OTBH 141155Z
-TMX  DAUT,Timimoun Airport,44.0,DAUT 141200Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 141200Z
-RAH  OERF,Rafha Domestic Airport,44.0,OERF 141200Z
-SHW  OESH,Sharurah Airport,44.0,OESH 141200Z
-RKT  OMRK,Ras Al Khaimah International Airport,44.0,OMRK 141200Z
-ISU  ORSU,Sulaymaniyah International Airport,44.0,ORSU 141200Z
-GXF  OYSY,Sayun International Airport,44.0,OYSY 141200Z
-ADF  LTCP,Adıyaman Airport,43.0,LTCP 141150Z
-MQM  LTCR,Mardin Airport,43.0,LTCR 141150Z
-BSK  DAUB,Biskra Airport,43.0,DAUB 141200Z
-ELG  DAUE,El Golea Airport,43.0,DAUE 141200Z
-GAE  DTTG,Gabès Matmata International Airport,43.0,DTTG 141200Z
-TOE  DTTZ,Tozeur Nefta International Airport,43.0,DTTZ
-OEAO,,43.0,OEAO 141200Z
-RAE  OERR,Arar Domestic Airport,43.0,OERR 141200Z
-GCH  OIAH,Gachsaran Airport,43.0,OIAH 141200Z
-DIY  LTCC,Diyarbakir Airport,43.0,LTCC 141220Z
-BAL  LTCJ,Batman Airport,43.0,LTCJ 141220Z
-DWC  OMDW,Al Maktoum International Airport,43.0,OMDW 141230Z
-KCM  LTCN,Kahramanmaraş Airport,42.0,LTCN 141150Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,42.0,LTCV 141150Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,42.0,DAUA 141200Z
-GHA  DAUG,Noumérat - Moufdi Zakaria Airport,42.0,DAUG 141200Z
-INZ  DAUI,In Salah Airport,42.0,DAUI 141200Z
-DTTD,Remada Air Base,42.0,DTTD 141200Z
-BAH  OBBI,Bahrain International Airport,42.0,OBBI 141200Z
+OEKJ,,46.0,OEKJ 151200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 151200Z
+BGW  ORBI,Baghdad International Airport,46.0,ORBI 151200Z
+AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 151155Z
+XJD  OTBH,Al Udeid Air Base,45.0,OTBH 151155Z
+INZ  DAUI,In Salah Airport,45.0,DAUI 151200Z
+DMM  OEDF,King Fahd International Airport,45.0,OEDF 151200Z
+RUH  OERK,King Khaled International Airport,45.0,OERK 151200Z
+WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 151200Z
+KHS  OOKB,Khasab Air Base,44.0,OOKB 151150Z
+TMX  DAUT,Timimoun Airport,44.0,DAUT 151200Z
+ELQ  OEGS,Gassim Airport,44.0,OEGS 151200Z
+RAH  OERF,Rafha Domestic Airport,44.0,OERF 151200Z
+SHW  OESH,Sharurah Airport,44.0,OESH 151200Z
+LFM  OISR,Lamerd Airport,44.0,OISR 151200Z
+RKT  OMRK,Ras Al Khaimah International Airport,44.0,OMRK 151200Z
+KIK  ORKK,Kirkuk Air Base,44.0,ORKK 151200Z
+SHJ  OMSJ,Sharjah International Airport,44.0,OMSJ 151230Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,43.0,DAUA 151200Z
+TGR  DAUK,Touggourt Sidi Madhi Airport,43.0,DAUK 151200Z
+GMAG,,43.0,GMAG 151200Z
+DWD  OEDM,King Salman Abdulaziz Airport,43.0,OEDM 151200Z
+DHA  OEDR,King Abdulaziz Air Base,43.0,OEDR 151200Z
+RAE  OERR,Arar Domestic Airport,43.0,OERR 151200Z
+MRX  OIAM,Mahshahr Airport,43.0,OIAM 151200Z
+PGU  OIBP,Persian Gulf International Airport,43.0,OIBP 151200Z
+IHR  OIZI,Iran Shahr Airport,43.0,OIZ
+GXF  OYSY,Sayun International Airport,43.0,OYSY 151200Z
+DXB  OMDB,Dubai International Airport,43.0,OMDB 151230Z
+DWC  OMDW,Al Maktoum International Airport,43.0,OMDW 151230Z
+GHA  DAUG,Noumérat - Moufdi Zakaria Airport,42.0,DAUG 151200Z
+ELU  DAUO,Guemar Airport,42.0,DAUO 151200Z
+BAH  OBBI,Bahrain International Airport,42.0,OBBI 151200Z
+OEMN,,42.0,OEMN 151200Z
+GCH  OIAH,Gachsaran Airport,42.0,OIAH 151200Z
+OIKQ,Dayrestan Airport,42.0,OIKQ 151200Z
+ACZ  OIZB,Zabol Airport,42.0,OIZ
+RAK  GMMX,Menara Airport,42.0,GMMX 151230Z
+DIA  OTBD,Doha International Airport,42.0,OTBD 151230Z
+SXZ  LTCL,Siirt Airport,41.0,LTCL 151150Z
