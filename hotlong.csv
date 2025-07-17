@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AWZ  OIAW,Ahwaz Airport,48.0,OIAW 161230Z
-XJD  OTBH,Al Udeid Air Base,48.0,OTBH 161232Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,47.0,OEPA 161200Z
-BGW  ORBI,Baghdad International Airport,47.0,ORBI 161200Z
-OEKJ,,46.0,OEKJ 161200Z
-RUH  OERK,King Khaled International Airport,46.0,OERK 161200Z
-WAE  OEWD,Wadi Al Dawasir Airport,46.0,OEWD 161200Z
-AAN  OMAL,Al Ain International Airport,46.0,OMAL 161200Z
-AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 161155Z
-INZ  DAUI,In Salah Airport,45.0,DAUI 161200Z
-RAH  OERF,Rafha Domestic Airport,45.0,OERF 161200Z
-OKKK,,45.0,OKKK 161200Z
-TIN  DAOF,Tindouf Airport,44.0,DAOF 161200Z
-DHA  OEDR,King Abdulaziz Air Base,44.0,OEDR 161200Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 161200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-RAE  OERR,Arar Domestic Airport,43.0,OERR 161200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 161200Z
-MRX  OIAM,Mahshahr Airport,43.0,OIAM 161200Z
-LRR  OISL,Lar Airport,43.0,OISL 161200Z
-ACZ  OIZB,Zabol Airport,43.0,OIZ
-GXF  OYSY,Sayun International Airport,43.0,OYSY 161200Z
-RAK  GMMX,Menara Airport,43.0,GMMX 161230Z
-KHS  OOKB,Khasab Air Base,42.0,OOKB 161150Z
-ELG  DAUE,El Golea Airport,42.0,DAUE 161200Z
-OGX  DAUU,Ain el Beida Airport,42.0,DAUU 161200Z
-OZG  GMAZ,Zagora Airport,42.0,GMAZ
-ESU  GMMI,Mogador Airport,42.0,GMMI 161200Z
-OEMN,,42.0,OEMN 161200Z
-GCH  OIAH,Gachsaran Airport,42.0,OIAH 161200Z
-ISU  ORSU,Sulaymaniyah International Airport,42.0,ORSU 161200Z
-ASB  UTAA,Ashgabat International Airport,42.0,UTAA 161200Z
-MYP  UTAM,Mary Airport,42.0,UTAM 161200Z
-BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 161200Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,41.0,DAUK 161200Z
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 161200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 161200Z
-PGU  OIBP,Persian Gulf International Airport,41.0,OIBP 161200Z
-KLM  OINE,Kalaleh Airport,41.0,OINE 161200Z
-AUH  OMAA,Abu Dhabi International Airport,41.0,OMAA 161200Z
-RKT  OMRK,Ras Al Khaimah International Airport,41.0,OMRK 161200Z
-DIA  OTBD,Doha International Airport,41.0,OTBD 161230Z
-SXZ  LTCL,Siirt Airport,40.0,LTCL 161150Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,40.0,LTCV 161150Z
-VVZ  DAAP,Illizi Takhamalt Airport,40.0,DAAP 161200Z
+VGT  KVGT,North Las Vegas Airport,39.0,KVGT 170053Z
+LAS  KLAS,McCarran International Airport,39.0,KLAS 170056Z
+OKKK,,39.0,OKKK 170100Z
+HII  KHII,Lake Havasu City Airport,39.0,KHII 170135Z
+KL08,,39.0,KL08 170135Z
+DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 170050Z
+BLH  KBLH,Blythe Airport,38.0,KBLH 170052Z
+BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 170055Z
+HSH  KHND,Henderson Executive Airport,38.0,KHND 170056Z
+KNID,China Lake Naws (Armitage Field) Airport,38.0,KNID 170056Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 170056Z
+INS  KINS,Creech Air Force Base,38.0,KINS 170119Z
+NLD  MMNL,Quetzalcóatl International Airport,37.0,MMNL 170040Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,37.0,MMML 170041Z
+ROW  KROW,Roswell Air Center Airport,37.0,KROW 170051Z
+MFR  KMFR,Rogue Valley International Medford Airport,37.0,KMFR 170053Z
+LGF  KLGF,Laguna Army Airfield,37.0,KLGF 170055Z
+SGU  KSGU,St George Municipal Airport,37.0,KSGU 170056Z
+ABD  OIAA,Abadan Airport,37.0,OIAA 170100Z
+KBVU,,37.0,KBVU 170135Z
+LAP  MMLP,Manuel Márquez de León International Airport,36.0,MMLP 170046Z
+KGEU,Glendale Municipal Airport,36.0,KGEU 170047Z
+KHS  OOKB,Khasab Air Base,36.0,OOKB 170050Z
+DRA  KDRA,Desert Rock Airport,36.0,KDRA 170053Z
+LOL  KLOL,Derby Field,36.0,KLOL 170053Z
+TTD  KTTD,Portland Troutdale Airport,36.0,KTTD 170053Z
+EUG  KEUG,Mahlon Sweet Field,36.0,KEUG 170054Z
+KNXP,Twentynine Palms (Self) Airport,36.0,KNXP 170054Z
+KGXF,,36.0,KGXF 170055Z
+LUF  KLUF,Luke Air Force Base,36.0,KLUF 170055Z
+LRD  KLRD,Laredo International Airport,36.0,KLRD 170056Z
+NFL  KNFL,Fallon Naval Air Station,36.0,KNFL 170057Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,36.0,KNYL 170057Z
+JIB  HDAM,Djibouti-Ambouli Airport,36.0,HDAM 170100Z
+BAH  OBBI,Bahrain International Airport,36.0,OBBI 170100Z
+AWZ  OIAW,Ahwaz Airport,36.0,OIAW 170100Z
+DIA  OTBD,Doha International Airport,36.0,OTBD 170130Z
+K3S8,,36.0,K3S8 170135Z
+K77S,,36.0,K77S 170135Z
+BAM  KBAM,Battle Mountain Airport,36.0,KBAM 170135Z
+BXK  KBXK,Buckeye Municipal Airport,36.0,KBXK 170135Z
+TPE  RCTP,Taiwan Taoyuan International Airport,36.0,RCTP 170135Z
+MTY  MMMY,General Mariano Escobedo International Airport,35.0,MMMY 170040Z
+CEN  MMCN,Ciudad Obregón International Airport,35.0,MMCN 170043Z
+GYR  KGYR,Phoenix Goodyear Airport,35.0,KGYR 170047Z
