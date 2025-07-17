@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-VGT  KVGT,North Las Vegas Airport,39.0,KVGT 170053Z
-LAS  KLAS,McCarran International Airport,39.0,KLAS 170056Z
-OKKK,,39.0,OKKK 170100Z
-HII  KHII,Lake Havasu City Airport,39.0,KHII 170135Z
-KL08,,39.0,KL08 170135Z
-DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 170050Z
-BLH  KBLH,Blythe Airport,38.0,KBLH 170052Z
-BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 170055Z
-HSH  KHND,Henderson Executive Airport,38.0,KHND 170056Z
-KNID,China Lake Naws (Armitage Field) Airport,38.0,KNID 170056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 170056Z
-INS  KINS,Creech Air Force Base,38.0,KINS 170119Z
-NLD  MMNL,Quetzalcóatl International Airport,37.0,MMNL 170040Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,37.0,MMML 170041Z
-ROW  KROW,Roswell Air Center Airport,37.0,KROW 170051Z
-MFR  KMFR,Rogue Valley International Medford Airport,37.0,KMFR 170053Z
-LGF  KLGF,Laguna Army Airfield,37.0,KLGF 170055Z
-SGU  KSGU,St George Municipal Airport,37.0,KSGU 170056Z
-ABD  OIAA,Abadan Airport,37.0,OIAA 170100Z
-KBVU,,37.0,KBVU 170135Z
-LAP  MMLP,Manuel Márquez de León International Airport,36.0,MMLP 170046Z
-KGEU,Glendale Municipal Airport,36.0,KGEU 170047Z
-KHS  OOKB,Khasab Air Base,36.0,OOKB 170050Z
-DRA  KDRA,Desert Rock Airport,36.0,KDRA 170053Z
-LOL  KLOL,Derby Field,36.0,KLOL 170053Z
-TTD  KTTD,Portland Troutdale Airport,36.0,KTTD 170053Z
-EUG  KEUG,Mahlon Sweet Field,36.0,KEUG 170054Z
-KNXP,Twentynine Palms (Self) Airport,36.0,KNXP 170054Z
-KGXF,,36.0,KGXF 170055Z
-LUF  KLUF,Luke Air Force Base,36.0,KLUF 170055Z
-LRD  KLRD,Laredo International Airport,36.0,KLRD 170056Z
-NFL  KNFL,Fallon Naval Air Station,36.0,KNFL 170057Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,36.0,KNYL 170057Z
-JIB  HDAM,Djibouti-Ambouli Airport,36.0,HDAM 170100Z
-BAH  OBBI,Bahrain International Airport,36.0,OBBI 170100Z
-AWZ  OIAW,Ahwaz Airport,36.0,OIAW 170100Z
-DIA  OTBD,Doha International Airport,36.0,OTBD 170130Z
-K3S8,,36.0,K3S8 170135Z
-K77S,,36.0,K77S 170135Z
-BAM  KBAM,Battle Mountain Airport,36.0,KBAM 170135Z
-BXK  KBXK,Buckeye Municipal Airport,36.0,KBXK 170135Z
-TPE  RCTP,Taiwan Taoyuan International Airport,36.0,RCTP 170135Z
-MTY  MMMY,General Mariano Escobedo International Airport,35.0,MMMY 170040Z
-CEN  MMCN,Ciudad Obregón International Airport,35.0,MMCN 170043Z
-GYR  KGYR,Phoenix Goodyear Airport,35.0,KGYR 170047Z
+OKAS,Ali Al Salem Air Base,50.0,OKAS 171237Z
+HOF  OEAH,Al Ahsa Airport,48.0,OEAH 171200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,47.0,OEPA 171200Z
+XJD  OTBH,Al Udeid Air Base,46.0,OTBH 171155Z
+DMM  OEDF,King Fahd International Airport,46.0,OEDF 171200Z
+AAN  OMAL,Al Ain International Airport,46.0,OMAL 171200Z
+NJF  ORNI,Al Najaf International Airport,46.0,ORNI 171200Z
+AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 171155Z
+JIB  HDAM,Djibouti-Ambouli Airport,45.0,HDAM 171200Z
+OEKJ,,45.0,OEKJ 171200Z
+RUH  OERK,King Khaled International Airport,45.0,OERK 171200Z
+IHR  OIZI,Iran Shahr Airport,45.0,OIZ
+BGW  ORBI,Baghdad International Airport,45.0,ORBI 171200Z
+TIN  DAOF,Tindouf Airport,44.0,DAOF 171200Z
+ELQ  OEGS,Gassim Airport,44.0,OEGS 171200Z
+RAH  OERF,Rafha Domestic Airport,44.0,OERF 171200Z
+SHW  OESH,Sharurah Airport,44.0,OESH 171200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 171200Z
+GCH  OIAH,Gachsaran Airport,44.0,OIAH 171200Z
+LRR  OISL,Lar Airport,44.0,OISL 171200Z
+ACZ  OIZB,Zabol Airport,44.0,OIZ
+BMW  DATM,Bordj Badji Mokhtar Airport,43.0,DATM 171200Z
+PGU  OIBP,Persian Gulf International Airport,43.0,OIBP 171200Z
+KIK  ORKK,Kirkuk Air Base,43.0,ORKK 171200Z
+ASB  UTAA,Ashgabat International Airport,43.0,UTAA 171200Z
+DWC  OMDW,Al Maktoum International Airport,43.0,OMDW 171230Z
+VVZ  DAAP,Illizi Takhamalt Airport,42.0,DAAP 171200Z
+INZ  DAUI,In Salah Airport,42.0,DAUI 171200Z
+TMX  DAUT,Timimoun Airport,42.0,DAUT 171200Z
+LXR  HELX,Luxor International Airport,42.0,HELX 171200Z
+HESG,,42.0,HESG 171200Z
+ASW  HESN,Aswan International Airport,42.0,HESN 171200Z
+JED  OEJN,King Abdulaziz International Airport,42.0,OEJN 171200Z
+OEMN,,42.0,OEMN 171200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 171200Z
+AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 171200Z
+RKT  OMRK,Ras Al Khaimah International Airport,42.0,OMRK 171200Z
+UTAE,,42.0,UTAE 171200Z
+MYP  UTAM,Mary Airport,42.0,UTAM 171200Z
+TAZ  UTAT,Daşoguz Airport,42.0,UTAT 171200Z
+DXB  OMDB,Dubai International Airport,42.0,OMDB 171230Z
+SHJ  OMSJ,Sharjah International Airport,42.0,OMSJ 171230Z
+NCU  UTNN,Nukus Airport,42.0,UTNN 171230Z
+ETM  LLER,Ramon Airport,41.0,LLER 171150Z
+OZG  GMAZ,Zagora Airport,41.0,GMAZ
