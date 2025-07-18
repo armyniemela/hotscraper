@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-TRM  KTRM,Jacqueline Cochran Regional Airport,38.0,KTRM 180052Z
-IPL  KIPL,Imperial County Airport,38.0,KIPL 180053Z
-PSP  KPSP,Palm Springs International Airport,38.0,KPSP 180053Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 180056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 180057Z
-KNOZ,,38.0,KNOZ
-TIN  DAOF,Tindouf Airport,38.0,DAOF 180100Z
-OKKK,,38.0,OKKK 180100Z
-KL08,,38.0,KL08 180135Z
-CEN  MMCN,Ciudad Obregón International Airport,37.0,MMCN 180040Z
-KCHD,Chandler Municipal Airport,37.0,KCHD 180047Z
-GYR  KGYR,Phoenix Goodyear Airport,37.0,KGYR 180047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,37.0,KIWA 180047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,37.0,KPHX 180051Z
-BLH  KBLH,Blythe Airport,37.0,KBLH 180052Z
-BYS  KBYS,Bicycle Lake Army Air Field,37.0,KBYS 180055Z
-KGEU,Glendale Municipal Airport,37.0,KGEU 180055Z
-LUF  KLUF,Luke Air Force Base,37.0,KLUF 180055Z
-KNID,China Lake Naws (Armitage Field) Airport,37.0,KNID 180056Z
-LSV  KLSV,Nellis Air Force Base,37.0,KLSV 180058Z
-AAN  OMAL,Al Ain International Airport,37.0,OMAL 180100Z
-BXK  KBXK,Buckeye Municipal Airport,37.0,KBXK 180135Z
-LAP  MMLP,Manuel Márquez de León International Airport,36.0,MMLP 180046Z
-DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 180053Z
-MFR  KMFR,Rogue Valley International Medford Airport,36.0,KMFR 180053Z
-SCF  KSDL,Scottsdale Airport,36.0,KSDL 180053Z
-MSC  KFFZ,Falcon Field,36.0,KFFZ
-KNXP,Twentynine Palms (Self) Airport,36.0,KNXP 180054Z
-MUO  KMUO,Mountain Home Air Force Base,36.0,KMUO 180055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,36.0,KCGZ
-KEUL,Caldwell Industrial Airport,36.0,KEUL 180056Z
-LRD  KLRD,Laredo International Airport,36.0,KLRD 180056Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,36.0,KNLC 180056Z
-NFL  KNFL,Fallon Naval Air Station,36.0,KNFL 180057Z
-ABD  OIAA,Abadan Airport,36.0,OIAA 180100Z
-NJF  ORNI,Al Najaf International Airport,36.0,ORNI 180100Z
-KGXF,,36.0,KGXF 180102Z
-DXB  OMDB,Dubai International Airport,36.0,OMDB 180130Z
-KA39,,36.0,KA39 180135Z
-HII  KHII,Lake Havasu City Airport,36.0,KHII 180135Z
-KMAN,,36.0,KMAN 180135Z
-KP08,,36.0,KP08 180135Z
-KTVY,Bolinder Field Tooele Valley Airport,36.0,KTVY 180135Z
-GYM  MMGM,General José María Yáñez International Airport,35.0,MMGM 180040Z
-KHS  OOKB,Khasab Air Base,35.0,OOKB 180050Z
+OKAS,Ali Al Salem Air Base,47.0,OKAS 181155Z
+XJD  OTBH,Al Udeid Air Base,47.0,OTBH 181155Z
+HOF  OEAH,Al Ahsa Airport,47.0,OEAH 181200Z
+MRX  OIAM,Mahshahr Airport,47.0,OIAM 181200Z
+WAE  OEWD,Wadi Al Dawasir Airport,46.0,OEWD 181200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,46.0,OEYN 181200Z
+AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 181155Z
+INZ  DAUI,In Salah Airport,45.0,DAUI 181200Z
+OEKJ,,45.0,OEKJ 181200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 181200Z
+SHW  OESH,Sharurah Airport,45.0,OESH 181200Z
+ACZ  OIZB,Zabol Airport,45.0,OIZ
+IHR  OIZI,Iran Shahr Airport,45.0,OIZ
+NJF  ORNI,Al Najaf International Airport,45.0,ORNI 181200Z
+TAZ  UTAT,Daşoguz Airport,45.0,UTAT 181200Z
+DMM  OEDF,King Fahd International Airport,44.0,OEDF 181200Z
+OEMN,,44.0,OEMN 181200Z
+RUH  OERK,King Khaled International Airport,44.0,OERK 181200Z
+BGW  ORBI,Baghdad International Airport,44.0,ORBI 181200Z
+KIK  ORKK,Kirkuk Air Base,44.0,ORKK 181200Z
+GXF  OYSY,Sayun International Airport,44.0,OYSY 181200Z
+AAN  OMAL,Al Ain International Airport,44.0,OMAL 181208Z
+DWC  OMDW,Al Maktoum International Airport,44.0,OMDW 181230Z
+LXR  HELX,Luxor International Airport,43.0,HELX 181200Z
+ASW  HESN,Aswan International Airport,43.0,HESN 181200Z
+ELQ  OEGS,Gassim Airport,43.0,OEGS 181200Z
+GCH  OIAH,Gachsaran Airport,43.0,OIAH 181200Z
+OIBH,Bastak Airport,43.0,OIBH 181200Z
+LRR  OISL,Lar Airport,43.0,OISL 181200Z
+RKT  OMRK,Ras Al Khaimah International Airport,43.0,OMRK 181200Z
+ASB  UTAA,Ashgabat International Airport,43.0,UTAA 181200Z
+MYP  UTAM,Mary Airport,43.0,UTAM 181200Z
+CRZ  UTAV,Turkmenabat Airport,43.0,UTAV 181200Z
+KZO  UAOO,Kzyl-Orda Southwest Airport,43.0,UAOO 181230Z
+NCU  UTNN,Nukus Airport,43.0,UTNN 181230Z
+ETM  LLER,Ramon Airport,42.0,LLER 181150Z
+NKT  LTCV,Şırnak Şerafettin Elçi Airport,42.0,LTCV 181150Z
+TMX  DAUT,Timimoun Airport,42.0,DAUT 181200Z
+ATZ  HEAT,Asyut International Airport,42.0,HEAT 181200Z
+ABS  HEBL,Abu Simbel Airport,42.0,HEBL 181200Z
+HESG,,42.0,HESG 181200Z
+DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 181200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 181200Z
+FAZ  OISF,Fasa Airport,42.0,OISF 181200Z
+AQJ  OJAQ,Aqaba King Hussein International Airport,42.0,OJAQ 181200Z
