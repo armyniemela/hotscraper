@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HOF  OEAH,Al Ahsa Airport,47.0,OEAH 201200Z
-ABD  OIAA,Abadan Airport,47.0,OIAA 201200Z
-LFM  OISR,Lamerd Airport,47.0,OISR 201200Z
-OKKK,,47.0,OKKK 201200Z
-GCH  OIAH,Gachsaran Airport,46.0,OIAH 201200Z
-ACZ  OIZB,Zabol Airport,46.0,OIZ
-IHR  OIZI,Iran Shahr Airport,46.0,OIZ
-NJF  ORNI,Al Najaf International Airport,46.0,ORNI 201200Z
-JIB  HDAM,Djibouti-Ambouli Airport,45.0,HDAM 201200Z
-DMM  OEDF,King Fahd International Airport,45.0,OEDF 201200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 201200Z
-LRR  OISL,Lar Airport,45.0,OISL 201200Z
-KQTZ,,44.0,KQTZ
-XJD  OTBH,Al Udeid Air Base,44.0,OTBH 201155Z
-INZ  DAUI,In Salah Airport,44.0,DAUI 201200Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 201200Z
-WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 201200Z
-BGW  ORBI,Baghdad International Airport,44.0,ORBI 201200Z
-KIK  ORKK,Kirkuk Air Base,44.0,ORKK 201200Z
-UTAE,,44.0,UTAE 201200Z
-AKH  OEPS,Prince Sultan Air Base,43.0,OEPS 201155Z
-BUJ  DAAD,Bou Saada Airport,43.0,DAAD 201200Z
-OZG  GMAZ,Zagora Airport,43.0,GMAZ
-DHA  OEDR,King Abdulaziz Air Base,43.0,OEDR 201200Z
-OEKJ,,43.0,OEKJ 201200Z
-RUH  OERK,King Khaled International Airport,43.0,OERK 201200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 201200Z
-PGU  OIBP,Persian Gulf International Airport,43.0,OIBP 201200Z
-KHD  OICK,Khoram Abad Airport,43.0,OICK 201200Z
-GXF  OYSY,Sayun International Airport,43.0,OYSY 201200Z
-TMJ  UTST,Termez Airport,43.0,UTST 201200Z
-AAN  OMAL,Al Ain International Airport,43.0,OMAL 201222Z
-SXZ  LTCL,Siirt Airport,42.0,LTCL 201150Z
-BSK  DAUB,Biskra Airport,42.0,DAUB 201200Z
-GAE  DTTG,Gabès Matmata International Airport,42.0,DTTG 201200Z
-DTTK,,42.0,DTTK 201200Z
-DTTN,,42.0,DTTN 201200Z
-TOE  DTTZ,Tozeur Nefta International Airport,42.0,DTTZ
-OEMN,,42.0,OEMN 201200Z
-RAH  OERF,Rafha Domestic Airport,42.0,OERF 201200Z
-EBL  ORER,Erbil International Airport,42.0,ORER 201200Z
-ISU  ORSU,Sulaymaniyah International Airport,42.0,ORSU 201200Z
-BAL  LTCJ,Batman Airport,42.0,LTCJ 201220Z
-CZL  DABC,Mohamed Boudiaf International Airport,41.0,DABC 201200Z
-BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 201200Z
+LGF  KLGF,Laguna Army Airfield,40.0,KLGF 210055Z
+LSV  KLSV,Nellis Air Force Base,40.0,KLSV 210055Z
+DAG  KDAG,Barstow Daggett Airport,39.0,KDAG 210050Z
+VGT  KVGT,North Las Vegas Airport,39.0,KVGT 210053Z
+LAS  KLAS,McCarran International Airport,39.0,KLAS 210056Z
+KNID,China Lake Naws (Armitage Field) Airport,39.0,KNID 210056Z
+KL08,,39.0,KL08 210135Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,38.0,MMML 210040Z
+BYS  KBYS,Bicycle Lake Army Air Field,38.0,KBYS 210055Z
+HSH  KHND,Henderson Executive Airport,38.0,KHND 210056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 210057Z
+KBVU,,38.0,KBVU 210135Z
+NLD  MMNL,Quetzalcóatl International Airport,37.0,MMNL 210040Z
+KGXF,,37.0,KGXF 210055Z
+INS  KINS,Creech Air Force Base,37.0,KINS 210055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),37.0,KNJK 210056Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,37.0,KNLC 210056Z
+KP28,,37.0,KP28 210056Z
+SGU  KSGU,St George Municipal Airport,37.0,KSGU 210056Z
+VIS  KVIS,Visalia Municipal Airport,37.0,KVIS 210056Z
+KNOZ,,37.0,KNOZ
+INZ  DAUI,In Salah Airport,37.0,DAUI 210100Z
+DHA  OEDR,King Abdulaziz Air Base,37.0,OEDR 210100Z
+OKKK,,37.0,OKKK 210100Z
+KT89,,36.0,KT89 210040Z
+CJS  MMCS,Abraham González International Airport,36.0,MMCS 210041Z
+KHS  OOKB,Khasab Air Base,36.0,OOKB 210050Z
+ELP  KELP,El Paso International Airport,36.0,KELP 210051Z
+DDC  KDDC,Dodge City Regional Airport,36.0,KDDC 210052Z
+COT  KCOT,Cotulla-La Salle County Airport,36.0,KCOT 210053Z
+DRA  KDRA,Desert Rock Airport,36.0,KDRA 210053Z
+FAT  KFAT,Fresno Yosemite International Airport,36.0,KFAT 210053Z
+FDR  KFDR,Frederick Regional Airport,36.0,KFDR 210053Z
+KHJO,Hanford Municipal Airport,36.0,KHJO 210053Z
+LBB  KLBB,Lubbock Preston Smith International Airport,36.0,KLBB 210053Z
+LOL  KLOL,Derby Field,36.0,KLOL 210053Z
+BFL  KBFL,Meadows Field,36.0,KBFL 210054Z
+KNXP,Twentynine Palms (Self) Airport,36.0,KNXP 210054Z
+GBD  KGBD,Great Bend Municipal Airport,36.0,KGBD 210056Z
+LRD  KLRD,Laredo International Airport,36.0,KLRD 210056Z
+PTV  KPTV,Porterville Municipal Airport,36.0,KPTV 210056Z
+NFL  KNFL,Fallon Naval Air Station,36.0,KNFL 210057Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,36.0,DAUA 210100Z
+JIB  HDAM,Djibouti-Ambouli Airport,36.0,HDAM 210100Z
+AWZ  OIAW,Ahwaz Airport,36.0,OIAW 210100Z
