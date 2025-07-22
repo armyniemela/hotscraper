@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HII  KHII,Lake Havasu City Airport,40.0,KHII 220135Z
-KGXF,,39.0,KGXF 220055Z
-LGF  KLGF,Laguna Army Airfield,39.0,KLGF 220055Z
-LSV  KLSV,Nellis Air Force Base,39.0,KLSV 220101Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,38.0,MMML 220040Z
-GYR  KGYR,Phoenix Goodyear Airport,38.0,KGYR 220047Z
-KGEU,Glendale Municipal Airport,38.0,KGEU 220052Z
-VGT  KVGT,North Las Vegas Airport,38.0,KVGT 220053Z
-LUF  KLUF,Luke Air Force Base,38.0,KLUF 220055Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 220057Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,38.0,DAUA 220100Z
-BXK  KBXK,Buckeye Municipal Airport,38.0,KBXK 220135Z
-KL08,,38.0,KL08 220135Z
-NLD  MMNL,Quetzalcóatl International Airport,37.0,MMNL 220040Z
-COT  KCOT,Cotulla-La Salle County Airport,37.0,KCOT 220053Z
-PSP  KPSP,Palm Springs International Airport,37.0,KPSP 220053Z
-SCF  KSDL,Scottsdale Airport,37.0,KSDL 220053Z
-HSH  KHND,Henderson Executive Airport,37.0,KHND 220056Z
-LAS  KLAS,McCarran International Airport,37.0,KLAS 220056Z
-KNOZ,,37.0,KNOZ
-DHA  OEDR,King Abdulaziz Air Base,37.0,OEDR 220100Z
-DAG  KDAG,Barstow Daggett Airport,36.0,KDAG 220050Z
-CDS  KCDS,Childress Municipal Airport,36.0,KCDS 220053Z
-DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 220053Z
-FDR  KFDR,Frederick Regional Airport,36.0,KFDR 220053Z
-KNXP,Twentynine Palms (Self) Airport,36.0,KNXP 220054Z
-LRD  KLRD,Laredo International Airport,36.0,KLRD 220056Z
-BMW  DATM,Bordj Badji Mokhtar Airport,36.0,DATM 220100Z
-INZ  DAUI,In Salah Airport,36.0,DAUI 220100Z
-ELU  DAUO,Guemar Airport,36.0,DAUO 220100Z
-TMX  DAUT,Timimoun Airport,36.0,DAUT 220100Z
-TOE  DTTZ,Tozeur Nefta International Airport,36.0,DTTZ
-OEMN,,36.0,OEMN 220100Z
-OKKK,,36.0,OKKK 220100Z
-AAN  OMAL,Al Ain International Airport,36.0,OMAL 220100Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,36.0,KPHX 220105Z
-BYS  KBYS,Bicycle Lake Army Air Field,36.0,KBYS 220108Z
-INS  KINS,Creech Air Force Base,36.0,KINS 220129Z
-KBVU,,36.0,KBVU 220135Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,35.0,MMHO 220040Z
-SPS  KSPS,Sheppard Air Force Base-Wichita Falls Municipal Airport,35.0,KSPS 220052Z
-CSM  KCSM,Clinton Sherman Airport,35.0,KCSM 220053Z
-DRA  KDRA,Desert Rock Airport,35.0,KDRA 220053Z
-GUY  KGUY,Guymon Municipal Airport,35.0,KGUY 220053Z
-LAW  KLAW,Lawton Fort Sill Regional Airport,35.0,KLAW 220053Z
+AWZ  OIAW,Ahwaz Airport,48.0,OIAW 221230Z
+HOF  OEAH,Al Ahsa Airport,47.0,OEAH 221200Z
+ABD  OIAA,Abadan Airport,47.0,OIAA 221200Z
+AAN  OMAL,Al Ain International Airport,47.0,OMAL 221200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 221200Z
+WAE  OEWD,Wadi Al Dawasir Airport,46.0,OEWD 221200Z
+IHR  OIZI,Iran Shahr Airport,46.0,OIZ
+NJF  ORNI,Al Najaf International Airport,46.0,ORNI 221200Z
+KQTZ,,45.0,KQTZ
+AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 221155Z
+XJD  OTBH,Al Udeid Air Base,45.0,OTBH 221155Z
+GAF  DTTF,Gafsa Ksar International Airport,45.0,DTTF 221200Z
+TOE  DTTZ,Tozeur Nefta International Airport,45.0,DTTZ
+OEKJ,,45.0,OEKJ 221200Z
+RUH  OERK,King Khaled International Airport,45.0,OERK 221200Z
+LRR  OISL,Lar Airport,45.0,OISL 221200Z
+LFM  OISR,Lamerd Airport,45.0,OISR 221200Z
+BGW  ORBI,Baghdad International Airport,45.0,ORBI 221200Z
+KIK  ORKK,Kirkuk Air Base,45.0,ORKK 221200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,44.0,DATM 221200Z
+DTTD,Remada Air Base,44.0,DTTD 221200Z
+DMM  OEDF,King Fahd International Airport,44.0,OEDF 221200Z
+DHA  OEDR,King Abdulaziz Air Base,44.0,OEDR 221200Z
+ELQ  OEGS,Gassim Airport,44.0,OEGS 221200Z
+SHW  OESH,Sharurah Airport,44.0,OESH 221200Z
+GCH  OIAH,Gachsaran Airport,44.0,OIAH 221200Z
+ACZ  OIZB,Zabol Airport,44.0,OIZ
+EBL  ORER,Erbil International Airport,44.0,ORER 221200Z
+ISU  ORSU,Sulaymaniyah International Airport,44.0,ORSU 221200Z
+GXF  OYSY,Sayun International Airport,44.0,OYSY 221200Z
+UTAE,,44.0,UTAE 221200Z
+OZG  GMAZ,Zagora Airport,43.0,GMAZ
+DWD  OEDM,King Salman Abdulaziz Airport,43.0,OEDM 221200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 221200Z
+OEMN,,43.0,OEMN 221200Z
+RAH  OERF,Rafha Domestic Airport,43.0,OERF 221200Z
+RAE  OERR,Arar Domestic Airport,43.0,OERR 221200Z
+KHD  OICK,Khoram Abad Airport,43.0,OICK 221200Z
+MYP  UTAM,Mary Airport,43.0,UTAM 221200Z
+TMJ  UTST,Termez Airport,43.0,UTST 221230Z
+SXZ  LTCL,Siirt Airport,42.0,LTCL 221150Z
+MQM  LTCR,Mardin Airport,42.0,LTCR 221150Z
+NKT  LTCV,Şırnak Şerafettin Elçi Airport,42.0,LTCV 221150Z
+SDG  OICS,Sanandaj Airport,42.0,OICS 221200Z
+IKA  OIIE,Imam Khomeini International Airport,42.0,OIIE 221200Z
