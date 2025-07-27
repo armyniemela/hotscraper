@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OKAS,Ali Al Salem Air Base,48.0,OKAS 261155Z
-BGW  ORBI,Baghdad International Airport,48.0,ORBI 261200Z
-KIK  ORKK,Kirkuk Air Base,48.0,ORKK 261200Z
-EBL  ORER,Erbil International Airport,47.0,ORER 261200Z
-SXZ  LTCL,Siirt Airport,46.0,LTCL 261150Z
-MQM  LTCR,Mardin Airport,46.0,LTCR 261150Z
-AKH  OEPS,Prince Sultan Air Base,46.0,OEPS 261155Z
-OEKJ,,46.0,OEKJ 261200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 261200Z
-OKKK,,46.0,OKKK 261200Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,45.0,LTCV 261150Z
-DMM  OEDF,King Fahd International Airport,45.0,OEDF 261200Z
-ELQ  OEGS,Gassim Airport,45.0,OEGS 261200Z
-RAH  OERF,Rafha Domestic Airport,45.0,OERF 261200Z
-RUH  OERK,King Khaled International Airport,45.0,OERK 261200Z
-WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 261200Z
-IHR  OIZI,Iran Shahr Airport,45.0,OIZ
-ISU  ORSU,Sulaymaniyah International Airport,45.0,ORSU 261200Z
-ETM  LLER,Ramon Airport,44.0,LLER 261150Z
-ADF  LTCP,Adıyaman Airport,44.0,LTCP 261150Z
-TMX  DAUT,Timimoun Airport,44.0,DAUT 261200Z
-SHW  OESH,Sharurah Airport,44.0,OESH 261200Z
-GCH  OIAH,Gachsaran Airport,44.0,OIAH 261200Z
-LRR  OISL,Lar Airport,44.0,OISL 261200Z
-ACZ  OIZB,Zabol Airport,44.0,OIZ
-RKT  OMRK,Ras Al Khaimah International Airport,44.0,OMRK 261200Z
-GXF  OYSY,Sayun International Airport,44.0,OYSY 261200Z
-DIY  LTCC,Diyarbakir Airport,44.0,LTCC 261220Z
-BAL  LTCJ,Batman Airport,44.0,LTCJ 261220Z
-DWC  OMDW,Al Maktoum International Airport,44.0,OMDW 261230Z
-KCM  LTCN,Kahramanmaraş Airport,43.0,LTCN 261150Z
-KHS  OOKB,Khasab Air Base,43.0,OOKB 261150Z
-XJD  OTBH,Al Udeid Air Base,43.0,OTBH 261155Z
-INZ  DAUI,In Salah Airport,43.0,DAUI 261200Z
-INI  LYNI,Nis Airport,43.0,LYNI 261200Z
-RAE  OERR,Arar Domestic Airport,43.0,OERR 261200Z
-KHD  OICK,Khoram Abad Airport,43.0,OICK 261200Z
-TMJ  UTST,Termez Airport,43.0,UTST 261200Z
-AAN  OMAL,Al Ain International Airport,43.0,OMAL 261214Z
-AYT  LTAI,Antalya International Airport,43.0,LTAI 261220Z
-GZT  LTAJ,Gaziantep International Airport,43.0,LTAJ 261220Z
-GNY  LTCS,Şanlıurfa GAP Airport,43.0,LTCS 261220Z
-DXB  OMDB,Dubai International Airport,43.0,OMDB 261230Z
-ELG  DAUE,El Golea Airport,42.0,DAUE 261200Z
-DTTD,Remada Air Base,42.0,DTTD 261200Z
+IFP  KIFP,Laughlin Bullhead International Airport,39.0,KIFP 270135Z
+MZJ  KMZJ,Pinal Airpark,39.0,KMZ
+KP08,,39.0,KP08 270135Z
+GYM  MMGM,General José María Yáñez International Airport,39.0,MMGM 270141Z
+KCHD,Chandler Municipal Airport,39.0,KCHD 270147Z
+KGEU,Glendale Municipal Airport,39.0,KGEU 270147Z
+GYR  KGYR,Phoenix Goodyear Airport,39.0,KGYR 270147Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,39.0,KIWA 270150Z
+KA39,,39.0,KA39 270155Z
+LGF  KLGF,Laguna Army Airfield,39.0,KLGF 270155Z
+LUF  KLUF,Luke Air Force Base,39.0,KLUF 270155Z
+HII  KHII,Lake Havasu City Airport,38.0,KHII 270135Z
+KRYN,Ryan Field,38.0,KRYN 270145Z
+BLH  KBLH,Blythe Airport,38.0,KBLH 270152Z
+SCF  KSDL,Scottsdale Airport,38.0,KSDL 270153Z
+MSC  KFFZ,Falcon Field,38.0,KFFZ
+AVW  KAVQ,Marana Regional Airport,38.0,KAVQ 270155Z
+CGZ  KCGZ,Casa Grande Municipal Airport,38.0,KCGZ
+EED  KEED,Needles Airport,38.0,KEED 270156Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 270157Z
+LSV  KLSV,Nellis Air Force Base,37.0,KLSV 270055Z
+DXB  OMDB,Dubai International Airport,37.0,OMDB 270130Z
+SAD  KSAD,Safford Regional Airport,37.0,KSAD 270151Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,37.0,KTRM 270152Z
+DVT  KDVT,Phoenix Deer Valley Airport,37.0,KDVT 270153Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,37.0,KTUS 270153Z
+BXK  KBXK,Buckeye Municipal Airport,37.0,KBXK 270155Z
+DMA  KDMA,Davis Monthan Air Force Base,37.0,KDMA 270155Z
+KQTZ,,36.0,KQTZ
+GIZ  OEGN,Jizan Regional Airport,36.0,OEGN 270100Z
+JED  OEJN,King Abdulaziz International Airport,36.0,OEJN 270100Z
+AAN  OMAL,Al Ain International Airport,36.0,OMAL 270100Z
+KE77,,36.0,KE77 270135Z
+CEN  MMCN,Ciudad Obregón International Airport,36.0,MMCN 270140Z
+SJD  MMSD,Los Cabos International Airport,36.0,MMSD 270140Z
+CJS  MMCS,Abraham González International Airport,36.0,MMCS 270141Z
+ELP  KELP,El Paso International Airport,36.0,KELP 270151Z
+IPL  KIPL,Imperial County Airport,36.0,KIPL 270153Z
+BIF  KBIF,Biggs Army Air Field (Fort Bliss),36.0,KBIF 270155Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),36.0,KNJK 270156Z
+KHS  OOKB,Khasab Air Base,35.0,OOKB 270050Z
+TMX  DAUT,Timimoun Airport,35.0,DAUT 270100Z
+ISU  ORSU,Sulaymaniyah International Airport,35.0,ORSU 270100Z
+ITM  RJOO,Osaka International Airport,35.0,RJOO 270129Z
+AZI  OMAD,Bateen Airport,35.0,OMAD 270130Z
