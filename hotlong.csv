@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KGEU,Glendale Municipal Airport,41.0,KGEU 280147Z
-GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 280147Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,41.0,KIWA 280150Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 280151Z
-BLH  KBLH,Blythe Airport,41.0,KBLH 280152Z
-HII  KHII,Lake Havasu City Airport,41.0,KHII 280155Z
-LUF  KLUF,Luke Air Force Base,41.0,KLUF 280155Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,40.0,KNYL 280057Z
-KNOZ,,40.0,KNOZ
-MZJ  KMZJ,Pinal Airpark,40.0,KMZ
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 280140Z
-SCF  KSDL,Scottsdale Airport,40.0,KSDL 280153Z
-MSC  KFFZ,Falcon Field,40.0,KFFZ
-KA39,,40.0,KA39 280155Z
-BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 280155Z
-LGF  KLGF,Laguna Army Airfield,40.0,KLGF 280155Z
-CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
-EED  KEED,Needles Airport,40.0,KEED 280156Z
-IPL  KIPL,Imperial County Airport,39.0,KIPL 280153Z
-AVW  KAVQ,Marana Regional Airport,39.0,KAVQ 280155Z
-DMA  KDMA,Davis Monthan Air Force Base,39.0,KDMA 280155Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),39.0,KNJK 280156Z
-KHS  OOKB,Khasab Air Base,38.0,OOKB 280050Z
-IAM  DAUZ,In Aménas Airport,38.0,DAUZ
-SAD  KSAD,Safford Regional Airport,38.0,KSAD 280151Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,38.0,KTRM 280152Z
-DVT  KDVT,Phoenix Deer Valley Airport,38.0,KDVT 280153Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,38.0,KTUS 280153Z
-KL08,,38.0,KL08 280155Z
-LSV  KLSV,Nellis Air Force Base,38.0,KLSV 280155Z
-INZ  DAUI,In Salah Airport,37.0,DAUI 280100Z
-AAN  OMAL,Al Ain International Airport,37.0,OMAL 280100Z
-KE77,,37.0,KE77 280135Z
-PSP  KPSP,Palm Springs International Airport,37.0,KPSP 280153Z
-VGT  KVGT,North Las Vegas Airport,37.0,KVGT 280153Z
-KBVU,,37.0,KBVU 280155Z
-LAS  KLAS,McCarran International Airport,37.0,KLAS 280156Z
-LAA  KLAA,Southeast Colorado Regional Airport,36.0,KLAA 280051Z
-KQTZ,,36.0,KQTZ
-OZG  GMAZ,Zagora Airport,36.0,GMAZ
-HOF  OEAH,Al Ahsa Airport,36.0,OEAH 280100Z
-DXB  OMDB,Dubai International Airport,36.0,OMDB 280130Z
-LTO  MMLT,Loreto International Airport,36.0,MMLT 280140Z
-DAG  KDAG,Barstow Daggett Airport,36.0,KDAG 280150Z
-KNXP,Twentynine Palms (Self) Airport,36.0,KNXP 280154Z
+HOF  OEAH,Al Ahsa Airport,49.0,OEAH 281200Z
+AKW  OIAG,Aghajari Airport,49.0,OIAG 281200Z
+OKKK,,49.0,OKKK 281200Z
+BGW  ORBI,Baghdad International Airport,49.0,ORBI 281200Z
+AWZ  OIAW,Ahwaz Airport,49.0,OIAW 281230Z
+DMM  OEDF,King Fahd International Airport,48.0,OEDF 281200Z
+KIK  ORKK,Kirkuk Air Base,48.0,ORKK 281200Z
+XJD  OTBH,Al Udeid Air Base,47.0,OTBH 281154Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,47.0,OEPA 281200Z
+ASW  HESN,Aswan International Airport,46.0,HESN 281200Z
+DHA  OEDR,King Abdulaziz Air Base,46.0,OEDR 281200Z
+EBL  ORER,Erbil International Airport,46.0,ORER 281200Z
+SXZ  LTCL,Siirt Airport,45.0,LTCL 281150Z
+MQM  LTCR,Mardin Airport,45.0,LTCR 281150Z
+NKT  LTCV,Şırnak Şerafettin Elçi Airport,45.0,LTCV 281150Z
+AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 281155Z
+ELQ  OEGS,Gassim Airport,45.0,OEGS 281200Z
+OEKJ,,45.0,OEKJ 281200Z
+RAH  OERF,Rafha Domestic Airport,45.0,OERF 281200Z
+RUH  OERK,King Khaled International Airport,45.0,OERK 281200Z
+GCH  OIAH,Gachsaran Airport,45.0,OIAH 281200Z
+PGU  OIBP,Persian Gulf International Airport,45.0,OIBP 281200Z
+LFM  OISR,Lamerd Airport,45.0,OISR 281200Z
+ELT  HETR,El Tor Airport,44.0,HETR 281200Z
+SHW  OESH,Sharurah Airport,44.0,OESH 281200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 281200Z
+OIKQ,Dayrestan Airport,44.0,OIKQ 281200Z
+IHR  OIZI,Iran Shahr Airport,44.0,OIZ
+AAN  OMAL,Al Ain International Airport,44.0,OMAL 281200Z
+ISU  ORSU,Sulaymaniyah International Airport,44.0,ORSU 281210Z
+ETM  LLER,Ramon Airport,43.0,LLER 281150Z
+KHS  OOKB,Khasab Air Base,43.0,OOKB 281150Z
+ABS  HEBL,Abu Simbel Airport,43.0,HEBL 281200Z
+LXR  HELX,Luxor International Airport,43.0,HELX 281200Z
+DWD  OEDM,King Salman Abdulaziz Airport,43.0,OEDM 281200Z
+RAE  OERR,Arar Domestic Airport,43.0,OERR 281200Z
+ACZ  OIZB,Zabol Airport,43.0,OIZ
+AQJ  OJAQ,Aqaba King Hussein International Airport,43.0,OJAQ 281200Z
+GXF  OYSY,Sayun International Airport,43.0,OYSY 281200Z
+DIY  LTCC,Diyarbakir Airport,43.0,LTCC 281220Z
+BAL  LTCJ,Batman Airport,43.0,LTCJ 281220Z
+EZS  LTCA,Elazığ Airport,42.0,LTCA 281150Z
+ADF  LTCP,Adıyaman Airport,42.0,LTCP 281150Z
+BMW  DATM,Bordj Badji Mokhtar Airport,42.0,DATM 281200Z
+INZ  DAUI,In Salah Airport,42.0,DAUI 281200Z
