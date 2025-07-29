@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HOF  OEAH,Al Ahsa Airport,49.0,OEAH 281200Z
-AKW  OIAG,Aghajari Airport,49.0,OIAG 281200Z
-OKKK,,49.0,OKKK 281200Z
-BGW  ORBI,Baghdad International Airport,49.0,ORBI 281200Z
-AWZ  OIAW,Ahwaz Airport,49.0,OIAW 281230Z
-DMM  OEDF,King Fahd International Airport,48.0,OEDF 281200Z
-KIK  ORKK,Kirkuk Air Base,48.0,ORKK 281200Z
-XJD  OTBH,Al Udeid Air Base,47.0,OTBH 281154Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,47.0,OEPA 281200Z
-ASW  HESN,Aswan International Airport,46.0,HESN 281200Z
-DHA  OEDR,King Abdulaziz Air Base,46.0,OEDR 281200Z
-EBL  ORER,Erbil International Airport,46.0,ORER 281200Z
-SXZ  LTCL,Siirt Airport,45.0,LTCL 281150Z
-MQM  LTCR,Mardin Airport,45.0,LTCR 281150Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,45.0,LTCV 281150Z
-AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 281155Z
-ELQ  OEGS,Gassim Airport,45.0,OEGS 281200Z
-OEKJ,,45.0,OEKJ 281200Z
-RAH  OERF,Rafha Domestic Airport,45.0,OERF 281200Z
-RUH  OERK,King Khaled International Airport,45.0,OERK 281200Z
-GCH  OIAH,Gachsaran Airport,45.0,OIAH 281200Z
-PGU  OIBP,Persian Gulf International Airport,45.0,OIBP 281200Z
-LFM  OISR,Lamerd Airport,45.0,OISR 281200Z
-ELT  HETR,El Tor Airport,44.0,HETR 281200Z
-SHW  OESH,Sharurah Airport,44.0,OESH 281200Z
-WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 281200Z
-OIKQ,Dayrestan Airport,44.0,OIKQ 281200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 281200Z
-ISU  ORSU,Sulaymaniyah International Airport,44.0,ORSU 281210Z
-ETM  LLER,Ramon Airport,43.0,LLER 281150Z
-KHS  OOKB,Khasab Air Base,43.0,OOKB 281150Z
-ABS  HEBL,Abu Simbel Airport,43.0,HEBL 281200Z
-LXR  HELX,Luxor International Airport,43.0,HELX 281200Z
-DWD  OEDM,King Salman Abdulaziz Airport,43.0,OEDM 281200Z
-RAE  OERR,Arar Domestic Airport,43.0,OERR 281200Z
-ACZ  OIZB,Zabol Airport,43.0,OIZ
-AQJ  OJAQ,Aqaba King Hussein International Airport,43.0,OJAQ 281200Z
-GXF  OYSY,Sayun International Airport,43.0,OYSY 281200Z
-DIY  LTCC,Diyarbakir Airport,43.0,LTCC 281220Z
-BAL  LTCJ,Batman Airport,43.0,LTCJ 281220Z
-EZS  LTCA,Elazığ Airport,42.0,LTCA 281150Z
-ADF  LTCP,Adıyaman Airport,42.0,LTCP 281150Z
-BMW  DATM,Bordj Badji Mokhtar Airport,42.0,DATM 281200Z
-INZ  DAUI,In Salah Airport,42.0,DAUI 281200Z
+KCHD,Chandler Municipal Airport,42.0,KCHD 290147Z
+KGEU,Glendale Municipal Airport,42.0,KGEU 290147Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,42.0,KIWA 290150Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,42.0,KPHX 290151Z
+BLH  KBLH,Blythe Airport,42.0,KBLH 290152Z
+HII  KHII,Lake Havasu City Airport,42.0,KHII 290155Z
+EED  KEED,Needles Airport,42.0,KEED 290156Z
+KNOZ,,41.0,KNOZ
+MZJ  KMZJ,Pinal Airpark,41.0,KMZ
+SCF  KSDL,Scottsdale Airport,41.0,KSDL 290153Z
+MSC  KFFZ,Falcon Field,41.0,KFFZ
+KA39,,41.0,KA39 290155Z
+CGZ  KCGZ,Casa Grande Municipal Airport,41.0,KCGZ
+KRYN,Ryan Field,40.0,KRYN 290145Z
+DVT  KDVT,Phoenix Deer Valley Airport,40.0,KDVT 290153Z
+AVW  KAVQ,Marana Regional Airport,40.0,KAVQ 290155Z
+OKKK,,39.0,OKKK 290100Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,39.0,MMHO 290140Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,39.0,KTRM 290152Z
+IPL  KIPL,Imperial County Airport,39.0,KIPL 290153Z
+BXK  KBXK,Buckeye Municipal Airport,39.0,KBXK 290155Z
+KL08,,39.0,KL08 290155Z
+LAS  KLAS,McCarran International Airport,39.0,KLAS 290156Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),39.0,KNJK 290156Z
+MQM  LTCR,Mardin Airport,38.0,LTCR 290150Z
+PSP  KPSP,Palm Springs International Airport,38.0,KPSP 290153Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,38.0,KTUS 290153Z
+VGT  KVGT,North Las Vegas Airport,38.0,KVGT 290153Z
+KBVU,,38.0,KBVU 290155Z
+HSH  KHND,Henderson Executive Airport,38.0,KHND 290156Z
+NJF  ORNI,Al Najaf International Airport,38.0,ORNI 290200Z
+OKAS,Ali Al Salem Air Base,37.0,OKAS 290055Z
+AAN  OMAL,Al Ain International Airport,37.0,OMAL 290100Z
+DXB  OMDB,Dubai International Airport,37.0,OMDB 290130Z
+KP52,,37.0,KP52 290135Z
+DAG  KDAG,Barstow Daggett Airport,37.0,KDAG 290150Z
+SGU  KSGU,St George Municipal Airport,37.0,KSGU 290156Z
+AUH  OMAA,Abu Dhabi International Airport,36.0,OMAA 290100Z
+KE77,,36.0,KE77 290135Z
+KNXP,Twentynine Palms (Self) Airport,36.0,KNXP 290154Z
+KNID,China Lake Naws (Armitage Field) Airport,36.0,KNID 290156Z
+KHS  OOKB,Khasab Air Base,35.0,OOKB 290050Z
+SKF  KSKF,Lackland Air Force Base,35.0,KSKF 290055Z
+OZG  GMAZ,Zagora Airport,35.0,GMAZ
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,35.0,OEPA 290100Z
