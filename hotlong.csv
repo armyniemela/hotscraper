@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ABD  OIAA,Abadan Airport,48.0,OIAA 021200Z
-AWZ  OIAW,Ahwaz Airport,48.0,OIAW 021200Z
-OKKK,,48.0,OKKK 021200Z
-IHR  OIZI,Iran Shahr Airport,46.0,OIZ
-NJF  ORNI,Al Najaf International Airport,46.0,ORNI 021200Z
-KQTZ,,45.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 021155Z
-HME  DAUH,Oued Irara Airport,45.0,DAUH 021200Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,45.0,DAUK 021200Z
-DMM  OEDF,King Fahd International Airport,45.0,OEDF 021200Z
-DHA  OEDR,King Abdulaziz Air Base,45.0,OEDR 021200Z
-OEKJ,,45.0,OEKJ 021200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 021200Z
-RUH  OERK,King Khaled International Airport,45.0,OERK 021200Z
-WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 021200Z
-GCH  OIAH,Gachsaran Airport,45.0,OIAH 021200Z
-AAN  OMAL,Al Ain International Airport,45.0,OMAL 021200Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 021200Z
-SHW  OESH,Sharurah Airport,44.0,OESH 021200Z
-BGW  ORBI,Baghdad International Airport,44.0,ORBI 021200Z
-KIK  ORKK,Kirkuk Air Base,44.0,ORKK 021200Z
-XJD  OTBH,Al Udeid Air Base,43.0,OTBH 021155Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,43.0,DAUA 021200Z
-ELG  DAUE,El Golea Airport,43.0,DAUE 021200Z
-GHA  DAUG,Noumérat - Moufdi Zakaria Airport,43.0,DAUG 021200Z
-DTTD,Remada Air Base,43.0,DTTD 021200Z
-OIBH,Bastak Airport,43.0,OIBH 021200Z
-LRR  OISL,Lar Airport,43.0,OISL 021200Z
-ACZ  OIZB,Zabol Airport,43.0,OIZ
-EBL  ORER,Erbil International Airport,43.0,ORER 021200Z
-ISU  ORSU,Sulaymaniyah International Airport,43.0,ORSU 021200Z
-VVZ  DAAP,Illizi Takhamalt Airport,42.0,DAAP 021200Z
-BSK  DAUB,Biskra Airport,42.0,DAUB 021200Z
-INZ  DAUI,In Salah Airport,42.0,DAUI 021200Z
-DWD  OEDM,King Salman Abdulaziz Airport,42.0,OEDM 021200Z
-OEMN,,42.0,OEMN 021200Z
-RAH  OERF,Rafha Domestic Airport,42.0,OERF 021200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 021200Z
-KHK  OIBQ,Khark Island Airport,42.0,OIBQ 021200Z
-KSH  OICC,Shahid Ashrafi Esfahani Airport,42.0,OICC 021200Z
-SXZ  LTCL,Siirt Airport,41.0,LTCL 021150Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,41.0,LTCV 021150Z
-HRM  DAFH,Hassi R'Mel Airport,41.0,DAFH 021200Z
-ELU  DAUO,Guemar Airport,41.0,DAUO 021200Z
-TMX  DAUT,Timimoun Airport,41.0,DAUT 021200Z
+GYR  KGYR,Phoenix Goodyear Airport,43.0,KGYR 030147Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,43.0,KPHX 030151Z
+BLH  KBLH,Blythe Airport,43.0,KBLH 030152Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,43.0,MMML 030152Z
+KGXF,,43.0,KGXF 030155Z
+LGF  KLGF,Laguna Army Airfield,43.0,KLGF 030155Z
+EED  KEED,Needles Airport,43.0,KEED 030156Z
+AVW  KAVQ,Marana Regional Airport,42.0,KAVQ 030135Z
+MZJ  KMZJ,Pinal Airpark,42.0,KMZ
+KP08,,42.0,KP08 030135Z
+KCHD,Chandler Municipal Airport,42.0,KCHD 030147Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,42.0,KIWA 030150Z
+IPL  KIPL,Imperial County Airport,42.0,KIPL 030153Z
+PSP  KPSP,Palm Springs International Airport,42.0,KPSP 030153Z
+SCF  KSDL,Scottsdale Airport,42.0,KSDL 030153Z
+LUF  KLUF,Luke Air Force Base,42.0,KLUF 030155Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),42.0,KNJK 030156Z
+DVT  KDVT,Phoenix Deer Valley Airport,41.0,KDVT 030153Z
+MSC  KFFZ,Falcon Field,41.0,KFFZ
+KA39,,41.0,KA39 030155Z
+KL08,,41.0,KL08 030155Z
+KRYN,Ryan Field,40.0,KRYN 030145Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,40.0,KTUS 030153Z
+BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 030155Z
+DMA  KDMA,Davis Monthan Air Force Base,40.0,KDMA 030155Z
+OKKK,,39.0,OKKK 030100Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,39.0,MMHO 030140Z
+KBVU,,39.0,KBVU 030155Z
+LSV  KLSV,Nellis Air Force Base,39.0,KLSV 030155Z
+KAPY,Zapata County Airport,38.0,KAPY 030055Z
+OGX  DAUU,Ain el Beida Airport,38.0,DAUU 030100Z
+KE77,,38.0,KE77 030135Z
+DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 030150Z
+SAD  KSAD,Safford Regional Airport,38.0,KSAD 030151Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,38.0,KTRM 030152Z
+VGT  KVGT,North Las Vegas Airport,38.0,KVGT 030153Z
+KNXP,Twentynine Palms (Self) Airport,38.0,KNXP 030154Z
+LAS  KLAS,McCarran International Airport,38.0,KLAS 030156Z
+AWZ  OIAW,Ahwaz Airport,37.0,OIAW 030100Z
+KP52,,37.0,KP52 030135Z
+BYS  KBYS,Bicycle Lake Army Air Field,37.0,KBYS 030155Z
+HSH  KHND,Henderson Executive Airport,37.0,KHND 030156Z
+KNID,China Lake Naws (Armitage Field) Airport,37.0,KNID 030156Z
+SGU  KSGU,St George Municipal Airport,37.0,KSGU 030156Z
+BSK  DAUB,Biskra Airport,36.0,DAUB 030100Z
