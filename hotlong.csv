@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GYR  KGYR,Phoenix Goodyear Airport,43.0,KGYR 030147Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,43.0,KPHX 030151Z
-BLH  KBLH,Blythe Airport,43.0,KBLH 030152Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,43.0,MMML 030152Z
-KGXF,,43.0,KGXF 030155Z
-LGF  KLGF,Laguna Army Airfield,43.0,KLGF 030155Z
-EED  KEED,Needles Airport,43.0,KEED 030156Z
-AVW  KAVQ,Marana Regional Airport,42.0,KAVQ 030135Z
-MZJ  KMZJ,Pinal Airpark,42.0,KMZ
-KP08,,42.0,KP08 030135Z
-KCHD,Chandler Municipal Airport,42.0,KCHD 030147Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,42.0,KIWA 030150Z
-IPL  KIPL,Imperial County Airport,42.0,KIPL 030153Z
-PSP  KPSP,Palm Springs International Airport,42.0,KPSP 030153Z
-SCF  KSDL,Scottsdale Airport,42.0,KSDL 030153Z
-LUF  KLUF,Luke Air Force Base,42.0,KLUF 030155Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),42.0,KNJK 030156Z
-DVT  KDVT,Phoenix Deer Valley Airport,41.0,KDVT 030153Z
+IPL  KIPL,Imperial County Airport,43.0,KIPL 040153Z
+LGF  KLGF,Laguna Army Airfield,43.0,KLGF 040155Z
+EED  KEED,Needles Airport,43.0,KEED 040156Z
+KNOZ,,42.0,KNOZ
+KP08,,42.0,KP08 040135Z
+KCHD,Chandler Municipal Airport,42.0,KCHD 040147Z
+KGEU,Glendale Municipal Airport,42.0,KGEU 040147Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,42.0,KIWA 040150Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,42.0,KPHX 040151Z
+BLH  KBLH,Blythe Airport,42.0,KBLH 040152Z
+KA39,,42.0,KA39 040155Z
+KGXF,,42.0,KGXF 040155Z
+LUF  KLUF,Luke Air Force Base,42.0,KLUF 040155Z
+MZJ  KMZJ,Pinal Airpark,41.0,KMZ
+PSP  KPSP,Palm Springs International Airport,41.0,KPSP 040153Z
+SCF  KSDL,Scottsdale Airport,41.0,KSDL 040153Z
 MSC  KFFZ,Falcon Field,41.0,KFFZ
-KA39,,41.0,KA39 030155Z
-KL08,,41.0,KL08 030155Z
-KRYN,Ryan Field,40.0,KRYN 030145Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,40.0,KTUS 030153Z
-BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 030155Z
-DMA  KDMA,Davis Monthan Air Force Base,40.0,KDMA 030155Z
-OKKK,,39.0,OKKK 030100Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,39.0,MMHO 030140Z
-KBVU,,39.0,KBVU 030155Z
-LSV  KLSV,Nellis Air Force Base,39.0,KLSV 030155Z
-KAPY,Zapata County Airport,38.0,KAPY 030055Z
-OGX  DAUU,Ain el Beida Airport,38.0,DAUU 030100Z
-KE77,,38.0,KE77 030135Z
-DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 030150Z
-SAD  KSAD,Safford Regional Airport,38.0,KSAD 030151Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,38.0,KTRM 030152Z
-VGT  KVGT,North Las Vegas Airport,38.0,KVGT 030153Z
-KNXP,Twentynine Palms (Self) Airport,38.0,KNXP 030154Z
-LAS  KLAS,McCarran International Airport,38.0,KLAS 030156Z
-AWZ  OIAW,Ahwaz Airport,37.0,OIAW 030100Z
-KP52,,37.0,KP52 030135Z
-BYS  KBYS,Bicycle Lake Army Air Field,37.0,KBYS 030155Z
-HSH  KHND,Henderson Executive Airport,37.0,KHND 030156Z
-KNID,China Lake Naws (Armitage Field) Airport,37.0,KNID 030156Z
-SGU  KSGU,St George Municipal Airport,37.0,KSGU 030156Z
-BSK  DAUB,Biskra Airport,36.0,DAUB 030100Z
+CGZ  KCGZ,Casa Grande Municipal Airport,41.0,KCGZ
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),41.0,KNJK 040156Z
+AVW  KAVQ,Marana Regional Airport,40.0,KAVQ 040135Z
+KRYN,Ryan Field,40.0,KRYN 040145Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,40.0,KTRM 040152Z
+DVT  KDVT,Phoenix Deer Valley Airport,40.0,KDVT 040153Z
+BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 040155Z
+DMA  KDMA,Davis Monthan Air Force Base,40.0,KDMA 040155Z
+KL08,,40.0,KL08 040155Z
+OKKK,,39.0,OKKK 040100Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,39.0,KTUS 040153Z
+KBVU,,39.0,KBVU 040155Z
+LSV  KLSV,Nellis Air Force Base,39.0,KLSV 040155Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,38.0,MMHO 040140Z
+DAG  KDAG,Barstow Daggett Airport,38.0,KDAG 040150Z
+VGT  KVGT,North Las Vegas Airport,38.0,KVGT 040153Z
+LAS  KLAS,McCarran International Airport,38.0,KLAS 040156Z
+KMQ  RJNK,Komatsu Airport,37.0,RJNK 040100Z
+KE77,,37.0,KE77 040135Z
+KP52,,37.0,KP52 040135Z
+KT89,,37.0,KT89 040135Z
+CJS  MMCS,Abraham González International Airport,37.0,MMCS 040140Z
+ELP  KELP,El Paso International Airport,37.0,KELP 040151Z
+SAD  KSAD,Safford Regional Airport,37.0,KSAD 040151Z
+KNXP,Twentynine Palms (Self) Airport,37.0,KNXP 040154Z
+BYS  KBYS,Bicycle Lake Army Air Field,37.0,KBYS 040155Z
+INS  KINS,Creech Air Force Base,37.0,KINS 040155Z
+KPRS,Presidio Lely International Airport,37.0,KPRS 040155Z
