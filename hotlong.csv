@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OKAS,Ali Al Salem Air Base,47.0,OKAS 071155Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,47.0,OEPA 071200Z
-RAE  OERR,Arar Domestic Airport,47.0,OERR 071200Z
-AKW  OIAG,Aghajari Airport,47.0,OIAG 071200Z
-NJF  ORNI,Al Najaf International Airport,47.0,ORNI 071200Z
-AWZ  OIAW,Ahwaz Airport,47.0,OIAW 071230Z
-XJD  OTBH,Al Udeid Air Base,46.0,OTBH 071155Z
-AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 071155Z
-OEAO,,45.0,OEAO 071200Z
-OEKJ,,45.0,OEKJ 071200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,45.0,OEMA 071200Z
-RUH  OERK,King Khaled International Airport,45.0,OERK 071200Z
-KIK  ORKK,Kirkuk Air Base,45.0,ORKK 071200Z
-RAH  OERF,Rafha Domestic Airport,44.0,OERF 071200Z
-WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 071200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-OKKK,,44.0,OKKK 071200Z
-EBL  ORER,Erbil International Airport,44.0,ORER 071200Z
-ISU  ORSU,Sulaymaniyah International Airport,44.0,ORSU 071200Z
-SXZ  LTCL,Siirt Airport,43.0,LTCL 071150Z
-DWD  OEDM,King Salman Abdulaziz Airport,43.0,OEDM 071200Z
-ELQ  OEGS,Gassim Airport,43.0,OEGS 071200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 071200Z
-PGU  OIBP,Persian Gulf International Airport,43.0,OIBP 071200Z
-AAN  OMAL,Al Ain International Airport,43.0,OMAL 071221Z
-VVZ  DAAP,Illizi Takhamalt Airport,42.0,DAAP 071200Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 071200Z
-OEMN,,42.0,OEMN 071200Z
-AJF  OESK,Al-Jawf Domestic Airport,42.0,OESK 071200Z
-MRX  OIAM,Mahshahr Airport,42.0,OIAM 071200Z
-ACZ  OIZB,Zabol Airport,42.0,OIZ
-AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 071200Z
-DOH  OTHH,Hamad International Airport,42.0,OTHH 071200Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,41.0,LTCV 071150Z
-URY  OEGT,Gurayat Domestic Airport,41.0,OEGT 071200Z
-TUU  OETB,Tabuk Airport,41.0,OETB 071200Z
-TUI  OETR,Turaif Domestic Airport,41.0,OETR 071200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,41.0,OEYN 071200Z
-KHD  OICK,Khoram Abad Airport,41.0,OICK 071200Z
-SDG  OICS,Sanandaj Airport,41.0,OICS 071200Z
-LRR  OISL,Lar Airport,41.0,OISL 071200Z
-IKA  OIIE,Imam Khomeini International Airport,41.0,OIIE 071230Z
-AZI  OMAD,Bateen Airport,41.0,OMAD 071230Z
-DWC  OMDW,Al Maktoum International Airport,41.0,OMDW 071230Z
-NAJ  UBBN,Nakhchivan Airport,41.0,UBBN 071230Z
+KGEU,Glendale Municipal Airport,46.0,KGEU 080047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,46.0,KPHX 080051Z
+PSP  KPSP,Palm Springs International Airport,46.0,KPSP 080053Z
+KGXF,,46.0,KGXF 080055Z
+LGF  KLGF,Laguna Army Airfield,46.0,KLGF 080055Z
+LUF  KLUF,Luke Air Force Base,46.0,KLUF 080055Z
+EED  KEED,Needles Airport,46.0,KEED 080056Z
+BXK  KBXK,Buckeye Municipal Airport,46.0,KBXK 080135Z
+HII  KHII,Lake Havasu City Airport,46.0,KHII 080135Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,45.0,MMML 080040Z
+KCHD,Chandler Municipal Airport,45.0,KCHD 080047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,45.0,KIWA 080051Z
+DVT  KDVT,Phoenix Deer Valley Airport,45.0,KDVT 080053Z
+SCF  KSDL,Scottsdale Airport,45.0,KSDL 080053Z
+MSC  KFFZ,Falcon Field,45.0,KFFZ
+CGZ  KCGZ,Casa Grande Municipal Airport,45.0,KCGZ
+YUM  KNYL,Yuma MCAS/Yuma International Airport,45.0,KNYL 080057Z
+KNOZ,,45.0,KNOZ
+KRYN,Ryan Field,44.0,KRYN 080045Z
+DMA  KDMA,Davis Monthan Air Force Base,44.0,KDMA 080055Z
+KA39,,44.0,KA39 080135Z
+KL08,,44.0,KL08 080135Z
+KP08,,44.0,KP08 080135Z
+MZJ  KMZJ,Pinal Airpark,43.0,KMZ
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,42.0,KTUS 080053Z
+AVW  KAVQ,Marana Regional Airport,42.0,KAVQ 080135Z
+DAG  KDAG,Barstow Daggett Airport,41.0,KDAG 080050Z
+SAD  KSAD,Safford Regional Airport,41.0,KSAD 080051Z
+VGT  KVGT,North Las Vegas Airport,41.0,KVGT 080053Z
+LSV  KLSV,Nellis Air Force Base,41.0,KLSV 080055Z
+KBVU,,41.0,KBVU 080135Z
+BYS  KBYS,Bicycle Lake Army Air Field,40.0,KBYS 080055Z
+HSH  KHND,Henderson Executive Airport,40.0,KHND 080056Z
+LAS  KLAS,McCarran International Airport,40.0,KLAS 080056Z
+KNID,China Lake Naws (Armitage Field) Airport,40.0,KNID 080056Z
+SGU  KSGU,St George Municipal Airport,40.0,KSGU 080056Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,39.0,MMHO 080040Z
+OLS  KOLS,Nogales International Airport,39.0,KOLS 080054Z
+INS  KINS,Creech Air Force Base,39.0,KINS 080059Z
+KE77,,39.0,KE77 080135Z
+CJS  MMCS,Abraham González International Airport,38.0,MMCS 080040Z
+NLD  MMNL,Quetzalcóatl International Airport,38.0,MMNL 080040Z
+ELP  KELP,El Paso International Airport,38.0,KELP 080051Z
+IGM  KIGM,Kingman Airport,38.0,KIGM 080051Z
+SBD  KSBD,San Bernardino International Airport,38.0,KSBD 080051Z
