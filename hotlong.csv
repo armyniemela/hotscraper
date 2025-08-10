@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HOF  OEAH,Al Ahsa Airport,48.0,OEAH 091200Z
-BGW  ORBI,Baghdad International Airport,48.0,ORBI 091200Z
-URY  OEGT,Gurayat Domestic Airport,47.0,OEGT 091200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,47.0,OEPA 091200Z
-AKW  OIAG,Aghajari Airport,47.0,OIAG 091200Z
-AWZ  OIAW,Ahwaz Airport,47.0,OIAW 091200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,46.0,OEMA 091200Z
-RAH  OERF,Rafha Domestic Airport,46.0,OERF 091200Z
-KIK  ORKK,Kirkuk Air Base,46.0,ORKK 091200Z
-ADA  LTAF,Adana Airport,46.0,LTAF 091220Z
-UAB  LTAG,İncirlik Air Base,46.0,LTAG 091220Z
-AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 091155Z
-AGA  GMAD,Al Massira Airport,45.0,GMAD 091200Z
-OEAO,,45.0,OEAO 091200Z
-ELQ  OEGS,Gassim Airport,45.0,OEGS 091200Z
-OEKJ,,45.0,OEKJ 091200Z
-RUH  OERK,King Khaled International Airport,45.0,OERK 091200Z
-RAE  OERR,Arar Domestic Airport,45.0,OERR 091200Z
-ABD  OIAA,Abadan Airport,45.0,OIAA 091200Z
-EBL  ORER,Erbil International Airport,45.0,ORER 091200Z
-ALP  OSAP,Aleppo International Airport,45.0,OSAP 091200Z
-LTDB,,45.0,LTDB 091220Z
-XJD  OTBH,Al Udeid Air Base,44.0,OTBH 091155Z
-GMAG,,44.0,GMAG 091200Z
-DMM  OEDF,King Fahd International Airport,44.0,OEDF 091200Z
-AJF  OESK,Al-Jawf Domestic Airport,44.0,OESK 091200Z
-TUI  OETR,Turaif Domestic Airport,44.0,OETR 091200Z
-WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 091200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-DAM  OSDI,Damascus International Airport,44.0,OSDI 091200Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,43.0,LTCV 091150Z
-INZ  DAUI,In Salah Airport,43.0,DAUI 091200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 091200Z
-TUU  OETB,Tabuk Airport,43.0,OETB 091200Z
-AQJ  OJAQ,Aqaba King Hussein International Airport,43.0,OJAQ 091200Z
-ISU  ORSU,Sulaymaniyah International Airport,43.0,ORSU 091200Z
-SXZ  LTCL,Siirt Airport,42.0,LTCL 091150Z
-KCM  LTCN,Kahramanmaraş Airport,42.0,LTCN 091150Z
-MQM  LTCR,Mardin Airport,42.0,LTCR 091150Z
-TTA  GMAT,Tan Tan Airport,42.0,GMAT 091200Z
-ESU  GMMI,Mogador Airport,42.0,GMMI 091200Z
-EUN  GMML,Hassan I Airport,42.0,GMML 091200Z
-RAK  GMMX,Menara Airport,42.0,GMMX 091200Z
-LFM  OISR,Lamerd Airport,42.0,OISR 091200Z
-ACZ  OIZB,Zabol Airport,42.0,OIZ
+KCHD,Chandler Municipal Airport,42.0,KCHD 100147Z
+GYR  KGYR,Phoenix Goodyear Airport,42.0,KGYR 100147Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,42.0,KPHX 100151Z
+BLH  KBLH,Blythe Airport,42.0,KBLH 100152Z
+KGXF,,42.0,KGXF 100155Z
+KNOZ,,41.0,KNOZ
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,41.0,KIWA 100147Z
+DVT  KDVT,Phoenix Deer Valley Airport,41.0,KDVT 100153Z
+IPL  KIPL,Imperial County Airport,41.0,KIPL 100153Z
+PSP  KPSP,Palm Springs International Airport,41.0,KPSP 100153Z
+SCF  KSDL,Scottsdale Airport,41.0,KSDL 100153Z
+KBVU,,41.0,KBVU 100155Z
+KL08,,41.0,KL08 100155Z
+LGF  KLGF,Laguna Army Airfield,41.0,KLGF 100155Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),41.0,KNJK 100156Z
+KP08,,40.0,KP08 100135Z
+DAG  KDAG,Barstow Daggett Airport,40.0,KDAG 100150Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,40.0,KTRM 100152Z
+VGT  KVGT,North Las Vegas Airport,40.0,KVGT 100153Z
+MSC  KFFZ,Falcon Field,40.0,KFFZ
+KNXP,Twentynine Palms (Self) Airport,40.0,KNXP 100154Z
+KA39,,40.0,KA39 100155Z
+CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
+HSH  KHND,Henderson Executive Airport,40.0,KHND 100156Z
+LAS  KLAS,McCarran International Airport,40.0,KLAS 100156Z
+AVW  KAVQ,Marana Regional Airport,39.0,KAVQ 100135Z
+FCH  KFCH,Fresno Chandler Executive Airport,39.0,KFCH 100135Z
+MCC  KMCC,Mc Clellan Airfield,39.0,KMCC 100135Z
+MZJ  KMZJ,Pinal Airpark,39.0,KMZ
+KRYN,Ryan Field,39.0,KRYN 100145Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,39.0,MMML 100146Z
+RDD  KRDD,Redding Municipal Airport,39.0,KRDD 100153Z
+BXK  KBXK,Buckeye Municipal Airport,39.0,KBXK 100155Z
+BYS  KBYS,Bicycle Lake Army Air Field,39.0,KBYS 100155Z
+KNID,China Lake Naws (Armitage Field) Airport,39.0,KNID 100156Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,39.0,KNLC 100156Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,39.0,KNYL 100157Z
+CIC  KCIC,Chico Municipal Airport,38.0,KCIC 100050Z
+KDWA,Yolo County Davis Woodland Winters Airport,38.0,KDWA 100135Z
+KLHM,Lincoln Regional Karl Harder Field,38.0,KLHM 100135Z
+KO54,,38.0,KO54 100135Z
+KP52,,38.0,KP52 100135Z
+VCV  KVCV,Southern California Logistics Airport,38.0,KVCV 100135Z
+FAT  KFAT,Fresno Yosemite International Airport,38.0,KFAT 100153Z
+MYV  KMYV,Yuba County Airport,38.0,KMYV 100153Z
