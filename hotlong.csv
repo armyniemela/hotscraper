@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-URY  OEGT,Gurayat Domestic Airport,46.0,OEGT 101200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 101200Z
-RAH  OERF,Rafha Domestic Airport,46.0,OERF 101200Z
-ABD  OIAA,Abadan Airport,46.0,OIAA 101200Z
-AKW  OIAG,Aghajari Airport,46.0,OIAG 101200Z
-AWZ  OIAW,Ahwaz Airport,46.0,OIAW 101200Z
-AGA  GMAD,Al Massira Airport,45.0,GMAD 101200Z
-ESU  GMMI,Mogador Airport,45.0,GMMI 101200Z
-DMM  OEDF,King Fahd International Airport,45.0,OEDF 101200Z
-ELQ  OEGS,Gassim Airport,45.0,OEGS 101200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,45.0,OEMA 101200Z
-RAE  OERR,Arar Domestic Airport,45.0,OERR 101200Z
-AJF  OESK,Al-Jawf Domestic Airport,45.0,OESK 101200Z
-TUU  OETB,Tabuk Airport,45.0,OETB 101200Z
-WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 101200Z
-EBL  ORER,Erbil International Airport,45.0,ORER 101200Z
-INZ  DAUI,In Salah Airport,44.0,DAUI 101200Z
-OEKJ,,44.0,OEKJ 101200Z
-ISU  ORSU,Sulaymaniyah International Airport,44.0,ORSU 101200Z
-ALP  OSAP,Aleppo International Airport,44.0,OSAP 101200Z
-DAM  OSDI,Damascus International Airport,44.0,OSDI 101200Z
-MQM  LTCR,Mardin Airport,43.0,LTCR 101150Z
-SHW  OESH,Sharurah Airport,43.0,OESH 101200Z
-ACZ  OIZB,Zabol Airport,43.0,OIZ
-IHR  OIZI,Iran Shahr Airport,43.0,OIZ
-AUH  OMAA,Abu Dhabi International Airport,43.0,OMAA 101200Z
-AZI  OMAD,Bateen Airport,43.0,OMAD 101230Z
-KCM  LTCN,Kahramanmaraş Airport,42.0,LTCN 101150Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,42.0,LTCV 101150Z
-OKAS,Ali Al Salem Air Base,42.0,OKAS 101155Z
-GMAG,,42.0,GMAG 101200Z
-RAK  GMMX,Menara Airport,42.0,GMMX 101200Z
-HAS  OEHL,Ha'il Airport,42.0,OEHL 101200Z
-RUH  OERK,King Khaled International Airport,42.0,OERK 101200Z
-OERS,,42.0,OERS 101200Z
-TUI  OETR,Turaif Domestic Airport,42.0,OETR 101200Z
-LFM  OISR,Lamerd Airport,42.0,OISR 101200Z
-AQJ  OJAQ,Aqaba King Hussein International Airport,42.0,OJAQ 101200Z
-AAN  OMAL,Al Ain International Airport,42.0,OMAL 101200Z
-UTAE,,42.0,UTAE 101200Z
-AYT  LTAI,Antalya International Airport,42.0,LTAI 101220Z
-GZT  LTAJ,Gaziantep International Airport,42.0,LTAJ 101220Z
-ETM  LLER,Ramon Airport,41.0,LLER 101150Z
-CII  LTBD,Çıldır Airport,41.0,LTBD 101150Z
-SXZ  LTCL,Siirt Airport,41.0,LTCL 101150Z
+IPL  KIPL,Imperial County Airport,42.0,KIPL 110053Z
+PSP  KPSP,Palm Springs International Airport,42.0,KPSP 110053Z
+KGXF,,42.0,KGXF 110055Z
+LAS  KLAS,McCarran International Airport,42.0,KLAS 110056Z
+KNID,China Lake Naws (Armitage Field) Airport,42.0,KNID 110056Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),42.0,KNJK 110056Z
+KBVU,,42.0,KBVU 110135Z
+GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 110047Z
+DAG  KDAG,Barstow Daggett Airport,41.0,KDAG 110050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 110051Z
+RDD  KRDD,Redding Municipal Airport,41.0,KRDD 110053Z
+VGT  KVGT,North Las Vegas Airport,41.0,KVGT 110053Z
+KNXP,Twentynine Palms (Self) Airport,41.0,KNXP 110054Z
+BYS  KBYS,Bicycle Lake Army Air Field,41.0,KBYS 110055Z
+LGF  KLGF,Laguna Army Airfield,41.0,KLGF 110055Z
+LUF  KLUF,Luke Air Force Base,41.0,KLUF 110055Z
+HSH  KHND,Henderson Executive Airport,41.0,KHND 110056Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,41.0,KNLC 110056Z
+KGEU,Glendale Municipal Airport,41.0,KGEU 110057Z
+K3S8,,41.0,K3S8 110115Z
+KL08,,41.0,KL08 110135Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 110043Z
+KCHD,Chandler Municipal Airport,40.0,KCHD 110047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,40.0,KIWA 110048Z
+MFR  KMFR,Rogue Valley International Medford Airport,40.0,KMFR 110053Z
+SCF  KSDL,Scottsdale Airport,40.0,KSDL 110053Z
+MSC  KFFZ,Falcon Field,40.0,KFFZ
+CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
+VIS  KVIS,Visalia Municipal Airport,40.0,KVIS 110056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,40.0,KNYL 110057Z
+KNOZ,,40.0,KNOZ
+K9L2,,40.0,K9L2 110110Z
+KO54,,40.0,KO54 110115Z
+KP08,,40.0,KP08 110115Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,39.0,MMHO 110040Z
+KRYN,Ryan Field,39.0,KRYN 110045Z
+CIC  KCIC,Chico Municipal Airport,39.0,KCIC 110050Z
+DVT  KDVT,Phoenix Deer Valley Airport,39.0,KDVT 110053Z
+FAT  KFAT,Fresno Yosemite International Airport,39.0,KFAT 110053Z
+KHJO,Hanford Municipal Airport,39.0,KHJO 110053Z
+BFL  KBFL,Meadows Field,39.0,KBFL 110054Z
+INS  KINS,Creech Air Force Base,39.0,KINS 110055Z
+PTV  KPTV,Porterville Municipal Airport,39.0,KPTV 110056Z
+SGU  KSGU,St George Municipal Airport,39.0,KSGU 110056Z
+NJF  ORNI,Al Najaf International Airport,39.0,ORNI 110100Z
