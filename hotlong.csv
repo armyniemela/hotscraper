@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-IPL  KIPL,Imperial County Airport,42.0,KIPL 110053Z
-PSP  KPSP,Palm Springs International Airport,42.0,KPSP 110053Z
-KGXF,,42.0,KGXF 110055Z
-LAS  KLAS,McCarran International Airport,42.0,KLAS 110056Z
-KNID,China Lake Naws (Armitage Field) Airport,42.0,KNID 110056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),42.0,KNJK 110056Z
-KBVU,,42.0,KBVU 110135Z
-GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 110047Z
-DAG  KDAG,Barstow Daggett Airport,41.0,KDAG 110050Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,41.0,KPHX 110051Z
-RDD  KRDD,Redding Municipal Airport,41.0,KRDD 110053Z
-VGT  KVGT,North Las Vegas Airport,41.0,KVGT 110053Z
-KNXP,Twentynine Palms (Self) Airport,41.0,KNXP 110054Z
-BYS  KBYS,Bicycle Lake Army Air Field,41.0,KBYS 110055Z
-LGF  KLGF,Laguna Army Airfield,41.0,KLGF 110055Z
-LUF  KLUF,Luke Air Force Base,41.0,KLUF 110055Z
-HSH  KHND,Henderson Executive Airport,41.0,KHND 110056Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,41.0,KNLC 110056Z
-KGEU,Glendale Municipal Airport,41.0,KGEU 110057Z
-K3S8,,41.0,K3S8 110115Z
-KL08,,41.0,KL08 110135Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 110043Z
-KCHD,Chandler Municipal Airport,40.0,KCHD 110047Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,40.0,KIWA 110048Z
-MFR  KMFR,Rogue Valley International Medford Airport,40.0,KMFR 110053Z
-SCF  KSDL,Scottsdale Airport,40.0,KSDL 110053Z
-MSC  KFFZ,Falcon Field,40.0,KFFZ
-CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
-VIS  KVIS,Visalia Municipal Airport,40.0,KVIS 110056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,40.0,KNYL 110057Z
-KNOZ,,40.0,KNOZ
-K9L2,,40.0,K9L2 110110Z
-KO54,,40.0,KO54 110115Z
-KP08,,40.0,KP08 110115Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,39.0,MMHO 110040Z
-KRYN,Ryan Field,39.0,KRYN 110045Z
-CIC  KCIC,Chico Municipal Airport,39.0,KCIC 110050Z
-DVT  KDVT,Phoenix Deer Valley Airport,39.0,KDVT 110053Z
-FAT  KFAT,Fresno Yosemite International Airport,39.0,KFAT 110053Z
-KHJO,Hanford Municipal Airport,39.0,KHJO 110053Z
-BFL  KBFL,Meadows Field,39.0,KBFL 110054Z
-INS  KINS,Creech Air Force Base,39.0,KINS 110055Z
-PTV  KPTV,Porterville Municipal Airport,39.0,KPTV 110056Z
-SGU  KSGU,St George Municipal Airport,39.0,KSGU 110056Z
-NJF  ORNI,Al Najaf International Airport,39.0,ORNI 110100Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,47.0,OEPA 111200Z
+BSR  ORMM,Basrah International Airport,47.0,ORMM 111200Z
+ESU  GMMI,Mogador Airport,46.0,GMMI 111200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,46.0,OEMA 111200Z
+RAH  OERF,Rafha Domestic Airport,46.0,OERF 111200Z
+AWZ  OIAW,Ahwaz Airport,46.0,OIAW 111230Z
+XJD  OTBH,Al Udeid Air Base,45.0,OTBH 111155Z
+ELQ  OEGS,Gassim Airport,45.0,OEGS 111200Z
+OEMN,,45.0,OEMN 111200Z
+TUU  OETB,Tabuk Airport,45.0,OETB 111200Z
+AKW  OIAG,Aghajari Airport,45.0,OIAG 111200Z
+KIK  ORKK,Kirkuk Air Base,45.0,ORKK 111200Z
+SXZ  LTCL,Siirt Airport,44.0,LTCL 111150Z
+AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 111155Z
+OKAS,Ali Al Salem Air Base,44.0,OKAS 111155Z
+ABS  HEBL,Abu Simbel Airport,44.0,HEBL 111200Z
+ASW  HESN,Aswan International Airport,44.0,HESN 111200Z
+URY  OEGT,Gurayat Domestic Airport,44.0,OEGT 111200Z
+OEKJ,,44.0,OEKJ 111200Z
+RAE  OERR,Arar Domestic Airport,44.0,OERR 111200Z
+AJF  OESK,Al-Jawf Domestic Airport,44.0,OESK 111200Z
+ABD  OIAA,Abadan Airport,44.0,OIAA 111200Z
+ACZ  OIZB,Zabol Airport,44.0,OIZ
+IHR  OIZI,Iran Shahr Airport,44.0,OIZ
+EBL  ORER,Erbil International Airport,44.0,ORER 111200Z
+RAK  GMMX,Menara Airport,44.0,GMMX 111230Z
+RUH  OERK,King Khaled International Airport,44.0,OERK 111230Z
+NKT  LTCV,Şırnak Şerafettin Elçi Airport,43.0,LTCV 111150Z
+INZ  DAUI,In Salah Airport,43.0,DAUI 111200Z
+LXR  HELX,Luxor International Airport,43.0,HELX 111200Z
+DMM  OEDF,King Fahd International Airport,43.0,OEDF 111200Z
+DWD  OEDM,King Salman Abdulaziz Airport,43.0,OEDM 111200Z
+WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 111200Z
+AQJ  OJAQ,Aqaba King Hussein International Airport,43.0,OJAQ 111200Z
+ISU  ORSU,Sulaymaniyah International Airport,43.0,ORSU 111200Z
+DAM  OSDI,Damascus International Airport,43.0,OSDI 111200Z
+MYP  UTAM,Mary Airport,43.0,UTAM 111200Z
+ETM  LLER,Ramon Airport,42.0,LLER 111150Z
+KCM  LTCN,Kahramanmaraş Airport,42.0,LTCN 111150Z
+MQM  LTCR,Mardin Airport,42.0,LTCR 111150Z
+SSH  HESH,Sharm El Sheikh International Airport,42.0,HESH 111200Z
+HAS  OEHL,Ha'il Airport,42.0,OEHL 111200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 111200Z
+OKKK,,42.0,OKKK 111200Z
+AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 111200Z
