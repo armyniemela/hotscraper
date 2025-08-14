@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AWZ  OIAW,Ahwaz Airport,49.0,OIAW 131230Z
-HOF  OEAH,Al Ahsa Airport,48.0,OEAH 131200Z
-DMM  OEDF,King Fahd International Airport,48.0,OEDF 131200Z
-MRX  OIAM,Mahshahr Airport,48.0,OIAM 131200Z
-AQJ  OJAQ,Aqaba King Hussein International Airport,48.0,OJAQ 131200Z
-ETM  LLER,Ramon Airport,47.0,LLER 131150Z
-DHA  OEDR,King Abdulaziz Air Base,47.0,OEDR 131200Z
-OICM,,47.0,OICM 131200Z
-NJF  ORNI,Al Najaf International Airport,47.0,ORNI 131200Z
-KQTZ,,46.0,KQTZ
-XJD  OTBH,Al Udeid Air Base,46.0,OTBH 131155Z
-LXR  HELX,Luxor International Airport,46.0,HELX 131200Z
-SSH  HESH,Sharm El Sheikh International Airport,46.0,HESH 131200Z
-ASW  HESN,Aswan International Airport,46.0,HESN 131200Z
-URY  OEGT,Gurayat Domestic Airport,46.0,OEGT 131200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 131200Z
-RAE  OERR,Arar Domestic Airport,46.0,OERR 131200Z
-BGW  ORBI,Baghdad International Airport,46.0,ORBI 131200Z
-AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 131155Z
-OEAO,,45.0,OEAO 131200Z
-OEKJ,,45.0,OEKJ 131200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,45.0,OEMA 131200Z
-RAH  OERF,Rafha Domestic Airport,45.0,OERF 131200Z
-AJF  OESK,Al-Jawf Domestic Airport,45.0,OESK 131200Z
-TUU  OETB,Tabuk Airport,44.0,OETB 131200Z
-WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 131200Z
-GCH  OIAH,Gachsaran Airport,44.0,OIAH 131200Z
-LRR  OISL,Lar Airport,44.0,OISL 131200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-AMM  OJAI,Queen Alia International Airport,44.0,OJAI 131200Z
-EBL  ORER,Erbil International Airport,44.0,ORER 131200Z
-KIK  ORKK,Kirkuk Air Base,44.0,ORKK 131200Z
-DAM  OSDI,Damascus International Airport,44.0,OSDI 131200Z
-RPN  LLIB,Ben Ya'akov Airport,43.0,LLIB 131150Z
-HESG,,43.0,HESG 131200Z
-ELQ  OEGS,Gassim Airport,43.0,OEGS 131200Z
-RUH  OERK,King Khaled International Airport,43.0,OERK 131200Z
-TUI  OETR,Turaif Domestic Airport,43.0,OETR 131200Z
-ACZ  OIZB,Zabol Airport,43.0,OIZ
-ADJ  OJAM,Amman-Marka International Airport,43.0,OJAM 131200Z
-AAN  OMAL,Al Ain International Airport,43.0,OMAL 131200Z
-ECN  LCEN,Ercan International Airport,43.0,LCEN 131220Z
-SXZ  LTCL,Siirt Airport,42.0,LTCL 131150Z
-MQM  LTCR,Mardin Airport,42.0,LTCR 131150Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,42.0,LTCV 131150Z
+KGXF,,43.0,KGXF 140107Z
+HII  KHII,Lake Havasu City Airport,43.0,KHII 140135Z
+KGEU,Glendale Municipal Airport,42.0,KGEU 140047Z
+GYR  KGYR,Phoenix Goodyear Airport,42.0,KGYR 140047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,42.0,KPHX 140051Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,42.0,KTRM 140052Z
+VGT  KVGT,North Las Vegas Airport,42.0,KVGT 140053Z
+LGF  KLGF,Laguna Army Airfield,42.0,KLGF 140055Z
+LUF  KLUF,Luke Air Force Base,42.0,KLUF 140055Z
+KL08,,42.0,KL08 140135Z
+KCHD,Chandler Municipal Airport,41.0,KCHD 140047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,41.0,KIWA 140050Z
+HSH  KHND,Henderson Executive Airport,41.0,KHND 140056Z
+LAS  KLAS,McCarran International Airport,41.0,KLAS 140056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,41.0,KNYL 140057Z
+PSP  KPSP,Palm Springs International Airport,41.0,KPSP 140103Z
+KA39,,41.0,KA39 140135Z
+KBVU,,41.0,KBVU 140135Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,40.0,MMHO 140040Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 140040Z
+DAG  KDAG,Barstow Daggett Airport,40.0,KDAG 140050Z
+DVT  KDVT,Phoenix Deer Valley Airport,40.0,KDVT 140053Z
+SCF  KSDL,Scottsdale Airport,40.0,KSDL 140053Z
+MSC  KFFZ,Falcon Field,40.0,KFFZ
+KNXP,Twentynine Palms (Self) Airport,40.0,KNXP 140054Z
+BYS  KBYS,Bicycle Lake Army Air Field,40.0,KBYS 140055Z
+INS  KINS,Creech Air Force Base,40.0,KINS 140055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,40.0,KCGZ
+KNID,China Lake Naws (Armitage Field) Airport,40.0,KNID 140056Z
+SGU  KSGU,St George Municipal Airport,40.0,KSGU 140056Z
+KNOZ,,40.0,KNOZ
+BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 140135Z
+KP08,,40.0,KP08 140135Z
+AVW  KAVQ,Marana Regional Airport,39.0,KAVQ 140135Z
+MZJ  KMZJ,Pinal Airpark,39.0,KMZ
+NLD  MMNL,Quetzalcóatl International Airport,38.0,MMNL 140040Z
+KRYN,Ryan Field,38.0,KRYN 140045Z
+DRA  KDRA,Desert Rock Airport,38.0,KDRA 140053Z
+OERS,,38.0,OERS 140100Z
+OKKK,,38.0,OKKK 140100Z
+CNY  KCNY,Canyonlands Field,37.0,KCNY 140053Z
+COT  KCOT,Cotulla-La Salle County Airport,37.0,KCOT 140053Z
+FAT  KFAT,Fresno Yosemite International Airport,37.0,KFAT 140053Z
+KHJO,Hanford Municipal Airport,37.0,KHJO 140053Z
+ONO  KONO,Ontario Municipal Airport,37.0,KONO 140053Z
