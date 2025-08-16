@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ASW  HESN,Aswan International Airport,48.0,HESN 151200Z
-AKW  OIAG,Aghajari Airport,48.0,OIAG 151200Z
-NJF  ORNI,Al Najaf International Airport,48.0,ORNI 151200Z
-HOF  OEAH,Al Ahsa Airport,47.0,OEAH 151200Z
-OKKK,,47.0,OKKK 151200Z
-BGW  ORBI,Baghdad International Airport,47.0,ORBI 151200Z
-KIK  ORKK,Kirkuk Air Base,47.0,ORKK 151200Z
-LXR  HELX,Luxor International Airport,46.0,HELX 151200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,46.0,OEMA 151200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,OEPA 151200Z
-AUH  OMAA,Abu Dhabi International Airport,46.0,OMAA 151200Z
-EBL  ORER,Erbil International Airport,46.0,ORER 151200Z
-OEAO,,45.0,OEAO 151200Z
-URY  OEGT,Gurayat Domestic Airport,45.0,OEGT 151200Z
-WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 151200Z
-AKH  OEPS,Prince Sultan Air Base,44.0,OEPS 151155Z
-SSH  HESH,Sharm El Sheikh International Airport,44.0,HESH 151200Z
-DMM  OEDF,King Fahd International Airport,44.0,OEDF 151200Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 151200Z
-OEKJ,,44.0,OEKJ 151200Z
-RAH  OERF,Rafha Domestic Airport,44.0,OERF 151200Z
-RUH  OERK,King Khaled International Airport,44.0,OERK 151200Z
-RAE  OERR,Arar Domestic Airport,44.0,OERR 151200Z
-SHW  OESH,Sharurah Airport,44.0,OESH 151200Z
-AJF  OESK,Al-Jawf Domestic Airport,44.0,OESK 151200Z
-LFM  OISR,Lamerd Airport,44.0,OISR 151200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-AQJ  OJAQ,Aqaba King Hussein International Airport,44.0,OJAQ 151200Z
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 151200Z
-DXB  OMDB,Dubai International Airport,44.0,OMDB 151230Z
-DWC  OMDW,Al Maktoum International Airport,44.0,OMDW 151230Z
-SHJ  OMSJ,Sharjah International Airport,44.0,OMSJ 151230Z
-ETM  LLER,Ramon Airport,43.0,LLER 151150Z
-INZ  DAUI,In Salah Airport,43.0,DAUI 151200Z
-ABS  HEBL,Abu Simbel Airport,43.0,HEBL 151200Z
-OERS,,43.0,OERS 151200Z
-TUU  OETB,Tabuk Airport,43.0,OETB 151200Z
-GCH  OIAH,Gachsaran Airport,43.0,OIAH 151200Z
-MRX  OIAM,Mahshahr Airport,43.0,OIAM 151200Z
-LRR  OISL,Lar Airport,43.0,OISL 151200Z
-RKT  OMRK,Ras Al Khaimah International Airport,43.0,OMRK 151200Z
-ISU  ORSU,Sulaymaniyah International Airport,43.0,ORSU 151200Z
-DAM  OSDI,Damascus International Airport,43.0,OSDI 151200Z
-SXZ  LTCL,Siirt Airport,42.0,LTCL 151150Z
-KCM  LTCN,Kahramanmaraş Airport,42.0,LTCN 151150Z
+KGEU,Glendale Municipal Airport,39.0,KGEU 160047Z
+BLH  KBLH,Blythe Airport,39.0,KBLH 160052Z
+PSP  KPSP,Palm Springs International Airport,39.0,KPSP 160053Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,38.0,MMML 160050Z
+RDD  KRDD,Redding Municipal Airport,38.0,KRDD 160053Z
+LGF  KLGF,Laguna Army Airfield,38.0,KLGF 160055Z
+LSV  KLSV,Nellis Air Force Base,38.0,KLSV 160055Z
+LUF  KLUF,Luke Air Force Base,38.0,KLUF 160055Z
+HII  KHII,Lake Havasu City Airport,38.0,KHII 160115Z
+GYR  KGYR,Phoenix Goodyear Airport,37.0,KGYR 160047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,37.0,KPHX 160051Z
+VGT  KVGT,North Las Vegas Airport,37.0,KVGT 160053Z
+RBL  KRBL,Red Bluff Municipal Airport,37.0,KRBL 160054Z
+HSH  KHND,Henderson Executive Airport,37.0,KHND 160056Z
+LAS  KLAS,McCarran International Airport,37.0,KLAS 160056Z
+KNID,China Lake Naws (Armitage Field) Airport,37.0,KNID 160056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,37.0,KNYL 160057Z
+AZI  OMAD,Bateen Airport,37.0,OMAD 160100Z
+KBVU,,37.0,KBVU 160115Z
+KCHD,Chandler Municipal Airport,36.0,KCHD 160047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 160048Z
+DAG  KDAG,Barstow Daggett Airport,36.0,KDAG 160050Z
+DRT  KDRT,Del Rio International Airport,36.0,KDRT 160053Z
+DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 160053Z
+LAA  KLAA,Southeast Colorado Regional Airport,36.0,KLAA 160053Z
+MYV  KMYV,Yuba County Airport,36.0,KMYV 160053Z
+SCF  KSDL,Scottsdale Airport,36.0,KSDL 160053Z
+MSC  KFFZ,Falcon Field,36.0,KFFZ
+KNXP,Twentynine Palms (Self) Airport,36.0,KNXP 160054Z
+BAB  KBAB,Beale Air Force Base,36.0,KBAB 160055Z
+DLF  KDLF,DLF Airport,36.0,KDLF 160055Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,36.0,KNLC 160056Z
+KNOZ,,36.0,KNOZ
+AUH  OMAA,Abu Dhabi International Airport,36.0,OMAA 160100Z
+NJF  ORNI,Al Najaf International Airport,36.0,ORNI 160100Z
+BYS  KBYS,Bicycle Lake Army Air Field,36.0,KBYS 160125Z
+TRC  MMTC,Francisco Sarabia International Airport,35.0,MMTC 160042Z
+ADS  KADS,Addison Airport,35.0,KADS 160047Z
+CIC  KCIC,Chico Municipal Airport,35.0,KCIC 160050Z
+KHJO,Hanford Municipal Airport,35.0,KHJO 160053Z
+MAE  KMAE,Madera Municipal Airport,35.0,KMAE 160053Z
+MCE  KMCE,Merced Regional Macready Field,35.0,KMCE 160053Z
+BFL  KBFL,Meadows Field,35.0,KBFL 160054Z
+XJD  OTBH,Al Udeid Air Base,35.0,OTBH 160055Z
+KP28,,35.0,KP28 160056Z
