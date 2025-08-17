@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KQTZ,,46.0,KQTZ
-WAE  OEWD,Wadi Al Dawasir Airport,46.0,OEWD 161200Z
-OKKK,,46.0,OKKK 161200Z
-BGW  ORBI,Baghdad International Airport,46.0,ORBI 161200Z
-AKH  OEPS,Prince Sultan Air Base,45.0,OEPS 161155Z
-HOF  OEAH,Al Ahsa Airport,45.0,OEAH 161200Z
-OEKJ,,45.0,OEKJ 161200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,45.0,OEMA 161200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 161200Z
-ABD  OIAA,Abadan Airport,45.0,OIAA 161200Z
-AUH  OMAA,Abu Dhabi International Airport,45.0,OMAA 161200Z
-AZI  OMAD,Bateen Airport,45.0,OMAD 161230Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 161200Z
-RUH  OERK,King Khaled International Airport,44.0,OERK 161200Z
-RAE  OERR,Arar Domestic Airport,44.0,OERR 161200Z
-SHW  OESH,Sharurah Airport,44.0,OESH 161200Z
-LFM  OISR,Lamerd Airport,44.0,OISR 161200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-KIK  ORKK,Kirkuk Air Base,44.0,ORKK 161200Z
-OEAO,,43.0,OEAO 161200Z
-RAH  OERF,Rafha Domestic Airport,43.0,OERF 161200Z
-TUU  OETB,Tabuk Airport,43.0,OETB 161200Z
-AAN  OMAL,Al Ain International Airport,43.0,OMAL 161200Z
-EBL  ORER,Erbil International Airport,43.0,ORER 161200Z
-ISU  ORSU,Sulaymaniyah International Airport,43.0,ORSU 161200Z
-INZ  DAUI,In Salah Airport,42.0,DAUI 161200Z
-RAK  GMMX,Menara Airport,42.0,GMMX 161200Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 161200Z
-AJF  OESK,Al-Jawf Domestic Airport,42.0,OESK 161200Z
-GCH  OIAH,Gachsaran Airport,42.0,OIAH 161200Z
-PGU  OIBP,Persian Gulf International Airport,42.0,OIBP 161200Z
-LRR  OISL,Lar Airport,42.0,OISL 161200Z
-GXF  OYSY,Sayun International Airport,42.0,OYSY 161200Z
-MQM  LTCR,Mardin Airport,41.0,LTCR 161150Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,41.0,LTCV 161150Z
-XJD  OTBH,Al Udeid Air Base,41.0,OTBH 161155Z
-ELG  DAUE,El Golea Airport,41.0,DAUE 161200Z
-HME  DAUH,Oued Irara Airport,41.0,DAUH 161200Z
-OGX  DAUU,Ain el Beida Airport,41.0,DAUU 161200Z
-CMN  GMMN,Mohammed V International Airport,41.0,GMMN 161200Z
-LEBT,,41.0,LEBT 161200Z
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 161200Z
-URY  OEGT,Gurayat Domestic Airport,41.0,OEGT 161200Z
-OEMN,,41.0,OEMN 161200Z
-TUI  OETR,Turaif Domestic Airport,41.0,OETR 161200Z
+KGXF,,39.0,KGXF 170055Z
+LGF  KLGF,Laguna Army Airfield,39.0,KLGF 170055Z
+LUF  KLUF,Luke Air Force Base,39.0,KLUF 170055Z
+NJF  ORNI,Al Najaf International Airport,39.0,ORNI 170100Z
+HII  KHII,Lake Havasu City Airport,39.0,KHII 170135Z
+NLD  MMNL,Quetzalcóatl International Airport,38.0,MMNL 170040Z
+KCHD,Chandler Municipal Airport,38.0,KCHD 170047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,38.0,KPHX 170051Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,38.0,KTRM 170052Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 170053Z
+PSP  KPSP,Palm Springs International Airport,38.0,KPSP 170053Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 170057Z
+KL08,,38.0,KL08 170135Z
+DAG  KDAG,Barstow Daggett Airport,37.0,KDAG 170050Z
+DVT  KDVT,Phoenix Deer Valley Airport,37.0,KDVT 170053Z
+SCF  KSDL,Scottsdale Airport,37.0,KSDL 170053Z
+MSC  KFFZ,Falcon Field,37.0,KFFZ
+LSV  KLSV,Nellis Air Force Base,37.0,KLSV 170055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,37.0,KCGZ
+LAS  KLAS,McCarran International Airport,37.0,KLAS 170056Z
+KNOZ,,37.0,KNOZ
+AUH  OMAA,Abu Dhabi International Airport,37.0,OMAA 170100Z
+AZI  OMAD,Bateen Airport,37.0,OMAD 170130Z
+BXK  KBXK,Buckeye Municipal Airport,37.0,KBXK 170135Z
+KP08,,37.0,KP08 170135Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,36.0,MMHO 170040Z
+COT  KCOT,Cotulla-La Salle County Airport,36.0,KCOT 170053Z
+VGT  KVGT,North Las Vegas Airport,36.0,KVGT 170053Z
+KNXP,Twentynine Palms (Self) Airport,36.0,KNXP 170054Z
+HSH  KHND,Henderson Executive Airport,36.0,KHND 170056Z
+LRD  KLRD,Laredo International Airport,36.0,KLRD 170056Z
+KNID,China Lake Naws (Armitage Field) Airport,36.0,KNID 170056Z
+OZG  GMAZ,Zagora Airport,36.0,GMAZ
+AVW  KAVQ,Marana Regional Airport,36.0,KAVQ 170135Z
+MZJ  KMZJ,Pinal Airpark,36.0,KMZ
+MTY  MMMY,General Mariano Escobedo International Airport,35.0,MMMY 170040Z
+DRT  KDRT,Del Rio International Airport,35.0,KDRT 170053Z
+SSF  KSSF,Stinson Municipal Airport,35.0,KSSF 170053Z
+BYS  KBYS,Bicycle Lake Army Air Field,35.0,KBYS 170055Z
+DLF  KDLF,DLF Airport,35.0,KDLF 170055Z
+KT70,,35.0,KT70 170055Z
+OKKK,,35.0,OKKK 170100Z
+DOH  OTHH,Hamad International Airport,35.0,OTHH 170100Z
+SKF  KSKF,Lackland Air Force Base,35.0,KSKF 170120Z
+RAK  GMMX,Menara Airport,35.0,GMMX 170130Z
