@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AKW  OIAG,Aghajari Airport,47.0,OIAG 171200Z
-AWZ  OIAW,Ahwaz Airport,47.0,OIAW 171200Z
-NJF  ORNI,Al Najaf International Airport,46.0,ORNI 171200Z
-KQTZ,,45.0,KQTZ
-HOF  OEAH,Al Ahsa Airport,45.0,OEAH 171200Z
-BGW  ORBI,Baghdad International Airport,45.0,ORBI 171200Z
-OEAO,,44.0,OEAO 171200Z
-OEKJ,,44.0,OEKJ 171200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,OEMA 171200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,44.0,OEPA 171200Z
-WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 171200Z
-LRR  OISL,Lar Airport,44.0,OISL 171200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 171200Z
-KIK  ORKK,Kirkuk Air Base,44.0,ORKK 171200Z
-AKH  OEPS,Prince Sultan Air Base,43.0,OEPS 171155Z
-XJD  OTBH,Al Udeid Air Base,43.0,OTBH 171155Z
-ABS  HEBL,Abu Simbel Airport,43.0,HEBL 171200Z
-ELQ  OEGS,Gassim Airport,43.0,OEGS 171200Z
-OEMN,,43.0,OEMN 171200Z
-RAH  OERF,Rafha Domestic Airport,43.0,OERF 171200Z
-RUH  OERK,King Khaled International Airport,43.0,OERK 171200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 171200Z
-MRX  OIAM,Mahshahr Airport,43.0,OIAM 171200Z
-LFM  OISR,Lamerd Airport,43.0,OISR 171200Z
-AUH  OMAA,Abu Dhabi International Airport,43.0,OMAA 171200Z
-EBL  ORER,Erbil International Airport,43.0,ORER 171200Z
-AZI  OMAD,Bateen Airport,43.0,OMAD 171230Z
-INZ  DAUI,In Salah Airport,42.0,DAUI 171200Z
-BEM  GMMD,Beni Mellal Airport,42.0,GMMD 171200Z
-RAK  GMMX,Menara Airport,42.0,GMMX 171200Z
-ASW  HESN,Aswan International Airport,42.0,HESN 171200Z
-SVQ  LEZL,Sevilla Airport,42.0,LEZ
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 171200Z
-TUU  OETB,Tabuk Airport,42.0,OETB 171200Z
-GCH  OIAH,Gachsaran Airport,42.0,OIAH 171200Z
-ACZ  OIZB,Zabol Airport,42.0,OIZ
-ISU  ORSU,Sulaymaniyah International Airport,42.0,ORSU 171200Z
-SXZ  LTCL,Siirt Airport,41.0,LTCL 171150Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,41.0,LTCV 171150Z
-KHS  OOKB,Khasab Air Base,41.0,OOKB 171150Z
-BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 171200Z
-TMX  DAUT,Timimoun Airport,41.0,DAUT 171200Z
-MEK  GMFM,Bassatine Airport,41.0,GMFM 171200Z
-CMN  GMMN,Mohammed V International Airport,41.0,GMMN 171200Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,40.0,KNYL 180057Z
+HII  KHII,Lake Havasu City Airport,40.0,KHII 180135Z
+KCHD,Chandler Municipal Airport,39.0,KCHD 180047Z
+GYR  KGYR,Phoenix Goodyear Airport,39.0,KGYR 180047Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,39.0,MMML 180049Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,39.0,KPHX 180051Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,39.0,KTRM 180052Z
+PSP  KPSP,Palm Springs International Airport,39.0,KPSP 180053Z
+KGXF,,39.0,KGXF 180055Z
+LUF  KLUF,Luke Air Force Base,39.0,KLUF 180055Z
+KNOZ,,39.0,KNOZ
+KL08,,39.0,KL08 180135Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,38.0,MMHO 180040Z
+NLD  MMNL,Quetzalcóatl International Airport,38.0,MMNL 180040Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 180050Z
+SCF  KSDL,Scottsdale Airport,38.0,KSDL 180053Z
+MSC  KFFZ,Falcon Field,38.0,KFFZ
+LSV  KLSV,Nellis Air Force Base,38.0,KLSV 180055Z
+KA39,,38.0,KA39 180135Z
+BXK  KBXK,Buckeye Municipal Airport,38.0,KBXK 180135Z
+SAD  KSAD,Safford Regional Airport,37.0,KSAD 180051Z
+COT  KCOT,Cotulla-La Salle County Airport,37.0,KCOT 180053Z
+DRT  KDRT,Del Rio International Airport,37.0,KDRT 180053Z
+DVT  KDVT,Phoenix Deer Valley Airport,37.0,KDVT 180053Z
+VGT  KVGT,North Las Vegas Airport,37.0,KVGT 180053Z
+DLF  KDLF,DLF Airport,37.0,KDLF 180055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,37.0,KCGZ
+LAS  KLAS,McCarran International Airport,37.0,KLAS 180056Z
+LRD  KLRD,Laredo International Airport,37.0,KLRD 180056Z
+OEMN,,37.0,OEMN 180100Z
+OKKK,,37.0,OKKK 180100Z
+K5T9,,37.0,K5T9 180115Z
+MZJ  KMZJ,Pinal Airpark,37.0,KMZ
+KP08,,37.0,KP08 180115Z
+NTR  MMAN,Del Norte International Airport,36.0,MMAN 180040Z
+MTY  MMMY,General Mariano Escobedo International Airport,36.0,MMMY 180040Z
+PDS  MMPG,Piedras Negras International Airport,36.0,MMPG 180040Z
+FSM  KFSM,Fort Smith Regional Airport,36.0,KFSM 180053Z
+SSF  KSSF,Stinson Municipal Airport,36.0,KSSF 180053Z
+KNXP,Twentynine Palms (Self) Airport,36.0,KNXP 180054Z
+SKF  KSKF,Lackland Air Force Base,36.0,KSKF 180055Z
+KT70,,36.0,KT70 180055Z
+HSH  KHND,Henderson Executive Airport,36.0,KHND 180056Z
+KNID,China Lake Naws (Armitage Field) Airport,36.0,KNID 180056Z
+JIB  HDAM,Djibouti-Ambouli Airport,36.0,HDAM 180100Z
