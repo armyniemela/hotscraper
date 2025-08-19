@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PSP  KPSP,Palm Springs International Airport,41.0,KPSP 190053Z
-LUF  KLUF,Luke Air Force Base,41.0,KLUF 190055Z
-HII  KHII,Lake Havasu City Airport,41.0,KHII 190115Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 190040Z
-KCHD,Chandler Municipal Airport,40.0,KCHD 190047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,40.0,KPHX 190051Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,40.0,KTRM 190052Z
-SCF  KSDL,Scottsdale Airport,40.0,KSDL 190053Z
-KGXF,,40.0,KGXF 190055Z
-LGF  KLGF,Laguna Army Airfield,40.0,KLGF 190055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),40.0,KNJK 190056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,40.0,KNYL 190057Z
-BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 190115Z
-KL08,,40.0,KL08 190115Z
-NLD  MMNL,Quetzalcóatl International Airport,39.0,MMNL 190040Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,39.0,KIWA 190048Z
-DVT  KDVT,Phoenix Deer Valley Airport,39.0,KDVT 190053Z
-LSV  KLSV,Nellis Air Force Base,39.0,KLSV 190055Z
-KNOZ,,39.0,KNOZ
-BSK  DAUB,Biskra Airport,39.0,DAUB 190100Z
-KBVU,,39.0,KBVU 190115Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,38.0,MMHO 190043Z
-KRYN,Ryan Field,38.0,KRYN 190046Z
-VGT  KVGT,North Las Vegas Airport,38.0,KVGT 190053Z
-MSC  KFFZ,Falcon Field,38.0,KFFZ
-KNXP,Twentynine Palms (Self) Airport,38.0,KNXP 190054Z
-CGZ  KCGZ,Casa Grande Municipal Airport,38.0,KCGZ
-HSH  KHND,Henderson Executive Airport,38.0,KHND 190056Z
-LAS  KLAS,McCarran International Airport,38.0,KLAS 190056Z
-KA39,,38.0,KA39 190115Z
-MZJ  KMZJ,Pinal Airpark,38.0,KMZ
-KP08,,38.0,KP08 190115Z
-DAG  KDAG,Barstow Daggett Airport,37.0,KDAG 190050Z
-COT  KCOT,Cotulla-La Salle County Airport,37.0,KCOT 190053Z
-DRT  KDRT,Del Rio International Airport,37.0,KDRT 190053Z
-SSF  KSSF,Stinson Municipal Airport,37.0,KSSF 190053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,37.0,KTUS 190053Z
-DLF  KDLF,DLF Airport,37.0,KDLF 190055Z
-DMA  KDMA,Davis Monthan Air Force Base,37.0,KDMA 190055Z
-SKF  KSKF,Lackland Air Force Base,37.0,KSKF 190055Z
-KT70,,37.0,KT70 190055Z
-LRD  KLRD,Laredo International Airport,37.0,KLRD 190056Z
-KNID,China Lake Naws (Armitage Field) Airport,37.0,KNID 190056Z
-SGU  KSGU,St George Municipal Airport,37.0,KSGU 190056Z
-OKKK,,37.0,OKKK 190100Z
+OKKK,,46.0,OKKK 191200Z
+OKAS,Ali Al Salem Air Base,45.0,OKAS 191155Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,45.0,OEMA 191200Z
+ISU  ORSU,Sulaymaniyah International Airport,45.0,ORSU 191200Z
+DMM  OEDF,King Fahd International Airport,44.0,OEDF 191200Z
+OEKJ,,44.0,OEKJ 191200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,44.0,OEPA 191200Z
+EBL  ORER,Erbil International Airport,44.0,ORER 191200Z
+KIK  ORKK,Kirkuk Air Base,44.0,ORKK 191200Z
+NJF  ORNI,Al Najaf International Airport,44.0,ORNI 191200Z
+SXZ  LTCL,Siirt Airport,43.0,LTCL 191150Z
+AKH  OEPS,Prince Sultan Air Base,43.0,OEPS 191155Z
+HESG,,43.0,HESG 191200Z
+OEAO,,43.0,OEAO 191200Z
+ELQ  OEGS,Gassim Airport,43.0,OEGS 191200Z
+RUH  OERK,King Khaled International Airport,43.0,OERK 191200Z
+OERS,,43.0,OERS 191200Z
+KHD  OICK,Khoram Abad Airport,43.0,OICK 191200Z
+IHR  OIZI,Iran Shahr Airport,43.0,OIZ
+KQTZ,,42.0,KQTZ
+XJD  OTBH,Al Udeid Air Base,42.0,OTBH 191155Z
+LXR  HELX,Luxor International Airport,42.0,HELX 191200Z
+ASW  HESN,Aswan International Airport,42.0,HESN 191200Z
+WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 191200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 191200Z
+KSH  OICC,Shahid Ashrafi Esfahani Airport,42.0,OICC 191200Z
+SDG  OICS,Sanandaj Airport,42.0,OICS 191200Z
+FAZ  OISF,Fasa Airport,42.0,OISF 191200Z
+LRR  OISL,Lar Airport,42.0,OISL 191200Z
+BGW  ORBI,Baghdad International Airport,42.0,ORBI 191200Z
+BAL  LTCJ,Batman Airport,42.0,LTCJ 191220Z
+NKT  LTCV,Şırnak Şerafettin Elçi Airport,41.0,LTCV 191150Z
+HME  DAUH,Oued Irara Airport,41.0,DAUH 191200Z
+ATZ  HEAT,Asyut International Airport,41.0,HEAT 191200Z
+DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 191200Z
+RAH  OERF,Rafha Domestic Airport,41.0,OERF 191200Z
+GCH  OIAH,Gachsaran Airport,41.0,OIAH 191200Z
+IKA  OIIE,Imam Khomeini International Airport,41.0,OIIE 191200Z
+AAN  OMAL,Al Ain International Airport,41.0,OMAL 191200Z
+DIY  LTCC,Diyarbakir Airport,41.0,LTCC 191220Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,40.0,DAUA 191200Z
+INZ  DAUI,In Salah Airport,40.0,DAUI 191200Z
+TGR  DAUK,Touggourt Sidi Madhi Airport,40.0,DAUK 191200Z
+TMX  DAUT,Timimoun Airport,40.0,DAUT 191200Z
+ABS  HEBL,Abu Simbel Airport,40.0,HEBL 191200Z
