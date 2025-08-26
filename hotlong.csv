@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KQTZ,,46.0,KQTZ
-XJD  OTBH,Al Udeid Air Base,46.0,OTBH 251155Z
-HOF  OEAH,Al Ahsa Airport,46.0,OEAH 251200Z
-DMM  OEDF,King Fahd International Airport,46.0,OEDF 251200Z
-AKW  OIAG,Aghajari Airport,46.0,OIAG 251200Z
-NJF  ORNI,Al Najaf International Airport,46.0,ORNI 251200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 251200Z
-BGW  ORBI,Baghdad International Airport,45.0,ORBI 251200Z
-KIK  ORKK,Kirkuk Air Base,45.0,ORKK 251200Z
-ELQ  OEGS,Gassim Airport,44.0,OEGS 251200Z
-OEKJ,,44.0,OEKJ 251200Z
-WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 251200Z
-MRX  OIAM,Mahshahr Airport,44.0,OIAM 251200Z
-IHR  OIZI,Iran Shahr Airport,44.0,OIZ
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 251200Z
-SXZ  LTCL,Siirt Airport,43.0,LTCL 251150Z
-RAH  OERF,Rafha Domestic Airport,43.0,OERF 251200Z
-RUH  OERK,King Khaled International Airport,43.0,OERK 251200Z
-PGU  OIBP,Persian Gulf International Airport,43.0,OIBP 251200Z
-EBL  ORER,Erbil International Airport,43.0,ORER 251200Z
-ISU  ORSU,Sulaymaniyah International Airport,43.0,ORSU 251200Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,42.0,DAUA 251200Z
-TMX  DAUT,Timimoun Airport,42.0,DAUT 251200Z
-ASW  HESN,Aswan International Airport,42.0,HESN 251200Z
-OEAO,,42.0,OEAO 251200Z
-DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 251200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 251200Z
-RAE  OERR,Arar Domestic Airport,42.0,OERR 251200Z
-GCH  OIAH,Gachsaran Airport,42.0,OIAH 251200Z
-KHD  OICK,Khoram Abad Airport,42.0,OICK 251200Z
-LFM  OISR,Lamerd Airport,42.0,OISR 251200Z
-AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 251200Z
-DIA  OTBD,Doha International Airport,42.0,OTBD 251200Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,41.0,LTCV 251150Z
-INZ  DAUI,In Salah Airport,41.0,DAUI 251200Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,41.0,DAUK 251200Z
-DTTD,Remada Air Base,41.0,DTTD 251200Z
-ABS  HEBL,Abu Simbel Airport,41.0,HEBL 251200Z
-LXR  HELX,Luxor International Airport,41.0,HELX 251200Z
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 251200Z
-KSH  OICC,Shahid Ashrafi Esfahani Airport,41.0,OICC 251200Z
-SDG  OICS,Sanandaj Airport,41.0,OICS 251200Z
-FAZ  OISF,Fasa Airport,41.0,OISF 251200Z
-LRR  OISL,Lar Airport,41.0,OISL 251200Z
-ACZ  OIZB,Zabol Airport,41.0,OIZ
+CIC  KCIC,Chico Municipal Airport,38.0,KCIC 260056Z
+PTV  KPTV,Porterville Municipal Airport,38.0,KPTV 260056Z
+VIS  KVIS,Visalia Municipal Airport,38.0,KVIS 260056Z
+CWLY,,38.0,CWLY 260100Z
+YKA  CYKA,Kamloops Airport,38.0,CYKA 260100Z
+K3S8,,38.0,K3S8 260115Z
+FCH  KFCH,Fresno Chandler Executive Airport,38.0,KFCH 260115Z
+MAE  KMAE,Madera Municipal Airport,37.0,KMAE 260053Z
+MYV  KMYV,Yuba County Airport,37.0,KMYV 260053Z
+OMK  KOMK,Omak Airport,37.0,KOMK 260053Z
+BAB  KBAB,Beale Air Force Base,37.0,KBAB 260055Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,37.0,KNLC 260056Z
+OKKK,,37.0,OKKK 260100Z
+KDLO,Delano Municipal Airport,37.0,KDLO 260115Z
+KO32,,37.0,KO32 260115Z
+SAD  KSAD,Safford Regional Airport,36.0,KSAD 260051Z
+MWH  KMWH,Grant County International Airport,36.0,KMWH 260052Z
+EPH  KEPH,Ephrata Municipal Airport,36.0,KEPH 260053Z
+MCE  KMCE,Merced Regional Macready Field,36.0,KMCE 260053Z
+RBG  KRBG,Roseburg Regional Airport,36.0,KRBG 260053Z
+LWS  KLWS,Lewiston Nez Perce County Airport,36.0,KLWS 260056Z
+KS52,,36.0,KS52 260110Z
+K3W7,,36.0,K3W7 260115Z
+KDWA,Yolo County Davis Woodland Winters Airport,36.0,KDWA 260115Z
+KLHM,Lincoln Regional Karl Harder Field,36.0,KLHM 260115Z
+MCC  KMCC,Mc Clellan Airfield,36.0,KMCC 260115Z
+IFP  KIFP,Laughlin Bullhead International Airport,35.0,KIFP 260047Z
+KHS  OOKB,Khasab Air Base,35.0,OOKB 260050Z
+COT  KCOT,Cotulla-La Salle County Airport,35.0,KCOT 260053Z
+KDEW,Deer Park Airport,35.0,KDEW 260053Z
+DRT  KDRT,Del Rio International Airport,35.0,KDRT 260053Z
+ELN  KELN,Bowers Field,35.0,KELN 260053Z
+MFR  KMFR,Rogue Valley International Medford Airport,35.0,KMFR 260053Z
+MOD  KMOD,Modesto City Co-Harry Sham Field,35.0,KMOD 260053Z
+PSC  KPSC,Tri Cities Airport,35.0,KPSC 260053Z
+SFF  KSFF,Felts Field,35.0,KSFF 260053Z
+SMF  KSMF,Sacramento International Airport,35.0,KSMF 260053Z
+KVCB,Nut Tree Airport,35.0,KVCB 260053Z
+EUG  KEUG,Mahlon Sweet Field,35.0,KEUG 260054Z
+K1YT,,35.0,K1YT 260055Z
+EAT  KEAT,Pangborn Memorial Airport,35.0,KEAT 260055Z
+EED  KEED,Needles Airport,35.0,KEED 260056Z
+UKI  KUKI,Ukiah Municipal Airport,35.0,KUKI 260056Z
+CWPR,,35.0,CWPR 260100Z
+CYDC,Princeton Airport,35.0,CYDC 260100Z
