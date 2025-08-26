@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-CIC  KCIC,Chico Municipal Airport,38.0,KCIC 260056Z
-PTV  KPTV,Porterville Municipal Airport,38.0,KPTV 260056Z
-VIS  KVIS,Visalia Municipal Airport,38.0,KVIS 260056Z
-CWLY,,38.0,CWLY 260100Z
-YKA  CYKA,Kamloops Airport,38.0,CYKA 260100Z
-K3S8,,38.0,K3S8 260115Z
-FCH  KFCH,Fresno Chandler Executive Airport,38.0,KFCH 260115Z
-MAE  KMAE,Madera Municipal Airport,37.0,KMAE 260053Z
-MYV  KMYV,Yuba County Airport,37.0,KMYV 260053Z
-OMK  KOMK,Omak Airport,37.0,KOMK 260053Z
-BAB  KBAB,Beale Air Force Base,37.0,KBAB 260055Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,37.0,KNLC 260056Z
-OKKK,,37.0,OKKK 260100Z
-KDLO,Delano Municipal Airport,37.0,KDLO 260115Z
-KO32,,37.0,KO32 260115Z
-SAD  KSAD,Safford Regional Airport,36.0,KSAD 260051Z
-MWH  KMWH,Grant County International Airport,36.0,KMWH 260052Z
-EPH  KEPH,Ephrata Municipal Airport,36.0,KEPH 260053Z
-MCE  KMCE,Merced Regional Macready Field,36.0,KMCE 260053Z
-RBG  KRBG,Roseburg Regional Airport,36.0,KRBG 260053Z
-LWS  KLWS,Lewiston Nez Perce County Airport,36.0,KLWS 260056Z
-KS52,,36.0,KS52 260110Z
-K3W7,,36.0,K3W7 260115Z
-KDWA,Yolo County Davis Woodland Winters Airport,36.0,KDWA 260115Z
-KLHM,Lincoln Regional Karl Harder Field,36.0,KLHM 260115Z
-MCC  KMCC,Mc Clellan Airfield,36.0,KMCC 260115Z
-IFP  KIFP,Laughlin Bullhead International Airport,35.0,KIFP 260047Z
-KHS  OOKB,Khasab Air Base,35.0,OOKB 260050Z
-COT  KCOT,Cotulla-La Salle County Airport,35.0,KCOT 260053Z
-KDEW,Deer Park Airport,35.0,KDEW 260053Z
-DRT  KDRT,Del Rio International Airport,35.0,KDRT 260053Z
-ELN  KELN,Bowers Field,35.0,KELN 260053Z
-MFR  KMFR,Rogue Valley International Medford Airport,35.0,KMFR 260053Z
-MOD  KMOD,Modesto City Co-Harry Sham Field,35.0,KMOD 260053Z
-PSC  KPSC,Tri Cities Airport,35.0,KPSC 260053Z
-SFF  KSFF,Felts Field,35.0,KSFF 260053Z
-SMF  KSMF,Sacramento International Airport,35.0,KSMF 260053Z
-KVCB,Nut Tree Airport,35.0,KVCB 260053Z
-EUG  KEUG,Mahlon Sweet Field,35.0,KEUG 260054Z
-K1YT,,35.0,K1YT 260055Z
-EAT  KEAT,Pangborn Memorial Airport,35.0,KEAT 260055Z
-EED  KEED,Needles Airport,35.0,KEED 260056Z
-UKI  KUKI,Ukiah Municipal Airport,35.0,KUKI 260056Z
-CWPR,,35.0,CWPR 260100Z
-CYDC,Princeton Airport,35.0,CYDC 260100Z
+HOF  OEAH,Al Ahsa Airport,46.0,OEAH 261200Z
+XJD  OTBH,Al Udeid Air Base,45.0,OTBH 261155Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 261200Z
+WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 261200Z
+AKW  OIAG,Aghajari Airport,45.0,OIAG 261200Z
+TGR  DAUK,Touggourt Sidi Madhi Airport,44.0,DAUK 261200Z
+MRX  OIAM,Mahshahr Airport,44.0,OIAM 261200Z
+KHD  OICK,Khoram Abad Airport,44.0,OICK 261200Z
+AAN  OMAL,Al Ain International Airport,44.0,OMAL 261200Z
+KQTZ,,43.0,KQTZ
+AKH  OEPS,Prince Sultan Air Base,43.0,OEPS 261155Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,43.0,DAUA 261200Z
+DMM  OEDF,King Fahd International Airport,43.0,OEDF 261200Z
+ELQ  OEGS,Gassim Airport,43.0,OEGS 261200Z
+OEKJ,,43.0,OEKJ 261200Z
+RUH  OERK,King Khaled International Airport,43.0,OERK 261200Z
+IHR  OIZI,Iran Shahr Airport,43.0,OIZ
+DWC  OMDW,Al Maktoum International Airport,43.0,OMDW 261200Z
+BGW  ORBI,Baghdad International Airport,43.0,ORBI 261200Z
+KIK  ORKK,Kirkuk Air Base,43.0,ORKK 261200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 261200Z
+RAH  OERF,Rafha Domestic Airport,42.0,OERF 261200Z
+LFM  OISR,Lamerd Airport,42.0,OISR 261200Z
+AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 261200Z
+EBL  ORER,Erbil International Airport,42.0,ORER 261200Z
+ISU  ORSU,Sulaymaniyah International Airport,42.0,ORSU 261200Z
+SXZ  LTCL,Siirt Airport,41.0,LTCL 261150Z
+BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 261200Z
+ELG  DAUE,El Golea Airport,41.0,DAUE 261200Z
+ASW  HESN,Aswan International Airport,41.0,HESN 261200Z
+OEAO,,41.0,OEAO 261200Z
+DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 261200Z
+RAE  OERR,Arar Domestic Airport,41.0,OERR 261200Z
+GCH  OIAH,Gachsaran Airport,41.0,OIAH 261200Z
+KSH  OICC,Shahid Ashrafi Esfahani Airport,41.0,OICC 261200Z
+SDG  OICS,Sanandaj Airport,41.0,OICS 261200Z
+LRR  OISL,Lar Airport,41.0,OISL 261200Z
+ACZ  OIZB,Zabol Airport,41.0,OIZ
+DXB  OMDB,Dubai International Airport,41.0,OMDB 261200Z
+SHJ  OMSJ,Sharjah International Airport,41.0,OMSJ 261230Z
+NKT  LTCV,Şırnak Şerafettin Elçi Airport,40.0,LTCV 261150Z
+TMX  DAUT,Timimoun Airport,40.0,DAUT 261200Z
+DTTN,,40.0,DTTN 261200Z
+LXR  HELX,Luxor International Airport,40.0,HELX 261200Z
+DHA  OEDR,King Abdulaziz Air Base,40.0,OEDR 261200Z
