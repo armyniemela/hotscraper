@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HOF  OEAH,Al Ahsa Airport,46.0,OEAH 261200Z
-XJD  OTBH,Al Udeid Air Base,45.0,OTBH 261155Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 261200Z
-WAE  OEWD,Wadi Al Dawasir Airport,45.0,OEWD 261200Z
-AKW  OIAG,Aghajari Airport,45.0,OIAG 261200Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,44.0,DAUK 261200Z
-MRX  OIAM,Mahshahr Airport,44.0,OIAM 261200Z
-KHD  OICK,Khoram Abad Airport,44.0,OICK 261200Z
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 261200Z
-KQTZ,,43.0,KQTZ
-AKH  OEPS,Prince Sultan Air Base,43.0,OEPS 261155Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,43.0,DAUA 261200Z
-DMM  OEDF,King Fahd International Airport,43.0,OEDF 261200Z
-ELQ  OEGS,Gassim Airport,43.0,OEGS 261200Z
-OEKJ,,43.0,OEKJ 261200Z
-RUH  OERK,King Khaled International Airport,43.0,OERK 261200Z
-IHR  OIZI,Iran Shahr Airport,43.0,OIZ
-DWC  OMDW,Al Maktoum International Airport,43.0,OMDW 261200Z
-BGW  ORBI,Baghdad International Airport,43.0,ORBI 261200Z
-KIK  ORKK,Kirkuk Air Base,43.0,ORKK 261200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 261200Z
-RAH  OERF,Rafha Domestic Airport,42.0,OERF 261200Z
-LFM  OISR,Lamerd Airport,42.0,OISR 261200Z
-AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 261200Z
-EBL  ORER,Erbil International Airport,42.0,ORER 261200Z
-ISU  ORSU,Sulaymaniyah International Airport,42.0,ORSU 261200Z
-SXZ  LTCL,Siirt Airport,41.0,LTCL 261150Z
-BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 261200Z
-ELG  DAUE,El Golea Airport,41.0,DAUE 261200Z
-ASW  HESN,Aswan International Airport,41.0,HESN 261200Z
-OEAO,,41.0,OEAO 261200Z
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 261200Z
-RAE  OERR,Arar Domestic Airport,41.0,OERR 261200Z
-GCH  OIAH,Gachsaran Airport,41.0,OIAH 261200Z
-KSH  OICC,Shahid Ashrafi Esfahani Airport,41.0,OICC 261200Z
-SDG  OICS,Sanandaj Airport,41.0,OICS 261200Z
-LRR  OISL,Lar Airport,41.0,OISL 261200Z
-ACZ  OIZB,Zabol Airport,41.0,OIZ
-DXB  OMDB,Dubai International Airport,41.0,OMDB 261200Z
-SHJ  OMSJ,Sharjah International Airport,41.0,OMSJ 261230Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,40.0,LTCV 261150Z
-TMX  DAUT,Timimoun Airport,40.0,DAUT 261200Z
-DTTN,,40.0,DTTN 261200Z
-LXR  HELX,Luxor International Airport,40.0,HELX 261200Z
-DHA  OEDR,King Abdulaziz Air Base,40.0,OEDR 261200Z
+VIS  KVIS,Visalia Municipal Airport,37.0,KVIS 270056Z
+CWLY,,37.0,CWLY 270100Z
+YKA  CYKA,Kamloops Airport,37.0,CYKA 270100Z
+BMW  DATM,Bordj Badji Mokhtar Airport,37.0,DATM 270100Z
+GHA  DAUG,Noumérat - Moufdi Zakaria Airport,37.0,DAUG 270100Z
+FCH  KFCH,Fresno Chandler Executive Airport,37.0,KFCH 270115Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,36.0,MMML 270040Z
+KGEU,Glendale Municipal Airport,36.0,KGEU 270047Z
+GYR  KGYR,Phoenix Goodyear Airport,36.0,KGYR 270047Z
+IFP  KIFP,Laughlin Bullhead International Airport,36.0,KIFP 270047Z
+BLH  KBLH,Blythe Airport,36.0,KBLH 270052Z
+KHJO,Hanford Municipal Airport,36.0,KHJO 270053Z
+RBG  KRBG,Roseburg Regional Airport,36.0,KRBG 270053Z
+KGXF,,36.0,KGXF 270055Z
+LUF  KLUF,Luke Air Force Base,36.0,KLUF 270055Z
+OKKK,,36.0,OKKK 270100Z
+HII  KHII,Lake Havasu City Airport,36.0,KHII 270115Z
+KO32,,36.0,KO32 270115Z
+NLD  MMNL,Quetzalcóatl International Airport,35.0,MMNL 270040Z
+CEN  MMCN,Ciudad Obregón International Airport,35.0,MMCN 270044Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,35.0,KPHX 270051Z
+IPL  KIPL,Imperial County Airport,35.0,KIPL 270053Z
+MAE  KMAE,Madera Municipal Airport,35.0,KMAE 270053Z
+MCE  KMCE,Merced Regional Macready Field,35.0,KMCE 270053Z
+MOD  KMOD,Modesto City Co-Harry Sham Field,35.0,KMOD 270053Z
+OMK  KOMK,Omak Airport,35.0,KOMK 270053Z
+PSP  KPSP,Palm Springs International Airport,35.0,KPSP 270053Z
+BAB  KBAB,Beale Air Force Base,35.0,KBAB 270055Z
+LGF  KLGF,Laguna Army Airfield,35.0,KLGF 270055Z
+CIC  KCIC,Chico Municipal Airport,35.0,KCIC 270056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,35.0,KNYL 270057Z
+CWUS,,35.0,CWUS 270100Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,35.0,DAUA 270100Z
+INZ  DAUI,In Salah Airport,35.0,DAUI 270100Z
+OGX  DAUU,Ain el Beida Airport,35.0,DAUU 270100Z
+BXK  KBXK,Buckeye Municipal Airport,35.0,KBXK 270115Z
+KDLO,Delano Municipal Airport,35.0,KDLO 270115Z
+KDWA,Yolo County Davis Woodland Winters Airport,35.0,KDWA 270115Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,34.0,MMHO 270040Z
+KCHD,Chandler Municipal Airport,34.0,KCHD 270047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,34.0,KIWA 270048Z
+KHS  OOKB,Khasab Air Base,34.0,OOKB 270050Z
+DRT  KDRT,Del Rio International Airport,34.0,KDRT 270053Z
+DVT  KDVT,Phoenix Deer Valley Airport,34.0,KDVT 270053Z
+MFR  KMFR,Rogue Valley International Medford Airport,34.0,KMFR 270053Z
