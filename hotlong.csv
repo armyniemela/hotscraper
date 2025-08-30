@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BXK  KBXK,Buckeye Municipal Airport,38.0,KBXK 300055Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,37.0,MMML 300041Z
-KCHD,Chandler Municipal Airport,37.0,KCHD 300047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,37.0,KPHX 300051Z
-BLH  KBLH,Blythe Airport,37.0,KBLH 300052Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,37.0,KTRM 300052Z
-DRT  KDRT,Del Rio International Airport,37.0,KDRT 300053Z
-IPL  KIPL,Imperial County Airport,37.0,KIPL 300053Z
-K5T9,,37.0,K5T9 300055Z
-KA39,,37.0,KA39 300055Z
-KCVB,Castroville Municipal Airport,37.0,KCVB 300055Z
-HII  KHII,Lake Havasu City Airport,37.0,KHII 300055Z
-KL08,,37.0,KL08 300055Z
-KPRS,Presidio Lely International Airport,37.0,KPRS 300055Z
-EED  KEED,Needles Airport,37.0,KEED 300056Z
-LRD  KLRD,Laredo International Airport,37.0,KLRD 300056Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),37.0,KNJK 300056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,37.0,KNYL 300057Z
-KNOZ,,37.0,KNOZ
-K6R6,,36.0,K6R6 300051Z
-DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 300053Z
-RDD  KRDD,Redding Municipal Airport,36.0,KRDD 300053Z
-SCF  KSDL,Scottsdale Airport,36.0,KSDL 300053Z
-SSF  KSSF,Stinson Municipal Airport,36.0,KSSF 300053Z
-MSC  KFFZ,Falcon Field,36.0,KFFZ
-RBL  KRBL,Red Bluff Municipal Airport,36.0,KRBL 300054Z
-KAPY,Zapata County Airport,36.0,KAPY 300055Z
-KP08,,36.0,KP08 300055Z
-KPEZ,Pleasanton Municipal Airport,36.0,KPEZ
-KT89,,36.0,KT89 300055Z
-UVA  KUVA,Garner Field,36.0,KUVA 300055Z
-CGZ  KCGZ,Casa Grande Municipal Airport,36.0,KCGZ
-KNID,China Lake Naws (Armitage Field) Airport,36.0,KNID 300056Z
-NTR  MMAN,Del Norte International Airport,35.0,MMAN 300040Z
-CJS  MMCS,Abraham González International Airport,35.0,MMCS 300040Z
-MTY  MMMY,General Mariano Escobedo International Airport,35.0,MMMY 300040Z
-KRYN,Ryan Field,35.0,KRYN 300045Z
-CIC  KCIC,Chico Municipal Airport,35.0,KCIC 300050Z
-KHDO,South Texas Regional Airport at Hondo,35.0,KHDO 300051Z
-FAT  KFAT,Fresno Yosemite International Airport,35.0,KFAT 300053Z
-FST  KFST,Fort Stockton Pecos County Airport,35.0,KFST 300053Z
-MYV  KMYV,Yuba County Airport,35.0,KMYV 300053Z
-OVE  KOVE,Oroville Municipal Airport,35.0,KOVE 300053Z
-KVCB,Nut Tree Airport,35.0,KVCB 300053Z
-BFL  KBFL,Meadows Field,35.0,KBFL 300054Z
+OKKK,,46.0,OKKK 301200Z
+BSR  ORMM,Basrah International Airport,46.0,ORMM 301200Z
+MRX  OIAM,Mahshahr Airport,45.0,OIAM 301200Z
+AAN  OMAL,Al Ain International Airport,45.0,OMAL 301200Z
+NJF  ORNI,Al Najaf International Airport,45.0,ORNI 301200Z
+INZ  DAUI,In Salah Airport,44.0,DAUI 301200Z
+DMM  OEDF,King Fahd International Airport,44.0,OEDF 301200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 301200Z
+GCH  OIAH,Gachsaran Airport,44.0,OIAH 301200Z
+IHR  OIZI,Iran Shahr Airport,44.0,OIZ
+BGW  ORBI,Baghdad International Airport,44.0,ORBI 301200Z
+KIK  ORKK,Kirkuk Air Base,44.0,ORKK 301200Z
+ISU  ORSU,Sulaymaniyah International Airport,44.0,ORSU 301200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,43.0,DATM 301200Z
+IAM  DAUZ,In Aménas Airport,43.0,DAUZ
+DHA  OEDR,King Abdulaziz Air Base,43.0,OEDR 301200Z
+ELQ  OEGS,Gassim Airport,43.0,OEGS 301200Z
+OEKJ,,43.0,OEKJ 301200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 301200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 301200Z
+EBL  ORER,Erbil International Airport,43.0,ORER 301200Z
+VVZ  DAAP,Illizi Takhamalt Airport,42.0,DAAP 301200Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,42.0,DAUA 301200Z
+ASW  HESN,Aswan International Airport,42.0,HESN 301200Z
+OEAO,,42.0,OEAO 301200Z
+RUH  OERK,King Khaled International Airport,42.0,OERK 301200Z
+RAE  OERR,Arar Domestic Airport,42.0,OERR 301200Z
+OERS,,42.0,OERS 301200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 301200Z
+LRR  OISL,Lar Airport,42.0,OISL 301200Z
+ACZ  OIZB,Zabol Airport,42.0,OIZ
+KHS  OOKB,Khasab Air Base,41.0,OOKB 301150Z
+TMX  DAUT,Timimoun Airport,41.0,DAUT 301200Z
+LXR  HELX,Luxor International Airport,41.0,HELX 301200Z
+OEMN,,41.0,OEMN 301200Z
+RAH  OERF,Rafha Domestic Airport,41.0,OERF 301200Z
+KHD  OICK,Khoram Abad Airport,41.0,OICK 301200Z
+OIKQ,Dayrestan Airport,41.0,OIKQ 301200Z
+DIA  OTBD,Doha International Airport,41.0,OTBD 301200Z
+GXF  OYSY,Sayun International Airport,41.0,OYSY 301200Z
+NKT  LTCV,Şırnak Şerafettin Elçi Airport,40.0,LTCV 301150Z
+DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 301200Z
+PGU  OIBP,Persian Gulf International Airport,40.0,OIBP 301200Z
+TMJ  UTST,Termez Airport,40.0,UTST 301200Z
+SXZ  LTCL,Siirt Airport,39.0,LTCL 301150Z
