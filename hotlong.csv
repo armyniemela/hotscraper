@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AAN  OMAL,Al Ain International Airport,44.0,OMAL 011200Z
-INZ  DAUI,In Salah Airport,43.0,DAUI 011200Z
-OEKJ,,43.0,OEKJ 011200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 011200Z
-WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 011200Z
-ABD  OIAA,Abadan Airport,43.0,OIAA 011200Z
-LFM  OISR,Lamerd Airport,43.0,OISR 011200Z
-OKKK,,43.0,OKKK 011200Z
-BSR  ORMM,Basrah International Airport,43.0,ORMM 011200Z
-ISU  ORSU,Sulaymaniyah International Airport,43.0,ORSU 011200Z
-SXZ  LTCL,Siirt Airport,42.0,LTCL 011150Z
-VVZ  DAAP,Illizi Takhamalt Airport,42.0,DAAP 011200Z
-TMX  DAUT,Timimoun Airport,42.0,DAUT 011200Z
-DMM  OEDF,King Fahd International Airport,42.0,OEDF 011200Z
-OEMN,,42.0,OEMN 011200Z
-SHW  OESH,Sharurah Airport,42.0,OESH 011200Z
-LRR  OISL,Lar Airport,42.0,OISL 011200Z
-NJF  ORNI,Al Najaf International Airport,42.0,ORNI 011200Z
-GXF  OYSY,Sayun International Airport,42.0,OYSY 011200Z
-HME  DAUH,Oued Irara Airport,41.0,DAUH 011200Z
-OGX  DAUU,Ain el Beida Airport,41.0,DAUU 011200Z
-TUN  DTTA,Tunis Carthage International Airport,41.0,DTTA 011200Z
-DTTN,,41.0,DTTN 011200Z
-OEAO,,41.0,OEAO 011200Z
-DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 011200Z
-ELQ  OEGS,Gassim Airport,41.0,OEGS 011200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 011200Z
-RUH  OERK,King Khaled International Airport,41.0,OERK 011200Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,40.0,LTCV 011150Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,40.0,DAUA 011200Z
-ELG  DAUE,El Golea Airport,40.0,DAUE 011200Z
-DTTK,,40.0,DTTK 011200Z
-HESW,,40.0,HESW 011200Z
-DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 011200Z
-GCH  OIAH,Gachsaran Airport,40.0,OIAH 011200Z
-PGU  OIBP,Persian Gulf International Airport,40.0,OIBP 011200Z
-BGW  ORBI,Baghdad International Airport,40.0,ORBI 011200Z
-EBL  ORER,Erbil International Airport,40.0,ORER 011200Z
-KIK  ORKK,Kirkuk Air Base,40.0,ORKK 011200Z
-DIY  LTCC,Diyarbakir Airport,40.0,LTCC 011220Z
-BAL  LTCJ,Batman Airport,40.0,LTCJ 011220Z
-EZS  LTCA,Elazığ Airport,39.0,LTCA 011150Z
-ADF  LTCP,Adıyaman Airport,39.0,LTCP 011150Z
-LTCU,,39.0,LTCU 011150Z
-GHA  DAUG,Noumérat - Moufdi Zakaria Airport,39.0,DAUG 011200Z
+KGEU,Glendale Municipal Airport,41.0,KGEU 020047Z
+GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 020047Z
+IPL  KIPL,Imperial County Airport,41.0,KIPL 020053Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),41.0,KNJK 020056Z
+KNOZ,,41.0,KNOZ
+KL08,,41.0,KL08 020115Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 020040Z
+DAG  KDAG,Barstow Daggett Airport,40.0,KDAG 020050Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,40.0,KTRM 020052Z
+FAT  KFAT,Fresno Yosemite International Airport,40.0,KFAT 020053Z
+LAS  KLAS,McCarran International Airport,40.0,KLAS 020056Z
+KNID,China Lake Naws (Armitage Field) Airport,40.0,KNID 020056Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,40.0,KNLC 020056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,40.0,KNYL 020057Z
+BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 020115Z
+KHJO,Hanford Municipal Airport,39.0,KHJO 020053Z
+MAE  KMAE,Madera Municipal Airport,39.0,KMAE 020053Z
+VGT  KVGT,North Las Vegas Airport,39.0,KVGT 020053Z
+KNXP,Twentynine Palms (Self) Airport,39.0,KNXP 020054Z
+CIC  KCIC,Chico Municipal Airport,39.0,KCIC 020056Z
+KBVU,,39.0,KBVU 020115Z
+KDWA,Yolo County Davis Woodland Winters Airport,39.0,KDWA 020115Z
+FCH  KFCH,Fresno Chandler Executive Airport,39.0,KFCH 020115Z
+MHR  KMHR,Sacramento Mather Airport,39.0,KMHR 020115Z
+KO32,,39.0,KO32 020115Z
+DRA  KDRA,Desert Rock Airport,38.0,KDRA 020053Z
+MCE  KMCE,Merced Regional Macready Field,38.0,KMCE 020053Z
+MYV  KMYV,Yuba County Airport,38.0,KMYV 020053Z
+RDD  KRDD,Redding Municipal Airport,38.0,KRDD 020053Z
+SAC  KSAC,Sacramento Executive Airport,38.0,KSAC 020053Z
+KVCB,Nut Tree Airport,38.0,KVCB 020053Z
+BFL  KBFL,Meadows Field,38.0,KBFL 020054Z
+RBL  KRBL,Red Bluff Municipal Airport,38.0,KRBL 020054Z
+SCK  KSCK,Stockton Metropolitan Airport,38.0,KSCK 020055Z
+HSH  KHND,Henderson Executive Airport,38.0,KHND 020056Z
+PTV  KPTV,Porterville Municipal Airport,38.0,KPTV 020056Z
+SGU  KSGU,St George Municipal Airport,38.0,KSGU 020056Z
+VIS  KVIS,Visalia Municipal Airport,38.0,KVIS 020056Z
+KC83,,38.0,KC83 020115Z
+KEDU,University Airport,38.0,KEDU 020115Z
+MCC  KMCC,Mc Clellan Airfield,38.0,KMCC 020115Z
+MOD  KMOD,Modesto City Co-Harry Sham Field,37.0,KMOD 020053Z
+OVE  KOVE,Oroville Municipal Airport,37.0,KOVE 020053Z
+SMF  KSMF,Sacramento International Airport,37.0,KSMF 020053Z
+KO22,,37.0,KO22 020055Z
