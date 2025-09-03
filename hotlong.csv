@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KGEU,Glendale Municipal Airport,41.0,KGEU 020047Z
-GYR  KGYR,Phoenix Goodyear Airport,41.0,KGYR 020047Z
-IPL  KIPL,Imperial County Airport,41.0,KIPL 020053Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),41.0,KNJK 020056Z
-KNOZ,,41.0,KNOZ
-KL08,,41.0,KL08 020115Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,40.0,MMML 020040Z
-DAG  KDAG,Barstow Daggett Airport,40.0,KDAG 020050Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,40.0,KTRM 020052Z
-FAT  KFAT,Fresno Yosemite International Airport,40.0,KFAT 020053Z
-LAS  KLAS,McCarran International Airport,40.0,KLAS 020056Z
-KNID,China Lake Naws (Armitage Field) Airport,40.0,KNID 020056Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,40.0,KNLC 020056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,40.0,KNYL 020057Z
-BXK  KBXK,Buckeye Municipal Airport,40.0,KBXK 020115Z
-KHJO,Hanford Municipal Airport,39.0,KHJO 020053Z
-MAE  KMAE,Madera Municipal Airport,39.0,KMAE 020053Z
-VGT  KVGT,North Las Vegas Airport,39.0,KVGT 020053Z
-KNXP,Twentynine Palms (Self) Airport,39.0,KNXP 020054Z
-CIC  KCIC,Chico Municipal Airport,39.0,KCIC 020056Z
-KBVU,,39.0,KBVU 020115Z
-KDWA,Yolo County Davis Woodland Winters Airport,39.0,KDWA 020115Z
-FCH  KFCH,Fresno Chandler Executive Airport,39.0,KFCH 020115Z
-MHR  KMHR,Sacramento Mather Airport,39.0,KMHR 020115Z
-KO32,,39.0,KO32 020115Z
-DRA  KDRA,Desert Rock Airport,38.0,KDRA 020053Z
-MCE  KMCE,Merced Regional Macready Field,38.0,KMCE 020053Z
-MYV  KMYV,Yuba County Airport,38.0,KMYV 020053Z
-RDD  KRDD,Redding Municipal Airport,38.0,KRDD 020053Z
-SAC  KSAC,Sacramento Executive Airport,38.0,KSAC 020053Z
-KVCB,Nut Tree Airport,38.0,KVCB 020053Z
-BFL  KBFL,Meadows Field,38.0,KBFL 020054Z
-RBL  KRBL,Red Bluff Municipal Airport,38.0,KRBL 020054Z
-SCK  KSCK,Stockton Metropolitan Airport,38.0,KSCK 020055Z
-HSH  KHND,Henderson Executive Airport,38.0,KHND 020056Z
-PTV  KPTV,Porterville Municipal Airport,38.0,KPTV 020056Z
-SGU  KSGU,St George Municipal Airport,38.0,KSGU 020056Z
-VIS  KVIS,Visalia Municipal Airport,38.0,KVIS 020056Z
-KC83,,38.0,KC83 020115Z
-KEDU,University Airport,38.0,KEDU 020115Z
-MCC  KMCC,Mc Clellan Airfield,38.0,KMCC 020115Z
-MOD  KMOD,Modesto City Co-Harry Sham Field,37.0,KMOD 020053Z
-OVE  KOVE,Oroville Municipal Airport,37.0,KOVE 020053Z
-SMF  KSMF,Sacramento International Airport,37.0,KSMF 020053Z
-KO22,,37.0,KO22 020055Z
+DLS  KDLS,Columbia Gorge Regional the Dalles Municipal Airport,38.0,KDLS 030053Z
+FAT  KFAT,Fresno Yosemite International Airport,38.0,KFAT 030053Z
+RDD  KRDD,Redding Municipal Airport,38.0,KRDD 030053Z
+SFF  KSFF,Felts Field,38.0,KSFF 030053Z
+BFL  KBFL,Meadows Field,38.0,KBFL 030054Z
+RBL  KRBL,Red Bluff Municipal Airport,38.0,KRBL 030054Z
+CYDC,Princeton Airport,38.0,CYDC 030100Z
+KDEW,Deer Park Airport,37.0,KDEW 030053Z
+MAE  KMAE,Madera Municipal Airport,37.0,KMAE 030053Z
+OMK  KOMK,Omak Airport,37.0,KOMK 030053Z
+K3W7,,37.0,K3W7 030055Z
+COE  KCOE,Coeur D'Alene - Pappy Boyington Field,37.0,KCOE 030056Z
+LWS  KLWS,Lewiston Nez Perce County Airport,37.0,KLWS 030056Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,37.0,KNLC 030056Z
+CWPR,,37.0,CWPR 030100Z
+IFP  KIFP,Laughlin Bullhead International Airport,36.0,KIFP 030047Z
+KS52,,36.0,KS52 030050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,36.0,KPHX 030051Z
+SBD  KSBD,San Bernardino International Airport,36.0,KSBD 030052Z
+ALW  KALW,Walla Walla Regional Airport,36.0,KALW 030053Z
+GEG  KGEG,Spokane International Airport,36.0,KGEG 030053Z
+HES  KHRI,Hermiston Municipal Airport,36.0,KHRI 030053Z
+OVE  KOVE,Oroville Municipal Airport,36.0,KOVE 030053Z
+PSC  KPSC,Tri Cities Airport,36.0,KPSC 030053Z
+SCF  KSDL,Scottsdale Airport,36.0,KSDL 030053Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,36.0,KTUS 030053Z
+MSC  KFFZ,Falcon Field,36.0,KFFZ
+K63S,,36.0,K63S 030055Z
+K9S9,,36.0,K9S9 030055Z
+KBDN,Bend Municipal Airport,36.0,KBDN 030055Z
+HII  KHII,Lake Havasu City Airport,36.0,KHII 030055Z
+KS34,,36.0,KS34 030055Z
+CWLY,,36.0,CWLY 030100Z
+WHP  KWHP,Whiteman Airport,36.0,KWHP 030100Z
+GNG  KGNG,Gooding Municipal Airport,35.0,KGNG 030030Z
+BLH  KBLH,Blythe Airport,35.0,KBLH 030052Z
+MWH  KMWH,Grant County International Airport,35.0,KMWH 030052Z
+BOI  KBOI,Boise Air Terminal/Gowen Field,35.0,KBOI 030053Z
+COT  KCOT,Cotulla-La Salle County Airport,35.0,KCOT 030053Z
+DRT  KDRT,Del Rio International Airport,35.0,KDRT 030053Z
+ELN  KELN,Bowers Field,35.0,KELN 030053Z
+EPH  KEPH,Ephrata Municipal Airport,35.0,KEPH 030053Z
+MCE  KMCE,Merced Regional Macready Field,35.0,KMCE 030053Z
+MFR  KMFR,Rogue Valley International Medford Airport,35.0,KMFR 030053Z
+MYV  KMYV,Yuba County Airport,35.0,KMYV 030053Z
