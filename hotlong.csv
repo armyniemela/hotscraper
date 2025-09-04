@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OKAS,Ali Al Salem Air Base,44.0,OKAS 031155Z
-HOF  OEAH,Al Ahsa Airport,44.0,OEAH 031200Z
-OEKJ,,44.0,OEKJ 031200Z
-WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 031200Z
-MRX  OIAM,Mahshahr Airport,44.0,OIAM 031200Z
-BSR  ORMM,Basrah International Airport,44.0,ORMM 031200Z
-NJF  ORNI,Al Najaf International Airport,44.0,ORNI 031200Z
-KQTZ,,43.0,KQTZ
-XJD  OTBH,Al Udeid Air Base,43.0,OTBH 031155Z
-TMX  DAUT,Timimoun Airport,43.0,DAUT 031200Z
-HLUB,,43.0,HLUB 031200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 031200Z
-IHR  OIZI,Iran Shahr Airport,43.0,OIZ
-AAN  OMAL,Al Ain International Airport,43.0,OMAL 031200Z
-BMW  DATM,Bordj Badji Mokhtar Airport,42.0,DATM 031200Z
-OEMN,,42.0,OEMN 031200Z
-RUH  OERK,King Khaled International Airport,42.0,OERK 031200Z
-SHW  OESH,Sharurah Airport,42.0,OESH 031200Z
-BGW  ORBI,Baghdad International Airport,42.0,ORBI 031200Z
-ASW  HESN,Aswan International Airport,41.0,HESN 031200Z
-DMM  OEDF,King Fahd International Airport,41.0,OEDF 031200Z
-ELQ  OEGS,Gassim Airport,41.0,OEGS 031200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,41.0,OEMA 031200Z
-KIK  ORKK,Kirkuk Air Base,41.0,ORKK 031200Z
-GXF  OYSY,Sayun International Airport,41.0,OYSY 031200Z
-DWC  OMDW,Al Maktoum International Airport,41.0,OMDW 031230Z
-SXZ  LTCL,Siirt Airport,40.0,LTCL 031150Z
-ABS  HEBL,Abu Simbel Airport,40.0,HEBL 031200Z
-OEAO,,40.0,OEAO 031200Z
-JED  OEJN,King Abdulaziz International Airport,40.0,OEJN 031200Z
-RAH  OERF,Rafha Domestic Airport,40.0,OERF 031200Z
-RAE  OERR,Arar Domestic Airport,40.0,OERR 031200Z
-PGU  OIBP,Persian Gulf International Airport,40.0,OIBP 031200Z
-AUH  OMAA,Abu Dhabi International Airport,40.0,OMAA 031200Z
-EBL  ORER,Erbil International Airport,40.0,ORER 031200Z
-ISU  ORSU,Sulaymaniyah International Airport,40.0,ORSU 031200Z
-BAL  LTCJ,Batman Airport,40.0,LTCJ 031220Z
-DXB  OMDB,Dubai International Airport,40.0,OMDB 031230Z
-MQM  LTCR,Mardin Airport,39.0,LTCR 031150Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,39.0,LTCV 031150Z
-ELG  DAUE,El Golea Airport,39.0,DAUE 031200Z
-HME  DAUH,Oued Irara Airport,39.0,DAUH 031200Z
-OGX  DAUU,Ain el Beida Airport,39.0,DAUU 031200Z
-HDS  FAHS,Hoedspruit Air Force Base Airport,39.0,FAHS 031200Z
-LXR  HELX,Luxor International Airport,39.0,HELX 031200Z
+KCHD,Chandler Municipal Airport,38.0,KCHD 040047Z
+GYR  KGYR,Phoenix Goodyear Airport,38.0,KGYR 040047Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 040048Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,38.0,KPHX 040051Z
+OMK  KOMK,Omak Airport,38.0,KOMK 040053Z
+RDD  KRDD,Redding Municipal Airport,38.0,KRDD 040053Z
+SCF  KSDL,Scottsdale Airport,38.0,KSDL 040053Z
+KA39,,38.0,KA39 040055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,KNJK 040056Z
+KS52,,37.0,KS52 040050Z
+FAT  KFAT,Fresno Yosemite International Airport,37.0,KFAT 040053Z
+KHJO,Hanford Municipal Airport,37.0,KHJO 040053Z
+MAE  KMAE,Madera Municipal Airport,37.0,KMAE 040053Z
+SFF  KSFF,Felts Field,37.0,KSFF 040053Z
+BFL  KBFL,Meadows Field,37.0,KBFL 040054Z
+MSC  KFFZ,Falcon Field,37.0,KFFZ
+BXK  KBXK,Buckeye Municipal Airport,37.0,KBXK 040055Z
+FCH  KFCH,Fresno Chandler Executive Airport,37.0,KFCH 040055Z
+KGXF,,37.0,KGXF 040055Z
+KL08,,37.0,KL08 040055Z
+KS34,,37.0,KS34 040055Z
+LRD  KLRD,Laredo International Airport,37.0,KLRD 040056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,37.0,KNYL 040057Z
+KNOZ,,37.0,KNOZ
+CWLY,,37.0,CWLY 040100Z
+YKA  CYKA,Kamloops Airport,37.0,CYKA 040100Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,36.0,KTRM 040052Z
+COT  KCOT,Cotulla-La Salle County Airport,36.0,KCOT 040053Z
+ELN  KELN,Bowers Field,36.0,KELN 040053Z
+GEG  KGEG,Spokane International Airport,36.0,KGEG 040053Z
+RBL  KRBL,Red Bluff Municipal Airport,36.0,KRBL 040054Z
+K3W7,,36.0,K3W7 040055Z
+KDWA,Yolo County Davis Woodland Winters Airport,36.0,KDWA 040055Z
+KO32,,36.0,KO32 040055Z
+KRLD,Richland Airport,36.0,KRLD 040055Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,36.0,KNLC 040056Z
+KAPY,Zapata County Airport,35.0,KAPY 040040Z
+LOV  MMMV,Monclova International Airport,35.0,MMMV 040041Z
+KRYN,Ryan Field,35.0,KRYN 040046Z
+CIC  KCIC,Chico Municipal Airport,35.0,KCIC 040050Z
+SBD  KSBD,San Bernardino International Airport,35.0,KSBD 040051Z
+MWH  KMWH,Grant County International Airport,35.0,KMWH 040052Z
+KDEW,Deer Park Airport,35.0,KDEW 040053Z
+DRT  KDRT,Del Rio International Airport,35.0,KDRT 040053Z
+EPH  KEPH,Ephrata Municipal Airport,35.0,KEPH 040053Z
