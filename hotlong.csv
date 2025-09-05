@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BFL  KBFL,Meadows Field,37.0,KBFL 050054Z
-LRD  KLRD,Laredo International Airport,37.0,KLRD 050056Z
-KNID,China Lake Naws (Armitage Field) Airport,37.0,KNID 050056Z
-TIN  DAOF,Tindouf Airport,37.0,DAOF 050100Z
-DAG  KDAG,Barstow Daggett Airport,36.0,KDAG 050050Z
-FWH  KNFW,NAS Fort Worth JRB/Carswell Field,36.0,KNFW 050052Z
-SBD  KSBD,San Bernardino International Airport,36.0,KSBD 050052Z
-FAT  KFAT,Fresno Yosemite International Airport,36.0,KFAT 050053Z
-KHJO,Hanford Municipal Airport,36.0,KHJO 050053Z
-PSP  KPSP,Palm Springs International Airport,36.0,KPSP 050053Z
-RDD  KRDD,Redding Municipal Airport,36.0,KRDD 050053Z
-K9L2,,36.0,K9L2 050055Z
-BYS  KBYS,Bicycle Lake Army Air Field,36.0,KBYS 050055Z
-LGF  KLGF,Laguna Army Airfield,36.0,KLGF 050055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),36.0,KNJK 050056Z
-NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,36.0,KNLC 050056Z
-PTV  KPTV,Porterville Municipal Airport,36.0,KPTV 050056Z
-VIS  KVIS,Visalia Municipal Airport,36.0,KVIS 050056Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,36.0,DAUA 050100Z
-NTR  MMAN,Del Norte International Airport,35.0,MMAN 050040Z
-MTY  MMMY,General Mariano Escobedo International Airport,35.0,MMMY 050040Z
-ADS  KADS,Addison Airport,35.0,KADS 050047Z
-KATT,,35.0,KATT 050051Z
-ABI  KABI,Abilene Regional Airport,35.0,KABI 050052Z
-DFW  KDFW,Dallas Fort Worth International Airport,35.0,KDFW 050053Z
-DLS  KDLS,Columbia Gorge Regional the Dalles Municipal Airport,35.0,KDLS 050053Z
-DRT  KDRT,Del Rio International Airport,35.0,KDRT 050053Z
-MFR  KMFR,Rogue Valley International Medford Airport,35.0,KMFR 050053Z
-OMK  KOMK,Omak Airport,35.0,KOMK 050053Z
-ONO  KONO,Ontario Municipal Airport,35.0,KONO 050053Z
-RBG  KRBG,Roseburg Regional Airport,35.0,KRBG 050053Z
-SFF  KSFF,Felts Field,35.0,KSFF 050053Z
-SSF  KSSF,Stinson Municipal Airport,35.0,KSSF 050053Z
-KNXP,Twentynine Palms (Self) Airport,35.0,KNXP 050054Z
-RBL  KRBL,Red Bluff Municipal Airport,35.0,KRBL 050054Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,35.0,MMML 050054Z
-EDW  KEDW,Edwards Air Force Base,35.0,KEDW 050055Z
-RND  KRND,Randolph Air Force Base,35.0,KRND 050055Z
-SKF  KSKF,Lackland Air Force Base,35.0,KSKF 050055Z
-KT70,,35.0,KT70 050055Z
-KGTU,Georgetown Municipal Airport,35.0,KGTU 050056Z
-LWS  KLWS,Lewiston Nez Perce County Airport,35.0,KLWS 050056Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,35.0,KNYL 050057Z
-CWLY,,35.0,CWLY 050100Z
-INZ  DAUI,In Salah Airport,35.0,DAUI 050100Z
+NJF  ORNI,Al Najaf International Airport,45.0,ORNI 051200Z
+OEMN,,44.0,OEMN 051200Z
+WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 051200Z
+MRX  OIAM,Mahshahr Airport,44.0,OIAM 051200Z
+AWZ  OIAW,Ahwaz Airport,44.0,OIAW 051200Z
+OKKK,,44.0,OKKK 051200Z
+ELQ  OEGS,Gassim Airport,43.0,OEGS 051200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 051200Z
+IHR  OIZI,Iran Shahr Airport,43.0,OIZ
+BGW  ORBI,Baghdad International Airport,43.0,ORBI 051200Z
+AAN  OMAL,Al Ain International Airport,43.0,OMAL 051210Z
+HME  DAUH,Oued Irara Airport,42.0,DAUH 051200Z
+TMX  DAUT,Timimoun Airport,42.0,DAUT 051200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 051200Z
+RAH  OERF,Rafha Domestic Airport,42.0,OERF 051200Z
+VVZ  DAAP,Illizi Takhamalt Airport,41.0,DAAP 051200Z
+TIN  DAOF,Tindouf Airport,41.0,DAOF 051200Z
+ELG  DAUE,El Golea Airport,41.0,DAUE 051200Z
+INZ  DAUI,In Salah Airport,41.0,DAUI 051200Z
+TGR  DAUK,Touggourt Sidi Madhi Airport,41.0,DAUK 051200Z
+OGX  DAUU,Ain el Beida Airport,41.0,DAUU 051200Z
+ASW  HESN,Aswan International Airport,41.0,HESN 051200Z
+OEAO,,41.0,OEAO 051200Z
+OEKJ,,41.0,OEKJ 051200Z
+RUH  OERK,King Khaled International Airport,41.0,OERK 051200Z
+OERS,,41.0,OERS 051200Z
+SHW  OESH,Sharurah Airport,41.0,OESH 051200Z
+AUH  OMAA,Abu Dhabi International Airport,41.0,OMAA 051200Z
+GXF  OYSY,Sayun International Airport,41.0,OYSY 051200Z
+XJD  OTBH,Al Udeid Air Base,40.0,OTBH 051155Z
+LXR  HELX,Luxor International Airport,40.0,HELX 051200Z
+HOF  OEAH,Al Ahsa Airport,40.0,OEAH 051200Z
+DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 051200Z
+JED  OEJN,King Abdulaziz International Airport,40.0,OEJN 051200Z
+RAE  OERR,Arar Domestic Airport,40.0,OERR 051200Z
+AJF  OESK,Al-Jawf Domestic Airport,40.0,OESK 051200Z
+GCH  OIAH,Gachsaran Airport,40.0,OIAH 051200Z
+LRR  OISL,Lar Airport,40.0,OISL 051200Z
+AZD  OIYY,Shahid Sadooghi Airport,40.0,OIYY 051200Z
+ACZ  OIZB,Zabol Airport,40.0,OIZ
+AQJ  OJAQ,Aqaba King Hussein International Airport,40.0,OJAQ 051200Z
+RKT  OMRK,Ras Al Khaimah International Airport,40.0,OMRK 051200Z
+KIK  ORKK,Kirkuk Air Base,40.0,ORKK 051200Z
+DXB  OMDB,Dubai International Airport,40.0,OMDB 051230Z
+DWC  OMDW,Al Maktoum International Airport,40.0,OMDW 051230Z
