@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OKAS,Ali Al Salem Air Base,45.0,OKAS 061155Z
-OEMN,,45.0,OEMN 061200Z
-MRX  OIAM,Mahshahr Airport,45.0,OIAM 061200Z
-NJF  ORNI,Al Najaf International Airport,45.0,ORNI 061200Z
-DMM  OEDF,King Fahd International Airport,44.0,OEDF 061200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,44.0,OEYN 061200Z
-KQTZ,,43.0,KQTZ
-HME  DAUH,Oued Irara Airport,43.0,DAUH 061200Z
-OGX  DAUU,Ain el Beida Airport,43.0,DAUU 061200Z
-HOF  OEAH,Al Ahsa Airport,43.0,OEAH 061200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 061200Z
-SHW  OESH,Sharurah Airport,43.0,OESH 061200Z
-IHR  OIZI,Iran Shahr Airport,43.0,OIZ
-BGW  ORBI,Baghdad International Airport,43.0,ORBI 061200Z
-XJD  OTBH,Al Udeid Air Base,42.0,OTBH 061155Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,42.0,DAUK 061200Z
-DHA  OEDR,King Abdulaziz Air Base,42.0,OEDR 061200Z
-ELQ  OEGS,Gassim Airport,42.0,OEGS 061200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 061200Z
-RAH  OERF,Rafha Domestic Airport,42.0,OERF 061200Z
-AJF  OESK,Al-Jawf Domestic Airport,42.0,OESK 061200Z
-WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 061200Z
-ACZ  OIZB,Zabol Airport,42.0,OIZ
-AUH  OMAA,Abu Dhabi International Airport,42.0,OMAA 061200Z
-AZI  OMAD,Bateen Airport,42.0,OMAD 061200Z
-AAN  OMAL,Al Ain International Airport,42.0,OMAL 061200Z
-DWC  OMDW,Al Maktoum International Airport,42.0,OMDW 061200Z
-KHS  OOKB,Khasab Air Base,41.0,OOKB 061150Z
-AKH  OEPS,Prince Sultan Air Base,41.0,OEPS 061155Z
-MUW  DAOV,Ghriss Airport,41.0,DAOV 061200Z
-OEAO,,41.0,OEAO 061200Z
-JED  OEJN,King Abdulaziz International Airport,41.0,OEJN 061200Z
-OEKJ,,41.0,OEKJ 061200Z
-RAE  OERR,Arar Domestic Airport,41.0,OERR 061200Z
-GCH  OIAH,Gachsaran Airport,41.0,OIAH 061200Z
-LRR  OISL,Lar Airport,41.0,OISL 061200Z
-GXF  OYSY,Sayun International Airport,41.0,OYSY 061200Z
-CFK  DAOI,Ech Cheliff Airport,40.0,DAOI 061200Z
-ELG  DAUE,El Golea Airport,40.0,DAUE 061200Z
-BEM  GMMD,Beni Mellal Airport,40.0,GMMD 061200Z
-RUH  OERK,King Khaled International Airport,40.0,OERK 061200Z
-OERS,,40.0,OERS 061200Z
-DXB  OMDB,Dubai International Airport,40.0,OMDB 061200Z
-RKT  OMRK,Ras Al Khaimah International Airport,40.0,OMRK 061200Z
-KIK  ORKK,Kirkuk Air Base,40.0,ORKK 061200Z
+LUF  KLUF,Luke Air Force Base,37.0,KLUF 070055Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),37.0,KNJK 070056Z
+BXK  KBXK,Buckeye Municipal Airport,37.0,KBXK 070115Z
+HII  KHII,Lake Havasu City Airport,37.0,KHII 070115Z
+KL08,,37.0,KL08 070115Z
+KCHD,Chandler Municipal Airport,36.0,KCHD 070047Z
+GYR  KGYR,Phoenix Goodyear Airport,36.0,KGYR 070047Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,36.0,MMML 070048Z
+DAG  KDAG,Barstow Daggett Airport,36.0,KDAG 070050Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,36.0,KPHX 070051Z
+DVT  KDVT,Phoenix Deer Valley Airport,36.0,KDVT 070053Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 070053Z
+KGXF,,36.0,KGXF 070055Z
+LGF  KLGF,Laguna Army Airfield,36.0,KLGF 070055Z
+INZ  DAUI,In Salah Airport,36.0,DAUI 070100Z
+SCF  KSDL,Scottsdale Airport,35.0,KSDL 070053Z
+MSC  KFFZ,Falcon Field,35.0,KFFZ
+KNXP,Twentynine Palms (Self) Airport,35.0,KNXP 070054Z
+BYS  KBYS,Bicycle Lake Army Air Field,35.0,KBYS 070055Z
+CGZ  KCGZ,Casa Grande Municipal Airport,35.0,KCGZ
+KNID,China Lake Naws (Armitage Field) Airport,35.0,KNID 070056Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,35.0,KNYL 070057Z
+KNOZ,,35.0,KNOZ
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,35.0,DAUA 070100Z
+BAH  OBBI,Bahrain International Airport,35.0,OBBI 070100Z
+OEMN,,35.0,OEMN 070100Z
+OKKK,,35.0,OKKK 070100Z
+DIA  OTBD,Doha International Airport,35.0,OTBD 070100Z
+KA39,,35.0,KA39 070115Z
+KP08,,35.0,KP08 070115Z
+KHS  OOKB,Khasab Air Base,34.0,OOKB 070050Z
+FAT  KFAT,Fresno Yosemite International Airport,34.0,KFAT 070053Z
+KHJO,Hanford Municipal Airport,34.0,KHJO 070053Z
+BFL  KBFL,Meadows Field,34.0,KBFL 070054Z
+LSV  KLSV,Nellis Air Force Base,34.0,KLSV 070055Z
+SBD  KSBD,San Bernardino International Airport,34.0,KSBD 070055Z
+PTV  KPTV,Porterville Municipal Airport,34.0,KPTV 070056Z
+VIS  KVIS,Visalia Municipal Airport,34.0,KVIS 070056Z
+TSA  RCSS,Taipei Songshan Airport,34.0,RCSS 070100Z
+AVW  KAVQ,Marana Regional Airport,34.0,KAVQ 070115Z
+FCH  KFCH,Fresno Chandler Executive Airport,34.0,KFCH 070115Z
+MZJ  KMZJ,Pinal Airpark,34.0,KMZ
+KRYN,Ryan Field,33.0,KRYN 070037Z
+LAP  MMLP,Manuel Márquez de León International Airport,33.0,MMLP 070040Z
+PQM  MMPQ,Palenque International Airport,33.0,MMPQ 070040Z
