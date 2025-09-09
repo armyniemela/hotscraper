@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ABD  OIAA,Abadan Airport,46.0,OIAA 081200Z
-AWZ  OIAW,Ahwaz Airport,46.0,OIAW 081200Z
-BSR  ORMM,Basrah International Airport,46.0,ORMM 081200Z
-OKAS,Ali Al Salem Air Base,46.0,OKAS 081201Z
-XJD  OTBH,Al Udeid Air Base,45.0,OTBH 081155Z
-DHA  OEDR,King Abdulaziz Air Base,45.0,OEDR 081200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,45.0,OEPA 081200Z
-LFM  OISR,Lamerd Airport,45.0,OISR 081200Z
-NJF  ORNI,Al Najaf International Airport,45.0,ORNI 081200Z
-KQTZ,,44.0,KQTZ
-INZ  DAUI,In Salah Airport,44.0,DAUI 081200Z
-RAH  OERF,Rafha Domestic Airport,44.0,OERF 081200Z
-BGW  ORBI,Baghdad International Airport,44.0,ORBI 081200Z
-HME  DAUH,Oued Irara Airport,43.0,DAUH 081200Z
-ELQ  OEGS,Gassim Airport,43.0,OEGS 081200Z
-OEKJ,,43.0,OEKJ 081200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 081200Z
-IHR  OIZI,Iran Shahr Airport,43.0,OIZ
-AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 081155Z
-RUH  OERK,King Khaled International Airport,42.0,OERK 081200Z
-WAE  OEWD,Wadi Al Dawasir Airport,42.0,OEWD 081200Z
-GCH  OIAH,Gachsaran Airport,42.0,OIAH 081200Z
-LRR  OISL,Lar Airport,42.0,OISL 081200Z
-ACZ  OIZB,Zabol Airport,42.0,OIZ
-AAN  OMAL,Al Ain International Airport,42.0,OMAL 081200Z
-KIK  ORKK,Kirkuk Air Base,42.0,ORKK 081200Z
-DOH  OTHH,Hamad International Airport,42.0,OTHH 081200Z
-BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 081200Z
-BAH  OBBI,Bahrain International Airport,41.0,OBBI 081200Z
-OEAO,,41.0,OEAO 081200Z
-OEMN,,41.0,OEMN 081200Z
-RAE  OERR,Arar Domestic Airport,41.0,OERR 081200Z
-SHW  OESH,Sharurah Airport,41.0,OESH 081200Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,40.0,DAUA 081200Z
-DWD  OEDM,King Salman Abdulaziz Airport,40.0,OEDM 081200Z
-HAS  OEHL,Ha'il Airport,40.0,OEHL 081200Z
-KNR  OIBJ,Jam Airport,40.0,OIBJ 081200Z
-EBL  ORER,Erbil International Airport,40.0,ORER 081200Z
-ELG  DAUE,El Golea Airport,39.0,DAUE 081200Z
-OGX  DAUU,Ain el Beida Airport,39.0,DAUU 081200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,39.0,OEYN 081200Z
-FAZ  OISF,Fasa Airport,39.0,OISF 081200Z
-AZD  OIYY,Shahid Sadooghi Airport,39.0,OIYY 081200Z
-DWC  OMDW,Al Maktoum International Airport,39.0,OMDW 081200Z
-GXF  OYSY,Sayun International Airport,39.0,OYSY 081200Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),40.0,KNJK 090056Z
+HII  KHII,Lake Havasu City Airport,40.0,KHII 090115Z
+KGEU,Glendale Municipal Airport,39.0,KGEU 090047Z
+GYR  KGYR,Phoenix Goodyear Airport,39.0,KGYR 090047Z
+PSP  KPSP,Palm Springs International Airport,39.0,KPSP 090053Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,38.0,MMHO 090040Z
+KCHD,Chandler Municipal Airport,38.0,KCHD 090047Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,38.0,KPHX 090051Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,38.0,KIWA 090052Z
+MSC  KFFZ,Falcon Field,38.0,KFFZ
+YUM  KNYL,Yuma MCAS/Yuma International Airport,38.0,KNYL 090057Z
+KNOZ,,38.0,KNOZ
+BXK  KBXK,Buckeye Municipal Airport,38.0,KBXK 090115Z
+DVT  KDVT,Phoenix Deer Valley Airport,37.0,KDVT 090053Z
+SCF  KSDL,Scottsdale Airport,37.0,KSDL 090053Z
+CGZ  KCGZ,Casa Grande Municipal Airport,37.0,KCGZ
+KA39,,37.0,KA39 090115Z
+KP08,,37.0,KP08 090115Z
+GYM  MMGM,General José María Yáñez International Airport,36.0,MMGM 090041Z
+KRYN,Ryan Field,36.0,KRYN 090045Z
+LSV  KLSV,Nellis Air Force Base,36.0,KLSV 090055Z
+AVW  KAVQ,Marana Regional Airport,36.0,KAVQ 090115Z
+KBVU,,36.0,KBVU 090115Z
+KL08,,36.0,KL08 090115Z
+MZJ  KMZJ,Pinal Airpark,36.0,KMZ
+DAG  KDAG,Barstow Daggett Airport,35.0,KDAG 090050Z
+SAD  KSAD,Safford Regional Airport,35.0,KSAD 090051Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,35.0,KTUS 090053Z
+VGT  KVGT,North Las Vegas Airport,35.0,KVGT 090053Z
+KNXP,Twentynine Palms (Self) Airport,35.0,KNXP 090054Z
+HSH  KHND,Henderson Executive Airport,35.0,KHND 090056Z
+LAS  KLAS,McCarran International Airport,35.0,KLAS 090056Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,35.0,OEMA 090100Z
+CEN  MMCN,Ciudad Obregón International Airport,34.0,MMCN 090040Z
+LTO  MMLT,Loreto International Airport,34.0,MMLT 090041Z
+LAP  MMLP,Manuel Márquez de León International Airport,34.0,MMLP 090043Z
+SGU  KSGU,St George Municipal Airport,34.0,KSGU 090056Z
+BAH  OBBI,Bahrain International Airport,34.0,OBBI 090100Z
+KE77,,34.0,KE77 090115Z
+KP52,,34.0,KP52 090115Z
+CJS  MMCS,Abraham González International Airport,33.0,MMCS 090040Z
+LMM  MMLM,Valle del Fuerte International Airport,33.0,MMLM 090040Z
+CUL  MMCL,Bachigualato Federal International Airport,33.0,MMCL 090046Z
+SJD  MMSD,Los Cabos International Airport,33.0,MMSD 090047Z
+ELP  KELP,El Paso International Airport,33.0,KELP 090051Z
