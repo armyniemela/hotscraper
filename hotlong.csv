@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AWZ  OIAW,Ahwaz Airport,45.0,OIAW 111200Z
-OKKK,,45.0,OKKK 111200Z
-BSR  ORMM,Basrah International Airport,45.0,ORMM 111200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,44.0,OEPA 111200Z
-WAE  OEWD,Wadi Al Dawasir Airport,44.0,OEWD 111200Z
-ACZ  OIZB,Zabol Airport,44.0,OIZ
-DMM  OEDF,King Fahd International Airport,43.0,OEDF 111200Z
-ELQ  OEGS,Gassim Airport,43.0,OEGS 111200Z
-OEKJ,,43.0,OEKJ 111200Z
-AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 111155Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 111200Z
-RUH  OERK,King Khaled International Airport,42.0,OERK 111200Z
-SHW  OESH,Sharurah Airport,42.0,OESH 111200Z
-AAN  OMAL,Al Ain International Airport,42.0,OMAL 111200Z
-XJD  OTBH,Al Udeid Air Base,41.0,OTBH 111155Z
-OEAO,,41.0,OEAO 111200Z
-DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 111200Z
-RAH  OERF,Rafha Domestic Airport,41.0,OERF 111200Z
-GCH  OIAH,Gachsaran Airport,41.0,OIAH 111200Z
-IHR  OIZI,Iran Shahr Airport,41.0,OIZ
-KQTZ,,40.0,KQTZ
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,40.0,DAUA 111200Z
-INZ  DAUI,In Salah Airport,40.0,DAUI 111200Z
-HAS  OEHL,Ha'il Airport,40.0,OEHL 111200Z
-OEMN,,40.0,OEMN 111200Z
-AZD  OIYY,Shahid Sadooghi Airport,40.0,OIYY 111200Z
-AUH  OMAA,Abu Dhabi International Airport,40.0,OMAA 111200Z
-GXF  OYSY,Sayun International Airport,40.0,OYSY 111200Z
-BMW  DATM,Bordj Badji Mokhtar Airport,39.0,DATM 111200Z
-DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 111200Z
-AJF  OESK,Al-Jawf Domestic Airport,39.0,OESK 111200Z
-KHK  OIBQ,Khark Island Airport,39.0,OIBQ 111200Z
-AFZ  OIMS,Sabzevar National Airport,39.0,OIMS 111200Z
-LRR  OISL,Lar Airport,39.0,OISL 111200Z
-BGW  ORBI,Baghdad International Airport,39.0,ORBI 111200Z
-DWC  OMDW,Al Maktoum International Airport,39.0,OMDW 111230Z
-BHH  OEBH,Bisha Airport,38.0,OEBH 111200Z
-EAM  OENG,Nejran Airport,38.0,OENG 111200Z
-RAE  OERR,Arar Domestic Airport,38.0,OERR 111200Z
-OIBH,Bastak Airport,38.0,OIBH 111200Z
-FAZ  OISF,Fasa Airport,38.0,OISF 111200Z
-RKT  OMRK,Ras Al Khaimah International Airport,38.0,OMRK 111200Z
-UTAE,,38.0,UTAE 111200Z
-MYP  UTAM,Mary Airport,38.0,UTAM 111200Z
-TMJ  UTST,Termez Airport,38.0,UTST 111200Z
+ELQ  OEGS,Gassim Airport,43.0,OEGS 121200Z
+OEKJ,,43.0,OEKJ 121200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,43.0,OEMA 121200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,43.0,OEPA 121200Z
+RUH  OERK,King Khaled International Airport,43.0,OERK 121200Z
+WAE  OEWD,Wadi Al Dawasir Airport,43.0,OEWD 121200Z
+ABD  OIAA,Abadan Airport,43.0,OIAA 121200Z
+AWZ  OIAW,Ahwaz Airport,43.0,OIAW 121200Z
+ACZ  OIZB,Zabol Airport,43.0,OIZ
+BSR  ORMM,Basrah International Airport,43.0,ORMM 121200Z
+AKH  OEPS,Prince Sultan Air Base,42.0,OEPS 121155Z
+OEAO,,42.0,OEAO 121200Z
+DMM  OEDF,King Fahd International Airport,42.0,OEDF 121200Z
+SHW  OESH,Sharurah Airport,42.0,OESH 121200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,41.0,DATM 121200Z
+DWD  OEDM,King Salman Abdulaziz Airport,41.0,OEDM 121200Z
+DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 121200Z
+OEMN,,41.0,OEMN 121200Z
+RAH  OERF,Rafha Domestic Airport,41.0,OERF 121200Z
+XJD  OTBH,Al Udeid Air Base,40.0,OTBH 121155Z
+RAE  OERR,Arar Domestic Airport,40.0,OERR 121200Z
+AJF  OESK,Al-Jawf Domestic Airport,40.0,OESK 121200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,40.0,OEYN 121200Z
+OIBH,Bastak Airport,40.0,OIBH 121200Z
+IHR  OIZI,Iran Shahr Airport,40.0,OIZ
+AAN  OMAL,Al Ain International Airport,40.0,OMAL 121200Z
+BGW  ORBI,Baghdad International Airport,40.0,ORBI 121200Z
+NJF  ORNI,Al Najaf International Airport,40.0,ORNI 121200Z
+GXF  OYSY,Sayun International Airport,40.0,OYSY 121200Z
+VVZ  DAAP,Illizi Takhamalt Airport,39.0,DAAP 121200Z
+HAS  OEHL,Ha'il Airport,39.0,OEHL 121200Z
+GCH  OIAH,Gachsaran Airport,39.0,OIAH 121200Z
+OICM,,39.0,OICM 121200Z
+AFZ  OIMS,Sabzevar National Airport,39.0,OIMS 121200Z
+LRR  OISL,Lar Airport,39.0,OISL 121200Z
+UTAE,,39.0,UTAE 121200Z
+TMJ  UTST,Termez Airport,39.0,UTST 121200Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,38.0,DAUA 121200Z
+INZ  DAUI,In Salah Airport,38.0,DAUI 121200Z
+ASW  HESN,Aswan International Airport,38.0,HESN 121200Z
+BHH  OEBH,Bisha Airport,38.0,OEBH 121200Z
+URY  OEGT,Gurayat Domestic Airport,38.0,OEGT 121200Z
+TUU  OETB,Tabuk Airport,38.0,OETB 121200Z
+KHK  OIBQ,Khark Island Airport,38.0,OIBQ 121200Z
+AZD  OIYY,Shahid Sadooghi Airport,38.0,OIYY 121200Z
