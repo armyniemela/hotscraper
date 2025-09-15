@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-HII  KHII,Lake Havasu City Airport,37.0,KHII 150115Z
-IFP  KIFP,Laughlin Bullhead International Airport,37.0,KIFP 150115Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,36.0,MMML 150040Z
-KCHD,Chandler Municipal Airport,36.0,KCHD 150047Z
-GYR  KGYR,Phoenix Goodyear Airport,36.0,KGYR 150047Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,36.0,KPHX 150051Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,36.0,KTRM 150052Z
-IPL  KIPL,Imperial County Airport,36.0,KIPL 150053Z
-LGF  KLGF,Laguna Army Airfield,36.0,KLGF 150055Z
-LUF  KLUF,Luke Air Force Base,36.0,KLUF 150055Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),36.0,KNJK 150056Z
-AZA  KIWA,Phoenix-Mesa-Gateway Airport,36.0,KIWA 150057Z
-YUM  KNYL,Yuma MCAS/Yuma International Airport,36.0,KNYL 150057Z
-OEMN,,36.0,OEMN 150100Z
-SCF  KSDL,Scottsdale Airport,35.0,KSDL 150053Z
-MSC  KFFZ,Falcon Field,35.0,KFFZ
-CGZ  KCGZ,Casa Grande Municipal Airport,35.0,KCGZ
-KNOZ,,35.0,KNOZ
-OEAO,,35.0,OEAO 150100Z
-LSV  KLSV,Nellis Air Force Base,35.0,KLSV 150103Z
-KA39,,35.0,KA39 150115Z
-BXK  KBXK,Buckeye Municipal Airport,35.0,KBXK 150115Z
-KL08,,35.0,KL08 150115Z
-KP08,,35.0,KP08 150115Z
-KRYN,Ryan Field,34.0,KRYN 150045Z
-DAG  KDAG,Barstow Daggett Airport,34.0,KDAG 150050Z
-DVT  KDVT,Phoenix Deer Valley Airport,34.0,KDVT 150053Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,34.0,KTUS 150053Z
-VGT  KVGT,North Las Vegas Airport,34.0,KVGT 150053Z
-DMA  KDMA,Davis Monthan Air Force Base,34.0,KDMA 150055Z
-LAS  KLAS,McCarran International Airport,34.0,KLAS 150056Z
-KNID,China Lake Naws (Armitage Field) Airport,34.0,KNID 150056Z
-JED  OEJN,King Abdulaziz International Airport,34.0,OEJN 150100Z
-AVW  KAVQ,Marana Regional Airport,34.0,KAVQ 150115Z
-KBVU,,34.0,KBVU 150115Z
-MZJ  KMZJ,Pinal Airpark,34.0,KMZ
-GYM  MMGM,General José María Yáñez International Airport,33.0,MMGM 150040Z
-NLD  MMNL,Quetzalcóatl International Airport,33.0,MMNL 150040Z
-CEN  MMCN,Ciudad Obregón International Airport,33.0,MMCN 150041Z
-KNXP,Twentynine Palms (Self) Airport,33.0,KNXP 150054Z
-K9L2,,33.0,K9L2 150055Z
-BYS  KBYS,Bicycle Lake Army Air Field,33.0,KBYS 150055Z
-EDW  KEDW,Edwards Air Force Base,33.0,KEDW 150055Z
-HSH  KHND,Henderson Executive Airport,33.0,KHND 150056Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,33.0,OEMA 150100Z
+OKAS,Ali Al Salem Air Base,42.0,OKAS 151155Z
+ASW  HESN,Aswan International Airport,42.0,HESN 151200Z
+DMM  OEDF,King Fahd International Airport,42.0,OEDF 151200Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 151200Z
+OERS,,42.0,OERS 151200Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,42.0,OEYN 151200Z
+MRX  OIAM,Mahshahr Airport,42.0,OIAM 151200Z
+NJF  ORNI,Al Najaf International Airport,42.0,ORNI 151200Z
+INZ  DAUI,In Salah Airport,41.0,DAUI 151200Z
+ABS  HEBL,Abu Simbel Airport,41.0,HEBL 151200Z
+HOF  OEAH,Al Ahsa Airport,41.0,OEAH 151200Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 151200Z
+RAH  OERF,Rafha Domestic Airport,41.0,OERF 151200Z
+IHR  OIZI,Iran Shahr Airport,41.0,OIZ
+BGW  ORBI,Baghdad International Airport,41.0,ORBI 151200Z
+AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 151155Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,40.0,DAUA 151200Z
+LXR  HELX,Luxor International Airport,40.0,HELX 151200Z
+ELQ  OEGS,Gassim Airport,40.0,OEGS 151200Z
+OEKJ,,40.0,OEKJ 151200Z
+RAE  OERR,Arar Domestic Airport,40.0,OERR 151200Z
+TUU  OETB,Tabuk Airport,40.0,OETB 151200Z
+LRR  OISL,Lar Airport,40.0,OISL 151200Z
+LFM  OISR,Lamerd Airport,40.0,OISR 151200Z
+VVZ  DAAP,Illizi Takhamalt Airport,39.0,DAAP 151200Z
+BMW  DATM,Bordj Badji Mokhtar Airport,39.0,DATM 151200Z
+ATR  GQPA,Atar International Airport,39.0,GQPA 151200Z
+RMF  HEMA,Marsa Alam International Airport,39.0,HEMA 151200Z
+DHA  OEDR,King Abdulaziz Air Base,39.0,OEDR 151200Z
+JED  OEJN,King Abdulaziz International Airport,39.0,OEJN 151200Z
+RUH  OERK,King Khaled International Airport,39.0,OERK 151200Z
+AJF  OESK,Al-Jawf Domestic Airport,39.0,OESK 151200Z
+KIK  ORKK,Kirkuk Air Base,39.0,ORKK 151200Z
+OGX  DAUU,Ain el Beida Airport,38.0,DAUU 151200Z
+AJY  DRZA,Mano Dayak International Airport,38.0,DRZ
+MPA  FYKM,Katima Mulilo Airport,38.0,FYKM 151200Z
+DWD  OEDM,King Salman Abdulaziz Airport,38.0,OEDM 151200Z
+URY  OEGT,Gurayat Domestic Airport,38.0,OEGT 151200Z
+HAS  OEHL,Ha'il Airport,38.0,OEHL 151200Z
+WAE  OEWD,Wadi Al Dawasir Airport,38.0,OEWD 151200Z
+GCH  OIAH,Gachsaran Airport,38.0,OIAH 151200Z
+AAN  OMAL,Al Ain International Airport,38.0,OMAL 151200Z
+EBL  ORER,Erbil International Airport,38.0,ORER 151200Z
+GXF  OYSY,Sayun International Airport,38.0,OYSY 151200Z
+GMAG,,38.0,GMAG 151215Z
