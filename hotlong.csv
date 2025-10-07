@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OKKK,,44.0,OKKK 161200Z
-BSR  ORMM,Basrah International Airport,44.0,ORMM 161200Z
-INZ  DAUI,In Salah Airport,43.0,DAUI 161200Z
-OEAO,,43.0,OEAO 161200Z
-RAE  OERR,Arar Domestic Airport,43.0,OERR 161200Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,43.0,OEYN 161200Z
-AWZ  OIAW,Ahwaz Airport,43.0,OIAW 161200Z
-NJF  ORNI,Al Najaf International Airport,43.0,ORNI 161200Z
-XJD  OTBH,Al Udeid Air Base,42.0,OTBH 161155Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,42.0,DAUA 161200Z
-HOF  OEAH,Al Ahsa Airport,42.0,OEAH 161200Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,42.0,OEMA 161200Z
-RAH  OERF,Rafha Domestic Airport,42.0,OERF 161200Z
-MRX  OIAM,Mahshahr Airport,42.0,OIAM 161200Z
-OICM,,42.0,OICM 161200Z
-LRR  OISL,Lar Airport,42.0,OISL 161200Z
-BGW  ORBI,Baghdad International Airport,42.0,ORBI 161200Z
-KQTZ,,41.0,KQTZ
-DMM  OEDF,King Fahd International Airport,41.0,OEDF 161200Z
-DHA  OEDR,King Abdulaziz Air Base,41.0,OEDR 161200Z
-ELQ  OEGS,Gassim Airport,41.0,OEGS 161200Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,OEPA 161200Z
-AJF  OESK,Al-Jawf Domestic Airport,41.0,OESK 161200Z
-AKH  OEPS,Prince Sultan Air Base,40.0,OEPS 161155Z
-TMX  DAUT,Timimoun Airport,40.0,DAUT 161200Z
-MPM  FQMA,Maputo Airport,40.0,FQMA 161200Z
-ABS  HEBL,Abu Simbel Airport,40.0,HEBL 161200Z
-OEKJ,,40.0,OEKJ 161200Z
-RUH  OERK,King Khaled International Airport,40.0,OERK 161200Z
-TUU  OETB,Tabuk Airport,40.0,OETB 161200Z
-WAE  OEWD,Wadi Al Dawasir Airport,40.0,OEWD 161200Z
-AAN  OMAL,Al Ain International Airport,40.0,OMAL 161200Z
-VVZ  DAAP,Illizi Takhamalt Airport,39.0,DAAP 161200Z
-HME  DAUH,Oued Irara Airport,39.0,DAUH 161200Z
-OGX  DAUU,Ain el Beida Airport,39.0,DAUU 161200Z
-ASW  HESN,Aswan International Airport,39.0,HESN 161200Z
-HAS  OEHL,Ha'il Airport,39.0,OEHL 161200Z
-GCH  OIAH,Gachsaran Airport,39.0,OIAH 161200Z
-KIK  ORKK,Kirkuk Air Base,39.0,ORKK 161200Z
-KHS  OOKB,Khasab Air Base,38.0,OOKB 161150Z
-ELG  DAUE,El Golea Airport,38.0,DAUE 161200Z
-HDS  FAHS,Hoedspruit Air Force Base Airport,38.0,FAHS 161200Z
-TET  FQTT,Chingozi Airport,38.0,FQTT 161200Z
-MPA  FYKM,Katima Mulilo Airport,38.0,FYKM 161200Z
-GAQ  GAGO,Gao Airport,38.0,GAGO 161200Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,33.0,METAR MMML 0Z
+GYM  MMGM,General José María Yáñez International Airport,33.0,METAR MMGM 0Z
+GYR  KGYR,Phoenix Goodyear Airport,33.0,METAR KGYR 0Z
+PSP  KPSP,Palm Springs International Airport,33.0,METAR KPSP 0Z
+IPL  KIPL,Imperial County Airport,33.0,METAR KIPL 0Z
+KGXF,,33.0,METAR KGXF 0Z
+TPE  RCTP,Taiwan Taoyuan International Airport,33.0,METAR RCTP 0Z
+KTR  YPTN,Tindal Airport,33.0,METAR YPTN 0Z
+KNX  YPKU,Kununurra Airport,33.0,METAR YPKU 0Z
+ISA  YBMA,Mount Isa Airport,33.0,METAR YBMA 0Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,32.0,METAR MMHO 0Z
+LAP  MMLP,Manuel Márquez de León International Airport,32.0,METAR MMLP 0Z
+KRYN,Ryan Field,32.0,METAR KRYN 0Z
+LOV  MMMV,Monclova International Airport,32.0,METAR MMMV 0Z
+KGEU,Glendale Municipal Airport,32.0,METAR KGEU 0Z
+KCHD,Chandler Municipal Airport,32.0,METAR KCHD 0Z
+AZA  KIWA,Phoenix-Mesa-Gateway Airport,32.0,METAR KIWA 0Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,32.0,METAR KPHX 0Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,32.0,METAR KTRM 0Z
+BLH  KBLH,Blythe Airport,32.0,METAR KBLH 0Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,32.0,METAR KTUS 0Z
+LUF  KLUF,Luke Air Force Base,32.0,METAR KLUF 0Z
+HII  KHII,Lake Havasu City Airport,32.0,METAR KHII 0Z
+LGF  KLGF,Laguna Army Airfield,32.0,METAR KLGF 0Z
+KFTN,,32.0,METAR KFTN 0Z
+LRD  KLRD,Laredo International Airport,32.0,METAR KLRD 0Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,METAR KNJK 0Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,32.0,METAR KNYL 0Z
+KNOZ,,32.0,METAR KNOZ
+MHX  NCMH,Manihiki Island Airport,32.0,METAR NCMH 0Z
+CGB  SBCY,Marechal Rondon Airport,32.0,METAR SBCY 0Z
+BAU  SBBU,Bauru Airport,32.0,METAR SBBU 0Z
+TNN  RCNN,Tainan Airport,32.0,METAR RCNN 0Z
+TSA  RCSS,Taipei Songshan Airport,32.0,METAR RCSS 0Z
+YAMB,RAAF Base Amberley,32.0,METAR YAMB 0Z
+NGB  ZSNB,Ningbo Lishe International Airport,32.0,METAR Z
+ASJ  RJKA,Amami Airport,32.0,METAR RJKA 0Z
+ROIG,Ishigaki Airport,32.0,METAR ROIG 0Z
+ADS  KADS,Addison Airport,31.0,METAR KADS 0Z
+HIR  AGGH,Honiara International Airport,31.0,METAR AGGH 0Z
+LMM  MMLM,Valle del Fuerte International Airport,31.0,METAR MMLM 0Z
+CUL  MMCL,Bachigualato Federal International Airport,31.0,METAR MMCL 0Z
+COT  KCOT,Cotulla-La Salle County Airport,31.0,METAR KCOT 0Z
+MFE  KMFE,Mc Allen Miller International Airport,31.0,METAR KMFE 0Z
+DRT  KDRT,Del Rio International Airport,31.0,METAR KDRT 0Z
