@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OKAS,Ali Al Salem Air Base,39.0,METAR OKAS 0Z
-AJY  DRZA,Mano Dayak International Airport,39.0,METAR DRZ
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,39.0,METAR OEYN 0Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,METAR OEPA 0Z
-AKW  OIAG,Aghajari Airport,39.0,METAR OIAG 0Z
-ASW  HESN,Aswan International Airport,38.0,METAR HESN 0Z
-AEH  FTTC,Abeche Airport,38.0,METAR FTTC 0Z
-ATR  GQPA,Atar International Airport,38.0,METAR GQPA 0Z
-AAN  OMAL,Al Ain International Airport,38.0,METAR OMAL 0Z
-DMM  OEDF,King Fahd International Airport,38.0,METAR OEDF 0Z
-HOF  OEAH,Al Ahsa Airport,38.0,METAR OEAH 0Z
-MPA  FYKM,Katima Mulilo Airport,37.0,METAR FYKM 0Z
-XJD  OTBH,Al Udeid Air Base,37.0,METAR OTBH 0Z
-VPE  FNGI,Ngjiva Pereira Airport,37.0,METAR FNGI 0Z
-OKKK,,37.0,METAR OKKK 0Z
-TOM  GATB,Timbuktu Airport,37.0,METAR GATB 0Z
-NJF  ORNI,Al Najaf International Airport,37.0,METAR ORNI 0Z
-AUH  OMAA,Abu Dhabi International Airport,37.0,METAR OMAA 0Z
-ELQ  OEGS,Gassim Airport,37.0,METAR OEGS 0Z
-OEAO,,37.0,METAR OEAO 0Z
-OERS,,37.0,METAR OERS 0Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,37.0,METAR OEMA 0Z
-NDU  FYRU,Rundu Airport,37.0,METAR FYRU 0Z
-MRX  OIAM,Mahshahr Airport,37.0,METAR OIAM 0Z
-FFA  KFFA,First Flight Airport,37.0,METAR KFFA 0Z
-SSH  HESH,Sharm El Sheikh International Airport,36.0,METAR HESH 0Z
-LXR  HELX,Luxor International Airport,36.0,METAR HELX 0Z
-KQTZ,,36.0,METAR KQTZ
-NIM  DRRN,Diori Hamani International Airport,36.0,METAR DRRN 0Z
-OEKJ,,36.0,METAR OEKJ 0Z
-JED  OEJN,King Abdulaziz International Airport,36.0,METAR OEJN 0Z
-SHW  OESH,Sharurah Airport,36.0,METAR OESH 0Z
-RUH  OERK,King Khaled International Airport,36.0,METAR OERK 0Z
-BGW  ORBI,Baghdad International Airport,36.0,METAR ORBI 0Z
-MFU  FLMF,Mfuwe Airport,36.0,METAR FLMF 0Z
-WJR  HKWJ,Wajir Airport,36.0,METAR HKWJ 0Z
-KAB  FVKB,Kariba International Airport,36.0,METAR FVKB 0Z
-IHR  OIZI,Iran Shahr Airport,36.0,METAR OIZ
-ABS  HEBL,Abu Simbel Airport,35.0,METAR HEBL 0Z
-RMF  HEMA,Marsa Alam International Airport,35.0,METAR HEMA 0Z
-OOAD,,35.0,METAR OOAD 0Z
-AKH  OEPS,Prince Sultan Air Base,35.0,METAR OEPS 0Z
-TET  FQTT,Chingozi Airport,35.0,METAR FQTT 0Z
-ZND  DRZR,Zinder Airport,35.0,METAR DRZ
-GAS  HKGA,Garissa Airport,35.0,METAR HKGA 0Z
+LGF  KLGF,Laguna Army Airfield,33.0,METAR KLGF 1Z
+KQOS,,33.0,METAR KQOS 1Z
+KNOZ,,33.0,METAR KNOZ
+HII  KHII,Lake Havasu City Airport,33.0,METAR KHII 1Z
+GYM  MMGM,General José María Yáñez International Airport,32.0,METAR MMGM 1Z
+KRYN,Ryan Field,32.0,METAR KRYN 1Z
+EED  KEED,Needles Airport,32.0,METAR KEED 1Z
+YUM  KNYL,Yuma MCAS/Yuma International Airport,32.0,METAR KNYL 1Z
+FUN  NGFU,Funafuti International Airport,32.0,METAR NGFU 1Z
+TPE  RCTP,Taiwan Taoyuan International Airport,32.0,METAR RCTP 1Z
+NVA  SKNV,Benito Salas Airport,32.0,METAR SKNV 1Z
+TNN  RCNN,Tainan Airport,32.0,METAR RCNN 1Z
+TSA  RCSS,Taipei Songshan Airport,32.0,METAR RCSS 1Z
+DRW  YPDN,Darwin International Airport,32.0,METAR YPDN 1Z
+KTR  YPTN,Tindal Airport,32.0,METAR YPTN 1Z
+ASJ  RJKA,Amami Airport,32.0,METAR RJKA 1Z
+RNJ  RORY,Yoron Airport,32.0,METAR RORY 1Z
+SHI  RORS,Shimojishima Airport,32.0,METAR RORS 1Z
+LAP  MMLP,Manuel Márquez de León International Airport,31.0,METAR MMLP 1Z
+CEN  MMCN,Ciudad Obregón International Airport,31.0,METAR MMCN 1Z
+LTO  MMLT,Loreto International Airport,31.0,METAR MMLT 1Z
+CUL  MMCL,Bachigualato Federal International Airport,31.0,METAR MMCL 1Z
+PTTP,,31.0,METAR PTTP 1Z
+PSP  KPSP,Palm Springs International Airport,31.0,METAR KPSP 1Z
+COT  KCOT,Cotulla-La Salle County Airport,31.0,METAR KCOT 1Z
+SSF  KSSF,Stinson Municipal Airport,31.0,METAR KSSF 1Z
+AWK  PWAK,Wake Island Airfield,31.0,METAR PWAK 1Z
+SKF  KSKF,Lackland Air Force Base,31.0,METAR KSKF 1Z
+TRW  NGTA,Bonriki International Airport,31.0,METAR NGTA 1Z
+OEMN,,31.0,METAR OEMN 1Z
+KHH  RCKH,Kaohsiung International Airport,31.0,METAR RCKH 1Z
+APW  NSFA,Faleolo International Airport,31.0,METAR NSFA 1Z
+MKQ  WAKK,Mopah Airport,31.0,METAR WAKK 1Z
+KOE  WATT,El Tari Airport,31.0,METAR WATT 1Z
+DJJ  WAJJ,Sentani International Airport,31.0,METAR WAJJ 1Z
+CSX  ZGHA,Changsha Huanghua International Airport,31.0,METAR Z
+GOV  YPGV,Gove Airport,31.0,METAR YPGV 1Z
+OKE  RJKB,Okierabu Airport,31.0,METAR RJKB 1Z
+TRA  RORT,Tarama Airport,31.0,METAR RORT 1Z
+OGN  ROYN,Yonaguni Airport,31.0,METAR ROYN 1Z
+ROIG,Ishigaki Airport,31.0,METAR ROIG 1Z
+DMA  KDMA,Davis Monthan Air Force Base,31.0,SPECI KDMA 1Z
+LMM  MMLM,Valle del Fuerte International Airport,30.0,METAR MMLM 1Z
+PVR  MMPR,Licenciado Gustavo Díaz Ordaz International Airport,30.0,METAR MMPR 1Z
+KHS  OOKB,Khasab Air Base,30.0,METAR OOKB 1Z
