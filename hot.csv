@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,36.0,METAR YBMA 1Z
-KNX  YPKU,Kununurra Airport,34.0,METAR YPKU 1Z
-DCN  YCIN,RAAF Base Curtin,33.0,METAR YCIN 1Z
-BME  YBRM,Broome International Airport,33.0,METAR YBRM 1Z
-KHS  OOKB,Khasab Air Base,32.0,METAR OOKB 1Z
+OEMN,,40.0,METAR OEMN 1Z
+AKW  OIAG,Aghajari Airport,39.0,METAR OIAG 1Z
+BMW  DATM,Bordj Badji Mokhtar Airport,39.0,METAR DATM 1Z
+AWZ  OIAW,Ahwaz Airport,38.0,METAR OIAW 1Z
+MRX  OIAM,Mahshahr Airport,38.0,METAR OIAM 1Z
