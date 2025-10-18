@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OEMN,,39.0,METAR OEMN 1Z
-OKAS,Ali Al Salem Air Base,38.0,METAR OKAS 1Z
-HOF  OEAH,Al Ahsa Airport,38.0,METAR OEAH 1Z
-ABS  HEBL,Abu Simbel Airport,38.0,METAR HEBL 1Z
-AEH  FTTC,Abeche Airport,38.0,METAR FTTC 1Z
-OKKK,,38.0,METAR OKKK 1Z
-BMW  DATM,Bordj Badji Mokhtar Airport,38.0,METAR DATM 1Z
-ABD  OIAA,Abadan Airport,38.0,METAR OIAA 1Z
-BBK  FBKE,Kasane Airport,38.0,METAR FBKE 1Z
-MUB  FBMN,Maun Airport,38.0,METAR FBMN 1Z
-XJD  OTBH,Al Udeid Air Base,37.0,METAR OTBH 1Z
-OEAO,,37.0,METAR OEAO 1Z
-DMM  OEDF,King Fahd International Airport,37.0,METAR OEDF 1Z
-LXR  HELX,Luxor International Airport,37.0,METAR HELX 1Z
-AJY  DRZA,Mano Dayak International Airport,37.0,METAR DRZ
-NIX  GANR,Nioro du Sahel Airport,37.0,METAR GANR 1Z
-NDJ  FTTJ,N'Djamena International Airport,37.0,METAR FTTJ 1Z
-ATR  GQPA,Atar International Airport,37.0,METAR GQPA 1Z
-MRX  OIAM,Mahshahr Airport,37.0,METAR OIAM 1Z
-NJF  ORNI,Al Najaf International Airport,37.0,METAR ORNI 1Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,37.0,METAR OEYN 1Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,36.0,METAR OEPA 1Z
-AAN  OMAL,Al Ain International Airport,36.0,METAR OMAL 1Z
-THZ  DRRT,Tahoua Airport,36.0,METAR DRRT 1Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,36.0,METAR OEMA 1Z
-BGW  ORBI,Baghdad International Airport,36.0,METAR ORBI 1Z
-ZND  DRZR,Zinder Airport,36.0,METAR DRZ
-NIM  DRRN,Diori Hamani International Airport,36.0,METAR DRRN 1Z
-MFQ  DRRM,Maradi Airport,36.0,METAR DRRM 1Z
-GFY  FYGF,Grootfontein Airport,36.0,METAR FYGF 1Z
-IHR  OIZI,Iran Shahr Airport,36.0,METAR OIZ
-VFA  FVFA,Victoria Falls International Airport,36.0,METAR FVFA 1Z
-OERS,,36.0,METAR OERS 1Z
-RAH  OERF,Rafha Domestic Airport,36.0,METAR OERF 1Z
-GIZ  OEGN,Jizan Regional Airport,35.0,METAR OEGN 1Z
-DHA  OEDR,King Abdulaziz Air Base,35.0,METAR OEDR 1Z
-BDQ  VABO,Vadodara Airport,35.0,METAR VABO 1Z
-VPE  FNGI,Ngjiva Pereira Airport,35.0,METAR FNGI 1Z
-GAS  HKGA,Garissa Airport,35.0,METAR HKGA 1Z
-UTN  FAUP,Pierre Van Ryneveld Airport,35.0,METAR FAUP 1Z
-WAE  OEWD,Wadi Al Dawasir Airport,35.0,METAR OEWD 1Z
-TUU  OETB,Tabuk Airport,35.0,METAR OETB 1Z
-AJF  OESK,Al-Jawf Domestic Airport,35.0,METAR OESK 1Z
-RAE  OERR,Arar Domestic Airport,35.0,METAR OERR 1Z
-AKH  OEPS,Prince Sultan Air Base,34.0,METAR OEPS 1Z
+DCN  YCIN,RAAF Base Curtin,34.0,METAR YCIN 1Z
+TPE  RCTP,Taiwan Taoyuan International Airport,33.0,METAR RCTP 1Z
+OEMN,,33.0,METAR OEMN 1Z
+KNX  YPKU,Kununurra Airport,33.0,METAR YPKU 1Z
+BME  YBRM,Broome International Airport,33.0,METAR YBRM 1Z
+PTTP,,32.0,METAR PTTP 1Z
+KSA  PTSA,Kosrae International Airport,32.0,METAR PTSA 1Z
+MKQ  WAKK,Mopah Airport,32.0,METAR WAKK 1Z
+TRW  NGTA,Bonriki International Airport,32.0,METAR NGTA 1Z
+MDC  WAMM,Sam Ratulangi Airport,32.0,METAR WAMM 1Z
+POM  AYPY,Port Moresby Jacksons International Airport,32.0,METAR AYPY 1Z
+DRW  YPDN,Darwin International Airport,32.0,METAR YPDN 1Z
+LAO  RPLI,Laoag International Airport,32.0,METAR RPLI 1Z
+ROIG,Ishigaki Airport,32.0,METAR ROIG 1Z
+NOU  NWWW,La Tontouta International Airport,32.0,METAR NWWW 1Z
+RMQ  RCMQ,Taichung Ching Chuang Kang Airport,32.0,SPECI RCMQ 1Z
+REX  MMRX,General Lucio Blanco International Airport,31.0,METAR MMRX 1Z
+MAX  GOSM,Ouro Sogui Airport,31.0,METAR GOSM 1Z
+CEN  MMCN,Ciudad Obregón International Airport,31.0,METAR MMCN 1Z
+ROR  PTRO,Babelthuap Airport,31.0,METAR PTRO 1Z
+DNA  RODN,Kadena Air Base,31.0,METAR RODN 1Z
+PNI  PTPN,Pohnpei International Airport,31.0,METAR PTPN 1Z
+THE  SBTE,Senador Petrônio Portela Airport,31.0,METAR SBTE 1Z
+KHH  RCKH,Kaohsiung International Airport,31.0,METAR RCKH 1Z
+HKG  VHHH,Hong Kong International Airport,31.0,METAR VHHH 1Z
+OKA  ROAH,Naha Airport,31.0,METAR ROAH 1Z
+DJJ  WAJJ,Sentani International Airport,31.0,METAR WAJJ 1Z
+WAHS,,31.0,METAR WAHS 1Z
+HID  YHID,Horn Island Airport,31.0,METAR YHID 1Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,METAR WAPP 1Z
+HIR  AGGH,Honiara International Airport,31.0,METAR AGGH 1Z
+LBS  NFNL,Labasa Airport,31.0,METAR NFNL 1Z
+SUB  WARR,Juanda International Airport,31.0,METAR WARR 1Z
+TSA  RCSS,Taipei Songshan Airport,31.0,METAR RCSS 1Z
+TNN  RCNN,Tainan Airport,31.0,METAR RCNN 1Z
+TTT  RCFN,Taitung Airport,31.0,METAR RCFN 1Z
+UPG  WAAA,Hasanuddin International Airport,31.0,METAR WAAA 1Z
+BIK  WABB,Frans Kaisiepo Airport,31.0,METAR WABB 1Z
+MMY  ROMY,Miyako Airport,31.0,METAR ROMY 1Z
+KTD  RORK,Kitadaito Airport,31.0,METAR RORK 1Z
+SHI  RORS,Shimojishima Airport,31.0,METAR RORS 1Z
+RNJ  RORY,Yoron Airport,31.0,METAR RORY 1Z
+OGN  ROYN,Yonaguni Airport,31.0,METAR ROYN 1Z
+TRA  RORT,Tarama Airport,31.0,METAR RORT 1Z
+SZX  ZGSZ,Shenzhen Bao'an International Airport,31.0,METAR Z
