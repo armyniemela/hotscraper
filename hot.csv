@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,39.0,METAR YBMA 2Z
-KNX  YPKU,Kununurra Airport,35.0,METAR YPKU 2Z
-ASP  YBAS,Alice Springs Airport,34.0,METAR YBAS 2Z
-KTR  YPTN,Tindal Airport,33.0,METAR YPTN 2Z
-ROK  YBRK,Rockhampton Airport,33.0,METAR YBRK 2Z
+TET  FQTT,Chingozi Airport,41.0,METAR FQTT 2Z
+KAB  FVKB,Kariba International Airport,40.0,METAR FVKB 2Z
+ATR  GQPA,Atar International Airport,39.0,METAR GQPA 2Z
+AEH  FTTC,Abeche Airport,39.0,METAR FTTC 2Z
+NDJ  FTTJ,N'Djamena International Airport,39.0,METAR FTTJ 2Z
