@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MAX  GOSM,Ouro Sogui Airport,39.0,METAR GOSM 2Z
-GOOG,,39.0,METAR GOOG 2Z
-EMN  GQNI,Néma Airport,39.0,METAR GQNI 2Z
-SKO  DNSO,Sadiq Abubakar III International Airport,39.0,METAR DNSO 2Z
-NIM  DRRN,Diori Hamani International Airport,39.0,METAR DRRN 2Z
-TET  FQTT,Chingozi Airport,39.0,METAR FQTT 2Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,38.0,METAR OEYN 2Z
-NDJ  FTTJ,N'Djamena International Airport,38.0,METAR FTTJ 2Z
-DRZF,Diffa Airport,38.0,METAR DRZ
-ZND  DRZR,Zinder Airport,38.0,METAR DRZ
-THZ  DRRT,Tahoua Airport,38.0,METAR DRRT 2Z
-TOM  GATB,Timbuktu Airport,38.0,METAR GATB 2Z
-POD  GOSP,Podor Airport,37.0,METAR GOSP 2Z
-ASW  HESN,Aswan International Airport,37.0,METAR HESN 2Z
-OUA  DFFD,Ouagadougou Airport,37.0,METAR DFFD 2Z
-AJY  DRZA,Mano Dayak International Airport,37.0,METAR DRZ
-MFQ  DRRM,Maradi Airport,37.0,METAR DRRM 2Z
-BKO  GABS,Modibo Keita International Airport,37.0,METAR GABS 2Z
-OOAD,,36.0,METAR OOAD 2Z
-OEMN,,36.0,METAR OEMN 2Z
-LFM  OISR,Lamerd Airport,36.0,METAR OISR 2Z
-IHR  OIZI,Iran Shahr Airport,36.0,METAR OIZ
-LOK  HKLO,Lodwar Airport,36.0,METAR HKLO 2Z
-GAS  HKGA,Garissa Airport,36.0,METAR HKGA 2Z
-GOOD,,35.0,METAR GOOD 2Z
-LXR  HELX,Luxor International Airport,35.0,METAR HELX 2Z
-GIZ  OEGN,Jizan Regional Airport,35.0,METAR OEGN 2Z
-OEAO,,35.0,METAR OEAO 2Z
-RAH  OERF,Rafha Domestic Airport,35.0,METAR OERF 2Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,35.0,METAR OEPA 2Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,35.0,METAR OEMA 2Z
-APL  FQNP,Nampula Airport,35.0,METAR FQNP 2Z
-AAN  OMAL,Al Ain International Airport,35.0,METAR OMAL 2Z
-GOU  FKKR,Garoua International Airport,35.0,METAR FKKR 2Z
-DNGO,,35.0,METAR DNGO 2Z
-YOL  DNYO,Yola Airport,35.0,METAR DNYO 2Z
-BOY  DFOO,Bobo Dioulasso Airport,35.0,METAR DFOO 2Z
-FLKK,,35.0,METAR FLKK 2Z
-ACZ  OIZB,Zabol Airport,35.0,METAR OIZ
-AKW  OIAG,Aghajari Airport,35.0,METAR OIAG 2Z
-ABD  OIAA,Abadan Airport,35.0,METAR OIAA 2Z
-GAKD,,35.0,METAR GAKD 2Z
-KLC  GOOK,Kaolack Airport,35.0,METAR GOOK 2Z
-DSS  GOBD,Blaise Diagne International Airport,35.0,METAR GOBD 2Z
-AWZ  OIAW,Ahwaz Airport,35.0,METAR OIAW 2Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,32.0,METAR MMHO 2Z
+NLD  MMNL,Quetzalcóatl International Airport,32.0,METAR MMNL 2Z
+GYR  KGYR,Phoenix Goodyear Airport,32.0,METAR KGYR 2Z
+PSP  KPSP,Palm Springs International Airport,32.0,METAR KPSP 2Z
+BUR  KBUR,Bob Hope Airport,32.0,METAR KBUR 2Z
+LBS  NFNL,Labasa Airport,32.0,METAR NFNL 2Z
+THE  SBTE,Senador Petrônio Portela Airport,32.0,METAR SBTE 2Z
+PHE  YPPD,Port Hedland International Airport,32.0,METAR YPPD 2Z
+TSV  YBTL,Townsville Airport,32.0,METAR YBTL 2Z
+KAPY,Zapata County Airport,32.0,METAR KAPY 2Z
+GYM  MMGM,General José María Yáñez International Airport,31.0,METAR MMGM 2Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,31.0,METAR KPHX 2Z
+CNO  KCNO,Chino Airport,31.0,METAR KCNO 2Z
+ONT  KONT,Ontario International Airport,31.0,METAR KONT 2Z
+SBD  KSBD,San Bernardino International Airport,31.0,METAR KSBD 2Z
+SPN  PGSN,Saipan International Airport,31.0,METAR PGSN 2Z
+LGF  KLGF,Laguna Army Airfield,31.0,METAR KLGF 2Z
+AWK  PWAK,Wake Island Airfield,31.0,METAR PWAK 2Z
+KAJO,Corona Municipal Airport,31.0,METAR KAJO 2Z
+TRW  NGTA,Bonriki International Airport,31.0,METAR NGTA 2Z
+FUN  NGFU,Funafuti International Airport,31.0,METAR NGFU 2Z
+TAH  NVVW,Tanna Airport,31.0,METAR NVVW 2Z
+VLI  NVVV,Bauerfield International Airport,31.0,METAR NVVV 2Z
+MHX  NCMH,Manihiki Island Airport,31.0,METAR NCMH 2Z
+HIR  AGGH,Honiara International Airport,31.0,METAR AGGH 2Z
+POD  GOSP,Podor Airport,31.0,METAR GOSP 2Z
+CNS  YBCS,Cairns International Airport,31.0,METAR YBCS 2Z
+AMQ  WAPP,"Pattimura Airport, Ambon",31.0,METAR WAPP 2Z
+KOE  WATT,El Tari Airport,31.0,METAR WATT 2Z
+MKQ  WAKK,Mopah Airport,31.0,METAR WAKK 2Z
+HID  YHID,Horn Island Airport,31.0,METAR YHID 2Z
+NAN  NFFN,Nadi International Airport,31.0,METAR NFFN 2Z
+WHP  KWHP,Whiteman Airport,31.0,METAR KWHP 2Z
+REX  MMRX,General Lucio Blanco International Airport,30.0,METAR MMRX 2Z
+LAP  MMLP,Manuel Márquez de León International Airport,30.0,METAR MMLP 2Z
+NTR  MMAN,Del Norte International Airport,30.0,METAR MMAN 2Z
+ZIH  MMZH,Ixtapa Zihuatanejo International Airport,30.0,METAR MMZ
+CUL  MMCL,Bachigualato Federal International Airport,30.0,METAR MMCL 2Z
+CZM  MMCZ,Cozumel International Airport,30.0,METAR MMCZ
+KCHD,Chandler Municipal Airport,30.0,METAR KCHD 2Z
+KGEU,Glendale Municipal Airport,30.0,METAR KGEU 2Z
+POC  KPOC,Brackett Field,30.0,METAR KPOC 2Z
+ROP  PGRO,Rota International Airport,30.0,METAR PGRO 2Z
+VNY  KVNY,Van Nuys Airport,30.0,METAR KVNY 2Z
+PTTP,,30.0,METAR PTTP 2Z
