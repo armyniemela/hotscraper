@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-OEMN,,37.0,METAR OEMN 2Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,37.0,METAR OEMA 2Z
-MAX  GOSM,Ouro Sogui Airport,37.0,METAR GOSM 2Z
-POD  GOSP,Podor Airport,37.0,METAR GOSP 2Z
-ZND  DRZR,Zinder Airport,37.0,METAR DRZ
-AJY  DRZA,Mano Dayak International Airport,37.0,METAR DRZ
-MFQ  DRRM,Maradi Airport,37.0,METAR DRRM 2Z
-NDJ  FTTJ,N'Djamena International Airport,37.0,METAR FTTJ 2Z
-TET  FQTT,Chingozi Airport,37.0,METAR FQTT 2Z
-BMW  DATM,Bordj Badji Mokhtar Airport,37.0,METAR DATM 2Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,37.0,METAR GQNO 2Z
-ATR  GQPA,Atar International Airport,37.0,METAR GQPA 2Z
-OOAD,,36.0,METAR OOAD 2Z
-GIZ  OEGN,Jizan Regional Airport,36.0,METAR OEGN 2Z
-SKO  DNSO,Sadiq Abubakar III International Airport,36.0,METAR DNSO 2Z
-THZ  DRRT,Tahoua Airport,36.0,METAR DRRT 2Z
-OUA  DFFD,Ouagadougou Airport,36.0,METAR DFFD 2Z
-DNKT,,36.0,METAR DNKT 2Z
-MZI  GAMB,Mopti Airport,36.0,METAR GAMB 2Z
-BKO  GABS,Modibo Keita International Airport,36.0,METAR GABS 2Z
-ASW  HESN,Aswan International Airport,35.0,METAR HESN 2Z
-BBK  FBKE,Kasane Airport,35.0,METAR FBKE 2Z
-AAN  OMAL,Al Ain International Airport,35.0,METAR OMAL 2Z
-OEAO,,35.0,METAR OEAO 2Z
-YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,35.0,METAR OEYN 2Z
-OERS,,35.0,METAR OERS 2Z
-RAE  OERR,Arar Domestic Airport,35.0,METAR OERR 2Z
-RAH  OERF,Rafha Domestic Airport,35.0,METAR OERF 2Z
-VFA  FVFA,Victoria Falls International Airport,35.0,METAR FVFA 2Z
-GOOG,,35.0,METAR GOOG 2Z
-YOL  DNYO,Yola Airport,35.0,METAR DNYO 2Z
-VPE  FNGI,Ngjiva Pereira Airport,35.0,METAR FNGI 2Z
-AKW  OIAG,Aghajari Airport,35.0,METAR OIAG 2Z
-IHR  OIZI,Iran Shahr Airport,35.0,METAR OIZ
-BDH  OIBL,Bandar Lengeh Airport,35.0,METAR OIBL 2Z
-OKKK,,35.0,METAR OKKK 2Z
-AWZ  OIAW,Ahwaz Airport,35.0,METAR OIAW 2Z
-GAKD,,35.0,METAR GAKD 2Z
-LXR  HELX,Luxor International Airport,34.0,METAR HELX 2Z
-OICM,,34.0,METAR OICM 2Z
-OHS  OOSH,Sohar Airport,34.0,METAR OOSH 2Z
-MCT  OOMS,Muscat International Airport,34.0,METAR OOMS 2Z
-OKAS,Ali Al Salem Air Base,34.0,METAR OKAS 2Z
-APL  FQNP,Nampula Airport,34.0,METAR FQNP 2Z
-OEKJ,,34.0,METAR OEKJ 2Z
+THZ  DRRT,Tahoua Airport,37.0,METAR DRRT 3Z
+NDJ  FTTJ,N'Djamena International Airport,37.0,METAR FTTJ 3Z
+AWZ  OIAW,Ahwaz Airport,37.0,METAR OIAW 3Z
+OEMN,,37.0,METAR OEMN 3Z
+OOAD,,36.0,METAR OOAD 3Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,36.0,METAR OEMA 3Z
+MAX  GOSM,Ouro Sogui Airport,36.0,METAR GOSM 3Z
+GOOG,,36.0,METAR GOOG 3Z
+ZND  DRZR,Zinder Airport,36.0,METAR DRZ
+AJY  DRZA,Mano Dayak International Airport,36.0,METAR DRZ
+MFQ  DRRM,Maradi Airport,36.0,METAR DRRM 3Z
+OUA  DFFD,Ouagadougou Airport,36.0,METAR DFFD 3Z
+SKO  DNSO,Sadiq Abubakar III International Airport,36.0,METAR DNSO 3Z
+NIX  GANR,Nioro du Sahel Airport,36.0,METAR GANR 3Z
+ATR  GQPA,Atar International Airport,36.0,METAR GQPA 3Z
+YNB  OEYN,Prince Abdulmohsin Bin Abdulaziz Airport,36.0,METAR OEYN 3Z
+IHR  OIZI,Iran Shahr Airport,36.0,METAR OIZ
+KHS  OOKB,Khasab Air Base,35.0,METAR OOKB 3Z
+SRH  FTTA,Sarh Airport,35.0,METAR FTTA 3Z
+YOL  DNYO,Yola Airport,35.0,METAR DNYO 3Z
+MZI  GAMB,Mopti Airport,35.0,METAR GAMB 3Z
+GAKD,,35.0,METAR GAKD 3Z
+BKO  GABS,Modibo Keita International Airport,35.0,METAR GABS 3Z
+BBK  FBKE,Kasane Airport,35.0,METAR FBKE 3Z
+MRX  OIAM,Mahshahr Airport,35.0,METAR OIAM 3Z
+AKW  OIAG,Aghajari Airport,35.0,METAR OIAG 3Z
+ABD  OIAA,Abadan Airport,35.0,METAR OIAA 3Z
+BFO  FVCZ,Buffalo Range Airport,35.0,METAR FVCZ
+BSR  ORMM,Basrah International Airport,35.0,METAR ORMM 3Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,35.0,METAR DAUA 3Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,35.0,METAR GQNO 3Z
+VFA  FVFA,Victoria Falls International Airport,35.0,METAR FVFA 3Z
+OKAS,Ali Al Salem Air Base,34.0,METAR OKAS 3Z
+APL  FQNP,Nampula Airport,34.0,METAR FQNP 3Z
+GOOD,,34.0,METAR GOOD 3Z
+DNGO,,34.0,METAR DNGO 3Z
+BOY  DFOO,Bobo Dioulasso Airport,34.0,METAR DFOO 3Z
+OKKK,,34.0,METAR OKKK 3Z
+UTN  FAUP,Pierre Van Ryneveld Airport,34.0,METAR FAUP 3Z
+OERS,,34.0,METAR OERS 3Z
+RAH  OERF,Rafha Domestic Airport,34.0,METAR OERF 3Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,34.0,METAR OEPA 3Z
+AAN  OMAL,Al Ain International Airport,34.0,METAR OMAL 3Z
+ELQ  OEGS,Gassim Airport,34.0,METAR OEGS 3Z
+GIZ  OEGN,Jizan Regional Airport,34.0,METAR OEGN 3Z
