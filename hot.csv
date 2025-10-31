@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,38.0,METAR YBMA 3Z
-KNX  YPKU,Kununurra Airport,36.0,METAR YPKU 3Z
-KTR  YPTN,Tindal Airport,34.0,METAR YPTN 3Z
-GOV  YPGV,Gove Airport,33.0,METAR YPGV 3Z
-PHE  YPPD,Port Hedland International Airport,33.0,METAR YPPD 3Z
+EMN  GQNI,Néma Airport,39.0,METAR GQNI 3Z
+NIM  DRRN,Diori Hamani International Airport,39.0,METAR DRRN 3Z
+ATR  GQPA,Atar International Airport,39.0,METAR GQPA 3Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,38.0,METAR GQNO 3Z
+OEMN,,38.0,METAR OEMN 3Z
