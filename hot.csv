@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-EMN  GQNI,Néma Airport,39.0,METAR GQNI 3Z
-NIM  DRRN,Diori Hamani International Airport,39.0,METAR DRRN 3Z
-ATR  GQPA,Atar International Airport,39.0,METAR GQPA 3Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,38.0,METAR GQNO 3Z
-OEMN,,38.0,METAR OEMN 3Z
+ISA  YBMA,Mount Isa Airport,38.0,METAR YBMA 0Z
+PHE  YPPD,Port Hedland International Airport,36.0,METAR YPPD 0Z
+ASP  YBAS,Alice Springs Airport,35.0,METAR YBAS 0Z
+KNX  YPKU,Kununurra Airport,35.0,METAR YPKU 0Z
+DRW  YPDN,Darwin International Airport,34.0,METAR YPDN 0Z
