@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KNX  YPKU,Kununurra Airport,37.0,METAR YPKU 0Z
-DCN  YCIN,RAAF Base Curtin,35.0,METAR YCIN 0Z
-KOE  WATT,El Tari Airport,34.0,METAR WATT 0Z
-DRW  YPDN,Darwin International Airport,34.0,METAR YPDN 0Z
-PHE  YPPD,Port Hedland International Airport,34.0,METAR YPPD 0Z
+GOOG,,39.0,METAR GOOG 0Z
+ATR  GQPA,Atar International Airport,39.0,METAR GQPA 0Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,39.0,METAR GQNO 0Z
+XLS  GOSS,Saint Louis Airport,39.0,METAR GOSS 0Z
+OEMN,,38.0,METAR OEMN 0Z
