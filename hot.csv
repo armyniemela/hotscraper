@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KNX  YPKU,Kununurra Airport,34.0,METAR YPKU 1Z
-GOV  YPGV,Gove Airport,34.0,METAR YPGV 1Z
-DCN  YCIN,RAAF Base Curtin,34.0,METAR YCIN 1Z
-KTR  YPTN,Tindal Airport,33.0,METAR YPTN 1Z
-GET  YGEL,Geraldton Airport,33.0,METAR YGEL 1Z
+EMN  GQNI,Néma Airport,38.0,METAR GQNI 1Z
+MZI  GAMB,Mopti Airport,38.0,METAR GAMB 1Z
+GAQ  GAGO,Gao Airport,37.0,METAR GAGO 1Z
+OEMN,,36.0,METAR OEMN 1Z
+NIX  GANR,Nioro du Sahel Airport,36.0,METAR GANR 1Z
