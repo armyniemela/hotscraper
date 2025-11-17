@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GET  YGEL,Geraldton Airport,35.0,SPECI YGEL 1Z
-NOU  NWWW,La Tontouta International Airport,33.0,METAR NWWW 1Z
-DCN  YCIN,RAAF Base Curtin,33.0,METAR YCIN 1Z
-BNE  YBBN,Brisbane International Airport,32.0,METAR YBBN 1Z
-PHE  YPPD,Port Hedland International Airport,32.0,METAR YPPD 1Z
+DSS  GOBD,Blaise Diagne International Airport,38.0,METAR GOBD 1Z
+XLS  GOSS,Saint Louis Airport,37.0,METAR GOSS 1Z
+GOOD,,37.0,METAR GOOD 1Z
+MAX  GOSM,Ouro Sogui Airport,37.0,METAR GOSM 1Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,36.0,METAR GQNO 1Z
