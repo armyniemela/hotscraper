@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-DSS  GOBD,Blaise Diagne International Airport,38.0,METAR GOBD 1Z
-XLS  GOSS,Saint Louis Airport,37.0,METAR GOSS 1Z
-GOOD,,37.0,METAR GOOD 1Z
-MAX  GOSM,Ouro Sogui Airport,37.0,METAR GOSM 1Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,36.0,METAR GQNO 1Z
+TSV  YBTL,Townsville Airport / RAAF Base Townsville,33.0,METAR YBTL 1Z
+KTR  YPTN,Tindal Airport,33.0,METAR YPTN 1Z
+GOV  YPGV,Gove Airport,33.0,METAR YPGV 1Z
+KNX  YPKU,East Kimberley Regional (Kununurra) Airport,33.0,METAR YPKU 1Z
+PHE  YPPD,Port Hedland International Airport,32.0,METAR YPPD 1Z
