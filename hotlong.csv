@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-TSV  YBTL,Townsville Airport / RAAF Base Townsville,32.0,METAR YBTL 2Z
-GOV  YPGV,Gove Airport,32.0,METAR YPGV 2Z
-AMQ  WAPP,Pattimura International Airport,32.0,METAR WAPP 2Z
-SDE  SANE,Vicecomodoro Angel D. La Paz Aragonés Airport,32.0,METAR SANE 2Z
-LBS  NFNL,Labasa Airport,32.0,METAR NFNL 2Z
-DRW  YPDN,Darwin International Airport / RAAF Darwin,32.0,METAR YPDN 2Z
-NOU  NWWW,La Tontouta International Airport,32.0,METAR NWWW 2Z
-NLD  MMNL,Quetzalcóatl International Airport,31.0,METAR MMNL 2Z
-PPG  NSTU,Pago Pago International Airport,31.0,METAR NSTU 2Z
-YAP  PTYA,Yap International Airport,31.0,METAR PTYA 2Z
-GUM  PGUM,Antonio B. Won Pat International Airport,31.0,METAR PGUM 2Z
-CTC  SANC,Coronel Felipe Varela International Airport,31.0,METAR SANC 2Z
-TRW  NGTA,Bonriki International Airport,31.0,METAR NGTA 2Z
-APW  NSFA,Faleolo International Airport,31.0,METAR NSFA 2Z
-KOE  WATT,El Tari Airport,31.0,METAR WATT 2Z
-DCN  YCIN,RAAF Base Curtin,31.0,METAR YCIN 2Z
-NAN  NFFN,Nadi International Airport,31.0,METAR NFFN 2Z
-TAH  NVVW,Whitegrass Airport,31.0,METAR NVVW 2Z
-CNS  YBCS,Cairns International Airport,31.0,METAR YBCS 2Z
-SPN  PGSN,Saipan International Airport,31.0,SPECI PGSN 2Z
-ROP  PGRO,Rota International Airport,30.0,METAR PGRO 2Z
-TKK  PTKK,Chuuk International Airport,30.0,METAR PTKK 2Z
-PKMR,,30.0,METAR PKMR 2Z
-AWK  PWAK,Wake Island Airfield,30.0,METAR PWAK 2Z
-TIQ  PGWT,Tinian International Airport,30.0,METAR PGWT 2Z
-LRD  KLRD,Laredo International Airport,30.0,METAR KLRD 2Z
-FUN  NGFU,Funafuti International Airport,30.0,METAR NGFU 2Z
-AIT  NCAI,Aitutaki Airport,30.0,METAR NCAI 2Z
-JDO  SBJU,Orlando Bezerra de Menezes Airport,30.0,METAR SBJU 2Z
-MYY  WBGR,Miri Airport,30.0,METAR WBGR 2Z
-GES  RPMR,General Santos International Airport,30.0,METAR RPMR 2Z
-PHE  YPPD,Port Hedland International Airport,30.0,METAR YPPD 2Z
-DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,30.0,METAR WAJJ 2Z
-HID  YHID,Horn Island Airport,30.0,METAR YHID 2Z
-MDC  WAMM,Sam Ratulangi Airport,30.0,METAR WAMM 2Z
-THE  SBTE,Senador Petrônio Portela Airport,30.0,METAR SBTE 2Z
-SON  NVSS,Santo Pekoa International Airport,30.0,METAR NVSS 2Z
-SVU  NFNS,Savusavu Airport,30.0,METAR NFNS 2Z
-TVU  NFNM,Matei Airport,30.0,METAR NFNM 2Z
-SMR  SKSM,Simón Bolívar International Airport,30.0,METAR SKSM 2Z
-CEB  RPVM,Mactan Cebu International Airport,30.0,METAR RPVM 2Z
-MNL  RPLL,Ninoy Aquino International Airport,30.0,METAR RPLL 2Z
-TMW  YSTW,Tamworth Airport,30.0,METAR YSTW 2Z
-BME  YBRM,Broome International Airport,30.0,METAR YBRM 2Z
-DGT  RPVD,Sibulan Airport,30.0,METAR RPVD 2Z
+TML  DGLE,Tamale Airport,37.0,METAR DGLE 2Z
+NIX  GANR,Nioro du Sahel Airport,36.0,METAR GANR 2Z
+OND  FYOA,Ondangwa Airport,36.0,METAR FYOA 2Z
+DXSK,Sokodé Airport,36.0,METAR DXSK 2Z
+SKO  DNSO,Sadiq Abubakar III International Airport,36.0,METAR DNSO 2Z
+OUA  DFFD,Ouagadougou Airport,36.0,METAR DFFD 2Z
+MXJ  DNMN,Minna Airport,36.0,METAR DNMN 2Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,36.0,METAR DNAA 2Z
+NIM  DRRN,Diori Hamani International Airport,36.0,METAR DRRN 2Z
+KLC  GOOK,Kaolack Airport,36.0,METAR GOOK 2Z
+UTN  FAUP,Pierre Van Ryneveld Airport,36.0,METAR FAUP 2Z
+BGF  FEFF,Bangui M'Poko International Airport,35.0,METAR FEFF 2Z
+HTMG,Morogoro Airport,35.0,METAR HTMG 2Z
+GAKD,,35.0,METAR GAKD 2Z
+GAQ  GAGO,Gao Airport,35.0,METAR GAGO 2Z
+BKO  GABS,Modibo Keita International Airport,35.0,METAR GABS 2Z
+TUD  GOTT,Tambacounda Airport,35.0,METAR GOTT 2Z
+EMN  GQNI,Néma Airport,35.0,METAR GQNI 1Z
+YNB  OEYN,Prince Abdul Mohsin bin Abdulaziz International Airport / Yanbu Airport,35.0,METAR OEYN 2Z
+OEMN,,35.0,METAR OEMN 2Z
+NDU  FYRU,Rundu Airport,35.0,METAR FYRU 2Z
+MAX  GOSM,Ouro Sogui Airport,35.0,METAR GOSM 2Z
+ILR  DNIL,Ilorin International Airport,35.0,METAR DNIL 2Z
+DRZF,Diffa Airport,35.0,METAR DRZ
+ZND  DRZR,Zinder Airport,35.0,METAR DRZ
+MFQ  DRRM,Maradi Airport,35.0,METAR DRRM 2Z
+WJR  HKWJ,Wajir Airport,35.0,METAR HKWJ 2Z
+KIM  FAKM,Kimberley Airport,35.0,METAR FAKM 2Z
+VPE  FNGI,Ngjiva Pereira Airport,34.0,METAR FNGI 2Z
+TOM  GATB,Timbuktu Airport,34.0,METAR GATB 2Z
+OERS,,34.0,METAR OERS 2Z
+GOOD,,34.0,METAR GOOD 2Z
+GOOG,Linguère Airport,34.0,METAR GOOG 2Z
+ZAR  DNZA,Zaria Airport,34.0,METAR DNZ
+THZ  DRRT,Tahoua Airport,34.0,METAR DRRT 2Z
+DOD  HTDO,Dodoma Airport,34.0,METAR HTDO 2Z
+KGG  GOTK,Kédougou Airport,34.0,METAR GOTK 2Z
+AAN  OMAL,Al Ain International Airport,33.0,METAR OMAL 2Z
+MUB  FBMN,Maun Airport,33.0,METAR FBMN 2Z
+MVF  SBMS,Dix-Sept Rosado Airport,33.0,METAR SBMS 2Z
+WDH  FYWH,Hosea Kutako International Airport,33.0,METAR FYWH 2Z
+JRO  HTKJ,Kilimanjaro International Airport,33.0,METAR HTKJ 2Z
+OXB  GGOV,Osvaldo Vieira International Airport,33.0,METAR GGOV 2Z
+ZIG  GOGG,Ziguinchor Airport,33.0,METAR GOGG 2Z
+JED  OEJN,King Abdulaziz International Airport,33.0,METAR OEJN 2Z
