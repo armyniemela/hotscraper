@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-TML  DGLE,Tamale Airport,37.0,METAR DGLE 2Z
+UTN  FAUP,Pierre Van Ryneveld Airport,37.0,METAR FAUP 2Z
+LOK  HKLO,Lodwar Airport,36.0,METAR HKLO 2Z
 NIX  GANR,Nioro du Sahel Airport,36.0,METAR GANR 2Z
-OND  FYOA,Ondangwa Airport,36.0,METAR FYOA 2Z
-DXSK,Sokodé Airport,36.0,METAR DXSK 2Z
-SKO  DNSO,Sadiq Abubakar III International Airport,36.0,METAR DNSO 2Z
-OUA  DFFD,Ouagadougou Airport,36.0,METAR DFFD 2Z
-MXJ  DNMN,Minna Airport,36.0,METAR DNMN 2Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,36.0,METAR DNAA 2Z
-NIM  DRRN,Diori Hamani International Airport,36.0,METAR DRRN 2Z
-KLC  GOOK,Kaolack Airport,36.0,METAR GOOK 2Z
-UTN  FAUP,Pierre Van Ryneveld Airport,36.0,METAR FAUP 2Z
-BGF  FEFF,Bangui M'Poko International Airport,35.0,METAR FEFF 2Z
-HTMG,Morogoro Airport,35.0,METAR HTMG 2Z
-GAKD,,35.0,METAR GAKD 2Z
-GAQ  GAGO,Gao Airport,35.0,METAR GAGO 2Z
-BKO  GABS,Modibo Keita International Airport,35.0,METAR GABS 2Z
-TUD  GOTT,Tambacounda Airport,35.0,METAR GOTT 2Z
-EMN  GQNI,Néma Airport,35.0,METAR GQNI 1Z
-YNB  OEYN,Prince Abdul Mohsin bin Abdulaziz International Airport / Yanbu Airport,35.0,METAR OEYN 2Z
-OEMN,,35.0,METAR OEMN 2Z
-NDU  FYRU,Rundu Airport,35.0,METAR FYRU 2Z
-MAX  GOSM,Ouro Sogui Airport,35.0,METAR GOSM 2Z
-ILR  DNIL,Ilorin International Airport,35.0,METAR DNIL 2Z
+YNB  OEYN,Prince Abdul Mohsin bin Abdulaziz International Airport / Yanbu Airport,36.0,METAR OEYN 2Z
+WJR  HKWJ,Wajir Airport,36.0,METAR HKWJ 2Z
+TML  DGLE,Tamale Airport,36.0,METAR DGLE 2Z
 DRZF,Diffa Airport,35.0,METAR DRZ
 ZND  DRZR,Zinder Airport,35.0,METAR DRZ
+THZ  DRRT,Tahoua Airport,35.0,METAR DRRT 2Z
 MFQ  DRRM,Maradi Airport,35.0,METAR DRRM 2Z
-WJR  HKWJ,Wajir Airport,35.0,METAR HKWJ 2Z
-KIM  FAKM,Kimberley Airport,35.0,METAR FAKM 2Z
-VPE  FNGI,Ngjiva Pereira Airport,34.0,METAR FNGI 2Z
+BKO  GABS,Modibo Keita International Airport,35.0,METAR GABS 2Z
+AAC  HEAR,El Arish International Airport,35.0,METAR HEAR 2Z
+ASW  HESN,Aswan International Airport,35.0,METAR HESN 2Z
+OEMN,,35.0,METAR OEMN 2Z
+SSE  VASL,Solapur Airport,34.0,METAR VASL 2Z
+TUD  GOTT,Tambacounda Airport,34.0,METAR GOTT 2Z
+AJY  DRZA,Mano Dayak International Airport,34.0,METAR DRZ
+GAKD,,34.0,METAR GAKD 2Z
 TOM  GATB,Timbuktu Airport,34.0,METAR GATB 2Z
+SDB  FALW,Langebaanweg Airport,34.0,METAR FALW 2Z
+NDU  FYRU,Rundu Airport,34.0,METAR FYRU 2Z
+GAS  HKGA,Garissa Airport,34.0,METAR HKGA 2Z
 OERS,,34.0,METAR OERS 2Z
-GOOD,,34.0,METAR GOOD 2Z
-GOOG,Linguère Airport,34.0,METAR GOOG 2Z
-ZAR  DNZA,Zaria Airport,34.0,METAR DNZ
-THZ  DRRT,Tahoua Airport,34.0,METAR DRRT 2Z
-DOD  HTDO,Dodoma Airport,34.0,METAR HTDO 2Z
-KGG  GOTK,Kédougou Airport,34.0,METAR GOTK 2Z
-AAN  OMAL,Al Ain International Airport,33.0,METAR OMAL 2Z
+JED  OEJN,King Abdulaziz International Airport,34.0,METAR OEJN 2Z
+BND  OIKB,Bandar Abbas International Airport,33.0,METAR OIKB 2Z
+DXSK,Sokodé Airport,33.0,METAR DXSK 2Z
+BOY  DFOO,Bobo Dioulasso Airport,33.0,METAR DFOO 2Z
+DLA  FKKD,Douala International Airport,33.0,METAR FKKD 2Z
+BGF  FEFF,Bangui M'Poko International Airport,33.0,METAR FEFF 2Z
+ERS  FYWE,Eros Airport,33.0,METAR FYWE 2Z
+AQJ  OJAQ,Aqaba King Hussein International Airport,33.0,METAR OJAQ 2Z
+SSH  HESH,Sharm El Sheikh International Airport,33.0,METAR HESH 2Z
+LXR  HELX,Luxor International Airport,33.0,METAR HELX 2Z
+KIM  FAKM,Kimberley Airport,33.0,METAR FAKM 2Z
 MUB  FBMN,Maun Airport,33.0,METAR FBMN 2Z
-MVF  SBMS,Dix-Sept Rosado Airport,33.0,METAR SBMS 2Z
-WDH  FYWH,Hosea Kutako International Airport,33.0,METAR FYWH 2Z
-JRO  HTKJ,Kilimanjaro International Airport,33.0,METAR HTKJ 2Z
-OXB  GGOV,Osvaldo Vieira International Airport,33.0,METAR GGOV 2Z
-ZIG  GOGG,Ziguinchor Airport,33.0,METAR GOGG 2Z
-JED  OEJN,King Abdulaziz International Airport,33.0,METAR OEJN 2Z
+HTMG,Morogoro Airport,33.0,METAR HTMG 2Z
+EJH  OEWJ,Al Wajh Domestic Airport,33.0,METAR OEWJ 2Z
+GOOG,Linguère Airport,33.0,METAR GOOG 2Z
+TLV  LLBG,Ben Gurion International Airport,33.0,METAR LLBG 2Z
+OOAD,,32.0,METAR OOAD 2Z
+GSM  OIKQ,Qeshm Dayrestan International Airport,32.0,METAR OIKQ 2Z
+LFW  DXXX,Lomé–Tokoin International Airport,32.0,METAR DXXX 2Z
+COO  DBBB,Cadjehoun Airport,32.0,METAR DBBB 2Z
+KGG  GOTK,Kédougou Airport,32.0,METAR GOTK 2Z
+KLC  GOOK,Kaolack Airport,32.0,METAR GOOK 2Z
