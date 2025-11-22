@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,39.0,METAR YBMA 2Z
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,35.0,METAR YPKU 2Z
-ASP  YBAS,Alice Springs Airport,35.0,METAR YBAS 2Z
-DCN  YCIN,RAAF Base Curtin,32.0,METAR YCIN 2Z
-AMQ  WAPP,Pattimura International Airport,32.0,METAR WAPP 2Z
+UTN  FAUP,Pierre Van Ryneveld Airport,40.0,METAR FAUP 2Z
+NIM  DRRN,Diori Hamani International Airport,38.0,METAR DRRN 2Z
+MZI  GAMB,Mopti Ambodédjo International Airport,38.0,METAR GAMB 2Z
+OND  FYOA,Ondangwa Airport,37.0,METAR FYOA 2Z
+MQQ  FTTD,Moundou Airport,37.0,METAR FTTD 2Z
