@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GOU  FKKR,Garoua International Airport,39.0,METAR FKKR 3Z
-OND  FYOA,Ondangwa Airport,38.0,METAR FYOA 3Z
-WJR  HKWJ,Wajir Airport,37.0,METAR HKWJ 3Z
-APL  FQNP,Nampula Airport,36.0,METAR FQNP 3Z
-LOK  HKLO,Lodwar Airport,36.0,METAR HKLO 3Z
+GET  YGEL,Geraldton Airport,38.0,SPECI YGEL 0Z
+PHE  YPPD,Port Hedland International Airport,34.0,METAR YPPD 0Z
+DCN  YCIN,RAAF Base Curtin,34.0,METAR YCIN 0Z
+YPEA,RAAF Base Pearce,34.0,METAR YPEA 0Z
+KTR  YPTN,Tindal Airport,34.0,METAR YPTN 0Z
