@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ASP  YBAS,Alice Springs Airport,40.0,METAR YBAS 1Z
-ISA  YBMA,Mount Isa Airport,38.0,METAR YBMA 1Z
-UMR  YPWR,Woomera Airfield,36.0,METAR YPWR 1Z
-BME  YBRM,Broome International Airport,35.0,METAR YBRM 1Z
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,35.0,METAR YPKU 1Z
+UTN  FAUP,Pierre Van Ryneveld Airport,40.0,METAR FAUP 1Z
+LOK  HKLO,Lodwar Airport,37.0,METAR HKLO 1Z
+RRJ  SBJR,Jacarepaguá - Roberto Marinho Airport,36.0,METAR SBJR 1Z
+MEA  SBME,Macaé Benedito Lacerda Airport,36.0,METAR SBME 1Z
+HTMG,Morogoro Airport,35.0,METAR HTMG 1Z
