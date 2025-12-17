@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LOK  HKLO,Lodwar Airport,36.0,METAR HKLO 1Z
-UTN  FAUP,Pierre Van Ryneveld Airport,36.0,METAR FAUP 1Z
-KGI  YPKG,Kalgoorlie Boulder Airport,36.0,METAR YPKG 1Z
-GAS  HKGA,Garissa Airport,35.0,METAR HKGA 1Z
-MQQ  FTTD,Moundou Airport,35.0,METAR FTTD 1Z
+KGI  YPKG,Kalgoorlie Boulder Airport,40.0,METAR YPKG 1Z
+FOS  YFRT,Forrest Airport,40.0,SPECI YFRT 1Z
+ASP  YBAS,Alice Springs Airport,35.0,METAR YBAS 1Z
+ISA  YBMA,Mount Isa Airport,35.0,METAR YBMA 1Z
+UMR  YPWR,Woomera Airfield,34.0,METAR YPWR 1Z
