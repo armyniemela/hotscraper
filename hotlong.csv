@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-TML  DGLE,Tamale Airport,34.0,METAR DGLE 1Z
-HTMG,Morogoro Airport,34.0,METAR HTMG 1Z
-MJN  FMNM,Amborovy Airport,34.0,METAR FMNM 1Z
-SHO  FDSK,King Mswati III International Airport,33.0,METAR FDSK 1Z
-LAU  HKLU,Manda Airport,33.0,METAR HKLU 1Z
-JRO  HTKJ,Kilimanjaro International Airport,33.0,METAR HTKJ 1Z
-DAR  HTDA,Julius Nyerere International Airport,33.0,METAR HTDA 1Z
-PHC  DNPO,Port Harcourt International Airport,33.0,METAR DNPO 1Z
-TET  FQTT,Chingozi Airport,33.0,METAR FQTT 1Z
-UEL  FQQL,Quelimane Airport,33.0,METAR FQQL 1Z
-KGI  YPKG,Kalgoorlie Boulder Airport,33.0,METAR YPKG 1Z
-TKD  DGTK,Takoradi Airport,32.0,METAR DGTK 1Z
-BEW  FQBR,Beira Airport,32.0,METAR FQBR 1Z
-MYD  HKML,Malindi Airport,32.0,METAR HKML 1Z
-ZNZ  HTZA,Abeid Amani Karume International Airport,32.0,METAR HTZ
-DOD  HTDO,Dodoma Airport,32.0,METAR HTDO 1Z
-NIM  DRRN,Diori Hamani International Airport,32.0,METAR DRRN 1Z
-MQQ  FTTD,Moundou Airport,32.0,METAR FTTD 1Z
-DXSK,Sokodé Airport,32.0,METAR DXSK 1Z
-LFW  DXXX,Lomé–Tokoin International Airport,32.0,METAR DXXX 1Z
-DLA  FKKD,Douala International Airport,32.0,METAR FKKD 1Z
-GOU  FKKR,Garoua International Airport,32.0,METAR FKKR 1Z
-BGF  FEFF,Bangui M'Poko International Airport,32.0,METAR FEFF 1Z
-FOS  YFRT,Forrest Airport,32.0,METAR YFRT 1Z
-UMR  YPWR,Woomera Airfield,32.0,METAR YPWR 1Z
-KMS  DGSI,Kumasi Airport,31.0,METAR DGSI 1Z
-COO  DBBB,Cadjehoun Airport,31.0,METAR DBBB 1Z
-MLE  VRMM,Malé International Airport,31.0,METAR VRMM 1Z
-LOK  HKLO,Lodwar Airport,31.0,METAR HKLO 1Z
-MBA  HKMO,Moi International Airport,31.0,METAR HKMO 1Z
-LOS  DNMM,Murtala Muhammed International Airport,31.0,METAR DNMM 1Z
-ACC  DGAA,Kotoka International Airport,31.0,METAR DGAA 1Z
-NDJ  FTTJ,N'Djamena International Airport,31.0,METAR FTTJ 1Z
-LRL  DXNG,Niamtougou International Airport,31.0,METAR DXNG 1Z
-FTU  FMSD,Tôlanaro Airport,31.0,METAR FMSD 1Z
-BZV  FCBB,Maya-Maya Airport,31.0,METAR FCBB 1Z
-VNX  FQVL,Vilankulo Airport,31.0,METAR FQVL 1Z
-BKK  VTBS,Suvarnabhumi Airport,31.0,METAR VTBS 1Z
-ABJ  DIAP,Félix-Houphouët-Boigny International Airport,31.0,METAR DIAP 1Z
-PHB  SBPB,Parnaíba - Prefeito Doutor João Silva Filho International Airport,30.0,METAR SBPB 1Z
-SSG  FGSL,Malabo Airport,30.0,METAR FGSL 1Z
-SEZ  FSIA,Seychelles International Airport,30.0,METAR FSIA 1Z
-PTG  FAPP,Polokwane International Airport,30.0,METAR FAPP 1Z
-INH  FQIN,Inhambane Airport,30.0,METAR FQIN 1Z
-UTN  FAUP,Pierre Van Ryneveld Airport,30.0,METAR FAUP 1Z
+PHE  YPPD,Port Hedland International Airport,35.0,METAR YPPD 1Z
+DBO  YSDU,Dubbo City Regional Airport,35.0,METAR YSDU 1Z
+CBR  YSCB,Canberra Airport,34.0,METAR YSCB 1Z
+XRH  YSRI,RAAF Base Richmond,33.0,METAR YSRI 1Z
+DCN  YCIN,RAAF Base Curtin,33.0,METAR YCIN 1Z
+APW  NSFA,Faleolo International Airport,32.0,METAR NSFA 1Z
+FUN  NGFU,Funafuti International Airport,32.0,METAR NGFU 1Z
+NOU  NWWW,La Tontouta International Airport,32.0,METAR NWWW 1Z
+ISA  YBMA,Mount Isa Airport,32.0,METAR YBMA 1Z
+BME  YBRM,Broome International Airport,32.0,METAR YBRM 1Z
+LEA  YPLM,Learmonth Airport,32.0,METAR YPLM 1Z
+TSV  YBTL,Townsville Airport / RAAF Base Townsville,32.0,METAR YBTL 1Z
+PNI  PTPN,Pohnpei International Airport,31.0,METAR PTPN 1Z
+TRW  NGTA,Bonriki International Airport,31.0,METAR NGTA 1Z
+PNZ  SBPL,Senador Nilo Coelho Airport,31.0,METAR SBPL 1Z
+VLI  NVVV,Bauerfield International Airport,31.0,METAR NVVV 1Z
+SON  NVSS,Santo Pekoa International Airport,31.0,METAR NVSS 1Z
+NCPL,,31.0,METAR NCPL 1Z
+MHX  NCMH,Manihiki Island Airport,31.0,METAR NCMH 1Z
+HIR  AGGH,Honiara International Airport,31.0,METAR AGGH 1Z
+KTR  YPTN,Tindal Airport,31.0,METAR YPTN 1Z
+NTL  YWLM,Newcastle Airport,31.0,METAR YWLM 1Z
+TMW  YSTW,Tamworth Airport,31.0,METAR YSTW 1Z
+AMQ  WAPP,Pattimura International Airport,31.0,METAR WAPP 1Z
+DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,31.0,METAR WAJJ 1Z
+TKK  PTKK,Chuuk International Airport,30.0,METAR PTKK 1Z
+SPN  PGSN,Saipan International Airport,30.0,METAR PGSN 1Z
+TIQ  PGWT,Tinian International Airport,30.0,METAR PGWT 1Z
+TAH  NVVW,Whitegrass Airport,30.0,METAR NVVW 1Z
+CXI  PLCH,Cassidy International Airport,30.0,METAR PLCH 1Z
+CEB  RPVM,Mactan Cebu International Airport,30.0,METAR RPVM 1Z
+PYE  NCPY,Tongareva Airport,30.0,METAR NCPY 1Z
+AIT  NCAI,Aitutaki Airport,30.0,METAR NCAI 1Z
+UAM  PGUA,Andersen Air Force Base,30.0,SPECI PGUA 1Z
+SUB  WARR,Juanda International Airport,30.0,METAR WARR 1Z
+DPS  WADD,Denpasar I Gusti Ngurah Rai International Airport,30.0,METAR WADD 1Z
+UPG  WAAA,Hasanuddin International Airport,30.0,METAR WAAA 1Z
+ROK  YBRK,Rockhampton Airport,30.0,METAR YBRK 1Z
+SYD  YSSY,Sydney Kingsford Smith International Airport,30.0,METAR YSSY 1Z
+BKI  WBKK,Kota Kinabalu International Airport,30.0,METAR WBKK 1Z
+DRW  YPDN,Darwin International Airport / RAAF Darwin,30.0,METAR YPDN 1Z
+GLT  YGLA,Gladstone Airport,30.0,METAR YGLA 1Z
+LOP  WADL,Lombok International Airport,30.0,METAR WADL 1Z
+WAHS,,30.0,METAR WAHS 1Z
+GUM  PGUM,Antonio B. Won Pat International Airport,30.0,SPECI PGUM 1Z
