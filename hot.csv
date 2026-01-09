@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-WJR  HKWJ,Wajir Airport,38.0,METAR HKWJ 0Z
-UTN  FAUP,Pierre Van Ryneveld Airport,38.0,METAR FAUP 0Z
-LOK  HKLO,Lodwar Airport,37.0,METAR HKLO 0Z
-GAS  HKGA,Garissa Airport,37.0,METAR HKGA 0Z
-UMR  YPWR,Woomera Airfield,37.0,METAR YPWR 0Z
+UMR  YPWR,Woomera Airfield,43.0,METAR YPWR 0Z
+MEL  YMML,Melbourne Airport,41.0,METAR YMML 0Z
+AVV  YMAV,Avalon Airport,41.0,METAR YMAV 0Z
+ASP  YBAS,Alice Springs Airport,37.0,METAR YBAS 0Z
+CBR  YSCB,Canberra Airport,36.0,METAR YSCB 0Z
