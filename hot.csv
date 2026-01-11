@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-UTN  FAUP,Pierre Van Ryneveld Airport,40.0,METAR FAUP 1Z
-KIM  FAKM,Kimberley Airport,37.0,METAR FAKM 1Z
-FACV,Calvinia Airport,36.0,SPECI FACV 1Z
-SRH  FTTA,Sarh Airport,36.0,METAR FTTA 1Z
-LOK  HKLO,Lodwar Airport,35.0,METAR HKLO 1Z
+GET  YGEL,Geraldton Airport,36.0,METAR YGEL 1Z
+PHE  YPPD,Port Hedland International Airport,35.0,METAR YPPD 1Z
+ISA  YBMA,Mount Isa Airport,34.0,METAR YBMA 1Z
+BME  YBRM,Broome International Airport,34.0,METAR YBRM 1Z
+LEA  YPLM,Learmonth Airport,34.0,METAR YPLM 1Z
