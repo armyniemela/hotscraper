@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PTG  FAPP,Polokwane International Airport,34.0,METAR FAPP 2Z
-PER  YPPH,Perth International Airport,34.0,METAR YPPH 2Z
-LBS  NFNL,Labasa Airport,33.0,METAR NFNL 2Z
-DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,33.0,METAR WAJJ 2Z
-ASP  YBAS,Alice Springs Airport,33.0,METAR YBAS 2Z
-KSA  PTSA,Kosrae International Airport,32.0,METAR PTSA 2Z
-PNI  PTPN,Pohnpei International Airport,32.0,METAR PTPN 2Z
+SUV  NFNA,Nausori International Airport,33.0,METAR NFNA 2Z
+AMQ  WAPP,Pattimura International Airport,33.0,METAR WAPP 2Z
+PHE  YPPD,Port Hedland International Airport,33.0,METAR YPPD 2Z
 PTTP,,32.0,METAR PTTP 2Z
-HIR  AGGH,Honiara International Airport,32.0,METAR AGGH 2Z
-VAV  NFTV,Vava'u International Airport,32.0,METAR NFTV 2Z
+PPG  NSTU,Pago Pago International Airport,32.0,METAR NSTU 2Z
 TBU  NFTF,Fua'amotu International Airport,32.0,METAR NFTF 2Z
-SUV  NFNA,Nausori International Airport,32.0,METAR NFNA 2Z
-TAH  NVVW,Whitegrass Airport,32.0,METAR NVVW 2Z
-JAD  YPJT,Perth Jandakot Airport,32.0,METAR YPJT 2Z
+HIR  AGGH,Honiara International Airport,32.0,METAR AGGH 2Z
+KNX  YPKU,East Kimberley Regional (Kununurra) Airport,32.0,METAR YPKU 2Z
 TMW  YSTW,Tamworth Airport,32.0,METAR YSTW 2Z
-PHE  YPPD,Port Hedland International Airport,32.0,METAR YPPD 2Z
-DBO  YSDU,Dubbo City Regional Airport,32.0,METAR YSDU 2Z
-CNS  YBCS,Cairns International Airport,32.0,METAR YBCS 2Z
-UAQ  SANU,Domingo Faustino Sarmiento Airport,31.0,METAR SANU 2Z
-YAMB,RAAF Base Amberley,31.0,METAR YAMB 2Z
-PYE  NCPY,Tongareva Airport,31.0,METAR NCPY 2Z
-SVU  NFNS,Savusavu Airport,31.0,METAR NFNS 2Z
-HPA  NFTL,Lifuka Island Airport,31.0,METAR NFTL 2Z
-SON  NVSS,Santo Pekoa International Airport,31.0,METAR NVSS 2Z
-VLI  NVVV,Bauerfield International Airport,31.0,METAR NVVV 2Z
+BME  YBRM,Broome International Airport,32.0,METAR YBRM 2Z
+PNI  PTPN,Pohnpei International Airport,31.0,METAR PTPN 2Z
 TRW  NGTA,Bonriki International Airport,31.0,METAR NGTA 2Z
-FUN  NGFU,Funafuti International Airport,31.0,METAR NGFU 2Z
-ROK  YBRK,Rockhampton Airport,31.0,METAR YBRK 2Z
-BME  YBRM,Broome International Airport,31.0,METAR YBRM 2Z
+MGS  NCMG,Mangaia Island Airport,31.0,METAR NCMG 2Z
+AIT  NCAI,Aitutaki Airport,31.0,METAR NCAI 2Z
+VLI  NVVV,Bauerfield International Airport,31.0,METAR NVVV 2Z
+SON  NVSS,Santo Pekoa International Airport,31.0,METAR NVSS 2Z
+HPA  NFTL,Lifuka Island Airport,31.0,METAR NFTL 2Z
+VAV  NFTV,Vava'u International Airport,31.0,METAR NFTV 2Z
+NCPL,,31.0,METAR NCPL 2Z
+TVU  NFNM,Matei Airport,31.0,METAR NFNM 2Z
+SVU  NFNS,Savusavu Airport,31.0,METAR NFNS 2Z
+NAN  NFFN,Nadi International Airport,31.0,METAR NFFN 2Z
+MDZ  SAME,El Plumerillo Airport,31.0,METAR SAME 2Z
+DRW  YPDN,Darwin International Airport / RAAF Darwin,31.0,METAR YPDN 2Z
+TSV  YBTL,Townsville Airport / RAAF Base Townsville,31.0,METAR YBTL 2Z
+CNS  YBCS,Cairns International Airport,31.0,METAR YBCS 2Z
+ADL  YPAD,Adelaide International Airport,31.0,METAR YPAD 2Z
+KTR  YPTN,Tindal Airport,31.0,METAR YPTN 2Z
+GOV  YPGV,Gove Airport,31.0,METAR YPGV 2Z
 DCN  YCIN,RAAF Base Curtin,31.0,METAR YCIN 2Z
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,31.0,METAR YPKU 2Z
-BNE  YBBN,Brisbane International Airport,31.0,METAR YBBN 2Z
-YAP  PTYA,Yap International Airport,30.0,METAR PTYA 2Z
+ROK  YBRK,Rockhampton Airport,31.0,METAR YBRK 2Z
+DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,31.0,METAR WAJJ 2Z
+UPG  WAAA,Hasanuddin International Airport,31.0,METAR WAAA 2Z
+TKK  PTKK,Chuuk International Airport,30.0,METAR PTKK 2Z
+ROR  PTRO,Palau International Airport,30.0,METAR PTRO 2Z
 PKMR,,30.0,METAR PKMR 2Z
-MAJ  PKMJ,Marshall Islands International Airport,30.0,METAR PKMJ 2Z
-CXI  PLCH,Cassidy International Airport,30.0,METAR PLCH 2Z
-NCPL,,30.0,METAR NCPL 2Z
+YAP  PTYA,Yap International Airport,30.0,METAR PTYA 2Z
 MHX  NCMH,Manihiki Island Airport,30.0,METAR NCMH 2Z
-NQN  SAZN,Presidente Peron Airport,30.0,METAR SAZ
-MDZ  SAME,El Plumerillo Airport,30.0,METAR SAME 2Z
-ZAM  RPMZ,Zamboanga International Airport,30.0,METAR RPMZ
-SMR  SKSM,Simón Bolívar International Airport,30.0,METAR SKSM 2Z
-NAN  NFFN,Nadi International Airport,30.0,METAR NFFN 2Z
-AWK  PWAK,Wake Island Airfield,30.0,SPECI PWAK 2Z
-IUE  NIUE,Niue International Airport,30.0,METAR NIUE 2Z
+AIU  NCAT,Enua Airport,30.0,METAR NCAT 2Z
+RAR  NCRG,Rarotonga International Airport,30.0,METAR NCRG 2Z
+TAH  NVVW,Whitegrass Airport,30.0,METAR NVVW 2Z
+PYE  NCPY,Tongareva Airport,30.0,METAR NCPY 2Z
+APW  NSFA,Faleolo International Airport,30.0,METAR NSFA 2Z
+CXI  PLCH,Cassidy International Airport,30.0,METAR PLCH 2Z
+VUP  SKVP,Alfonso López Pumarejo Airport,30.0,METAR SKVP 2Z
