@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-FOS  YFRT,Forrest Airport,39.0,METAR YFRT 2Z
-ASP  YBAS,Alice Springs Airport,37.0,METAR YBAS 2Z
-UMR  YPWR,Woomera Airfield,35.0,METAR YPWR 2Z
-ISA  YBMA,Mount Isa Airport,35.0,METAR YBMA 2Z
-LBS  NFNL,Labasa Airport,33.0,METAR NFNL 2Z
+UMR  YPWR,Woomera Airfield,42.0,SPECI YPWR 2Z
+ADL  YPAD,Adelaide International Airport,41.0,METAR YPAD 2Z
+ASP  YBAS,Alice Springs Airport,38.0,METAR YBAS 2Z
+PHE  YPPD,Port Hedland International Airport,35.0,METAR YPPD 2Z
+MEL  YMML,Melbourne Airport,34.0,METAR YMML 2Z
