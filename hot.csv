@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-UTN  FAUP,Pierre Van Ryneveld Airport,39.0,METAR FAUP 3Z
-LOK  HKLO,Lodwar Airport,38.0,METAR HKLO 3Z
-SRH  FTTA,Sarh Airport,38.0,METAR FTTA 3Z
-KIM  FAKM,Kimberley Airport,38.0,METAR FAKM 3Z
-GAS  HKGA,Garissa Airport,37.0,METAR HKGA 3Z
+GET  YGEL,Geraldton Airport,40.0,METAR YGEL 0Z
+PHE  YPPD,Port Hedland International Airport,39.0,METAR YPPD 0Z
+DBO  YSDU,Dubbo City Regional Airport,37.0,METAR YSDU 0Z
+ASP  YBAS,Alice Springs Airport,37.0,METAR YBAS 0Z
+TMW  YSTW,Tamworth Airport,36.0,METAR YSTW 0Z
