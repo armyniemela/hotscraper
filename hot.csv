@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GET  YGEL,Geraldton Airport,40.0,METAR YGEL 0Z
-YPEA,RAAF Base Pearce,36.0,METAR YPEA 0Z
-LEA  YPLM,Learmonth Airport,36.0,METAR YPLM 0Z
-PER  YPPH,Perth International Airport,35.0,METAR YPPH 0Z
-PHE  YPPD,Port Hedland International Airport,35.0,METAR YPPD 0Z
+UTN  FAUP,Pierre Van Ryneveld Airport,39.0,METAR FAUP 0Z
+AEH  FTTC,Abeche Airport,38.0,METAR FTTC 0Z
+GMO  DNGO,Gombe Lawanti International Airport,38.0,METAR DNGO 0Z
+YOL  DNYO,Yola Airport,38.0,METAR DNYO 0Z
+SRH  FTTA,Sarh Airport,38.0,METAR FTTA 0Z
