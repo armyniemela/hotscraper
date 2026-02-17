@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LEA  YPLM,Learmonth Airport,34.0,METAR YPLM 1Z
-ISA  YBMA,Mount Isa Airport,34.0,METAR YBMA 1Z
-SVU  NFNS,Savusavu Airport,33.0,METAR NFNS 1Z
-NAN  NFFN,Nadi International Airport,33.0,METAR NFFN 1Z
-LBS  NFNL,Labasa Airport,33.0,METAR NFNL 1Z
+CWNC,,55.0,METAR CWNC 1Z
+LOK  HKLO,Lodwar Airport,38.0,METAR HKLO 1Z
+AEH  FTTC,Abeche Airport,38.0,METAR FTTC 1Z
+GAS  HKGA,Garissa Airport,37.0,METAR HKGA 1Z
+WJR  HKWJ,Wajir Airport,37.0,METAR HKWJ 1Z
