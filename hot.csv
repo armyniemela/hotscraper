@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LOK  HKLO,Lodwar Airport,38.0,METAR HKLO 1Z
-AEH  FTTC,Abeche Airport,36.0,METAR FTTC 1Z
-ABV  DNAA,Nnamdi Azikiwe International Airport,35.0,METAR DNAA 1Z
-MXJ  DNMN,Minna Airport,35.0,METAR DNMN 1Z
-TML  DGLE,Tamale Airport,35.0,METAR DGLE 1Z
+GET  YGEL,Geraldton Airport,37.0,METAR YGEL 1Z
+TMW  YSTW,Tamworth Airport,35.0,METAR YSTW 1Z
+YPEA,RAAF Base Pearce,34.0,METAR YPEA 1Z
+PER  YPPH,Perth International Airport,34.0,METAR YPPH 1Z
+ASU  SGAS,Aeropuerto Internacional Silvio Pettirossi,33.0,METAR SGAS 1Z
