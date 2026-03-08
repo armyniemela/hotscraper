@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GMO  DNGO,Gombe Lawanti International Airport,38.0,METAR DNGO 0Z
-NIM  DRRN,Diori Hamani International Airport,38.0,METAR DRRN 0Z
-KAD  DNKA,Kaduna Airport,38.0,METAR DNKA 0Z
-OUA  DFFD,Ouagadougou Airport,38.0,METAR DFFD 0Z
-NDJ  FTTJ,N'Djamena International Airport,38.0,METAR FTTJ 0Z
-GBI  VOGB,Kalaburagi Airport,38.0,METAR VOGB 0Z
-THZ  DRRT,Tahoua Airport,37.0,METAR DRRT 0Z
-MPM  FQMA,Maputo Airport,37.0,METAR FQMA 0Z
-MZI  GAMB,Mopti Ambodédjo International Airport,37.0,METAR GAMB 0Z
-GAQ  GAGO,Gao Airport,37.0,METAR GAGO 0Z
-SXV  VOSM,Salem Airport,36.0,METAR VOSM 0Z
-KQH  VIKG,Kishangarh Airport Ajmer,36.0,METAR VIKG 0Z
-TET  FQTT,Chingozi Airport,36.0,METAR FQTT 0Z
-HSR  VAHS,Rajkot International Airport,36.0,METAR VAHS 0Z
-ENU  DNEN,Akanu Ibiam International Airport,36.0,METAR DNEN 0Z
-DRZF,Diffa Airport,36.0,METAR DRZ
-MFQ  DRRM,Maradi Airport,36.0,METAR DRRM 0Z
+SKO  DNSO,Sadiq Abubakar III International Airport,39.0,METAR DNSO 0Z
+ABV  DNAA,Nnamdi Azikiwe International Airport,39.0,METAR DNAA 0Z
+BGF  FEFF,Bangui M'Poko International Airport,38.0,METAR FEFF 0Z
+MZI  GAMB,Mopti Ambodédjo International Airport,38.0,METAR GAMB 0Z
+TUD  GOTT,Tambacounda Airport,37.0,METAR GOTT 0Z
+GAKD,,37.0,METAR GAKD 0Z
+GBI  VOGB,Kalaburagi Airport,37.0,METAR VOGB 0Z
+LUD  FYLZ,Luderitz Airport,37.0,METAR FYLZ
+TML  DGLE,Tamale Airport,37.0,METAR DGLE 0Z
+BDQ  VABO,Vadodara Airport,37.0,METAR VABO 0Z
+BKO  GABS,Modibo Keita International Airport,37.0,METAR GABS 0Z
+AJY  DRZA,Mano Dayak International Airport,36.0,METAR DRZ
+PHC  DNPO,Port Harcourt International Airport,36.0,METAR DNPO 0Z
 ILR  DNIL,Ilorin International Airport,36.0,METAR DNIL 0Z
-BGF  FEFF,Bangui M'Poko International Airport,36.0,METAR FEFF 0Z
-CDP  VOCP,Kadapa Airport,36.0,METAR VOCP 0Z
+GOGK,,36.0,METAR GOGK 0Z
+MAX  GOSM,Ouro Sogui Airport,36.0,METAR GOSM 0Z
+KGG  GOTK,Kédougou Airport,36.0,METAR GOTK 0Z
+HSR  VAHS,Rajkot International Airport,36.0,METAR VAHS 0Z
 JLG  VAJL,Jalgaon Airport,36.0,METAR VAJL 0Z
-TIR  VOTP,Tirupati Airport,36.0,METAR VOTP 0Z
+KQH  VIKG,Kishangarh Airport Ajmer,36.0,METAR VIKG 0Z
+IXU  VAAU,Aurangabad Airport,36.0,METAR VAAU 0Z
+AMD  VAAH,Sardar Vallabh Bhai Patel International Airport,36.0,METAR VAAH 0Z
+MDL  VYMD,Mandalay International Airport,35.0,METAR VYMD 0Z
 KLH  VAKP,Kolhapur Airport,35.0,METAR VAKP 0Z
-GOGK,,35.0,METAR GOGK 0Z
-ZND  DRZR,Zinder Airport,35.0,METAR DRZ
-AJY  DRZA,Mano Dayak International Airport,35.0,METAR DRZ
-QOW  DNIM,Sam Mbakwe International Airport,35.0,METAR DNIM 0Z
-DXSK,Sokodé Airport,35.0,METAR DXSK 0Z
-AEH  FTTC,Abeche Airport,35.0,METAR FTTC 0Z
-DLA  FKKD,Douala International Airport,35.0,METAR FKKD 0Z
-OLL  FCOD,Oyo Ollombo Airport,35.0,METAR FCOD 0Z
-TUD  GOTT,Tambacounda Airport,35.0,METAR GOTT 0Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,35.0,METAR VANP 0Z
+OOAD,,35.0,METAR OOAD 0Z
+CDP  VOCP,Kadapa Airport,35.0,METAR VOCP 0Z
+NGE  FKKN,N'Gaoundéré Airport,35.0,METAR FKKN 0Z
+SHW  OESH,Sharurah Domestic Airport,35.0,METAR OESH 0Z
+ZIG  GOGG,Ziguinchor Airport,35.0,METAR GOGG 0Z
+NIX  GANR,Nioro du Sahel Airport,35.0,METAR GANR 0Z
+VDY  VOJV,Jindal Vijaynagar Airport,35.0,METAR VOJV 0Z
+STV  VASU,Surat Airport,35.0,METAR VASU 0Z
+VOHB,,35.0,METAR VOHB 0Z
+JAI  VIJP,Jaipur International Airport,35.0,METAR VIJP 0Z
 VOND,,35.0,METAR VOND 0Z
-BDQ  VABO,Vadodara Airport,35.0,METAR VABO 0Z
-IXU  VAAU,Aurangabad Airport,35.0,METAR VAAU 0Z
-BKO  GABS,Modibo Keita International Airport,35.0,METAR GABS 0Z
-IXM  VOMD,Madurai Airport,35.0,METAR VOMD 0Z
-MDL  VYMD,Mandalay International Airport,34.0,METAR VYMD 0Z
-UEL  FQQL,Quelimane Airport,34.0,METAR FQQL 0Z
-BEW  FQBR,Beira Airport,34.0,METAR FQBR 0Z
-PAB  VEBU,Bilaspur Airport,34.0,METAR VEBU 0Z
-NGE  FKKN,N'Gaoundéré Airport,34.0,METAR FKKN 0Z
-MAX  GOSM,Ouro Sogui Airport,34.0,METAR GOSM 0Z
-FIH  FZAA,Ndjili International Airport,34.0,METAR FZ
+SAG  VASD,Shirdi Airport,34.0,METAR VASD 0Z
+MJN  FMNM,Amborovy Airport,34.0,METAR FMNM 0Z
+BMW  DATM,Bordj Badji Mokhtar Airport,34.0,METAR DATM 0Z
+SXV  VOSM,Salem Airport,34.0,METAR VOSM 0Z
+LOK  HKLO,Lodwar Airport,34.0,METAR HKLO 0Z
+ISK  VAOZ,Nashik Airport,34.0,METAR VAOZ
+UDR  VAUD,Maharana Pratap Airport,34.0,METAR VAUD 0Z
+BOM  VABB,Chhatrapati Shivaji International Airport,34.0,METAR VABB 0Z
+TIR  VOTP,Tirupati Airport,34.0,METAR VOTP 0Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,34.0,METAR VANP 0Z
