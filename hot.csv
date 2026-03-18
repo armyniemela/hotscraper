@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GAKD,,41.0,METAR GAKD 1Z
-SRH  FTTA,Sarh Airport,40.0,METAR FTTA 1Z
-K1R7,Brookhaven-Lincoln County Airport,39.0,METAR K1R7 1Z
-YOL  DNYO,Yola Airport,39.0,METAR DNYO 1Z
-AEH  FTTC,Abeche Airport,39.0,METAR FTTC 1Z
+GET  YGEL,Geraldton Airport,38.0,METAR YGEL 1Z
+PHE  YPPD,Port Hedland International Airport,35.0,METAR YPPD 1Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,34.0,METAR MMML 1Z
+PSP  KPSP,Palm Springs International Airport,34.0,METAR KPSP 1Z
+LGF  KLGF,Laguna Army Airfield,34.0,METAR KLGF 1Z
