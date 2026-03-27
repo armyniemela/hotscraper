@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-TOM  GATB,Timbuktu Airport,40.0,METAR GATB 2Z
-GMO  DNGO,Gombe Lawanti International Airport,39.0,METAR DNGO 2Z
-THZ  DRRT,Tahoua Airport,39.0,METAR DRRT 2Z
-OUA  DFFD,Ouagadougou Airport,39.0,METAR DFFD 2Z
-NDJ  FTTJ,N'Djamena International Airport,39.0,METAR FTTJ 2Z
-DNKT,,38.0,METAR DNKT 2Z
-KAN  DNKN,Mallam Aminu International Airport,38.0,METAR DNKN 2Z
-ZND  DRZR,Zinder Airport,38.0,METAR DRZ
-MFQ  DRRM,Maradi Airport,38.0,METAR DRRM 2Z
-SRH  FTTA,Sarh Airport,38.0,METAR FTTA 2Z
-LPQ  VLLB,Luang Phabang International Airport,37.0,METAR VLLB 2Z
-BSA  HCMF,Bosaso / Bender Qassim International Airport,37.0,METAR HCMF 2Z
-TML  DGLE,Tamale Airport,37.0,METAR DGLE 2Z
-SHW  OESH,Sharurah Domestic Airport,37.0,METAR OESH 2Z
-SKO  DNSO,Sadiq Abubakar III International Airport,37.0,METAR DNSO 2Z
-AJY  DRZA,Mano Dayak International Airport,37.0,METAR DRZ
-GAKD,,37.0,METAR GAKD 2Z
-BKO  GABS,Modibo Keita International Airport,37.0,METAR GABS 2Z
-VOND,,37.0,METAR VOND 2Z
-PAB  VEBU,Bilaspur Airport,36.0,METAR VEBU 2Z
-IXW  VEJS,Sonari Airport,36.0,METAR VEJS 2Z
-ZAR  DNZA,Zaria Airport,36.0,METAR DNZ
-ILR  DNIL,Ilorin International Airport,36.0,METAR DNIL 2Z
-BOY  DFOO,Bobo Dioulasso Airport,36.0,METAR DFOO 2Z
-LOK  HKLO,Lodwar Airport,35.0,METAR HKLO 2Z
-VDY  VOJV,Jindal Vijaynagar Airport,35.0,METAR VOJV 2Z
-GAS  HKGA,Garissa Airport,35.0,METAR HKGA 2Z
-RRK  VERK,Rourkela Airport,35.0,METAR VERK 2Z
-NIX  GANR,Nioro du Sahel Airport,35.0,METAR GANR 2Z
-CDP  VOCP,Kadapa Airport,35.0,METAR VOCP 2Z
-JLG  VAJL,Jalgaon Airport,35.0,METAR VAJL 2Z
-DRZF,Diffa Airport,35.0,METAR DRZ
-BDQ  VABO,Vadodara Airport,35.0,METAR VABO 2Z
-GOX  VOGA,Manohar International Airport,35.0,METAR VOGA 2Z
-KGG  GOTK,Kédougou Airport,34.0,METAR GOTK 2Z
-SAG  VASD,Shirdi Airport,34.0,METAR VASD 2Z
-BMW  DATM,Bordj Badji Mokhtar Airport,34.0,METAR DATM 2Z
-SXV  VOSM,Salem Airport,34.0,METAR VOSM 2Z
-BHU  VABV,Bhavnagar Airport,34.0,METAR VABV 2Z
-GXF  OYSY,Seiyun Hadhramaut International Airport,34.0,METAR OYSY 2Z
-MXJ  DNMN,Minna Airport,34.0,METAR DNMN 2Z
-IBA  DNIB,Ibadan Airport,34.0,METAR DNIB 2Z
-ENU  DNEN,Akanu Ibiam International Airport,34.0,METAR DNEN 2Z
-TUD  GOTT,Tambacounda Airport,34.0,METAR GOTT 2Z
-MPM  FQMA,Maputo Airport,34.0,METAR FQMA 2Z
+KGEU,Glendale Municipal Airport,34.0,METAR KGEU 2Z
+PSP  KPSP,Palm Springs International Airport,34.0,METAR KPSP 2Z
+LGF  KLGF,Laguna Army Airfield,34.0,METAR KLGF 2Z
+KNX  YPKU,East Kimberley Regional (Kununurra) Airport,34.0,METAR YPKU 2Z
+SNO  VTUI,Sakon Nakhon Airport,34.0,METAR VTUI 2Z
+HII  KHII,Lake Havasu City International Airport,34.0,METAR KHII 2Z
+BLH  KBLH,Blythe Airport,33.0,METAR KBLH 2Z
+SCF  KSDL,Scottsdale Airport,33.0,METAR KSDL 2Z
+IPL  KIPL,Imperial County Airport,33.0,METAR KIPL 2Z
+LSV  KLSV,Nellis Air Force Base,33.0,METAR KLSV 2Z
+EED  KEED,Needles Airport,33.0,METAR KEED 2Z
+YUM  KNYL,Yuma International Airport / Marine Corps Air Station Yuma,33.0,METAR KNYL 2Z
+LBS  NFNL,Labasa Airport,33.0,METAR NFNL 2Z
+KTR  YPTN,Tindal Airport,33.0,METAR YPTN 2Z
+ROI  VTUV,Roi Et Airport,33.0,METAR VTUV 2Z
+UTH  VTUD,Udon Thani Airport,33.0,METAR VTUD 2Z
+NOU  NWWW,La Tontouta International Airport,33.0,METAR NWWW 2Z
+AZA  KIWA,Mesa Gateway Airport,32.0,METAR KIWA 2Z
+KSA  PTSA,Kosrae International Airport,32.0,METAR PTSA 2Z
+MSC  KFFZ,Falcon Field,32.0,METAR KFFZ
+LAS  KLAS,Harry Reid International Airport,32.0,METAR KLAS 2Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,METAR KNJK 2Z
+CGZ  KCGZ,Casa Grande Municipal Airport,32.0,METAR KCGZ
+SFS  RPLB,Subic Bay International Airport / Naval Air Station Cubi Point,32.0,METAR RPLB 2Z
+NCNS,,32.0,METAR NCNS 2Z
+PCR  SKPC,German Olano Airport,32.0,METAR SKPC 2Z
+VLI  NVVV,Bauerfield International Airport,32.0,METAR NVVV 2Z
+ZAM  RPMZ,Zamboanga International Airport,32.0,METAR RPMZ
+KOP  VTUW,Nakhon Phanom Airport,32.0,METAR VTUW 2Z
+DMK  VTBD,Don Mueang International Airport,32.0,METAR VTBD 2Z
+OUA  DFFD,Ouagadougou Airport,32.0,METAR DFFD 2Z
+TML  DGLE,Tamale Airport,32.0,METAR DGLE 2Z
+NIM  DRRN,Diori Hamani International Airport,32.0,METAR DRRN 2Z
+TRW  NGTA,Bonriki International Airport,32.0,METAR NGTA 2Z
+SLH  NVSC,Sola Airport,32.0,METAR NVSC 2Z
+KPRS,Presidio Lely International Airport,32.0,METAR KPRS 2Z
+KRYN,Ryan Field,31.0,METAR KRYN 2Z
+TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,31.0,METAR KTUS 2Z
+DVT  KDVT,Phoenix Deer Valley Airport,31.0,METAR KDVT 2Z
+VGT  KVGT,North Las Vegas Metropolitan International Airport,31.0,METAR KVGT 2Z
+KNXP,Twentynine Palms Strategic Expeditionary Landing Field,31.0,METAR KNXP 2Z
+DMA  KDMA,Davis Monthan Air Force Base,31.0,METAR KDMA 2Z
+KHHF,Hemphill County Airport,31.0,METAR KHHF 2Z
+HSH  KHND,Henderson Executive Airport,31.0,METAR KHND 2Z
+GES  RPMR,General Santos International Airport,31.0,METAR RPMR 2Z
