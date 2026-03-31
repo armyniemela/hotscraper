@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BLH  KBLH,Blythe Airport,33.0,METAR KBLH 3Z
-IPL  KIPL,Imperial County Airport,33.0,METAR KIPL 3Z
-NOU  NWWW,La Tontouta International Airport,33.0,METAR NWWW 3Z
-PHE  YPPD,Port Hedland International Airport,33.0,METAR YPPD 3Z
-HUI  VVPB,Phu Bai International Airport,33.0,METAR VVPB 3Z
+NDJ  FTTJ,N'Djamena International Airport,40.0,METAR FTTJ 3Z
+DRZF,Diffa Airport,39.0,METAR DRZ
+GAKD,,39.0,METAR GAKD 3Z
+TUD  GOTT,Tambacounda Airport,39.0,METAR GOTT 3Z
+ZND  DRZR,Zinder Airport,38.0,METAR DRZ
