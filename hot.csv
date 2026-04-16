@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NDJ  FTTJ,N'Djamena International Airport,43.0,METAR FTTJ 1Z
-SRH  FTTA,Sarh Airport,43.0,METAR FTTA 1Z
-DRZF,Diffa Airport,42.0,METAR DRZ
-GOU  FKKR,Garoua International Airport,41.0,METAR FKKR 1Z
-ZND  DRZR,Zinder Airport,41.0,METAR DRZ
+PTTP,,34.0,METAR PTTP 1Z
+SNO  VTUI,Sakon Nakhon Airport,34.0,METAR VTUI 1Z
+PHE  YPPD,Port Hedland International Airport,34.0,METAR YPPD 1Z
+DMK  VTBD,Don Mueang International Airport,34.0,METAR VTBD 1Z
+ROI  VTUV,Roi Et Airport,33.0,METAR VTUV 1Z
