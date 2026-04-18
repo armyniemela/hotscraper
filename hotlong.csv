@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-THZ  DRRT,Tahoua Airport,40.0,METAR DRRT 1Z
-MFQ  DRRM,Maradi Airport,40.0,METAR DRRM 1Z
-GOU  FKKR,Garoua International Airport,40.0,METAR FKKR 1Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,40.0,METAR VANP 1Z
-VOND,,40.0,METAR VOND 1Z
-GBI  VOGB,Kalaburagi Airport,39.0,METAR VOGB 1Z
-PAB  VEBU,Bilaspur Airport,39.0,METAR VEBU 1Z
-KJB  VOKU,Kurnool Airport,39.0,METAR VOKU 1Z
-OUA  DFFD,Ouagadougou Airport,39.0,METAR DFFD 1Z
-ZND  DRZR,Zinder Airport,39.0,METAR DRZ
-GAKD,,39.0,METAR GAKD 1Z
-TUD  GOTT,Tambacounda Airport,39.0,METAR GOTT 1Z
-RRK  VERK,Rourkela Airport,38.0,METAR VERK 1Z
-VNS  VEBN,Lal Bahadur Shastri Airport,38.0,METAR VEBN 1Z
-BHO  VABP,Raja Bhoj International Airport,38.0,METAR VABP 1Z
-DRZF,Diffa Airport,38.0,METAR DRZ
-SHW  OESH,Sharurah Domestic Airport,38.0,METAR OESH 1Z
-OEMN,,38.0,METAR OEMN 1Z
-JED  OEJN,King Abdulaziz International Airport,38.0,METAR OEJN 1Z
-POD  GOSP,Podor Airport,37.0,METAR GOSP 1Z
-MAX  GOSM,Ouro Sogui Airport,37.0,METAR GOSM 1Z
-SXV  VOSM,Salem Airport,37.0,METAR VOSM 1Z
-TML  DGLE,Tamale Airport,37.0,METAR DGLE 1Z
-KGG  GOTK,Kédougou Airport,37.0,METAR GOTK 1Z
-BOY  DFOO,Bobo Dioulasso Airport,37.0,METAR DFOO 1Z
-SRH  FTTA,Sarh Airport,37.0,METAR FTTA 1Z
-VERP,,37.0,METAR VERP 1Z
-GXF  OYSY,Seiyun Hadhramaut International Airport,37.0,METAR OYSY 1Z
-NKC  GQNO,Nouakchott–Oumtounsy International Airport,37.0,METAR GQNO 1Z
-MZI  GAMB,Mopti Ambodédjo International Airport,37.0,METAR GAMB 1Z
-BKO  GABS,Modibo Keita International Airport,37.0,METAR GABS 1Z
-IXU  VAAU,Aurangabad Airport,37.0,METAR VAAU 1Z
-TIR  VOTP,Tirupati Airport,37.0,METAR VOTP 1Z
-JLG  VAJL,Jalgaon Airport,37.0,METAR VAJL 1Z
-ULH  OEAO,Majeed Bin Abdulaziz Airport,37.0,METAR OEAO 1Z
-AMD  VAAH,Sardar Vallabh Bhai Patel International Airport,37.0,METAR VAAH 1Z
-JAI  VIJP,Jaipur International Airport,37.0,METAR VIJP 1Z
-ATR  GQPA,Atar International Airport,36.0,METAR GQPA 1Z
-GOOG,Linguère Airport,36.0,METAR GOOG 1Z
-AJY  DRZA,Mano Dayak International Airport,36.0,METAR DRZ
-CJB  VOCB,Coimbatore International Airport,36.0,METAR VOCB 1Z
-MUX  OPMT,Multan International Airport,36.0,METAR OPMT 1Z
-SAG  VASD,Shirdi Airport,36.0,METAR VASD 1Z
-SSE  VASL,Solapur Airport,36.0,METAR VASL 1Z
-BGF  FEFF,Bangui M'Poko International Airport,36.0,METAR FEFF 1Z
+APW  NSFA,Faleolo International Airport,33.0,METAR NSFA 1Z
+MDL  VYMD,Mandalay International Airport,32.0,METAR VYMD 1Z
+BKK  VTBS,Suvarnabhumi Airport,32.0,METAR VTBS 1Z
+MNL  RPLL,Ninoy Aquino International Airport,32.0,METAR RPLL 1Z
+PPS  RPVP,Puerto Princesa International Airport / PAF Antonio Bautista Air Base,32.0,METAR RPVP 1Z
+KTR  YPTN,Tindal Airport,32.0,METAR YPTN 1Z
+UTP  VTBU,U-Tapao International Airport,32.0,METAR VTBU 1Z
+HIR  AGGH,Honiara International Airport,32.0,METAR AGGH 1Z
+NAK  VTUQ,Nakhon Ratchasima Airport,32.0,METAR VTUQ 1Z
+USM  VTSM,Samui Airport,32.0,METAR VTSM 1Z
+NST  VTSF,Nakhon Si Thammarat Airport,32.0,METAR VTSF 1Z
+URT  VTSB,Surat Thani Airport,32.0,METAR VTSB 1Z
+BDJ  WAOO,Syamsudin Noor International Airport,32.0,METAR WAOO 1Z
+TNJ  WIDN,Raja Haji Fisabilillah International Airport,32.0,METAR WIDN 1Z
+KOS  VDSV,Sihanoukville International Airport,32.0,METAR VDSV 1Z
+PZK  NCPK,Pukapuka Island Airport,32.0,METAR NCPK 1Z
+LBS  NFNL,Labasa Airport,32.0,METAR NFNL 1Z
+QPG  WSAP,Paya Lebar Air Base,32.0,METAR WSAP 1Z
+PQC  VVPQ,Phu Quoc International Airport,32.0,METAR VVPQ 1Z
+MYY  WBGR,Miri Airport,32.0,METAR WBGR 1Z
+VERP,,32.0,METAR VERP 1Z
+CRK  RPLC,Clark International Airport / Clark Air Base,32.0,METAR RPLC 1Z
+NOU  NWWW,La Tontouta International Airport,32.0,METAR NWWW 1Z
+SLH  NVSC,Sola Airport,32.0,METAR NVSC 1Z
+LOD  NVSG,Longana Airport,32.0,METAR NVSG 1Z
+DMK  VTBD,Don Mueang International Airport,32.0,METAR VTBD 1Z
+TRC  MMTC,Francisco Sarabia Tinoco International Airport,31.0,METAR MMTC 1Z
+KSA  PTSA,Kosrae International Airport,31.0,METAR PTSA 1Z
+PNI  PTPN,Pohnpei International Airport,31.0,METAR PTPN 1Z
+KT70,,31.0,METAR KT70 1Z
+PTTP,,31.0,METAR PTTP 1Z
+CNX  VTCC,Chiang Mai International Airport,31.0,METAR VTCC 1Z
+HKT  VTSP,Phuket International Airport,31.0,METAR VTSP 1Z
+CEB  RPVM,Mactan Cebu International Airport,31.0,METAR RPVM 1Z
+SFS  RPLB,Subic Bay International Airport / Naval Air Station Cubi Point,31.0,METAR RPLB 1Z
+DVO  RPMD,Francisco Bangoy International Airport,31.0,METAR RPMD 1Z
+DRW  YPDN,Darwin International Airport / RAAF Darwin,31.0,METAR YPDN 1Z
+DPS  WADD,Denpasar I Gusti Ngurah Rai International Airport,31.0,METAR WADD 1Z
+BME  YBRM,Broome International Airport,31.0,METAR YBRM 1Z
+UTH  VTUD,Udon Thani Airport,31.0,METAR VTUD 1Z
+TDX  VTBO,Trat Airport,31.0,METAR VTBO 1Z
+PHY  VTPB,Phetchabun Airport,31.0,METAR VTPB 1Z
+PHS  VTPP,Phitsanulok Airport,31.0,METAR VTPP 1Z
+THS  VTPO,Sukhothai Airport,31.0,METAR VTPO 1Z
+PRH  VTCP,Phrae Airport,31.0,METAR VTCP 1Z
