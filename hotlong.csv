@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PHE  YPPD,Port Hedland International Airport,33.0,METAR YPPD 2Z
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,33.0,METAR YPKU 2Z
-SLH  NVSC,Sola Airport,33.0,METAR NVSC 2Z
-NCNS,,33.0,METAR NCNS 2Z
-MDL  VYMD,Mandalay International Airport,32.0,METAR VYMD 2Z
-AZA  KIWA,Mesa Gateway Airport,32.0,METAR KIWA 2Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,32.0,METAR KPHX 2Z
+HHQ  VTPH,Hua Hin Airport,33.0,METAR VTPH 2Z
+IXR  VERC,Birsa Munda Airport,33.0,METAR VERC 2Z
+MDL  VYMD,Mandalay International Airport,33.0,METAR VYMD 2Z
+VNS  VEBN,Lal Bahadur Shastri Airport,33.0,METAR VEBN 2Z
+VTE  VLVT,Wattay International Airport,33.0,METAR VLVT 2Z
+PQC  VVPQ,Phu Quoc International Airport,33.0,METAR VVPQ 2Z
+HUI  VVPB,Phu Bai International Airport,33.0,METAR VVPB 2Z
+BKK  VTBS,Suvarnabhumi Airport,33.0,METAR VTBS 2Z
+DMK  VTBD,Don Mueang International Airport,33.0,METAR VTBD 2Z
+TSA  RCSS,Taipei Songshan Airport,33.0,SPECI RCSS 2Z
+PNI  PTPN,Pohnpei International Airport,32.0,METAR PTPN 2Z
+PTTP,,32.0,METAR PTTP 2Z
 PPS  RPVP,Puerto Princesa International Airport / PAF Antonio Bautista Air Base,32.0,METAR RPVP 2Z
-GES  RPMR,General Santos International Airport,32.0,METAR RPMR 2Z
-SFS  RPLB,Subic Bay International Airport / Naval Air Station Cubi Point,32.0,METAR RPLB 2Z
-BKK  VTBS,Suvarnabhumi Airport,32.0,METAR VTBS 2Z
-MYY  WBGR,Miri Airport,32.0,METAR WBGR 2Z
-UTP  VTBU,U-Tapao International Airport,32.0,METAR VTBU 2Z
-DCN  YCIN,RAAF Base Curtin,32.0,METAR YCIN 2Z
-MDC  WAMM,Sam Ratulangi Airport,32.0,METAR WAMM 2Z
-DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,32.0,METAR WAJJ 2Z
-AMQ  WAPP,Pattimura International Airport,32.0,METAR WAPP 2Z
-USM  VTSM,Samui Airport,32.0,METAR VTSM 2Z
-KBV  VTSG,Krabi Airport,32.0,METAR VTSG 2Z
-HUI  VVPB,Phu Bai International Airport,32.0,METAR VVPB 2Z
-PQC  VVPQ,Phu Quoc International Airport,32.0,METAR VVPQ 2Z
-PRH  VTCP,Phrae Airport,32.0,METAR VTCP 2Z
-HHQ  VTPH,Hua Hin Airport,32.0,METAR VTPH 2Z
-VTE  VLVT,Wattay International Airport,32.0,METAR VLVT 2Z
-SNO  VTUI,Sakon Nakhon Airport,32.0,METAR VTUI 2Z
-KKC  VTUK,Khon Kaen Airport,32.0,METAR VTUK 2Z
-UBP  VTUU,Ubon Ratchathani Airport,32.0,METAR VTUU 2Z
 ROI  VTUV,Roi Et Airport,32.0,METAR VTUV 2Z
-BME  YBRM,Broome International Airport,32.0,METAR YBRM 2Z
-NCRK,,32.0,METAR NCRK 2Z
-NCPL,,32.0,METAR NCPL 2Z
-PAT  VEPT,Jay Prakash Narayan Airport,32.0,METAR VEPT 2Z
+UBP  VTUU,Ubon Ratchathani Airport,32.0,METAR VTUU 2Z
+UTH  VTUD,Udon Thani Airport,32.0,METAR VTUD 2Z
+NST  VTSF,Nakhon Si Thammarat Airport,32.0,METAR VTSF 2Z
+URT  VTSB,Surat Thani Airport,32.0,METAR VTSB 2Z
+PHY  VTPB,Phetchabun Airport,32.0,METAR VTPB 2Z
+THS  VTPO,Sukhothai Airport,32.0,METAR VTPO 2Z
+PRH  VTCP,Phrae Airport,32.0,METAR VTCP 2Z
+ZVK  VLSK,Savannakhet Airport,32.0,METAR VLSK 2Z
+SDK  WBKS,Sandakan Airport,32.0,METAR WBKS 2Z
 MNL  RPLL,Ninoy Aquino International Airport,32.0,METAR RPLL 2Z
+SFS  RPLB,Subic Bay International Airport / Naval Air Station Cubi Point,32.0,METAR RPLB 2Z
+CRK  RPLC,Clark International Airport / Clark Air Base,32.0,METAR RPLC 2Z
+LBS  NFNL,Labasa Airport,32.0,METAR NFNL 2Z
+LKO  VILK,Chaudhary Charan Singh International Airport,32.0,METAR VILK 2Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,32.0,METAR VANP 2Z
+IXM  VOMD,Madurai Airport,32.0,METAR VOMD 2Z
+BPM  VOHY,Begumpet Airport,32.0,METAR VOHY 2Z
+BKO  GABS,Modibo Keita International Airport,32.0,METAR GABS 2Z
+KCH  WBGG,Kuching International Airport,32.0,METAR WBGG 2Z
+BWN  WBSB,Brunei International Airport,32.0,METAR WBSB 2Z
+PHE  YPPD,Port Hedland International Airport,32.0,METAR YPPD 2Z
+BME  YBRM,Broome International Airport,32.0,METAR YBRM 2Z
+KNX  YPKU,East Kimberley Regional (Kununurra) Airport,32.0,METAR YPKU 2Z
+DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,32.0,METAR WAJJ 2Z
+LOP  WADL,Lombok International Airport,32.0,METAR WADL 2Z
+CNX  VTCC,Chiang Mai International Airport,32.0,METAR VTCC 2Z
 HMO  MMHO,General Ignacio P. Garcia International Airport,31.0,METAR MMHO 2Z
-GYR  KGYR,Phoenix Goodyear Airport,31.0,METAR KGYR 2Z
-KGEU,Glendale Municipal Airport,31.0,METAR KGEU 2Z
-KCHD,Chandler Municipal Airport,31.0,METAR KCHD 2Z
-ROR  PTRO,Palau International Airport,31.0,METAR PTRO 2Z
-PPG  NSTU,Pago Pago International Airport,31.0,METAR NSTU 2Z
+KHS  OOKB,Khasab Airport,31.0,METAR OOKB 2Z
+TKK  PTKK,Chuuk International Airport,31.0,METAR PTKK 2Z
+KSA  PTSA,Kosrae International Airport,31.0,METAR PTSA 2Z
 YAP  PTYA,Yap International Airport,31.0,METAR PTYA 2Z
-SCF  KSDL,Scottsdale Airport,31.0,METAR KSDL 2Z
-MSC  KFFZ,Falcon Field,31.0,METAR KFFZ
-LUF  KLUF,Luke Air Force Base,31.0,METAR KLUF 2Z
-PKMR,,31.0,METAR PKMR 2Z
-ZAM  RPMZ,Zamboanga International Airport,31.0,METAR RPMZ
