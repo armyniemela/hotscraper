@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-LUF  KLUF,Luke Air Force Base,37.0,METAR KLUF 1Z
-AZA  KIWA,Mesa Gateway Airport,37.0,SPECI KIWA 1Z
-GYR  KGYR,Phoenix Goodyear Airport,36.0,METAR KGYR 1Z
-MCT  OOMS,Muscat International Airport,36.0,METAR OOMS 1Z
-SCF  KSDL,Scottsdale Airport,36.0,METAR KSDL 1Z
-DVT  KDVT,Phoenix Deer Valley Airport,36.0,METAR KDVT 1Z
-LSV  KLSV,Nellis Air Force Base,36.0,METAR KLSV 1Z
-LAS  KLAS,Harry Reid International Airport,36.0,METAR KLAS 1Z
-EED  KEED,Needles Airport,36.0,METAR KEED 1Z
-HII  KHII,Lake Havasu City International Airport,36.0,METAR KHII 1Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,35.0,METAR KTUS 1Z
-VGT  KVGT,North Las Vegas Metropolitan International Airport,35.0,METAR KVGT 1Z
-KGXF,,35.0,METAR KGXF 1Z
-HSH  KHND,Henderson Executive Airport,35.0,METAR KHND 1Z
-VOND,,35.0,METAR VOND 1Z
-VEKO,,35.0,METAR VEKO 1Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,35.0,METAR VANP 1Z
-KP08,Coolidge Municipal Airport,35.0,METAR KP08 1Z
-BLH  KBLH,Blythe Airport,34.0,METAR KBLH 1Z
-INS  KINS,Creech Air Force Base,34.0,METAR KINS 1Z
-SGU  KSGU,St George Regional Airport,34.0,METAR KSGU 1Z
-NIX  GANR,Nioro du Sahel Airport,34.0,METAR GANR 1Z
-MNL  RPLL,Ninoy Aquino International Airport,34.0,METAR RPLL 1Z
-JAI  VIJP,Jaipur International Airport,34.0,METAR VIJP 1Z
-DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,34.0,METAR WAJJ 1Z
-KBVU,,34.0,METAR KBVU 1Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,33.0,METAR MMHO 1Z
-DRA  KDRA,Desert Rock Airport,33.0,METAR KDRA 1Z
-LGF  KLGF,Laguna Army Airfield,33.0,METAR KLGF 1Z
-BYS  KBYS,Bicycle Lake Army Air Field,33.0,SPECI KBYS 1Z
-KTE  WMKE,Kerteh Airport,33.0,METAR WMKE 1Z
-TWU  WBKW,Tawau Airport,33.0,METAR WBKW 1Z
-DRW  YPDN,Darwin International Airport / RAAF Darwin,33.0,METAR YPDN 1Z
-BMW  DATM,Bordj Badji Mokhtar Airport,33.0,METAR DATM 1Z
-PPS  RPVP,Puerto Princesa International Airport / PAF Antonio Bautista Air Base,33.0,METAR RPVP 1Z
-SFS  RPLB,Subic Bay International Airport / Naval Air Station Cubi Point,33.0,METAR RPLB 1Z
-VVZ  DAAP,Illizi Takhamalt Airport,33.0,METAR DAAP 1Z
-CEB  RPVM,Mactan Cebu International Airport,33.0,METAR RPVM 1Z
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,33.0,METAR YPKU 1Z
-DCN  YCIN,RAAF Base Curtin,33.0,METAR YCIN 1Z
-SNO  VTUI,Sakon Nakhon Airport,33.0,METAR VTUI 1Z
-SGN  VVTS,Tan Son Nhat International Airport,33.0,METAR VVTS 1Z
-DAD  VVDN,Da Nang International Airport,33.0,METAR VVDN 1Z
-CXR  VVCR,Cam Ranh International Airport / Cam Ranh Air Base,33.0,METAR VVCR 1Z
-HHQ  VTPH,Hua Hin Airport,33.0,METAR VTPH 1Z
+DRZF,Diffa Airport,43.0,METAR DRZ
+ZND  DRZR,Zinder Airport,42.0,METAR DRZ
+MFQ  DRRM,Maradi Airport,42.0,METAR DRRM 1Z
+WAE  OEWD,Wadi Al Dawasir Domestic Airport,42.0,METAR OEWD 1Z
+ASW  HESN,Aswan International Airport,42.0,METAR HESN 1Z
+OUA  DFFD,Ouagadougou Airport,41.0,METAR DFFD 1Z
+MZI  GAMB,Mopti Ambodédjo International Airport,41.0,METAR GAMB 1Z
+TUD  GOTT,Tambacounda Airport,41.0,METAR GOTT 1Z
+OEMN,,41.0,METAR OEMN 1Z
+AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,41.0,METAR DAUA 1Z
+AKH  OEPS,Prince Sultan Air Base,40.0,METAR OEPS 1Z
+SRH  FTTA,Sarh Airport,40.0,METAR FTTA 1Z
+JLG  VAJL,Jalgaon Airport,40.0,METAR VAJL 1Z
+SHW  OESH,Sharurah Domestic Airport,40.0,METAR OESH 1Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,METAR OEMA 1Z
+OEKJ,,40.0,METAR OEKJ 1Z
+HOF  OEAH,Al-Ahsa International Airport,40.0,METAR OEAH 1Z
+GXF  OYSY,Seiyun Hadhramaut International Airport,40.0,METAR OYSY 1Z
+ABS  HEBL,Abu Simbel Airport,40.0,METAR HEBL 1Z
+LXR  HELX,Luxor International Airport,40.0,METAR HELX 1Z
+VVZ  DAAP,Illizi Takhamalt Airport,40.0,METAR DAAP 1Z
+INZ  DAUI,In Salah Airport,40.0,METAR DAUI 1Z
+GOU  FKKR,Garoua International Airport,40.0,METAR FKKR 1Z
+NJF  ORNI,Al Najaf International Airport,40.0,METAR ORNI 1Z
+AAN  OMAL,Al Ain International Airport,40.0,METAR OMAL 1Z
+OOAD,,39.0,METAR OOAD 1Z
+KWI  OKKK,Kuwait International Airport,39.0,METAR OKKK 1Z
+BGW  ORBI,Baghdad International Airport / New Al Muthana Air Base,39.0,METAR ORBI 1Z
+ABD  OIAA,Abadan Airport,39.0,METAR OIAA 1Z
+IHR  OIZI,Iranshahr Airport,39.0,METAR OIZ
+AKW  OIAG,Aghajari Airport,39.0,METAR OIAG 1Z
+RUH  OERK,King Khaled International Airport,39.0,METAR OERK 1Z
+ULH  OEAO,Majeed Bin Abdulaziz Airport,39.0,METAR OEAO 1Z
+BSR  ORMM,Basra International Airport,39.0,METAR ORMM 1Z
+BHO  VABP,Raja Bhoj International Airport,38.0,METAR VABP 1Z
+KHS  OOKB,Khasab Airport,38.0,METAR OOKB 1Z
+OKAS,Ali Al Salem Air Base,38.0,METAR OKAS 1Z
+XJD  OTBH,Al Udeid Air Base,38.0,METAR OTBH 1Z
+BKO  GABS,Modibo Keita International Airport,38.0,METAR GABS 1Z
+ZIG  GOGG,Ziguinchor Airport,38.0,METAR GOGG 1Z
+BDQ  VABO,Vadodara Airport,38.0,METAR VABO 1Z
+AMD  VAAH,Sardar Vallabh Bhai Patel International Airport,38.0,METAR VAAH 1Z
+LFM  OISR,Lamerd Airport,38.0,METAR OISR 1Z
+AWZ  OIAW,Lieutenant General Qasem Soleimani International Airport,38.0,METAR OIAW 1Z
+MRX  OIAM,Mahshahr Airport,38.0,METAR OIAM 1Z
