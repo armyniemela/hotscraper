@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-JAI  VIJP,Jaipur International Airport,34.0,METAR VIJP 1Z
-VVZ  DAAP,Illizi Takhamalt Airport,34.0,METAR DAAP 1Z
-LKO  VILK,Chaudhary Charan Singh International Airport,34.0,METAR VILK 1Z
-AGR  VIAG,Agra Airport / Agra Air Force Station,33.0,METAR VIAG 1Z
-GWL  VIGR,Gwalior Airport,33.0,METAR VIGR 1Z
-TRC  MMTC,Francisco Sarabia Tinoco International Airport,33.0,METAR MMTC 1Z
-LSV  KLSV,Nellis Air Force Base,33.0,METAR KLSV 1Z
-NST  VTSF,Nakhon Si Thammarat Airport,33.0,METAR VTSF 1Z
-DAD  VVDN,Da Nang International Airport,33.0,METAR VVDN 1Z
-HUI  VVPB,Phu Bai International Airport,33.0,METAR VVPB 1Z
-SGN  VVTS,Tan Son Nhat International Airport,33.0,METAR VVTS 1Z
-DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,33.0,METAR WAJJ 1Z
-BFV  VTUO,Buri Ram Airport,33.0,METAR VTUO 1Z
-NAK  VTUQ,Nakhon Ratchasima Airport,33.0,METAR VTUQ 1Z
-BDQ  VABO,Vadodara Airport,33.0,METAR VABO 1Z
-VGA  VOBZ,Vijayawada Airport,33.0,METAR VOBZ
-UDR  VAUD,Maharana Pratap Airport,33.0,METAR VAUD 1Z
-IXU  VAAU,Aurangabad Airport,33.0,METAR VAAU 1Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,33.0,METAR VANP 1Z
-TWU  WBKW,Tawau Airport,33.0,METAR WBKW 1Z
-SDK  WBKS,Sandakan Airport,33.0,METAR WBKS 1Z
-KBR  WMKC,Sultan Ismail Petra Airport,33.0,METAR WMKC 1Z
-BHO  VABP,Raja Bhoj International Airport,33.0,METAR VABP 1Z
-VEKO,,33.0,METAR VEKO 1Z
-LAO  RPLI,Laoag International Airport,33.0,METAR RPLI 1Z
-DVO  RPMD,Francisco Bangoy International Airport,33.0,METAR RPMD 1Z
-CEB  RPVM,Mactan Cebu International Airport,33.0,METAR RPVM 1Z
-MNL  RPLL,Ninoy Aquino International Airport,33.0,METAR RPLL 1Z
-GAY  VEGY,Gaya Airport,33.0,METAR VEGY 1Z
-IFP  KIFP,Laughlin Bullhead International Airport,33.0,METAR KIFP 1Z
-LHE  OPLA,Allama Iqbal International Airport,33.0,METAR OPLA 1Z
-MDL  VYMD,Mandalay International Airport,32.0,METAR VYMD 1Z
-CPE  MMCP,Ingeniero Alberto Acuña Ongay International Airport,32.0,METAR MMCP 1Z
-MID  MMMD,Manuel Crescencio Rejón International Airport,32.0,METAR MMMD 1Z
-KCHD,Chandler Municipal Airport,32.0,METAR KCHD 1Z
-GYR  KGYR,Phoenix Goodyear Airport,32.0,METAR KGYR 1Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,32.0,SPECI KPHX 1Z
-HII  KHII,Lake Havasu City International Airport,32.0,METAR KHII 1Z
-EED  KEED,Needles Airport,32.0,METAR KEED 1Z
-USM  VTSM,Samui Airport,32.0,METAR VTSM 1Z
-TST  VTST,Trang Airport,32.0,METAR VTST 1Z
-PZK  NCPK,Pukapuka Island Airport,32.0,METAR NCPK 1Z
-NCNS,,32.0,METAR NCNS 1Z
-KKC  VTUK,Khon Kaen Airport,32.0,METAR VTUK 1Z
-UBP  VTUU,Ubon Ratchathani Airport,32.0,METAR VTUU 1Z
+ATZ  HEAT,Asyut International Airport,42.0,METAR HEAT 1Z
+ASW  HESN,Aswan International Airport,42.0,METAR HESN 1Z
+GWL  VIGR,Gwalior Airport,42.0,METAR VIGR 1Z
+DRZF,Diffa Airport,42.0,METAR DRZ
+ZND  DRZR,Zinder Airport,42.0,METAR DRZ
+THZ  DRRT,Tahoua Airport,42.0,METAR DRRT 1Z
+MZI  GAMB,Mopti Ambodédjo International Airport,42.0,METAR GAMB 1Z
+SHW  OESH,Sharurah Domestic Airport,42.0,METAR OESH 1Z
+IHR  OIZI,Iranshahr Airport,41.0,METAR OIZ
+SSE  VASL,Solapur Airport,41.0,METAR VASL 1Z
+HMB  HESG,Sohag International Airport,41.0,METAR HESG 1Z
+LXR  HELX,Luxor International Airport,41.0,METAR HELX 1Z
+AGR  VIAG,Agra Airport / Agra Air Force Station,41.0,METAR VIAG 1Z
+NDJ  FTTJ,N'Djamena International Airport,41.0,METAR FTTJ 1Z
+NAG  VANP,Dr. Babasaheb Ambedkar International Airport,41.0,METAR VANP 1Z
+NIM  DRRN,Diori Hamani International Airport,41.0,METAR DRRN 1Z
+MFQ  DRRM,Maradi Airport,41.0,METAR DRRM 1Z
+AAN  OMAL,Al Ain International Airport,41.0,METAR OMAL 1Z
+BDQ  VABO,Vadodara Airport,41.0,METAR VABO 1Z
+GXF  OYSY,Seiyun Hadhramaut International Airport,41.0,METAR OYSY 1Z
+TOM  GATB,Timbuktu Airport,41.0,METAR GATB 1Z
+WAE  OEWD,Wadi Al Dawasir Domestic Airport,41.0,METAR OEWD 1Z
+MAX  GOSM,Ouro Sogui Airport,40.0,METAR GOSM 1Z
+ABS  HEBL,Abu Simbel Airport,40.0,METAR HEBL 1Z
+OOAD,,40.0,METAR OOAD 1Z
+DEL  VIDP,Indira Gandhi International Airport,40.0,METAR VIDP 1Z
+JLG  VAJL,Jalgaon Airport,40.0,METAR VAJL 1Z
+JAI  VIJP,Jaipur International Airport,40.0,METAR VIJP 1Z
+VOND,,40.0,METAR VOND 1Z
+UDR  VAUD,Maharana Pratap Airport,40.0,METAR VAUD 1Z
+IXU  VAAU,Aurangabad Airport,40.0,METAR VAAU 1Z
+CAI  HECA,Cairo International Airport,40.0,METAR HECA 1Z
+MUX  OPMT,Multan International Airport,40.0,METAR OPMT 1Z
+OEMN,,40.0,METAR OEMN 1Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,METAR OEMA 1Z
+AEH  FTTC,Abeche Airport,39.0,METAR FTTC 1Z
+SPX  HESX,Sphinx International Airport,39.0,METAR HESX 1Z
+AAC  HEAR,El Arish International Airport,39.0,METAR HEAR 1Z
+HEAX,,39.0,METAR HEAX 1Z
+NIX  GANR,Nioro du Sahel Airport,39.0,METAR GANR 1Z
+IXJ  VIJU,Jammu Airport,39.0,METAR VIJU 1Z
+HEIS,Ismailia Air Base,39.0,METAR HEIS 1Z
+IDR  VAID,Devi Ahilyabai Holkar Airport,39.0,METAR VAID 1Z
+HSR  VAHS,Rajkot International Airport,39.0,METAR VAHS 1Z
+CRZ  UTAV,Türkmenabat International Airport,39.0,METAR UTAV 1Z
