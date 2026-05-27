@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-IHR  OIZI,Iranshahr Airport,42.0,METAR OIZ
-AEH  FTTC,Abeche Airport,42.0,METAR FTTC 2Z
-ZND  DRZR,Zinder Airport,42.0,METAR DRZ
-AJY  DRZA,Mano Dayak International Airport,42.0,METAR DRZ
-NIX  GANR,Nioro du Sahel Airport,42.0,METAR GANR 2Z
-OOAD,,41.0,METAR OOAD 2Z
-AKH  OEPS,Prince Sultan Air Base,41.0,METAR OEPS 2Z
-BMW  DATM,Bordj Badji Mokhtar Airport,41.0,METAR DATM 2Z
-RBA  GMME,Rabat-Salé Airport,41.0,METAR GMME 2Z
-LFM  OISR,Lamerd Airport,41.0,METAR OISR 2Z
-RUH  OERK,King Khaled International Airport,41.0,METAR OERK 2Z
-OEKJ,,41.0,METAR OEKJ 2Z
-AKW  OIAG,Aghajari Airport,41.0,METAR OIAG 2Z
-ACZ  OIZB,Zabol Airport,41.0,METAR OIZ
-GOOG,Linguère Airport,41.0,METAR GOOG 2Z
-POD  GOSP,Podor Airport,41.0,METAR GOSP 2Z
-GAKD,,41.0,METAR GAKD 2Z
-MCT  OOMS,Muscat International Airport,40.0,METAR OOMS 2Z
-CMN  GMMN,Mohammed V International Airport,40.0,METAR GMMN 2Z
-GMD  GMMB,Ben Slimane Airport,40.0,METAR GMMB 2Z
-GMAG,,40.0,METAR GMAG 2Z
-WAE  OEWD,Wadi Al Dawasir Domestic Airport,40.0,METAR OEWD 2Z
-ABD  OIAA,Abadan Airport,40.0,METAR OIAA 2Z
-DWD  OEDM,King Salman Abdulaziz Airport,40.0,METAR OEDM 2Z
-OEAR,,40.0,METAR OEAR 2Z
-HOF  OEAH,Al-Ahsa International Airport,40.0,METAR OEAH 2Z
-LRR  OISL,Lar Airport,40.0,METAR OISL 2Z
-MRX  OIAM,Mahshahr Airport,40.0,METAR OIAM 2Z
-GOOD,,40.0,METAR GOOD 2Z
-SRH  FTTA,Sarh Airport,40.0,METAR FTTA 2Z
-NDJ  FTTJ,N'Djamena International Airport,40.0,METAR FTTJ 2Z
-BSR  ORMM,Basra International Airport,40.0,METAR ORMM 2Z
-XJD  OTBH,Al Udeid Air Base,39.0,METAR OTBH 2Z
-DEL  VIDP,Indira Gandhi International Airport,39.0,METAR VIDP 2Z
-RAK  GMMX,Menara Airport,39.0,METAR GMMX 2Z
-BEM  GMMD,Beni Mellal Airport,39.0,METAR GMMD 2Z
-MUX  OPMT,Multan International Airport,39.0,METAR OPMT 2Z
-SHW  OESH,Sharurah Domestic Airport,39.0,METAR OESH 2Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,METAR OEPA 2Z
-OEMN,,39.0,METAR OEMN 2Z
-ULH  OEAO,Majeed Bin Abdulaziz Airport,39.0,METAR OEAO 2Z
-KNR  OIBJ,Jam Airport,39.0,METAR OIBJ 2Z
-AWZ  OIAW,Lieutenant General Qasem Soleimani International Airport,39.0,METAR OIAW 2Z
-MFQ  DRRM,Maradi Airport,39.0,METAR DRRM 2Z
-KWI  OKKK,Kuwait International Airport,39.0,METAR OKKK 2Z
+TSA  RCSS,Taipei Songshan Airport,37.0,SPECI RCSS 2Z
+ATQ  VIAR,Sri Guru Ram Dass Jee International Airport,36.0,METAR VIAR 2Z
+HUI  VVPB,Phu Bai International Airport,36.0,METAR VVPB 2Z
+HAN  VVNB,Noi Bai International Airport,36.0,METAR VVNB 2Z
+DEL  VIDP,Indira Gandhi International Airport,36.0,METAR VIDP 2Z
+VERP,,36.0,METAR VERP 2Z
+HAK  ZJHK,Haikou Meilan International Airport,35.0,METAR Z
+XMN  ZSAM,Xiamen Gaoqi International Airport,35.0,METAR Z
+RMQ  RCMQ,Taichung International Airport / Ching Chuang Kang Air Base,35.0,METAR RCMQ 2Z
+VDO  VVVD,Van Don International Airport,35.0,METAR VVVD 2Z
+CXR  VVCR,Cam Ranh International Airport / Cam Ranh Air Base,35.0,METAR VVCR 2Z
+JAI  VIJP,Jaipur International Airport,35.0,METAR VIJP 2Z
+JLR  VAJB,Jabalpur Airport,35.0,METAR VAJB 2Z
+MUX  OPMT,Multan International Airport,35.0,METAR OPMT 2Z
+LYP  OPFA,Faisalabad International Airport,35.0,METAR OPFA 2Z
+AGR  VIAG,Agra Airport / Agra Air Force Station,34.0,METAR VIAG 2Z
+SWA  ZGOW,Jieyang Chaoshan International Airport,34.0,METAR Z
+UDR  VAUD,Maharana Pratap Airport,34.0,METAR VAUD 2Z
+CAN  ZGGG,Guangzhou Baiyun International Airport,34.0,METAR Z
+HPH  VVCI,Cat Bi International Airport,34.0,METAR VVCI 2Z
+BHO  VABP,Raja Bhoj International Airport,34.0,METAR VABP 2Z
+LHE  OPLA,Allama Iqbal International Airport,34.0,METAR OPLA 2Z
+KHH  RCKH,Kaohsiung International Airport,34.0,METAR RCKH 2Z
+TPE  RCTP,Taiwan Taoyuan International Airport,34.0,METAR RCTP 2Z
+IXC  VICG,Chandigarh International Airport,33.0,METAR VICG 2Z
+VOVZ,,33.0,METAR VOVZ
+IXJ  VIJU,Jammu Airport,33.0,METAR VIJU 2Z
+OHS  OOSH,Sohar Airport,33.0,METAR OOSH 2Z
+NNG  ZGNN,Nanning Wuxu Airport,33.0,METAR Z
+KWL  ZGKL,Guilin Liangjiang International Airport,33.0,METAR Z
+MNL  RPLL,Ninoy Aquino International Airport,33.0,METAR RPLL 2Z
+PAB  VEBU,Bilaspur Airport,33.0,METAR VEBU 2Z
+KLO  RPVK,Kalibo International Airport,33.0,METAR RPVK 2Z
+LAO  RPLI,Laoag International Airport,33.0,METAR RPLI 2Z
+CRK  RPLC,Clark International Airport / Clark Air Base,33.0,METAR RPLC 2Z
+SFS  RPLB,Subic Bay International Airport / Naval Air Station Cubi Point,33.0,METAR RPLB 2Z
+IHR  OIZI,Iranshahr Airport,33.0,METAR OIZ
+LKO  VILK,Chaudhary Charan Singh International Airport,33.0,METAR VILK 2Z
+KUL  WMKK,Kuala Lumpur International Airport,33.0,METAR WMKK 2Z
+SGN  VVTS,Tan Son Nhat International Airport,33.0,METAR VVTS 2Z
+PQC  VVPQ,Phu Quoc International Airport,33.0,METAR VVPQ 2Z
+VCA  VVCT,Can Tho International Airport,33.0,METAR VVCT 2Z
+VTE  VLVT,Wattay International Airport,33.0,METAR VLVT 2Z
+UTP  VTBU,U-Tapao International Airport,33.0,METAR VTBU 2Z
+BKK  VTBS,Suvarnabhumi Airport,33.0,METAR VTBS 2Z
