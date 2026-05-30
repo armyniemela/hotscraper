@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MCT  OOMS,Muscat International Airport,38.0,METAR OOMS 3Z
-OHS  OOSH,Sohar Airport,37.0,METAR OOSH 3Z
-DIA  OTBD,Doha International Airport,35.0,METAR OTBD 3Z
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,34.0,METAR VANP 3Z
-CRK  RPLC,Clark International Airport / Clark Air Base,34.0,METAR RPLC 3Z
+OOAD,,45.0,METAR OOAD 3Z
+LFM  OISR,Lamerd Airport,45.0,METAR OISR 3Z
+IHR  OIZI,Iranshahr Airport,45.0,METAR OIZ
+KHS  OOKB,Khasab Airport,43.0,METAR OOKB 3Z
+AJY  DRZA,Mano Dayak International Airport,43.0,METAR DRZ
