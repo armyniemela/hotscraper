@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AZA  KIWA,Mesa Gateway Airport,37.0,METAR KIWA 2Z
-SCF  KSDL,Scottsdale Airport,37.0,METAR KSDL 2Z
-MSC  KFFZ,Falcon Field,37.0,METAR KFFZ
-LUF  KLUF,Luke Air Force Base,37.0,METAR KLUF 2Z
-IFP  KIFP,Laughlin Bullhead International Airport,37.0,METAR KIFP 2Z
-BLH  KBLH,Blythe Airport,36.0,METAR KBLH 2Z
-DVT  KDVT,Phoenix Deer Valley Airport,36.0,METAR KDVT 2Z
-KGXF,,36.0,METAR KGXF 2Z
-HII  KHII,Lake Havasu City International Airport,36.0,METAR KHII 2Z
-LGF  KLGF,Laguna Army Airfield,36.0,METAR KLGF 2Z
-LSV  KLSV,Nellis Air Force Base,36.0,METAR KLSV 2Z
-EED  KEED,Needles Airport,36.0,METAR KEED 2Z
-YUM  KNYL,Yuma International Airport / Marine Corps Air Station Yuma,36.0,METAR KNYL 2Z
-PKZ  VLPS,Pakse International Airport,36.0,METAR VLPS 2Z
-DAD  VVDN,Da Nang International Airport,36.0,METAR VVDN 2Z
-LKO  VILK,Chaudhary Charan Singh International Airport,36.0,METAR VILK 2Z
-VNS  VEBN,Lal Bahadur Shastri Airport,36.0,METAR VEBN 2Z
-DXB  OMDB,Dubai International Airport,36.0,METAR OMDB 2Z
-AAN  OMAL,Al Ain International Airport,36.0,METAR OMAL 2Z
-KHS  OOKB,Khasab Airport,35.0,METAR OOKB 2Z
-OHS  OOSH,Sohar Airport,35.0,METAR OOSH 2Z
-LAS  KLAS,Harry Reid International Airport,35.0,METAR KLAS 2Z
-CGZ  KCGZ,Casa Grande Municipal Airport,35.0,METAR KCGZ
-BMW  DATM,Bordj Badji Mokhtar Airport,35.0,METAR DATM 2Z
-HAK  ZJHK,Haikou Meilan International Airport,35.0,METAR Z
-VEKO,,35.0,METAR VEKO 2Z
-IHR  OIZI,Iranshahr Airport,35.0,METAR OIZ
-HAN  VVNB,Noi Bai International Airport,35.0,METAR VVNB 2Z
-HUI  VVPB,Phu Bai International Airport,35.0,METAR VVPB 2Z
-TSA  RCSS,Taipei Songshan Airport,35.0,METAR RCSS 2Z
-AGR  VIAG,Agra Airport / Agra Air Force Station,34.0,METAR VIAG 2Z
-HMO  MMHO,General Ignacio P. Garcia International Airport,34.0,METAR MMHO 2Z
-KRYN,Ryan Field,34.0,METAR KRYN 2Z
-MXL  MMML,General Rodolfo Sánchez Taboada International Airport,34.0,METAR MMML 2Z
-DMA  KDMA,Davis Monthan Air Force Base,34.0,METAR KDMA 2Z
-AVW  KAVQ,Marana Regional Airport,34.0,METAR KAVQ 2Z
-HSH  KHND,Henderson Executive Airport,34.0,METAR KHND 2Z
-ADE  OYAA,Aden International Airport,34.0,METAR OYAA 2Z
-SFS  RPLB,Subic Bay International Airport / Naval Air Station Cubi Point,34.0,METAR RPLB 2Z
-FJR  OMFJ,Fujairah International Airport,34.0,METAR OMFJ 2Z
-MZJ  KMZJ,Pinal Airpark,34.0,METAR KMZ
-NAG  VANP,Dr. Babasaheb Ambedkar International Airport,34.0,METAR VANP 2Z
-GWL  VIGR,Gwalior Airport,33.0,METAR VIGR 2Z
-MCT  OOMS,Muscat International Airport,33.0,METAR OOMS 2Z
-SAD  KSAD,Safford Regional Airport,33.0,METAR KSAD 2Z
+KWI  OKKK,Kuwait International Airport,47.0,METAR OKKK 2Z
+AWZ  OIAW,Lieutenant General Qasem Soleimani International Airport,47.0,METAR OIAW 2Z
+BSR  ORMM,Basra International Airport,47.0,METAR ORMM 2Z
+HOF  OEAH,Al-Ahsa International Airport,46.0,METAR OEAH 2Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,METAR OEPA 2Z
+OOAD,,45.0,METAR OOAD 2Z
+KHS  OOKB,Khasab Airport,45.0,METAR OOKB 2Z
+RAH  OERF,Rafha Domestic Airport,45.0,METAR OERF 2Z
+BMW  DATM,Bordj Badji Mokhtar Airport,45.0,METAR DATM 2Z
+QMJ  OIAI,Shahid Asiyaee Airport,45.0,METAR OIAI 2Z
+BGW  ORBI,Baghdad International Airport / New Al Muthana Air Base,45.0,METAR ORBI 2Z
+ELQ  OEGS,Gassim Airport,44.0,METAR OEGS 2Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,44.0,METAR OEMA 2Z
+AAN  OMAL,Al Ain International Airport,44.0,METAR OMAL 2Z
+AKH  OEPS,Prince Sultan Air Base,43.0,METAR OEPS 2Z
+OEKJ,,43.0,METAR OEKJ 2Z
+WAE  OEWD,Wadi Al Dawasir Domestic Airport,43.0,METAR OEWD 2Z
+RAE  OERR,Arar Domestic Airport,43.0,METAR OERR 2Z
+RUH  OERK,King Khaled International Airport,43.0,METAR OERK 2Z
+OEMN,,43.0,METAR OEMN 2Z
+IHR  OIZI,Iranshahr Airport,43.0,METAR OIZ
+LRR  OISL,Lar Airport,43.0,METAR OISL 2Z
+LFM  OISR,Lamerd Airport,43.0,METAR OISR 2Z
+KKS  OIFK,Kashan Airport,43.0,METAR OIFK 2Z
+EBL  ORER,Erbil International Airport,43.0,METAR ORER 2Z
+XJD  OTBH,Al Udeid Air Base,42.0,METAR OTBH 2Z
+DWD  OEDM,King Salman Abdulaziz Airport,42.0,METAR OEDM 2Z
+ULH  OEAO,Majeed Bin Abdulaziz Airport,42.0,METAR OEAO 2Z
+SHW  OESH,Sharurah Domestic Airport,42.0,METAR OESH 2Z
+GAQ  GAGO,Gao Airport,42.0,METAR GAGO 2Z
+AJY  DRZA,Mano Dayak International Airport,42.0,METAR DRZ
+OIKO,,42.0,METAR OIKO 2Z
+MUW  DAOV,Ghriss Airport,42.0,METAR DAOV 2Z
+SHJ  OMSJ,Sharjah International Airport,42.0,METAR OMSJ 2Z
+RKT  OMRK,Ras Al Khaimah International Airport,42.0,METAR OMRK 2Z
+DXB  OMDB,Dubai International Airport,42.0,METAR OMDB 2Z
+HAS  OEHL,Ha'il Airport,41.0,METAR OEHL 2Z
+DMM  OEDF,King Fahd International Airport,41.0,METAR OEDF 2Z
+YNB  OEYN,Prince Abdul Mohsin bin Abdulaziz International Airport / Yanbu Airport,41.0,METAR OEYN 2Z
+ACZ  OIZB,Zabol Airport,41.0,METAR OIZ
+ASW  HESN,Aswan International Airport,41.0,METAR HESN 2Z
+ABS  HEBL,Abu Simbel Airport,41.0,METAR HEBL 2Z
+OGX  DAUU,Ain Beida Airport,41.0,METAR DAUU 2Z
+DWC  OMDW,Al Maktoum International Airport,41.0,METAR OMDW 2Z
+AUH  OMAA,Zayed International Airport,41.0,METAR OMAA 2Z
