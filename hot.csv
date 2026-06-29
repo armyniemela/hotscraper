@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ACZ  OIZB,Zabol Airport,48.0,METAR OIZ
-KWI  OKKK,Kuwait International Airport,46.0,METAR OKKK 2Z
-IHR  OIZI,Iranshahr Airport,45.0,METAR OIZ
-ABD  OIAA,Abadan Airport,45.0,METAR OIAA 2Z
-AKW  OIAG,Aghajari Airport,45.0,METAR OIAG 2Z
+TMX  DAUT,Timimoun Airport,36.0,METAR DAUT 2Z
+TIN  DAOF,Tindouf Airport,36.0,METAR DAOF 2Z
+AGR  VIAG,Agra Airport / Agra Air Force Station,36.0,METAR VIAG 2Z
+IHR  OIZI,Iranshahr Airport,35.0,METAR OIZ
+VEKO,,35.0,METAR VEKO 2Z
