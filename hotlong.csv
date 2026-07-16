@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),43.0,METAR KNJK 1Z
+HII  KHII,Lake Havasu City International Airport,43.0,METAR KHII 1Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,42.0,METAR MMML 1Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,42.0,METAR KTRM 1Z
+LGF  KLGF,Laguna Army Airfield,42.0,METAR KLGF 1Z
+YUM  KNYL,Yuma International Airport / Marine Corps Air Station Yuma,42.0,METAR KNYL 1Z
+BXS  KL08,Borrego Valley Airport,42.0,METAR KL08 1Z
 GYR  KGYR,Phoenix Goodyear Airport,41.0,METAR KGYR 1Z
-TRM  KTRM,Jacqueline Cochran Regional Airport,41.0,METAR KTRM 1Z
-PSP  KPSP,Palm Springs International Airport,41.0,METAR KPSP 1Z
+DAG  KDAG,Barstow Daggett Airport,41.0,METAR KDAG 1Z
 KGXF,,41.0,METAR KGXF 1Z
-LUF  KLUF,Luke Air Force Base,41.0,METAR KLUF 1Z
-EED  KEED,Needles Airport,41.0,METAR KEED 1Z
+LSV  KLSV,Nellis Air Force Base,41.0,METAR KLSV 1Z
+LAS  KLAS,Harry Reid International Airport,41.0,METAR KLAS 1Z
 KNOZ,,41.0,METAR KNOZ
-HII  KHII,Lake Havasu City International Airport,41.0,METAR KHII 1Z
-IFP  KIFP,Laughlin Bullhead International Airport,41.0,METAR KIFP 1Z
-KCHD,Chandler Municipal Airport,40.0,METAR KCHD 1Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,40.0,METAR KPHX 1Z
-SCF  KSDL,Scottsdale Airport,40.0,METAR KSDL 1Z
-BXS  KL08,Borrego Valley Airport,40.0,METAR KL08 1Z
-DAG  KDAG,Barstow Daggett Airport,39.0,METAR KDAG 1Z
-DVT  KDVT,Phoenix Deer Valley Airport,39.0,METAR KDVT 1Z
-MSC  KFFZ,Falcon Field,39.0,METAR KFFZ
-AZA  KIWA,Mesa Gateway Airport,39.0,METAR KIWA 1Z
-LSV  KLSV,Nellis Air Force Base,39.0,METAR KLSV 1Z
-BYS  KBYS,Bicycle Lake Army Air Field,39.0,METAR KBYS 1Z
+KBVU,,41.0,METAR KBVU 1Z
+KGEU,Glendale Municipal Airport,40.0,METAR KGEU 1Z
+VGT  KVGT,North Las Vegas Metropolitan International Airport,40.0,METAR KVGT 1Z
+LUF  KLUF,Luke Air Force Base,40.0,METAR KLUF 1Z
+BYS  KBYS,Bicycle Lake Army Air Field,40.0,METAR KBYS 1Z
+HSH  KHND,Henderson Executive Airport,40.0,METAR KHND 1Z
+BAB  KBAB,Beale Air Force Base,39.0,METAR KBAB 1Z
 BXK  KBXK,Buckeye Municipal Airport,39.0,METAR KBXK 1Z
-MCC  KMCC,McClellan Airfield,39.0,METAR KMCC 1Z
-FAT  KFAT,Fresno Yosemite International Airport,38.0,METAR KFAT 1Z
+OVE  KOVE,Oroville Municipal Airport,38.0,METAR KOVE 1Z
+DRA  KDRA,Desert Rock Airport,38.0,METAR KDRA 1Z
 RDD  KRDD,Redding Municipal Airport,38.0,METAR KRDD 1Z
-SMF  KSMF,Sacramento International Airport,38.0,METAR KSMF 1Z
-VGT  KVGT,North Las Vegas Metropolitan International Airport,38.0,METAR KVGT 1Z
+FAT  KFAT,Fresno Yosemite International Airport,38.0,METAR KFAT 1Z
 KHJO,Hanford Municipal Airport,38.0,METAR KHJO 1Z
-KNXP,Twentynine Palms Strategic Expeditionary Landing Field,38.0,METAR KNXP 1Z
 BFL  KBFL,Meadows Field,38.0,METAR KBFL 1Z
 RBL  KRBL,Red Bluff Municipal Airport,38.0,METAR KRBL 1Z
-BAB  KBAB,Beale Air Force Base,38.0,METAR KBAB 1Z
-MAE  KMAE,Madera Municipal Airport,38.0,METAR KMAE 1Z
-PTV  KPTV,Porterville Municipal Airport,38.0,METAR KPTV 1Z
-VIS  KVIS,Visalia Municipal Airport,38.0,METAR KVIS 1Z
+INS  KINS,Creech Air Force Base,38.0,METAR KINS 1Z
 NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,38.0,METAR KNLC 1Z
-CGZ  KCGZ,Casa Grande Municipal Airport,38.0,METAR KCGZ
-LAS  KLAS,Harry Reid International Airport,38.0,METAR KLAS 1Z
-KBVU,,38.0,METAR KBVU 1Z
-KDWA,Yolo County Davis Woodland Winters Airport,38.0,METAR KDWA 1Z
+PTV  KPTV,Porterville Municipal Airport,38.0,METAR KPTV 1Z
+KNID,China Lake Naws (Armitage Field) Airport,38.0,METAR KNID 1Z
+SHA  ZSSS,Shanghai Hongqiao International Airport,38.0,METAR Z
 FCH  KFCH,Fresno Chandler Executive Airport,38.0,METAR KFCH 1Z
-KP08,Coolidge Municipal Airport,38.0,METAR KP08 1Z
-KA39,Ak-Chin Regional Airport,38.0,METAR KA39 1Z
-GEY  KGEY,South Big Horn County Airport,37.0,METAR KGEY 1Z
-SAC  KSAC,Sacramento Executive Airport,37.0,METAR KSAC 1Z
-OVE  KOVE,Oroville Municipal Airport,37.0,METAR KOVE 1Z
-KVCB,Nut Tree Airport,37.0,METAR KVCB 1Z
+KCHD,Chandler Municipal Airport,37.0,METAR KCHD 1Z
+ALW  KALW,Walla Walla Regional Airport,37.0,METAR KALW 1Z
+DVT  KDVT,Phoenix Deer Valley Airport,37.0,METAR KDVT 1Z
+MCE  KMCE,Merced Regional Macready Field,37.0,METAR KMCE 1Z
+EDW  KEDW,Edwards Air Force Base,37.0,METAR KEDW 1Z
+VIS  KVIS,Visalia Municipal Airport,37.0,METAR KVIS 1Z
+PVG  ZSPD,Shanghai Pudong International Airport,37.0,METAR Z
+KWI  OKKK,Kuwait International Airport,37.0,METAR OKKK 1Z
+VCV  KVCV,Southern California Logistics Airport,37.0,METAR KVCV 1Z
+KDWA,Yolo County Davis Woodland Winters Airport,37.0,METAR KDWA 1Z
+KLHM,Lincoln Regional Karl Harder Field,37.0,METAR KLHM 1Z
