@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ABD  OIAA,Abadan Airport,47.0,METAR OIAA 1Z
-MRX  OIAM,Mahshahr Airport,47.0,METAR OIAM 1Z
-AWZ  OIAW,Lieutenant General Qasem Soleimani International Airport,47.0,METAR OIAW 1Z
-AKH  OEPS,Prince Sultan Air Base,46.0,METAR OEPS 1Z
-TUN  DTTA,Tunis Carthage International Airport,46.0,METAR DTTA 1Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,METAR OEPA 1Z
-TOE  DTTZ,Tozeur Nefta International Airport,46.0,METAR DTTZ
-OICM,,46.0,METAR OICM 1Z
-ACZ  OIZB,Zabol Airport,46.0,METAR OIZ
-BSR  ORMM,Basra International Airport,46.0,METAR ORMM 1Z
-GAF  DTTF,Gafsa Ksar International Airport,45.0,METAR DTTF 1Z
-CRZ  UTAV,Türkmenabat International Airport,45.0,METAR UTAV 1Z
-BGW  ORBI,Baghdad International Airport / New Al Muthana Air Base,45.0,METAR ORBI 1Z
-ELQ  OEGS,Gassim Airport,45.0,METAR OEGS 1Z
-WAE  OEWD,Wadi Al Dawasir Domestic Airport,45.0,METAR OEWD 1Z
-RUH  OERK,King Khaled International Airport,45.0,METAR OERK 1Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,45.0,METAR OEMA 1Z
-HSA  UAIT,Hazrat Sultan International Airport,45.0,METAR UAIT 1Z
-QMJ  OIAI,Shahid Asiyaee Airport,45.0,METAR OIAI 1Z
-MYP  UTAM,Mary International Airport,45.0,METAR UTAM 1Z
-KWI  OKKK,Kuwait International Airport,45.0,METAR OKKK 1Z
-NJF  ORNI,Al Najaf International Airport,45.0,METAR ORNI 1Z
-AAN  OMAL,Al Ain International Airport,45.0,METAR OMAL 1Z
-MIR  DTMB,Monastir Habib Bourguiba International Airport,44.0,METAR DTMB 1Z
-OEKJ,,44.0,METAR OEKJ 1Z
-DMM  OEDF,King Fahd International Airport,44.0,METAR OEDF 1Z
-RAH  OERF,Rafha Domestic Airport,44.0,METAR OERF 1Z
-KKS  OIFK,Kashan Airport,44.0,METAR OIFK 1Z
-UZST,,44.0,METAR UZ
-UZSK,,44.0,METAR UZ
-UZSB,,44.0,METAR UZ
-UZSA,,44.0,METAR UZ
-GXF  OYSY,Seiyun Hadhramaut International Airport,44.0,METAR OYSY 1Z
-DTTB,Bizerte Sidi Ahmed Air Base,43.0,METAR DTTB 1Z
-KZO  UAOO,Kyzylorda Airport,43.0,METAR UAOO 1Z
-CIT  UAII,Shymkent Airport,43.0,METAR UAII 1Z
-DWD  OEDM,King Salman Abdulaziz Airport,43.0,METAR OEDM 1Z
-ULH  OEAO,Majeed Bin Abdulaziz Airport,43.0,METAR OEAO 1Z
-SHW  OESH,Sharurah Domestic Airport,43.0,METAR OESH 1Z
-RAE  OERR,Arar Domestic Airport,43.0,METAR OERR 1Z
-UZTT,,43.0,METAR UZ
-OUD  GMFO,Oujda Angads Airport,43.0,METAR GMFO 1Z
-EBL  ORER,Erbil International Airport,43.0,METAR ORER 1Z
-DTTD,Remada Air Base,43.0,METAR DTTD 1Z
-YNB  OEYN,Prince Abdul Mohsin bin Abdulaziz International Airport / Yanbu Airport,42.0,METAR OEYN 1Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,38.0,METAR KTRM 1Z
+PSP  KPSP,Palm Springs International Airport,38.0,METAR KPSP 1Z
+HSA  UAIT,Hazrat Sultan International Airport,38.0,METAR UAIT 1Z
+BXS  KL08,Borrego Valley Airport,38.0,METAR KL08 1Z
+GYM  MMGM,General José María Yáñez International Airport,37.0,METAR MMGM 1Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,37.0,METAR MMML 1Z
+BFL  KBFL,Meadows Field,37.0,METAR KBFL 1Z
+BYS  KBYS,Bicycle Lake Army Air Field,37.0,METAR KBYS 1Z
+KGXF,,37.0,METAR KGXF 1Z
+VIS  KVIS,Visalia Municipal Airport,37.0,METAR KVIS 1Z
+KEUL,Caldwell Executive Airport,37.0,METAR KEUL 1Z
+KNOZ,,37.0,METAR KNOZ
+KHJO,Hanford Municipal Airport,36.0,METAR KHJO 1Z
+FAT  KFAT,Fresno Yosemite International Airport,36.0,METAR KFAT 1Z
+LOL  KLOL,Derby Field,36.0,METAR KLOL 1Z
+RDD  KRDD,Redding Municipal Airport,36.0,METAR KRDD 1Z
+ONO  KONO,Ontario Municipal Airport,36.0,METAR KONO 1Z
+PTV  KPTV,Porterville Municipal Airport,36.0,METAR KPTV 1Z
+PVG  ZSPD,Shanghai Pudong International Airport,36.0,METAR Z
+BAM  KBAM,Battle Mountain Airport,36.0,METAR KBAM 1Z
+CEN  MMCN,Ciudad Obregón International Airport,35.0,METAR MMCN 1Z
+LAP  MMLP,Manuel Márquez de León International Airport,35.0,METAR MMLP 1Z
+REO  KREO,Rome State Airport,35.0,METAR KREO 1Z
+OVE  KOVE,Oroville Municipal Airport,35.0,METAR KOVE 1Z
+BOI  KBOI,Boise Air Terminal/Gowen Field,35.0,METAR KBOI 1Z
+DRA  KDRA,Desert Rock Airport,35.0,METAR KDRA 1Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,35.0,METAR KNLC 1Z
+BIH  KBIH,Eastern Sierra Regional Airport,35.0,METAR KBIH 1Z
+CIC  KCIC,Chico Regional Airport,35.0,METAR KCIC 1Z
+EKO  KEKO,Elko Regional Airport,35.0,METAR KEKO 1Z
+NFL  KNFL,Fallon Naval Air Station,35.0,METAR KNFL 1Z
+YKA  CYKA,Kamloops John Moose Fulton Field Regional Airport,35.0,METAR CYKA 1Z
+INZ  DAUI,In Salah Airport,35.0,METAR DAUI 1Z
+SHA  ZSSS,Shanghai Hongqiao International Airport,35.0,METAR Z
+HGH  ZSHC,Hangzhou Xiaoshan International Airport,35.0,METAR Z
+HTH  KHTH,Hawthorne Industrial Airport,35.0,METAR KHTH 1Z
+BXK  KBXK,Buckeye Municipal Airport,35.0,METAR KBXK 1Z
+FCH  KFCH,Fresno Chandler Executive Airport,35.0,METAR KFCH 1Z
+KMAN,,35.0,METAR KMAN 1Z
+AZI  OMAD,Al Bateen Executive Airport,35.0,METAR OMAD 1Z
+LTO  MMLT,Loreto International Airport,34.0,METAR MMLT 1Z
+KGEU,Glendale Municipal Airport,34.0,METAR KGEU 1Z
+GYR  KGYR,Phoenix Goodyear Airport,34.0,METAR KGYR 1Z
+RBL  KRBL,Red Bluff Municipal Airport,34.0,METAR KRBL 1Z
+KU19,,34.0,METAR KU19 1Z
