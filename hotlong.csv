@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AWZ  OIAW,Lieutenant General Qasem Soleimani International Airport,47.0,METAR OIAW 0Z
-NJF  ORNI,Al Najaf International Airport,47.0,METAR ORNI 0Z
-BGW  ORBI,Baghdad International Airport / New Al Muthana Air Base,47.0,METAR ORBI 0Z
-HOF  OEAH,Al-Ahsa International Airport,47.0,METAR OEAH 0Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,46.0,METAR OEPA 0Z
-QMJ  OIAI,Shahid Asiyaee Airport,46.0,METAR OIAI 0Z
-EBL  ORER,Erbil International Airport,46.0,METAR ORER 0Z
-KIK  ORKK,Kirkuk Air Base,46.0,METAR ORKK 0Z
-AKH  OEPS,Prince Sultan Air Base,45.0,METAR OEPS 0Z
-WAE  OEWD,Wadi Al Dawasir Domestic Airport,45.0,METAR OEWD 0Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,45.0,METAR OEMA 0Z
-OEKJ,,45.0,METAR OEKJ 0Z
-KWI  OKKK,Kuwait International Airport,44.0,METAR OKKK 0Z
-GMAG,,44.0,METAR GMAG 0Z
-DTTK,,44.0,METAR DTTK 0Z
-TMX  DAUT,Timimoun Airport,44.0,METAR DAUT 0Z
-BSK  DAUB,Biskra - Mohamed Khider Airport,44.0,METAR DAUB 0Z
-TOE  DTTZ,Tozeur Nefta International Airport,44.0,METAR DTTZ
-ASW  HESN,Aswan International Airport,44.0,METAR HESN 0Z
-MRX  OIAM,Mahshahr Airport,44.0,METAR OIAM 0Z
-RAK  GMMX,Menara Airport,44.0,METAR GMMX 0Z
-DEZ  OSDZ,Deir ez-Zor Airport,44.0,METAR OSDZ
-RAE  OERR,Arar Domestic Airport,44.0,METAR OERR 0Z
-RUH  OERK,King Khaled International Airport,44.0,METAR OERK 0Z
-RAH  OERF,Rafha Domestic Airport,44.0,METAR OERF 0Z
-ELQ  OEGS,Gassim Airport,44.0,METAR OEGS 0Z
-ULH  OEAO,Majeed Bin Abdulaziz Airport,44.0,METAR OEAO 0Z
-XJD  OTBH,Al Udeid Air Base,43.0,METAR OTBH 0Z
-OGX  DAUU,Ain Beida Airport,43.0,METAR DAUU 0Z
-ELU  DAUO,Guemar Airport - مطار قمار بالوادي,43.0,METAR DAUO 0Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,43.0,METAR DAUK 0Z
-HME  DAUH,Hassi Messaoud-Oued Irara Krim Belkacem Airport,43.0,METAR DAUH 0Z
-GAE  DTTG,Gabès Matmata International Airport,43.0,METAR DTTG 0Z
-HMB  HESG,Sohag International Airport,43.0,METAR HESG 0Z
-LXR  HELX,Luxor International Airport,43.0,METAR HELX 0Z
-LFM  OISR,Lamerd Airport,43.0,METAR OISR 0Z
-BEM  GMMD,Beni Mellal Airport,43.0,METAR GMMD 0Z
-AJF  OESK,Al-Jawf Domestic Airport,43.0,METAR OESK 0Z
-SHW  OESH,Sharurah Domestic Airport,43.0,METAR OESH 0Z
-URY  OEGT,Gurayat Domestic Airport,43.0,METAR OEGT 0Z
-AAN  OMAL,Al Ain International Airport,43.0,METAR OMAL 0Z
-KHS  OOKB,Khasab Airport,42.0,METAR OOKB 0Z
-NKT  LTCV,Şırnak Şerafettin Elçi Airport,42.0,METAR LTCV 0Z
-AQJ  OJAQ,Aqaba King Hussein International Airport,42.0,METAR OJAQ 0Z
-BUJ  DAAD,Bou Saada Airport,42.0,METAR DAAD 0Z
+HII  KHII,Lake Havasu City International Airport,45.0,METAR KHII 0Z
+KCHD,Chandler Municipal Airport,44.0,METAR KCHD 0Z
+AZA  KIWA,Mesa Gateway Airport,44.0,METAR KIWA 0Z
+PHX  KPHX,Phoenix Sky Harbor International Airport,44.0,METAR KPHX 0Z
+DVT  KDVT,Phoenix Deer Valley Airport,43.0,METAR KDVT 0Z
+SCF  KSDL,Scottsdale Airport,43.0,METAR KSDL 0Z
+MSC  KFFZ,Falcon Field,43.0,METAR KFFZ
+KGXF,,43.0,METAR KGXF 0Z
+LSV  KLSV,Nellis Air Force Base,43.0,METAR KLSV 0Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,42.0,METAR KTRM 0Z
+VGT  KVGT,North Las Vegas Metropolitan International Airport,42.0,METAR KVGT 0Z
+PSP  KPSP,Palm Springs International Airport,42.0,METAR KPSP 0Z
+IPL  KIPL,Imperial County Airport,42.0,METAR KIPL 0Z
+LGF  KLGF,Laguna Army Airfield,42.0,METAR KLGF 0Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),42.0,METAR KNJK 0Z
+LAS  KLAS,Harry Reid International Airport,42.0,METAR KLAS 0Z
+BXS  KL08,Borrego Valley Airport,42.0,METAR KL08 0Z
+KBVU,,42.0,METAR KBVU 0Z
+KRYN,Ryan Field,41.0,METAR KRYN 0Z
+DAG  KDAG,Barstow Daggett Airport,41.0,METAR KDAG 0Z
+RDD  KRDD,Redding Municipal Airport,41.0,METAR KRDD 0Z
+RBL  KRBL,Red Bluff Municipal Airport,41.0,METAR KRBL 0Z
+BYS  KBYS,Bicycle Lake Army Air Field,41.0,METAR KBYS 0Z
+SGU  KSGU,St George Regional Airport,41.0,METAR KSGU 0Z
+HSH  KHND,Henderson Executive Airport,41.0,METAR KHND 0Z
+KP08,Coolidge Municipal Airport,41.0,METAR KP08 0Z
+BXK  KBXK,Buckeye Municipal Airport,41.0,METAR KBXK 0Z
+FAT  KFAT,Fresno Yosemite International Airport,40.0,METAR KFAT 0Z
+KHJO,Hanford Municipal Airport,40.0,METAR KHJO 0Z
+BFL  KBFL,Meadows Field,40.0,METAR KBFL 0Z
+KNXP,Twentynine Palms Strategic Expeditionary Landing Field,40.0,METAR KNXP 0Z
+INS  KINS,Creech Air Force Base,40.0,METAR KINS 0Z
+KNID,China Lake Naws (Armitage Field) Airport,40.0,METAR KNID 0Z
+VIS  KVIS,Visalia Municipal Airport,40.0,METAR KVIS 0Z
+PTV  KPTV,Porterville Municipal Airport,40.0,METAR KPTV 0Z
+AVW  KAVQ,Marana Regional Airport,40.0,METAR KAVQ 0Z
+MZJ  KMZJ,Pinal Airpark,40.0,METAR KMZ
+KDWA,Yolo County Davis Woodland Winters Airport,40.0,METAR KDWA 0Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,39.0,METAR MMML 0Z
+DRA  KDRA,Desert Rock Airport,39.0,METAR KDRA 0Z
+SAC  KSAC,Sacramento Executive Airport,39.0,METAR KSAC 0Z
+NLC  KNLC,Lemoore Naval Air Station (Reeves Field) Airport,39.0,METAR KNLC 0Z
+KNOZ,,39.0,METAR KNOZ
+MCC  KMCC,McClellan Airfield,39.0,METAR KMCC 0Z
+MHR  KMHR,Sacramento Mather Airport,39.0,METAR KMHR 0Z
