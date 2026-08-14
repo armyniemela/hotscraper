@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ABD  OIAA,Abadan Airport,48.0,METAR OIAA 1Z
-QMJ  OIAI,Shahid Asiyaee Airport,47.0,METAR OIAI 1Z
-BGW  ORBI,Baghdad International Airport / New Al Muthana Air Base,47.0,METAR ORBI 1Z
-YNB  OEYN,Prince Abdul Mohsin bin Abdulaziz International Airport / Yanbu Airport,47.0,METAR OEYN 1Z
-RUH  OERK,King Khaled International Airport,47.0,METAR OERK 1Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,47.0,METAR OEPA 1Z
-KWI  OKKK,Kuwait International Airport,46.0,METAR OKKK 1Z
-WAE  OEWD,Wadi Al Dawasir Domestic Airport,46.0,METAR OEWD 1Z
-NJF  ORNI,Al Najaf International Airport,46.0,METAR ORNI 1Z
-OEKJ,,46.0,METAR OEKJ 1Z
-AAN  OMAL,Al Ain International Airport,46.0,METAR OMAL 1Z
-AKH  OEPS,Prince Sultan Air Base,46.0,METAR OEPS 1Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,45.0,METAR OEMA 1Z
-KIK  ORKK,Kirkuk Air Base,45.0,METAR ORKK 1Z
-OOAD,,44.0,METAR OOAD 1Z
-XJD  OTBH,Al Udeid Air Base,44.0,METAR OTBH 1Z
-LRR  OISL,Lar Airport,44.0,METAR OISL 1Z
-LFM  OISR,Lamerd Airport,44.0,METAR OISR 1Z
-ACZ  OIZB,Zabol Airport,44.0,METAR OIZ
-INZ  DAUI,In Salah Airport,44.0,METAR DAUI 1Z
-OERS,,44.0,METAR OERS 1Z
-SHW  OESH,Sharurah Domestic Airport,44.0,METAR OESH 1Z
-DMM  OEDF,King Fahd International Airport,44.0,METAR OEDF 1Z
-OEMN,,44.0,METAR OEMN 1Z
-RAH  OERF,Rafha Domestic Airport,44.0,METAR OERF 1Z
-EBL  ORER,Erbil International Airport,44.0,METAR ORER 1Z
-MRX  OIAM,Mahshahr Airport,43.0,METAR OIAM 1Z
-GCH  OIAH,Gachsaran Airport,43.0,METAR OIAH 1Z
-ASW  HESN,Aswan International Airport,43.0,METAR HESN 1Z
-BMW  DATM,Bordj Badji Mokhtar Airport,43.0,METAR DATM 1Z
-KIH  OIBK,Kish International Airport,43.0,METAR OIBK 1Z
-ELQ  OEGS,Gassim Airport,43.0,METAR OEGS 1Z
-DEZ  OSDZ,Deir ez-Zor Airport,43.0,METAR OSDZ
-CRZ  UTAV,Türkmenabat International Airport,42.0,METAR UTAV 1Z
-GXF  OYSY,Seiyun Hadhramaut International Airport,42.0,METAR OYSY 1Z
-ABS  HEBL,Abu Simbel Airport,42.0,METAR HEBL 1Z
-TMX  DAUT,Timimoun Airport,42.0,METAR DAUT 1Z
-AQJ  OJAQ,Aqaba King Hussein International Airport,42.0,METAR OJAQ 1Z
-MYP  UTAM,Mary International Airport,42.0,METAR UTAM 1Z
-BUZ  OIBB,Bushehr Airport,42.0,METAR OIBB 1Z
-KKS  OIFK,Kashan Airport,42.0,METAR OIFK 1Z
-ULH  OEAO,Majeed Bin Abdulaziz Airport,42.0,METAR OEAO 1Z
-DWD  OEDM,King Salman Abdulaziz Airport,42.0,METAR OEDM 1Z
-RAE  OERR,Arar Domestic Airport,42.0,METAR OERR 1Z
-UZST,,42.0,METAR UZ
+YUM  KNYL,Yuma International Airport / Marine Corps Air Station Yuma,38.0,METAR KNYL 1Z
+KNOZ,,38.0,METAR KNOZ
+AXS  KAXS,Altus Quartz Mountain Regional Airport,38.0,METAR KAXS 1Z
+KP28,,38.0,METAR KP28 1Z
+KT70,,37.0,METAR KT70 1Z
+IAB  KIAB,McConnell Air Force Base,37.0,METAR KIAB 1Z
+DLF  KDLF,Laughlin Air Force Base,37.0,METAR KDLF 1Z
+ROG  KROG,Rogers Municipal Airport-Carter Field,37.0,METAR KROG 1Z
+DXB  OMDB,Dubai International Airport,37.0,METAR OMDB 1Z
+AAN  OMAL,Al Ain International Airport,37.0,METAR OMAL 1Z
+PTT  KPTT,Pratt Regional Airport,37.0,METAR KPTT 1Z
+ANY  KANY,Anthony Municipal Airport,37.0,METAR KANY 1Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,37.0,METAR MMML 1Z
+TKK  PTKK,Chuuk International Airport,37.0,METAR PTKK 1Z
+BLH  KBLH,Blythe Airport,37.0,METAR KBLH 1Z
+KAVK,Alva Regional Airport,37.0,METAR KAVK 1Z
+WIB  KF05,Wilbarger County Airport,37.0,METAR KF05 1Z
+FWH  KNFW,NAS Fort Worth JRB / Carswell Field,36.0,METAR KNFW 1Z
+KTKI,McKinney National Airport,36.0,METAR KTKI 1Z
+TIK  KTIK,Tinker Air Force Base,36.0,METAR KTIK 1Z
+DYS  KDYS,Dyess Air Force Base,36.0,METAR KDYS 1Z
+INZ  DAUI,In Salah Airport,36.0,METAR DAUI 1Z
+BHH  OEBH,Bisha Airport,36.0,METAR OEBH 1Z
+OEMN,,36.0,METAR OEMN 1Z
+WWR  KWWR,West Woodward Airport,36.0,METAR KWWR 1Z
+KOJA,Thomas P Stafford Airport,36.0,METAR KOJA 1Z
+KHHF,Hemphill County Airport,36.0,METAR KHHF 1Z
+WDG  KWDG,Enid Woodring Regional Airport,36.0,METAR KWDG 1Z
+ICT  KICT,Wichita Eisenhower National Airport,36.0,METAR KICT 1Z
+LAW  KLAW,Lawton Fort Sill Regional Airport,36.0,METAR KLAW 1Z
+PNC  KPNC,Ponca City Regional Airport,36.0,METAR KPNC 1Z
+HBR  KHBR,Hobart Regional Airport,36.0,METAR KHBR 1Z
+FDR  KFDR,Frederick Regional Airport,36.0,METAR KFDR 1Z
+IFP  KIFP,Laughlin Bullhead International Airport,36.0,METAR KIFP 1Z
+EGP  K5T9,Maverick County Memorial International Airport,36.0,METAR K5T9 1Z
+KFTN,,36.0,METAR KFTN 1Z
+CLK  KCLK,Clinton Regional Airport,36.0,METAR KCLK 1Z
+CZT  KCZT,Dimmit County Airport,36.0,METAR KCZ
+ADS  KADS,Addison Airport,36.0,METAR KADS 1Z
+NJF  ORNI,Al Najaf International Airport,36.0,METAR ORNI 1Z
+KHS  OOKB,Khasab Airport,35.0,METAR OOKB 1Z
+BAD  KBAD,Barksdale Air Force Base,35.0,METAR KBAD 1Z
+GRK  KGRK,Killeen Regional Airport / Robert Gray Army Airfield,35.0,METAR KGRK 1Z
+HLR  KHLR,Hood Army Air Field,35.0,METAR KHLR 1Z
+OKAS,Ali Al Salem Air Base,35.0,METAR OKAS 1Z
