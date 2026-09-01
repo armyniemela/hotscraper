@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-BSK  DAUB,Biskra - Mohamed Khider Airport,41.0,METAR DAUB 3Z
-BMW  DATM,Bordj Badji Mokhtar Airport,41.0,METAR DATM 3Z
-TOE  DTTZ,Tozeur Nefta International Airport,41.0,METAR DTTZ
-POD  GOSP,Podor Airport,41.0,METAR GOSP 3Z
-CMG  SBCR,Corumbá International Airport,40.0,METAR SBCR 3Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,40.0,METAR OEMA 3Z
-BPG  SBBW,Barra do Garças Airport,40.0,METAR SBBW 3Z
-DTTD,Remada Air Base,40.0,METAR DTTD 3Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,40.0,METAR DAUK 3Z
-MHCH,,40.0,METAR MHCH 3Z
-KWI  OKKK,Kuwait International Airport,40.0,METAR OKKK 3Z
-GAE  DTTG,Gabès Matmata International Airport,40.0,METAR DTTG 3Z
-OZG  GMAZ,Zagora Airport,39.0,METAR GMAZ
-ELQ  OEGS,Gassim Airport,39.0,METAR OEGS 3Z
-SHW  OESH,Sharurah Domestic Airport,39.0,METAR OESH 3Z
-RBO  SLRB,Roboré Airport,39.0,METAR SLRB 3Z
-SJS  SLJE,San José De Chiquitos Airport,39.0,METAR SLJE 3Z
-ELG  DAUE,El Golea Airport,39.0,METAR DAUE 3Z
-VVZ  DAAP,Illizi Takhamalt Airport,39.0,METAR DAAP 3Z
-BUZ  OIBB,Bushehr Airport,39.0,METAR OIBB 3Z
-MAX  GOSM,Ouro Sogui Airport,39.0,METAR GOSM 3Z
-END  KEND,Vance Air Force Base,39.0,SPECI KEND 3Z
-DIA  OTBD,Doha International Airport,39.0,METAR OTBD 3Z
-CHK  KCHK,Chickasha Municipal Airport,39.0,METAR KCHK 3Z
-EDK  KEQA,Captain Jack Thomas El Dorado Airport,39.0,METAR KEQA 3Z
-KAPY,Zapata County Airport,39.0,METAR KAPY 3Z
-ANY  KANY,Anthony Municipal Airport,39.0,METAR KANY 3Z
-KF00,Jones Field,39.0,METAR KF00 3Z
-KAVK,Alva Regional Airport,39.0,METAR KAVK 3Z
-WDG  KWDG,Enid Woodring Regional Airport,38.0,METAR KWDG 3Z
-OOAD,,38.0,METAR OOAD 3Z
-ADM  KADM,Ardmore Municipal Airport,38.0,METAR KADM 3Z
-BLH  KBLH,Blythe Airport,38.0,METAR KBLH 3Z
-IPL  KIPL,Imperial County Airport,38.0,METAR KIPL 3Z
-ICT  KICT,Wichita Eisenhower National Airport,38.0,METAR KICT 3Z
-WLD  KWLD,Strother Field,38.0,METAR KWLD 3Z
-XJD  OTBH,Al Udeid Air Base,38.0,METAR OTBH 3Z
-AKH  OEPS,Prince Sultan Air Base,38.0,METAR OEPS 3Z
-NJK  KNJK,El Centro NAF Airport (Vraciu Field),38.0,METAR KNJK 3Z
-MQU  SKQU,Mariquita Airport,38.0,METAR SKQU 3Z
-HOF  OEAH,Al-Ahsa International Airport,38.0,METAR OEAH 3Z
-RUH  OERK,King Khaled International Airport,38.0,METAR OERK 3Z
-AFL  SBAT,Piloto Osvaldo Marques Dias Airport,38.0,METAR SBAT 3Z
-IMP  SBIZ,Prefeito Renato Moreira Airport,38.0,METAR SBIZ
-ABD  OIAA,Abadan Airport,38.0,METAR OIAA 3Z
+BAH  OBBI,Bahrain International Airport,36.0,METAR OBBI 0Z
+PHE  YPPD,Port Hedland International Airport,36.0,METAR YPPD 0Z
+DIA  OTBD,Doha International Airport,36.0,METAR OTBD 0Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,36.0,METAR MMML 0Z
+BUZ  OIBB,Bushehr Airport,35.0,METAR OIBB 0Z
+RJOY,Yao Airport,35.0,METAR RJOY 0Z
+DOH  OTHH,Hamad International Airport,35.0,METAR OTHH 0Z
+TPE  RCTP,Taiwan Taoyuan International Airport,35.0,METAR RCTP 0Z
+DCN  YCIN,RAAF Base Curtin,35.0,METAR YCIN 0Z
+HAN  VVNB,Noi Bai International Airport,35.0,METAR VVNB 0Z
+DXB  OMDB,Dubai International Airport,35.0,METAR OMDB 0Z
+UPG  WAAA,Hasanuddin International Airport,35.0,SPECI WAAA 0Z
+KHS  OOKB,Khasab Airport,34.0,METAR OOKB 0Z
+XJD  OTBH,Al Udeid Air Base,34.0,METAR OTBH 0Z
+LGF  KLGF,Laguna Army Airfield,34.0,METAR KLGF 0Z
+IZO  RJOC,Izumo Enmusubi Airport,34.0,METAR RJOC 0Z
+TTJ  RJOR,Tottori Sand Dunes Conan Airport,34.0,METAR RJOR 0Z
+HME  DAUH,Hassi Messaoud-Oued Irara Krim Belkacem Airport,34.0,METAR DAUH 0Z
+ELG  DAUE,El Golea Airport,34.0,METAR DAUE 0Z
+TMX  DAUT,Timimoun Airport,34.0,METAR DAUT 0Z
+KWI  OKKK,Kuwait International Airport,34.0,METAR OKKK 0Z
+LSV  KLSV,Nellis Air Force Base,34.0,SPECI KLSV 0Z
+KNX  YPKU,East Kimberley Regional (Kununurra) Airport,34.0,METAR YPKU 0Z
+BDJ  WAOO,Syamsudin Noor International Airport,34.0,METAR WAOO 0Z
+MDC  WAMM,Sam Ratulangi Airport,34.0,METAR WAMM 0Z
+IFP  KIFP,Laughlin Bullhead International Airport,34.0,METAR KIFP 0Z
+YGJ  RJOH,Yonago Kitaro Airport / JASDF Miho Air Base,33.0,METAR RJOH 0Z
+ITM  RJOO,Osaka International Airport,33.0,METAR RJOO 0Z
+NGS  RJFU,Nagasaki Airport,33.0,METAR RJFU 0Z
+TOY  RJNT,Toyama Airport,33.0,METAR RJNT 0Z
+UKB  RJBE,Kobe Airport,33.0,METAR RJBE 0Z
+TJH  RJBT,Konotori Tajima Airport,33.0,METAR RJBT 0Z
+HHQ  VTPH,Hua Hin Airport,33.0,METAR VTPH 0Z
+BMW  DATM,Bordj Badji Mokhtar Airport,33.0,METAR DATM 0Z
+TGR  DAUK,Touggourt Sidi Madhi Airport,33.0,METAR DAUK 0Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,33.0,METAR OEMA 0Z
+OEMN,,33.0,METAR OEMN 0Z
+CEB  RPVM,Mactan Cebu International Airport,33.0,METAR RPVM 0Z
+DGT  RPVD,Sibulan Airport,33.0,METAR RPVD 0Z
+AKW  OIAG,Aghajari Airport,33.0,METAR OIAG 0Z
+KLO  RPVK,Kalibo International Airport,33.0,METAR RPVK 0Z
+WBGY,,33.0,METAR WBGY 0Z
+FUK  RJFF,Fukuoka Airport,33.0,METAR RJFF 0Z
+BME  YBRM,Broome International Airport,33.0,METAR YBRM 0Z
+CXR  VVCR,Cam Ranh International Airport / Cam Ranh Air Base,33.0,METAR VVCR 0Z
