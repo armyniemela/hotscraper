@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-NJF  ORNI,Al Najaf International Airport,42.0,METAR ORNI 0Z
-ELQ  OEGS,Gassim Airport,42.0,METAR OEGS 0Z
-ULH  OEAO,Majeed Bin Abdulaziz Airport,42.0,METAR OEAO 0Z
-AKH  OEPS,Prince Sultan Air Base,41.0,METAR OEPS 0Z
-AJY  DRZA,Mano Dayak International Airport,41.0,METAR DRZ
-ATR  GQPA,Atar International Airport,41.0,METAR GQPA 0Z
-GAQ  GAGO,Gao Airport,41.0,METAR GAGO 0Z
-BSR  ORMM,Basra International Airport,41.0,METAR ORMM 0Z
-OGX  DAUU,Ain Beida Airport,41.0,METAR DAUU 0Z
-OICM,,41.0,METAR OICM 0Z
-OEKJ,,41.0,METAR OEKJ 0Z
-HOF  OEAH,Al-Ahsa International Airport,41.0,METAR OEAH 0Z
-WAE  OEWD,Wadi Al Dawasir Domestic Airport,41.0,METAR OEWD 0Z
-RAE  OERR,Arar Domestic Airport,41.0,METAR OERR 0Z
-RAH  OERF,Rafha Domestic Airport,41.0,METAR OERF 0Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,METAR OEPA 0Z
-BGW  ORBI,Baghdad International Airport / New Al Muthana Air Base,41.0,METAR ORBI 0Z
-DEZ  OSDZ,Deir ez-Zor Airport,40.0,METAR OSDZ
-QMJ  OIAI,Shahid Asiyaee Airport,40.0,METAR OIAI 0Z
-BSK  DAUB,Biskra - Mohamed Khider Airport,40.0,METAR DAUB 0Z
-HME  DAUH,Hassi Messaoud-Oued Irara Krim Belkacem Airport,40.0,METAR DAUH 0Z
-GXF  OYSY,Seiyun Hadhramaut International Airport,40.0,METAR OYSY 0Z
-ABD  OIAA,Abadan Airport,40.0,METAR OIAA 0Z
-OZG  GMAZ,Zagora Airport,40.0,METAR GMAZ
-DWD  OEDM,King Salman Abdulaziz Airport,40.0,METAR OEDM 0Z
-SHW  OESH,Sharurah Domestic Airport,40.0,METAR OESH 0Z
-RUH  OERK,King Khaled International Airport,40.0,METAR OERK 0Z
-ABS  HEBL,Abu Simbel Airport,40.0,METAR HEBL 0Z
-ODB  LEBA,Córdoba Airport,40.0,METAR LEBA 0Z
-RJL  LELO,Logroño-Agoncillo Airport,40.0,METAR LELO 0Z
-GRX  LEGR,F.G.L. Airport Granada-Jaén Airport,40.0,METAR LEGR 0Z
-KWI  OKKK,Kuwait International Airport,39.0,METAR OKKK 0Z
-AQJ  OJAQ,Aqaba King Hussein International Airport,39.0,METAR OJAQ 0Z
-ELU  DAUO,Guemar Airport - مطار قمار بالوادي,39.0,METAR DAUO 0Z
-TGR  DAUK,Touggourt Sidi Madhi Airport,39.0,METAR DAUK 0Z
-GHA  DAUG,Noumérat - Moufdi Zakaria Airport,39.0,METAR DAUG 0Z
-CBH  DAOR,Béchar Boudghene Ben Ali Lotfi Airport,39.0,METAR DAOR 0Z
-BUJ  DAAD,Bou Saada Airport,39.0,METAR DAAD 0Z
-TOE  DTTZ,Tozeur Nefta International Airport,39.0,METAR DTTZ
-MEK  GMFM,Bassatine Airport,39.0,METAR GMFM 0Z
-PSZ  SLPS,Capitán Av. Salvador Ogaya G. airport,39.0,METAR SLPS 0Z
-HAS  OEHL,Ha'il Airport,39.0,METAR OEHL 0Z
-BHH  OEBH,Bisha Airport,39.0,METAR OEBH 0Z
-DMM  OEDF,King Fahd International Airport,39.0,METAR OEDF 0Z
-ASW  HESN,Aswan International Airport,39.0,METAR HESN 0Z
+AZA  KIWA,Mesa Gateway Airport,36.0,METAR KIWA 0Z
+SCF  KSDL,Scottsdale Airport,36.0,METAR KSDL 0Z
+KGXF,,36.0,METAR KGXF 0Z
+LUF  KLUF,Luke Air Force Base,36.0,METAR KLUF 0Z
+IFP  KIFP,Laughlin Bullhead International Airport,36.0,METAR KIFP 0Z
+MXL  MMML,General Rodolfo Sánchez Taboada International Airport,35.0,METAR MMML 0Z
+BLH  KBLH,Blythe Airport,35.0,METAR KBLH 0Z
+DVT  KDVT,Phoenix Deer Valley Airport,35.0,METAR KDVT 0Z
+MSC  KFFZ,Falcon Field,35.0,METAR KFFZ
+HII  KHII,Lake Havasu City International Airport,35.0,METAR KHII 0Z
+KP08,Coolidge Municipal Airport,35.0,METAR KP08 0Z
+KA39,Ak-Chin Regional Airport,35.0,METAR KA39 0Z
+YUM  KNYL,Yuma International Airport / Marine Corps Air Station Yuma,35.0,METAR KNYL 0Z
+KNX  YPKU,East Kimberley Regional (Kununurra) Airport,35.0,METAR YPKU 0Z
+AZI  OMAD,Al Bateen Executive Airport,35.0,METAR OMAD 0Z
+WIB  KF05,Wilbarger County Airport,34.0,METAR KF05 0Z
+EGP  K5T9,Maverick County Memorial International Airport,34.0,METAR K5T9 0Z
+BXK  KBXK,Buckeye Municipal Airport,34.0,METAR KBXK 0Z
+EED  KEED,Needles Airport,34.0,METAR KEED 0Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),34.0,METAR KNJK 0Z
+BMW  DATM,Bordj Badji Mokhtar Airport,34.0,METAR DATM 0Z
+DIA  OTBD,Doha International Airport,34.0,METAR OTBD 0Z
+DOH  OTHH,Hamad International Airport,34.0,METAR OTHH 0Z
+DGT  RPVD,Sibulan Airport,34.0,METAR RPVD 0Z
+CEB  RPVM,Mactan Cebu International Airport,34.0,METAR RPVM 0Z
+KLO  RPVK,Kalibo International Airport,34.0,METAR RPVK 0Z
+AUH  OMAA,Zayed International Airport,34.0,METAR OMAA 0Z
+MDC  WAMM,Sam Ratulangi Airport,34.0,METAR WAMM 0Z
+SPZ  KASG,Springdale Municipal Airport,33.0,METAR KASG 0Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,33.0,METAR MMHO 0Z
+KHS  OOKB,Khasab Airport,33.0,METAR OOKB 0Z
+FWH  KNFW,NAS Fort Worth JRB / Carswell Field,33.0,METAR KNFW 0Z
+TRM  KTRM,Jacqueline Cochran Regional Airport,33.0,METAR KTRM 0Z
+DAL  KDAL,Dallas Love Field,33.0,METAR KDAL 0Z
+IPL  KIPL,Imperial County Airport,33.0,METAR KIPL 0Z
+DRT  KDRT,Del Rio International Airport,33.0,METAR KDRT 0Z
+FSM  KFSM,Fort Smith Regional Airport,33.0,METAR KFSM 0Z
+DLF  KDLF,Laughlin Air Force Base,33.0,METAR KDLF 0Z
+LTS  KLTS,Altus Air Force Base,33.0,METAR KLTS 0Z
+AXS  KAXS,Altus Quartz Mountain Regional Airport,33.0,METAR KAXS 0Z
+AVW  KAVQ,Marana Regional Airport,33.0,METAR KAVQ 0Z
+KAPY,Zapata County Airport,33.0,METAR KAPY 0Z
+ADS  KADS,Addison Airport,33.0,METAR KADS 0Z
+MZJ  KMZJ,Pinal Airpark,33.0,METAR KMZ
+KHSD,Sundance Airpark,33.0,METAR KHSD 0Z
