@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GYR  KGYR,Phoenix Goodyear Airport,35.0,METAR KGYR 0Z
-DVT  KDVT,Phoenix Deer Valley Airport,35.0,METAR KDVT 0Z
-SCF  KSDL,Scottsdale Airport,35.0,METAR KSDL 0Z
-MSC  KFFZ,Falcon Field,35.0,METAR KFFZ
-KP08,Coolidge Municipal Airport,35.0,METAR KP08 0Z
-KWBF,,35.0,METAR KWBF 0Z
-KA39,Ak-Chin Regional Airport,35.0,METAR KA39 0Z
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,35.0,METAR YPKU 0Z
-AUH  OMAA,Zayed International Airport,35.0,METAR OMAA 0Z
-AZI  OMAD,Al Bateen Executive Airport,35.0,METAR OMAD 0Z
-DOH  OTHH,Hamad International Airport,35.0,METAR OTHH 0Z
-KCHD,Chandler Municipal Airport,34.0,METAR KCHD 0Z
-BXK  KBXK,Buckeye Municipal Airport,34.0,METAR KBXK 0Z
-KGXF,,34.0,METAR KGXF 0Z
-LUF  KLUF,Luke Air Force Base,34.0,METAR KLUF 0Z
-UPG  WAAA,Hasanuddin International Airport,34.0,METAR WAAA 0Z
-KTR  YPTN,Tindal Airport,34.0,METAR YPTN 0Z
-CEB  RPVM,Mactan Cebu International Airport,34.0,METAR RPVM 0Z
-SHJ  OMSJ,Sharjah International Airport,34.0,METAR OMSJ 0Z
-DXB  OMDB,Dubai International Airport,34.0,METAR OMDB 0Z
-DWC  OMDW,Al Maktoum International Airport,34.0,METAR OMDW 0Z
-BAH  OBBI,Bahrain International Airport,34.0,METAR OBBI 0Z
-DIA  OTBD,Doha International Airport,34.0,METAR OTBD 0Z
-CJS  MMCS,Abraham González International Airport,33.0,METAR MMCS 0Z
-KHS  OOKB,Khasab Airport,33.0,METAR OOKB 0Z
-SAD  KSAD,Safford Regional Airport,33.0,METAR KSAD 0Z
-DAL  KDAL,Dallas Love Field,33.0,METAR KDAL 0Z
-TUS  KTUS,Tucson International Airport / Morris Air National Guard Base,33.0,METAR KTUS 0Z
-SNL  KSNL,Shawnee Regional Airport,33.0,METAR KSNL 0Z
-ADS  KADS,Addison Airport,33.0,METAR KADS 0Z
-BIF  KBIF,Biggs Army Air Field (Fort Bliss),33.0,METAR KBIF 0Z
-DMA  KDMA,Davis Monthan Air Force Base,33.0,METAR KDMA 0Z
-USM  VTSM,Samui Airport,33.0,METAR VTSM 0Z
-NST  VTSF,Nakhon Si Thammarat Airport,33.0,METAR VTSF 0Z
-CXR  VVCR,Cam Ranh International Airport / Cam Ranh Air Base,33.0,METAR VVCR 0Z
-WAHS,,33.0,METAR WAHS 0Z
-DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,33.0,METAR WAJJ 0Z
-ESU  GMMI,Essaouira-Mogador Airport,33.0,METAR GMMI 0Z
-DVO  RPMD,Francisco Bangoy International Airport,33.0,METAR RPMD 0Z
-CKG  ZUCK,Chongqing Jiangbei International Airport,33.0,METAR Z
-EBL  ORER,Erbil International Airport,33.0,METAR ORER 0Z
-MYY  WBGR,Miri Airport,33.0,METAR WBGR 0Z
-DGT  RPVD,Sibulan Airport,33.0,METAR RPVD 0Z
-KLO  RPVK,Kalibo International Airport,33.0,METAR RPVK 0Z
-OEMN,,33.0,METAR OEMN 0Z
+TMX  DAUT,Timimoun Airport,40.0,METAR DAUT 0Z
+HOF  OEAH,Al-Ahsa International Airport,40.0,METAR OEAH 0Z
+AKH  OEPS,Prince Sultan Air Base,39.0,METAR OEPS 0Z
+OGX  DAUU,Ain Beida Airport,39.0,METAR DAUU 0Z
+BSK  DAUB,Biskra - Mohamed Khider Airport,39.0,METAR DAUB 0Z
+VVZ  DAAP,Illizi Takhamalt Airport,39.0,METAR DAAP 0Z
+HME  DAUH,Hassi Messaoud-Oued Irara Krim Belkacem Airport,39.0,METAR DAUH 0Z
+ODB  LEBA,Córdoba Airport,39.0,METAR LEBA 0Z
+BJZ  LEBZ,Badajoz Airport,39.0,METAR LEBZ
+SVQ  LEZL,Sevilla Airport,39.0,METAR LEZ
+RAK  GMMX,Menara Airport,39.0,METAR GMMX 0Z
+BEM  GMMD,Beni Mellal Airport,39.0,METAR GMMD 0Z
+OEKJ,,39.0,METAR OEKJ 0Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,METAR OEPA 0Z
+AGA  GMAD,Al Massira Airport,39.0,SPECI GMAD 0Z
+XJD  OTBH,Al Udeid Air Base,38.0,METAR OTBH 0Z
+ELU  DAUO,Guemar Airport - مطار قمار بالوادي,38.0,METAR DAUO 0Z
+TGR  DAUK,Touggourt Sidi Madhi Airport,38.0,METAR DAUK 0Z
+BUJ  DAAD,Bou Saada Airport,38.0,METAR DAAD 0Z
+IAM  DAUZ,Zarzaitine - In Aménas Airport,38.0,METAR DAUZ
+OZP  LEMO,Moron Air Base,38.0,METAR LEMO 0Z
+LEAO,,38.0,METAR LEAO 0Z
+TOE  DTTZ,Tozeur Nefta International Airport,38.0,METAR DTTZ
+ZAZ  LEZG,Zaragoza Airport,38.0,METAR LEZ
+AAN  OMAL,Al Ain International Airport,38.0,METAR OMAL 0Z
+ELQ  OEGS,Gassim Airport,38.0,METAR OEGS 0Z
+ULH  OEAO,Majeed Bin Abdulaziz Airport,38.0,METAR OEAO 0Z
+RUH  OERK,King Khaled International Airport,38.0,METAR OERK 0Z
+NJF  ORNI,Al Najaf International Airport,38.0,METAR ORNI 0Z
+GAQ  GAGO,Gao Airport,38.0,METAR GAGO 0Z
+THE  SBTE,Senador Petrônio Portela Airport,38.0,METAR SBTE 0Z
+MVF  SBMS,Dix-Sept Rosado Airport,38.0,METAR SBMS 0Z
+WDG  KWDG,Enid Woodring Regional Airport,37.0,METAR KWDG 0Z
+KAVK,Alva Regional Airport,37.0,METAR KAVK 0Z
+KSRE,Seminole Municipal Airport,37.0,METAR KSRE 0Z
+K0R0,Columbia-Marion County Airport,37.0,METAR K0R0 0Z
+LTS  KLTS,Altus Air Force Base,37.0,METAR KLTS 0Z
+K0R4,Concordia Parish Airport,37.0,METAR K0R4 0Z
+CHK  KCHK,Chickasha Municipal Airport,37.0,METAR KCHK 0Z
+EDK  KEQA,Captain Jack Thomas El Dorado Airport,37.0,METAR KEQA 0Z
+END  KEND,Vance Air Force Base,37.0,METAR KEND 0Z
+ADT  KADH,Ada Regional Airport,37.0,METAR KADH 0Z
+K9K7,Ellsworth Municipal Airport,37.0,METAR K9K7 0Z
+KANR,,37.0,METAR KANR 0Z
+ELG  DAUE,El Golea Airport,37.0,METAR DAUE 0Z
