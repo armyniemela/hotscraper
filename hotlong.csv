@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AKW  OIAG,Aghajari Airport,41.0,METAR OIAG 1Z
-AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,41.0,METAR OEPA 1Z
-OEKJ,,41.0,METAR OEKJ 1Z
-ELQ  OEGS,Gassim Airport,41.0,METAR OEGS 1Z
-ULH  OEAO,Majeed Bin Abdulaziz Airport,41.0,METAR OEAO 1Z
-ABS  HEBL,Abu Simbel Airport,40.0,METAR HEBL 1Z
-AJY  DRZA,Mano Dayak International Airport,40.0,METAR DRZ
-ATR  GQPA,Atar International Airport,40.0,METAR GQPA 1Z
-QMJ  OIAI,Shahid Asiyaee Airport,40.0,METAR OIAI 1Z
-WAE  OEWD,Wadi Al Dawasir Domestic Airport,40.0,METAR OEWD 1Z
-RUH  OERK,King Khaled International Airport,40.0,METAR OERK 1Z
-POD  GOSP,Podor Airport,39.0,METAR GOSP 1Z
-AWZ  OIAW,Lieutenant General Qasem Soleimani International Airport,39.0,METAR OIAW 1Z
-SHW  OESH,Sharurah Domestic Airport,39.0,METAR OESH 1Z
-AAN  OMAL,Al Ain International Airport,39.0,METAR OMAL 1Z
-GXF  OYSY,Seiyun Hadhramaut International Airport,38.0,METAR OYSY 1Z
-ASW  HESN,Aswan International Airport,38.0,METAR HESN 1Z
-MAX  GOSM,Ouro Sogui Airport,38.0,METAR GOSM 1Z
-AEH  FTTC,Abeche Airport,38.0,METAR FTTC 1Z
-THZ  DRRT,Tahoua Airport,38.0,METAR DRRT 1Z
-KWI  OKKK,Kuwait International Airport,38.0,METAR OKKK 1Z
-YNB  OEYN,Prince Abdul Mohsin bin Abdulaziz International Airport / Yanbu Airport,38.0,METAR OEYN 1Z
-DWD  OEDM,King Salman Abdulaziz Airport,38.0,METAR OEDM 1Z
-HOF  OEAH,Al-Ahsa International Airport,38.0,METAR OEAH 1Z
-LXR  HELX,Luxor International Airport,37.0,METAR HELX 1Z
-NJF  ORNI,Al Najaf International Airport,37.0,METAR ORNI 1Z
-GOOG,Linguère Airport,37.0,METAR GOOG 1Z
-NIM  DRRN,Diori Hamani International Airport,37.0,METAR DRRN 1Z
-DRZF,Diffa Airport,37.0,METAR DRZ
-ZND  DRZR,Zinder Airport,37.0,METAR DRZ
-DJG  DAAJ,Djanet Inedbirene Airport,37.0,METAR DAAJ 1Z
-TIN  DAOF,Tindouf Airport,37.0,METAR DAOF 1Z
-VVZ  DAAP,Illizi Takhamalt Airport,37.0,METAR DAAP 1Z
-LRR  OISL,Lar Airport,37.0,METAR OISL 1Z
-RAK  GMMX,Menara Airport,37.0,METAR GMMX 1Z
-RAH  OERF,Rafha Domestic Airport,37.0,METAR OERF 1Z
-OEMN,,37.0,METAR OEMN 1Z
-BPG  SBBW,Barra do Garças Airport,37.0,SPECI SBBW 1Z
-XJD  OTBH,Al Udeid Air Base,36.0,METAR OTBH 1Z
-OUA  DFFD,Ouagadougou Airport,36.0,METAR DFFD 1Z
-GOOD,,36.0,METAR GOOD 1Z
-GAQ  GAGO,Gao Airport,36.0,METAR GAGO 1Z
-IAM  DAUZ,Zarzaitine - In Aménas Airport,36.0,METAR DAUZ
-LFM  OISR,Lamerd Airport,36.0,METAR OISR 1Z
-MRX  OIAM,Mahshahr Airport,36.0,METAR OIAM 1Z
+DCN  YCIN,RAAF Base Curtin,35.0,METAR YCIN 2Z
+HMO  MMHO,General Ignacio P. Garcia International Airport,34.0,METAR MMHO 2Z
+LGF  KLGF,Laguna Army Airfield,34.0,METAR KLGF 2Z
+LUF  KLUF,Luke Air Force Base,34.0,METAR KLUF 2Z
+UMR  YPWR,Woomera Airfield,34.0,METAR YPWR 2Z
+BDJ  WAOO,Syamsudin Noor International Airport,34.0,METAR WAOO 2Z
+UPG  WAAA,Hasanuddin International Airport,34.0,METAR WAAA 2Z
+KNX  YPKU,East Kimberley Regional (Kununurra) Airport,34.0,METAR YPKU 2Z
+CAN  ZGGG,Guangzhou Baiyun International Airport,34.0,METAR Z
+AZA  KIWA,Mesa Gateway Airport,33.0,METAR KIWA 2Z
+KHS  OOKB,Khasab Airport,33.0,METAR OOKB 2Z
+PSP  KPSP,Palm Springs International Airport,33.0,METAR KPSP 2Z
+SCF  KSDL,Scottsdale Airport,33.0,METAR KSDL 2Z
+MSC  KFFZ,Falcon Field,33.0,METAR KFFZ
+MYY  WBGR,Miri Airport,33.0,METAR WBGR 2Z
+CEB  RPVM,Mactan Cebu International Airport,33.0,METAR RPVM 2Z
+MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,33.0,METAR OEMA 2Z
+WAHS,,33.0,METAR WAHS 2Z
+DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,33.0,METAR WAJJ 2Z
+AAN  OMAL,Al Ain International Airport,33.0,METAR OMAL 2Z
+MQL  YMIA,Mildura Airport,33.0,METAR YMIA 2Z
+AYQ  YAYE,Ayers Rock Connellan Airport,33.0,METAR YAYE 2Z
+PHE  YPPD,Port Hedland International Airport,33.0,METAR YPPD 2Z
+DRW  YPDN,Darwin International Airport / RAAF Darwin,33.0,METAR YPDN 2Z
+XRH  YSRI,RAAF Base Richmond,33.0,METAR YSRI 2Z
+DIA  OTBD,Doha International Airport,33.0,METAR OTBD 2Z
+WIB  KF05,Wilbarger County Airport,33.0,METAR KF05 2Z
+HII  KHII,Lake Havasu City International Airport,33.0,METAR KHII 2Z
+IXB  VEBD,Bagdogra Airport,32.0,METAR VEBD 2Z
+IPL  KIPL,Imperial County Airport,32.0,METAR KIPL 2Z
+DVT  KDVT,Phoenix Deer Valley Airport,32.0,METAR KDVT 2Z
+DRT  KDRT,Del Rio International Airport,32.0,METAR KDRT 2Z
+KGXF,,32.0,METAR KGXF 2Z
+DLF  KDLF,Laughlin Air Force Base,32.0,METAR KDLF 2Z
+NJK  KNJK,El Centro NAF Airport (Vraciu Field),32.0,METAR KNJK 2Z
+KNOZ,,32.0,METAR KNOZ
+CXI  PLCH,Cassidy International Airport,32.0,METAR PLCH 2Z
+KWI  OKKK,Kuwait International Airport,32.0,METAR OKKK 2Z
+MKZ  WMKM,Malacca International Airport,32.0,METAR WMKM 2Z
+KUA  WMKD,Kuantan Airport,32.0,METAR WMKD 2Z
+CRK  RPLC,Clark International Airport / Clark Air Base,32.0,METAR RPLC 2Z
+GES  RPMR,General Santos International Airport,32.0,METAR RPMR 2Z
+MNL  RPLL,Ninoy Aquino International Airport,32.0,METAR RPLL 2Z
+FOC  ZSFZ,Fuzhou Changle International Airport,32.0,METAR Z
+XMN  ZSAM,Xiamen Gaoqi International Airport,32.0,METAR Z
