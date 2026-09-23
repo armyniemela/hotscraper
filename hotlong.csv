@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KGEU,Glendale Municipal Airport,35.0,METAR KGEU 2Z
-PHX  KPHX,Phoenix Sky Harbor International Airport,35.0,METAR KPHX 2Z
-UPG  WAAA,Hasanuddin International Airport,35.0,METAR WAAA 2Z
-BDJ  WAOO,Syamsudin Noor International Airport,35.0,METAR WAOO 2Z
-LUF  KLUF,Luke Air Force Base,34.0,METAR KLUF 2Z
-MDC  WAMM,Sam Ratulangi Airport,34.0,METAR WAMM 2Z
-KTR  YPTN,Tindal Airport,34.0,METAR YPTN 2Z
-SCF  KSDL,Scottsdale Airport,33.0,METAR KSDL 2Z
-KGXF,,33.0,METAR KGXF 2Z
-LGF  KLGF,Laguna Army Airfield,33.0,METAR KLGF 2Z
-MEP  WMAU,Mersing Airport,33.0,METAR WMAU 2Z
-SYX  ZJSY,Sanya Phoenix International Airport,33.0,METAR Z
-KIH  OIBK,Kish International Airport,33.0,METAR OIBK 2Z
-K18H,,33.0,METAR K18H 2Z
-CGK  WIII,Soekarno-Hatta International Airport,33.0,METAR WIII 2Z
-CAN  ZGGG,Guangzhou Baiyun International Airport,33.0,METAR Z
-DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,33.0,METAR WAJJ 2Z
-WAHS,,33.0,METAR WAHS 2Z
-ISA  YBMA,Mount Isa Airport,33.0,METAR YBMA 2Z
-PHE  YPPD,Port Hedland International Airport,33.0,METAR YPPD 2Z
-KCHD,Chandler Municipal Airport,32.0,METAR KCHD 2Z
-AZA  KIWA,Mesa Gateway Airport,32.0,METAR KIWA 2Z
-BLH  KBLH,Blythe Airport,32.0,METAR KBLH 2Z
-PSP  KPSP,Palm Springs International Airport,32.0,METAR KPSP 2Z
-MSC  KFFZ,Falcon Field,32.0,METAR KFFZ
-TIQ  PGWT,Tinian International Airport,32.0,METAR PGWT 2Z
-YUM  KNYL,Yuma International Airport / Marine Corps Air Station Yuma,32.0,METAR KNYL 2Z
-PPS  RPVP,Puerto Princesa International Airport / PAF Antonio Bautista Air Base,32.0,METAR RPVP 2Z
-ZAM  RPMZ,Zamboanga International Airport,32.0,METAR RPMZ
-KLO  RPVK,Kalibo International Airport,32.0,METAR RPVK 2Z
-TWU  WBKW,Tawau Airport,32.0,METAR WBKW 2Z
-DGT  RPVD,Sibulan Airport,32.0,METAR RPVD 2Z
-NVA  SKNV,Benito Salas Airport,32.0,METAR SKNV 2Z
-CXI  PLCH,Cassidy International Airport,32.0,METAR PLCH 2Z
-FJR  OMFJ,Fujairah International Airport,32.0,METAR OMFJ 2Z
-DIA  OTBD,Doha International Airport,32.0,METAR OTBD 2Z
-DMK  VTBD,Don Mueang International Airport,32.0,METAR VTBD 2Z
-ZNE  YNWN,Newman Airport,32.0,METAR YNWN 2Z
-HLP  WIHH,Halim Perdanakusuma International Airport,32.0,METAR WIHH 2Z
-BTH  WIDD,Hang Nadim International Airport,32.0,METAR WIDD 2Z
-TNJ  WIDN,Raja Haji Fisabilillah International Airport,32.0,METAR WIDN 2Z
-PLM  WIPP,Sultan Mahmud Badaruddin II Airport,32.0,METAR WIPP 2Z
-BTJ  WITT,Sultan Iskandar Muda International Airport,32.0,METAR WITT 2Z
-VDO  VVVD,Van Don International Airport,32.0,METAR VVVD 2Z
-VTE  VLVT,Wattay International Airport,32.0,METAR VLVT 2Z
+BMW  DATM,Bordj Badji Mokhtar Airport,39.0,METAR DATM 2Z
+AJY  DRZA,Mano Dayak International Airport,39.0,METAR DRZ
+KWI  OKKK,Kuwait International Airport,39.0,METAR OKKK 2Z
+POD  GOSP,Podor Airport,39.0,METAR GOSP 2Z
+AQI  OEPA,Al Qaisumah/Hafr Al Batin Airport,39.0,METAR OEPA 2Z
+ULH  OEAO,Majeed Bin Abdulaziz Airport,39.0,METAR OEAO 2Z
+EUN  GMML,Hassan I Airport,39.0,METAR GMML 2Z
+GMAG,,39.0,METAR GMAG 2Z
+RAH  OERF,Rafha Domestic Airport,38.0,METAR OERF 2Z
+HOF  OEAH,Al-Ahsa International Airport,38.0,METAR OEAH 2Z
+PMW  SBPJ,Brigadeiro Lysias Rodrigues Airport,38.0,METAR SBPJ 2Z
+BJZ  LEBZ,Badajoz Airport,38.0,METAR LEBZ
+TIN  DAOF,Tindouf Airport,38.0,METAR DAOF 2Z
+ABD  OIAA,Abadan Airport,38.0,METAR OIAA 2Z
+AEH  FTTC,Abeche Airport,37.0,METAR FTTC 2Z
+NIX  GANR,Nioro du Sahel Airport,37.0,METAR GANR 2Z
+OOAD,,37.0,METAR OOAD 2Z
+AKH  OEPS,Prince Sultan Air Base,37.0,METAR OEPS 2Z
+OZP  LEMO,Moron Air Base,37.0,METAR LEMO 2Z
+BYJ  LPBJ,Beja Airport / Airbase,37.0,METAR LPBJ 2Z
+GAQ  GAGO,Gao Airport,37.0,METAR GAGO 2Z
+JDO  SBJU,Orlando Bezerra de Menezes Airport,37.0,METAR SBJU 2Z
+LPAR,Alverca Air Base,37.0,METAR LPAR 2Z
+AAN  OMAL,Al Ain International Airport,37.0,METAR OMAL 2Z
+ASW  HESN,Aswan International Airport,37.0,METAR HESN 2Z
+ABS  HEBL,Abu Simbel Airport,37.0,METAR HEBL 2Z
+RUH  OERK,King Khaled International Airport,37.0,METAR OERK 2Z
+OEKJ,,37.0,METAR OEKJ 2Z
+NJF  ORNI,Al Najaf International Airport,37.0,METAR ORNI 2Z
+ODB  LEBA,Córdoba Airport,37.0,METAR LEBA 2Z
+EBL  ORER,Erbil International Airport,37.0,METAR ORER 2Z
+QMJ  OIAI,Shahid Asiyaee Airport,37.0,METAR OIAI 2Z
+RAK  GMMX,Menara Airport,37.0,METAR GMMX 2Z
+BND  OIKB,Bandar Abbas International Airport,36.0,METAR OIKB 2Z
+SVQ  LEZL,Sevilla Airport,36.0,METAR LEZ
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,36.0,METAR GQNO 2Z
+ITB  SBIH,Itaituba Airport,36.0,METAR SBIH 2Z
+BZV  FCBB,Maya-Maya Airport,36.0,METAR FCBB 2Z
+WAE  OEWD,Wadi Al Dawasir Domestic Airport,36.0,METAR OEWD 2Z
+TUU  OETB,Tabuk Airport,36.0,METAR OETB 2Z
+SHW  OESH,Sharurah Domestic Airport,36.0,METAR OESH 2Z
+HAS  OEHL,Ha'il Airport,36.0,METAR OEHL 2Z
+ELQ  OEGS,Gassim Airport,36.0,METAR OEGS 2Z
+PNZ  SBPL,Senador Nilo Coelho Airport,36.0,METAR SBPL 2Z
+CUC  SKCC,Camilo Daza International Airport,36.0,METAR SKCC 2Z
