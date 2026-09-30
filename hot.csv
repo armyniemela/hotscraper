@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,36.0,METAR YPKU 3Z
-TSA  RCSS,Taipei Songshan Airport,36.0,SPECI RCSS 3Z
-HUI  VVPB,Phu Bai International Airport,35.0,METAR VVPB 3Z
-DAD  VVDN,Da Nang International Airport,35.0,METAR VVDN 3Z
-HAK  ZJHK,Haikou Meilan International Airport,35.0,METAR Z
+MAX  GOSM,Ouro Sogui Airport,41.0,METAR GOSM 3Z
+POD  GOSP,Podor Airport,41.0,METAR GOSP 3Z
+GOOD,,39.0,METAR GOOD 3Z
+GOOG,Linguère Airport,38.0,METAR GOOG 3Z
+MOC  SBMK,Mário Ribeiro Airport,38.0,METAR SBMK 3Z
