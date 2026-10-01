@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-AJY  DRZA,Mano Dayak International Airport,37.0,METAR DRZ
-BPG  SBBW,Barra do Garças Airport,37.0,METAR SBBW 3Z
-KLC  GOOK,Kaolack Airport,37.0,METAR GOOK 3Z
-MAB  SBMA,João Correa da Rocha Airport,37.0,METAR SBMA 3Z
-AZR  DAUA,Touat Cheikh Sidi Mohamed Belkebir Airport,37.0,METAR DAUA 3Z
-MED  OEMA,Prince Mohammad Bin Abdulaziz Airport,37.0,METAR OEMA 3Z
-GYN  SBGO,Santa Genoveva Airport,36.0,METAR SBGO 3Z
-ABS  HEBL,Abu Simbel Airport,36.0,METAR HEBL 3Z
-THE  SBTE,Senador Petrônio Portela Airport,36.0,METAR SBTE 3Z
-DIA  OTBD,Doha International Airport,36.0,METAR OTBD 3Z
-ITB  SBIH,Itaituba Airport,36.0,METAR SBIH 3Z
-ATM  SBHT,Altamira Interstate Airport,36.0,METAR SBHT 3Z
-AFL  SBAT,Piloto Osvaldo Marques Dias Airport,36.0,METAR SBAT 3Z
-TUD  GOTT,Tambacounda Airport,36.0,METAR GOTT 3Z
-GAKD,,36.0,METAR GAKD 3Z
-CGB  SBCY,Marechal Rondon Airport,36.0,METAR SBCY 3Z
-PLL  SBMN,Ponta Pelada Airport / Manaus Air Base,36.0,METAR SBMN 3Z
-PSZ  SLPS,Capitán Av. Salvador Ogaya G. airport,36.0,METAR SLPS 3Z
-TIN  DAOF,Tindouf Airport,36.0,METAR DAOF 3Z
-CUC  SKCC,Camilo Daza International Airport,36.0,METAR SKCC 3Z
-ULH  OEAO,Majeed Bin Abdulaziz Airport,36.0,METAR OEAO 3Z
-OCC  SECO,Francisco De Orellana Airport,36.0,METAR SECO 3Z
-KBKS,Brooks County Airport,36.0,METAR KBKS 3Z
-MAM  MMMA,General Servando Canales International Airport,35.0,METAR MMMA 3Z
-XJD  OTBH,Al Udeid Air Base,35.0,METAR OTBH 3Z
-CAW  SBCP,Bartolomeu Lisandro Airport,35.0,METAR SBCP 3Z
-PNZ  SBPL,Senador Nilo Coelho Airport,35.0,METAR SBPL 3Z
-TUR  SBTU,Tucuruí Airport,35.0,METAR SBTU 3Z
-DOH  OTHH,Hamad International Airport,35.0,METAR OTHH 3Z
-GOGK,,35.0,METAR GOGK 3Z
-SBLS,Lagoa Santa Air Base,35.0,METAR SBLS 3Z
-PLU  SBBH,Pampulha - Carlos Drummond de Andrade Airport,35.0,METAR SBBH 3Z
-JDO  SBJU,Orlando Bezerra de Menezes Airport,35.0,METAR SBJU 3Z
-IMP  SBIZ,Prefeito Renato Moreira Airport,35.0,METAR SBIZ
-TPP  SPST,Cadete FAP Guillermo Del Castillo Paredes Airport,35.0,METAR SPST 3Z
-YMS  SPMS,Moises Benzaquen Rengifo Airport,35.0,METAR SPMS 3Z
-BVB  SBBV,Atlas Brasil Cantanhede Airport,35.0,METAR SBBV 3Z
-MAO  SBEG,Eduardo Gomes International Airport,35.0,METAR SBEG 3Z
-PBM  SMJP,Johan Adolf Pengel International Airport,35.0,METAR SMJP 3Z
-ELQ  OEGS,Gassim Airport,35.0,METAR OEGS 3Z
-HOF  OEAH,Al-Ahsa International Airport,35.0,METAR OEAH 3Z
-SHW  OESH,Sharurah Domestic Airport,35.0,METAR OESH 3Z
-RUH  OERK,King Khaled International Airport,35.0,METAR OERK 3Z
-ORG  SMZO,Zorg en Hoop Airport,35.0,METAR SMZ
-K8T6,Live Oak County Airport,35.0,METAR K8T6 3Z
+CAN  ZGGG,Guangzhou Baiyun International Airport,35.0,METAR Z
+ISA  YBMA,Mount Isa Airport,35.0,METAR YBMA 0Z
+SNO  VTUI,Sakon Nakhon Airport,35.0,METAR VTUI 0Z
+DIA  OTBD,Doha International Airport,34.0,METAR OTBD 0Z
+HUI  VVPB,Phu Bai International Airport,34.0,METAR VVPB 0Z
+PKZ  VLPS,Pakse International Airport,34.0,METAR VLPS 0Z
+TKG  WILL,Radin Inten II International Airport,34.0,METAR WILL 0Z
+DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,34.0,METAR WAJJ 0Z
+VDO  VVVD,Van Don International Airport,34.0,METAR VVVD 0Z
+SUB  WARR,Juanda International Airport,34.0,METAR WARR 0Z
+UPG  WAAA,Hasanuddin International Airport,34.0,METAR WAAA 0Z
+VTE  VLVT,Wattay International Airport,34.0,METAR VLVT 0Z
+QPG  WSAP,Paya Lebar Air Base,34.0,METAR WSAP 0Z
+BAH  OBBI,Bahrain International Airport,34.0,METAR OBBI 0Z
+DOH  OTHH,Hamad International Airport,33.0,METAR OTHH 0Z
+MKZ  WMKM,Malacca International Airport,33.0,METAR WMKM 0Z
+SDK  WBKS,Sandakan Airport,33.0,METAR WBKS 0Z
+KUL  WMKK,Kuala Lumpur International Airport,33.0,METAR WMKK 0Z
+KLO  RPVK,Kalibo International Airport,33.0,METAR RPVK 0Z
+RMQ  RCMQ,Taichung International Airport / Ching Chuang Kang Air Base,33.0,METAR RCMQ 0Z
+NNG  ZGNN,Nanning Wuxu Airport,33.0,METAR Z
+SYX  ZJSY,Sanya Phoenix International Airport,33.0,METAR Z
+HAK  ZJHK,Haikou Meilan International Airport,33.0,METAR Z
+CEB  RPVM,Mactan Cebu International Airport,33.0,METAR RPVM 0Z
+TCR  VOTK,Tuticorin Airport,33.0,METAR VOTK 0Z
+URT  VTSB,Surat Thani Airport,33.0,METAR VTSB 0Z
+MZG  RCQC,Penghu Magong Airport,33.0,METAR RCQC 0Z
+PLM  WIPP,Sultan Mahmud Badaruddin II Airport,33.0,METAR WIPP 0Z
+MDC  WAMM,Sam Ratulangi Airport,33.0,METAR WAMM 0Z
+KOP  VTUW,Nakhon Phanom Airport,33.0,METAR VTUW 0Z
+ROI  VTUV,Roi Et Airport,33.0,METAR VTUV 0Z
+BFV  VTUO,Buri Ram Airport,33.0,METAR VTUO 0Z
+KKC  VTUK,Khon Kaen Airport,33.0,METAR VTUK 0Z
+WAQQ,,33.0,METAR WAQQ 0Z
+WAHS,,33.0,METAR WAHS 0Z
+SGN  VVTS,Tan Son Nhat International Airport,33.0,METAR VVTS 0Z
+HAN  VVNB,Noi Bai International Airport,33.0,METAR VVNB 0Z
+DAD  VVDN,Da Nang International Airport,33.0,METAR VVDN 0Z
+HPH  VVCI,Cat Bi International Airport,33.0,METAR VVCI 0Z
+HLP  WIHH,Halim Perdanakusuma International Airport,33.0,METAR WIHH 0Z
+DXB  OMDB,Dubai International Airport,33.0,METAR OMDB 0Z
+SHJ  OMSJ,Sharjah International Airport,33.0,METAR OMSJ 0Z
+PTTP,,32.0,METAR PTTP 0Z
+LGK  WMKL,Langkawi International Airport,32.0,METAR WMKL 0Z
+VOVZ,,32.0,METAR VOVZ
