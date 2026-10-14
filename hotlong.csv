@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-CGB  SBCY,Marechal Rondon Airport,37.0,METAR SBCY 1Z
-BPG  SBBW,Barra do Garças Airport,37.0,METAR SBBW 1Z
-AFL  SBAT,Piloto Osvaldo Marques Dias Airport,37.0,METAR SBAT 1Z
-ORG  SMZO,Zorg en Hoop Airport,36.0,METAR SMZ
-PAP  MTPP,Toussaint Louverture International Airport,36.0,METAR MTPP 1Z
-TPP  SPST,Cadete FAP Guillermo Del Castillo Paredes Airport,36.0,METAR SPST 1Z
-JJI  SPJI,Juanjui Airport,36.0,METAR SPJI 1Z
-GOOD,,36.0,METAR GOOD 1Z
-BVB  SBBV,Atlas Brasil Cantanhede Airport,36.0,METAR SBBV 1Z
-SJB  SLJO,San Joaquín Airport,36.0,METAR SLJO 1Z
-PMW  SBPJ,Brigadeiro Lysias Rodrigues Airport,36.0,METAR SBPJ 1Z
-LTM  SYLT,Lethem Airport,36.0,METAR SYLT 1Z
-THZ  DRRT,Tahoua Airport,36.0,METAR DRRT 1Z
-IMP  SBIZ,Prefeito Renato Moreira Airport,36.0,METAR SBIZ
-ATM  SBHT,Altamira Interstate Airport,36.0,METAR SBHT 1Z
-MAR  SVMC,La Chinita International Airport,35.0,METAR SVMC 1Z
-MFE  KMFE,McAllen Miller International Airport,35.0,METAR KMFE 1Z
-YMS  SPMS,Moises Benzaquen Rengifo Airport,35.0,METAR SPMS 1Z
-MAX  GOSM,Ouro Sogui Airport,35.0,METAR GOSM 1Z
-JDO  SBJU,Orlando Bezerra de Menezes Airport,35.0,METAR SBJU 1Z
-KLC  GOOK,Kaolack Airport,35.0,METAR GOOK 1Z
-NIX  GANR,Nioro du Sahel Airport,35.0,METAR GANR 1Z
-ASC  SLAS,Ascención de Guarayos Airport,35.0,METAR SLAS 1Z
-SRD  SLRA,San Ramón Airport,35.0,METAR SLRA 1Z
-RIB  SLRI,Capitán Av. Selin Zeitun Lopez Airport,35.0,METAR SLRI 1Z
-GYA  SLGM,Guayaramerín Airport,35.0,METAR SLGM 1Z
-STM  SBSN,Santarém - Maestro Wilson Fonseca International Airport,35.0,METAR SBSN 1Z
-CIJ  SLCO,Capitán Aníbal Arab Airport,35.0,METAR SLCO 1Z
-AJY  DRZA,Mano Dayak International Airport,35.0,METAR DRZ
-NIM  DRRN,Diori Hamani International Airport,35.0,METAR DRRN 1Z
-GJM  SBGM,Guajará-Mirim Airport,35.0,METAR SBGM 1Z
-JAE  SPJE,Shumba Airport,35.0,METAR SPJE 1Z
-MHCH,,35.0,METAR MHCH 1Z
-KAPY,Zapata County Airport,35.0,METAR KAPY 1Z
-CZT  KCZT,Dimmit County Airport,35.0,METAR KCZ
-REX  MMRX,General Lucio Blanco International Airport,34.0,METAR MMRX 1Z
-NLD  MMNL,Quetzalcóatl International Airport,34.0,METAR MMNL 1Z
-HUX  MMBT,Bahías de Huatulco International Airport,34.0,METAR MMBT 1Z
-CRP  KCRP,Corpus Christi International Airport,34.0,METAR KCRP 1Z
-KATT,,34.0,METAR KATT 1Z
-BRO  KBRO,Brownsville South Padre Island International Airport,34.0,METAR KBRO 1Z
-KNMT,,34.0,METAR KNMT 1Z
-GYN  SBGO,Santa Genoveva Airport,34.0,METAR SBGO 1Z
-MGTU,,34.0,METAR MGTU 1Z
-MGMT,,34.0,METAR MGMT 1Z
+UPG  WAAA,Hasanuddin International Airport,34.0,METAR WAAA 1Z
+WAHS,,34.0,METAR WAHS 1Z
+BDJ  WAOO,Syamsudin Noor International Airport,34.0,METAR WAOO 1Z
+TDX  VTBO,Trat Airport,33.0,METAR VTBO 1Z
+CGK  WIII,Soekarno-Hatta International Airport,33.0,METAR WIII 1Z
+ZNE  YNWN,Newman Airport,33.0,METAR YNWN 1Z
+MDC  WAMM,Sam Ratulangi Airport,33.0,METAR WAMM 1Z
+TKG  WILL,Radin Inten II International Airport,33.0,METAR WILL 1Z
+KOE  WATT,El Tari Airport,33.0,METAR WATT 1Z
+HPH  VVCI,Cat Bi International Airport,33.0,METAR VVCI 1Z
+LAO  RPLI,Laoag International Airport,32.0,METAR RPLI 1Z
+TRW  NGTA,Bonriki International Airport,32.0,METAR NGTA 1Z
+TWU  WBKW,Tawau Airport,32.0,METAR WBKW 1Z
+SDK  WBKS,Sandakan Airport,32.0,METAR WBKS 1Z
+LBU  WBKL,Labuan Airport,32.0,METAR WBKL 1Z
+MYY  WBGR,Miri Airport,32.0,METAR WBGR 1Z
+BTU  WBGB,Bintulu Airport,32.0,METAR WBGB 1Z
+KUA  WMKD,Kuantan Airport,32.0,METAR WMKD 1Z
+NNG  ZGNN,Nanning Wuxu Airport,32.0,METAR Z
+PHY  VTPB,Phetchabun Airport,32.0,METAR VTPB 1Z
+PHS  VTPP,Phitsanulok Airport,32.0,METAR VTPP 1Z
+CRK  RPLC,Clark International Airport / Clark Air Base,32.0,METAR RPLC 1Z
+PPS  RPVP,Puerto Princesa International Airport / PAF Antonio Bautista Air Base,32.0,METAR RPVP 1Z
+SFS  RPLB,Subic Bay International Airport / Naval Air Station Cubi Point,32.0,METAR RPLB 1Z
+VAJJ,Juhu Aerodrome,32.0,METAR VAJJ 1Z
+BDQ  VABO,Vadodara Airport,32.0,METAR VABO 1Z
+CAN  ZGGG,Guangzhou Baiyun International Airport,32.0,METAR Z
+PPP  YBPN,Proserpine Whitsunday Coast Airport,32.0,METAR YBPN 1Z
+BTH  WIDD,Hang Nadim International Airport,32.0,METAR WIDD 1Z
+SUB  WARR,Juanda International Airport,32.0,METAR WARR 1Z
+GET  YGEL,Geraldton Airport,32.0,METAR YGEL 1Z
+SGN  VVTS,Tan Son Nhat International Airport,32.0,METAR VVTS 1Z
+VDO  VVVD,Van Don International Airport,32.0,METAR VVVD 1Z
+ROK  YBRK,Rockhampton Airport,32.0,METAR YBRK 1Z
+TNJ  WIDN,Raja Haji Fisabilillah International Airport,32.0,METAR WIDN 1Z
+WAQQ,,32.0,METAR WAQQ 1Z
+DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,32.0,METAR WAJJ 1Z
+PLM  WIPP,Sultan Mahmud Badaruddin II Airport,32.0,METAR WIPP 1Z
+LOP  WADL,Lombok International Airport,32.0,METAR WADL 1Z
+UTP  VTBU,U-Tapao International Airport,32.0,METAR VTBU 1Z
+BOM  VABB,Chhatrapati Shivaji International Airport,32.0,METAR VABB 1Z
+DIA  OTBD,Doha International Airport,32.0,METAR OTBD 1Z
+AUH  OMAA,Zayed International Airport,32.0,METAR OMAA 1Z
+AZI  OMAD,Al Bateen Executive Airport,32.0,METAR OMAD 1Z
+PEN  WMKP,Penang International Airport,32.0,METAR WMKP 1Z
