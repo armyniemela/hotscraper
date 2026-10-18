@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PHE  YPPD,Port Hedland International Airport,40.0,METAR YPPD 1Z
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,38.0,SPECI YPKU 1Z
-FOS  YFRT,Forrest Airport,36.0,METAR YFRT 1Z
-DCN  YCIN,RAAF Base Curtin,36.0,METAR YCIN 1Z
-ISA  YBMA,Mount Isa Airport,35.0,METAR YBMA 1Z
+MAX  GOSM,Ouro Sogui Airport,40.0,METAR GOSM 1Z
+GAQ  GAGO,Gao Airport,40.0,METAR GAGO 1Z
+NIX  GANR,Nioro du Sahel Airport,39.0,METAR GANR 1Z
+POD  GOSP,Podor Airport,39.0,METAR GOSP 1Z
+NIM  DRRN,Diori Hamani International Airport,39.0,METAR DRRN 1Z
