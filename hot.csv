@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,37.0,METAR YPKU 2Z
-ISA  YBMA,Mount Isa Airport,36.0,METAR YBMA 2Z
-ASP  YBAS,Alice Springs Airport,36.0,METAR YBAS 2Z
-AYQ  YAYE,Ayers Rock Connellan Airport,36.0,METAR YAYE 2Z
-DCN  YCIN,RAAF Base Curtin,35.0,METAR YCIN 2Z
+POD  GOSP,Podor Airport,44.0,METAR GOSP 2Z
+ATR  GQPA,Atar International Airport,42.0,METAR GQPA 2Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,42.0,METAR GQNO 2Z
+NIX  GANR,Nioro du Sahel Airport,41.0,METAR GANR 2Z
+GOOD,,40.0,METAR GOOD 2Z
