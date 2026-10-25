@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,38.0,METAR YPKU 2Z
-DCN  YCIN,RAAF Base Curtin,36.0,METAR YCIN 2Z
-ISA  YBMA,Mount Isa Airport,36.0,METAR YBMA 2Z
-UPG  WAAA,Hasanuddin International Airport,35.0,SPECI WAAA 2Z
-MDC  WAMM,Sam Ratulangi Airport,34.0,METAR WAMM 2Z
+POD  GOSP,Podor Airport,42.0,METAR GOSP 2Z
+NKC  GQNO,Nouakchott–Oumtounsy International Airport,42.0,METAR GQNO 2Z
+MAX  GOSM,Ouro Sogui Airport,41.0,METAR GOSM 2Z
+NIX  GANR,Nioro du Sahel Airport,41.0,METAR GANR 2Z
+GAQ  GAGO,Gao Airport,40.0,METAR GAGO 2Z
