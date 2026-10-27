@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,38.0,METAR YPKU 2Z
-KOE  WATT,El Tari Airport,35.0,METAR WATT 2Z
-ROK  YBRK,Rockhampton Airport,35.0,METAR YBRK 2Z
-KTR  YPTN,Tindal Airport,35.0,METAR YPTN 2Z
-DCN  YCIN,RAAF Base Curtin,35.0,METAR YCIN 2Z
+GOOG,Linguère Airport,38.0,METAR GOOG 2Z
+XLS  GOSS,Saint Louis Airport,38.0,METAR GOSS 2Z
+GOOD,,38.0,METAR GOOD 2Z
+POD  GOSP,Podor Airport,38.0,METAR GOSP 2Z
+GAQ  GAGO,Gao Airport,38.0,METAR GAGO 2Z
