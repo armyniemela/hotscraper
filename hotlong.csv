@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-PNZ  SBPL,Senador Nilo Coelho Airport,38.0,METAR SBPL 0Z
-THZ  DRRT,Tahoua Airport,37.0,METAR DRRT 0Z
-NIM  DRRN,Diori Hamani International Airport,37.0,METAR DRRN 0Z
-NIX  GANR,Nioro du Sahel Airport,37.0,METAR GANR 0Z
-GAKD,,37.0,METAR GAKD 0Z
-THE  SBTE,Senador Petrônio Portela Airport,37.0,METAR SBTE 0Z
-CAM  SLCA,Camiri Airport,36.0,METAR SLCA 0Z
-SBL  SLSA,Santa Ana Del Yacuma Airport,36.0,METAR SLSA 0Z
-TUD  GOTT,Tambacounda Airport,36.0,METAR GOTT 0Z
-ZND  DRZR,Zinder Airport,36.0,METAR DRZ
-AJY  DRZA,Mano Dayak International Airport,36.0,METAR DRZ
-MFQ  DRRM,Maradi Airport,36.0,METAR DRRM 0Z
-MAX  GOSM,Ouro Sogui Airport,36.0,METAR GOSM 0Z
-POD  GOSP,Podor Airport,36.0,METAR GOSP 0Z
-ITB  SBIH,Itaituba Airport,36.0,METAR SBIH 0Z
-CUC  SKCC,Camilo Daza International Airport,36.0,METAR SKCC 0Z
-CIJ  SLCO,Capitán Aníbal Arab Airport,35.0,METAR SLCO 0Z
-TDD  SLTR,Teniente Av. Jorge Henrich Arauz Airport,35.0,METAR SLTR 0Z
-GEO  SYCJ,Cheddi Jagan International Airport,35.0,METAR SYCJ 0Z
-ATM  SBHT,Altamira Interstate Airport,35.0,METAR SBHT 0Z
-AFL  SBAT,Piloto Osvaldo Marques Dias Airport,35.0,METAR SBAT 0Z
-PAP  MTPP,Toussaint Louverture International Airport,35.0,METAR MTPP 0Z
-MZI  GAMB,Mopti Ambodédjo International Airport,35.0,METAR GAMB 0Z
-BKO  GABS,Modibo Keita International Airport,35.0,METAR GABS 0Z
-KGG  GOTK,Kédougou Airport,35.0,METAR GOTK 0Z
-KLC  GOOK,Kaolack Airport,35.0,METAR GOOK 0Z
-MGMT,,35.0,METAR MGMT 0Z
-STM  SBSN,Santarém - Maestro Wilson Fonseca International Airport,35.0,METAR SBSN 0Z
-OYK  SBOI,Oiapoque Airport,35.0,METAR SBOI 0Z
-BVB  SBBV,Atlas Brasil Cantanhede Airport,35.0,METAR SBBV 0Z
-HUX  MMBT,Bahías de Huatulco International Airport,34.0,METAR MMBT 0Z
-MSSM,El Papalon Airport,34.0,METAR MSSM 0Z
-BON  TNCB,Flamingo International Airport,34.0,METAR TNCB 0Z
-RIB  SLRI,Capitán Av. Selin Zeitun Lopez Airport,34.0,METAR SLRI 0Z
-RCH  SKRH,Almirante Padilla Airport,34.0,METAR SKRH 0Z
-SLSV,San Ignacio de Velasco Airport,34.0,METAR SLSV 0Z
-BOY  DFOO,Bobo Dioulasso Airport,34.0,METAR DFOO 0Z
-IMP  SBIZ,Prefeito Renato Moreira Airport,34.0,METAR SBIZ
-PEM  SPTU,Padre Aldamiz International Airport,34.0,METAR SPTU 0Z
-RER  MGRT,Retalhuleu Airport,34.0,METAR MGRT 0Z
-MUB  FBMN,Maun Airport,34.0,METAR FBMN 0Z
-MHCH,,34.0,METAR MHCH 0Z
-SAL  MSLP,Monseñor Óscar Arnulfo Romero International Airport,34.0,METAR MSLP 0Z
-PLL  SBMN,Ponta Pelada Airport / Manaus Air Base,34.0,METAR SBMN 0Z
-MAB  SBMA,João Correa da Rocha Airport,34.0,METAR SBMA 0Z
+KTR  YPTN,Tindal Airport,37.0,METAR YPTN 0Z
+PHE  YPPD,Port Hedland International Airport,37.0,METAR YPPD 0Z
+HLP  WIHH,Halim Perdanakusuma International Airport,36.0,METAR WIHH 0Z
+GES  RPMR,General Santos International Airport,35.0,METAR RPMR 0Z
+DJJ  WAJJ,Dortheys Hiyo Eluay International Airport,35.0,METAR WAJJ 0Z
+CGK  WIII,Soekarno-Hatta International Airport,35.0,METAR WIII 0Z
+KUA  WMKD,Kuantan Airport,34.0,METAR WMKD 0Z
+TWU  WBKW,Tawau Airport,34.0,METAR WBKW 0Z
+MNL  RPLL,Ninoy Aquino International Airport,34.0,METAR RPLL 0Z
+NAK  VTUQ,Nakhon Ratchasima Airport,34.0,METAR VTUQ 0Z
+KBV  VTSG,Krabi Airport,34.0,METAR VTSG 0Z
+PHY  VTPB,Phetchabun Airport,34.0,METAR VTPB 0Z
+DRW  YPDN,Darwin International Airport / RAAF Darwin,34.0,METAR YPDN 0Z
+KNX  YPKU,East Kimberley Regional (Kununurra) Airport,34.0,METAR YPKU 0Z
+ROK  YBRK,Rockhampton Airport,34.0,METAR YBRK 0Z
+MDL  VYMD,Mandalay International Airport,34.0,METAR VYMD 0Z
+SUB  WARR,Juanda International Airport,34.0,METAR WARR 0Z
+UPG  WAAA,Hasanuddin International Airport,34.0,METAR WAAA 0Z
+ZNE  YNWN,Newman Airport,34.0,METAR YNWN 0Z
+KTA  YPKA,Karratha Airport,34.0,METAR YPKA 0Z
+AOR  WMKA,Sultan Abdul Halim Airport,33.0,METAR WMKA 0Z
+SWY  WMBA,Sitiawan Airport,33.0,METAR WMBA 0Z
+SFS  RPLB,Subic Bay International Airport / Naval Air Station Cubi Point,33.0,METAR RPLB 0Z
+DVO  RPMD,Francisco Bangoy International Airport,33.0,METAR RPMD 0Z
+KOP  VTUW,Nakhon Phanom Airport,33.0,METAR VTUW 0Z
+KKC  VTUK,Khon Kaen Airport,33.0,METAR VTUK 0Z
+SNO  VTUI,Sakon Nakhon Airport,33.0,METAR VTUI 0Z
+ZVK  VLSK,Savannakhet Airport,33.0,METAR VLSK 0Z
+NST  VTSF,Nakhon Si Thammarat Airport,33.0,METAR VTSF 0Z
+URT  VTSB,Surat Thani Airport,33.0,METAR VTSB 0Z
+TDX  VTBO,Trat Airport,33.0,METAR VTBO 0Z
+PHS  VTPP,Phitsanulok Airport,33.0,METAR VTPP 0Z
+HHQ  VTPH,Hua Hin Airport,33.0,METAR VTPH 0Z
+UTH  VTUD,Udon Thani Airport,33.0,METAR VTUD 0Z
+XSP  WSSL,Seletar Airport,33.0,METAR WSSL 0Z
+YAMB,RAAF Base Amberley,33.0,METAR YAMB 0Z
+VDTI,,33.0,METAR VDTI 0Z
+RGN  VYYY,Yangon International Airport,33.0,METAR VYYY 0Z
+PLM  WIPP,Sultan Mahmud Badaruddin II Airport,33.0,METAR WIPP 0Z
+TNJ  WIDN,Raja Haji Fisabilillah International Airport,33.0,METAR WIDN 0Z
+KOE  WATT,El Tari Airport,33.0,METAR WATT 0Z
+WAHS,,33.0,METAR WAHS 0Z
+HUI  VVPB,Phu Bai International Airport,33.0,METAR VVPB 0Z
+BKK  VTBS,Suvarnabhumi Airport,33.0,METAR VTBS 0Z
+DMK  VTBD,Don Mueang International Airport,33.0,METAR VTBD 0Z
