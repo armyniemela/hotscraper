@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,40.0,METAR YPKU 0Z
-KTA  YPKA,Karratha Airport,40.0,METAR YPKA 0Z
-DCN  YCIN,RAAF Base Curtin,39.0,METAR YCIN 0Z
-PHE  YPPD,Port Hedland International Airport,38.0,METAR YPPD 0Z
-ISA  YBMA,Mount Isa Airport,38.0,METAR YBMA 0Z
+GOOD,,39.0,METAR GOOD 0Z
+THE  SBTE,Senador Petrônio Portela Airport,38.0,METAR SBTE 0Z
+CGB  SBCY,Marechal Rondon Airport,38.0,METAR SBCY 0Z
+JDO  SBJU,Orlando Bezerra de Menezes Airport,38.0,METAR SBJU 0Z
+NIX  GANR,Nioro du Sahel Airport,38.0,METAR GANR 0Z
