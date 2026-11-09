@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-GOOD,,40.0,METAR GOOD 0Z
-POD  GOSP,Podor Airport,40.0,METAR GOSP 0Z
-XLS  GOSS,Saint Louis Airport,40.0,METAR GOSS 0Z
-TET  FQTT,Chingozi Airport,39.0,METAR FQTT 0Z
-GOOG,Linguère Airport,39.0,METAR GOOG 0Z
+PHE  YPPD,Port Hedland International Airport,40.0,METAR YPPD 0Z
+DCN  YCIN,RAAF Base Curtin,39.0,METAR YCIN 0Z
+ZNE  YNWN,Newman Airport,39.0,METAR YNWN 0Z
+KNX  YPKU,East Kimberley Regional (Kununurra) Airport,38.0,METAR YPKU 0Z
+ISA  YBMA,Mount Isa Airport,38.0,METAR YBMA 0Z
