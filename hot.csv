@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-ISA  YBMA,Mount Isa Airport,41.0,METAR YBMA 1Z
-DCN  YCIN,RAAF Base Curtin,39.0,METAR YCIN 1Z
-HSR  VAHS,Rajkot International Airport,37.0,METAR VAHS 1Z
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,37.0,METAR YPKU 1Z
-ZNE  YNWN,Newman Airport,37.0,SPECI YNWN 1Z
+SJS  SLJE,San José De Chiquitos Airport,39.0,METAR SLJE 1Z
+LTM  SYLT,Lethem Airport,38.0,METAR SYLT 1Z
+VLM  SLVM,Teniente Coronel Rafael Pabón Airport,38.0,METAR SLVM 1Z
+GOOG,Linguère Airport,37.0,METAR GOOG 1Z
+PAV  SBUF,Paulo Afonso Airport,37.0,METAR SBUF 1Z
