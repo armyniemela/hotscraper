@@ -1,6 +1,6 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-DCN  YCIN,RAAF Base Curtin,41.0,METAR YCIN 1Z
-KNX  YPKU,East Kimberley Regional (Kununurra) Airport,40.0,METAR YPKU 1Z
-ZNE  YNWN,Newman Airport,38.0,METAR YNWN 1Z
-SUB  WARR,Juanda International Airport,36.0,METAR WARR 1Z
-ISA  YBMA,Mount Isa Airport,36.0,METAR YBMA 1Z
+GOOD,,39.0,METAR GOOD 1Z
+GOOG,Linguère Airport,39.0,METAR GOOG 1Z
+MAX  GOSM,Ouro Sogui Airport,38.0,METAR GOSM 1Z
+NIX  GANR,Nioro du Sahel Airport,38.0,METAR GANR 1Z
+TUD  GOTT,Tambacounda Airport,38.0,METAR GOTT 1Z
