@@ -1,46 +1,46 @@
 Lyhenne,Lentoasema,"Lämpötila, C",Metadata
-MHCH,,36.0,METAR MHCH 1Z
-BVB  SBBV,Atlas Brasil Cantanhede Airport,36.0,METAR SBBV 1Z
-MAO  SBEG,Eduardo Gomes International Airport,36.0,METAR SBEG 1Z
-SNM  SLSM,San Ignacio de Moxos Airport,36.0,METAR SLSM 1Z
-SRJ  SLSB,Capitán Av. German Quiroga G. Airport,36.0,METAR SLSB 1Z
-SRD  SLRA,San Ramón Airport,36.0,METAR SLRA 1Z
-SJB  SLJO,San Joaquín Airport,36.0,METAR SLJO 1Z
-MHW  SLAG,Monteagudo Airport,36.0,METAR SLAG 1Z
-PCL  SPCL,Cap FAP David Abenzur Rengifo International Airport,36.0,METAR SPCL 1Z
-BYC  SLYA,Yacuiba Airport,36.0,METAR SLYA 1Z
-SBL  SLSA,Santa Ana Del Yacuma Airport,36.0,METAR SLSA 1Z
+SJB  SLJO,San Joaquín Airport,37.0,METAR SLJO 1Z
+MSAC,La Aramuaca Airport,36.0,METAR MSAC 1Z
 TDD  SLTR,Teniente Av. Jorge Henrich Arauz Airport,36.0,METAR SLTR 1Z
+SNM  SLSM,San Ignacio de Moxos Airport,36.0,METAR SLSM 1Z
+SRD  SLRA,San Ramón Airport,36.0,METAR SLRA 1Z
+GYA  SLGM,Guayaramerín Airport,36.0,METAR SLGM 1Z
+MNJU,,36.0,METAR MNJU 1Z
 NVA  SKNV,Benito Salas Airport,36.0,METAR SKNV 1Z
+PDA  SKPD,Obando Cesar Gaviria Trujillo Airport,36.0,METAR SKPD 1Z
+BVB  SBBV,Atlas Brasil Cantanhede Airport,36.0,METAR SBBV 1Z
+TFF  SBTF,Tefé Airport,36.0,METAR SBTF 1Z
 MSSM,El Papalon Airport,35.0,METAR MSSM 1Z
-VUP  SKVP,Alfonso López Pumarejo Airport,35.0,METAR SKVP 1Z
-TPP  SPST,Cadete FAP Guillermo Del Castillo Paredes Airport,35.0,METAR SPST 1Z
-OCC  SECO,Francisco De Orellana Airport,35.0,METAR SECO 1Z
-STM  SBSN,Santarém - Maestro Wilson Fonseca International Airport,35.0,METAR SBSN 1Z
-RPU  SBUY,Urucu Airport,35.0,METAR SBUY 1Z
-SRB  SLSR,Santa Rosa De Yacuma Airport,35.0,METAR SLSR 1Z
-SJS  SLJE,San José De Chiquitos Airport,35.0,METAR SLJE 1Z
-PSZ  SLPS,Capitán Av. Salvador Ogaya G. airport,35.0,METAR SLPS 1Z
-VLN  SVVA,Arturo Michelena International Airport,35.0,METAR SVVA 1Z
-THE  SBTE,Senador Petrônio Portela Airport,35.0,METAR SBTE 1Z
-CMG  SBCR,Corumbá International Airport,35.0,METAR SBCR 1Z
 RER  MGRT,Retalhuleu Airport,35.0,METAR MGRT 1Z
-AUC  SKUC,Santiago Perez Airport,35.0,METAR SKUC 1Z
-RCH  SKRH,Almirante Padilla Airport,35.0,METAR SKRH 1Z
-GIR  SKGI,Santiago Vila Airport,35.0,METAR SKGI 1Z
-TFF  SBTF,Tefé Airport,35.0,METAR SBTF 1Z
-HUX  MMBT,Bahías de Huatulco International Airport,34.0,METAR MMBT 1Z
-MSAC,La Aramuaca Airport,34.0,METAR MSAC 1Z
-IQT  SPQT,Coronel FAP Francisco Secada Vignetta International Airport,34.0,METAR SPQT 1Z
-PLL  SBMN,Ponta Pelada Airport / Manaus Air Base,34.0,METAR SBMN 1Z
-PVH  SBPV,Governador Jorge Teixeira de Oliveira Airport,34.0,METAR SBPV 1Z
-GYA  SLGM,Guayaramerín Airport,34.0,METAR SLGM 1Z
-BJO  SLBJ,Bermejo Airport,34.0,METAR SLBJ 1Z
-MQK  SLTI,San Matías Airport,34.0,METAR SLTI 1Z
+TPP  SPST,Cadete FAP Guillermo Del Castillo Paredes Airport,35.0,METAR SPST 1Z
+SBL  SLSA,Santa Ana Del Yacuma Airport,35.0,METAR SLSA 1Z
+BYC  SLYA,Yacuiba Airport,35.0,METAR SLYA 1Z
+RBO  SLRB,Roboré Airport,35.0,METAR SLRB 1Z
+SRJ  SLSB,Capitán Av. German Quiroga G. Airport,35.0,METAR SLSB 1Z
+PAV  SBUF,Paulo Afonso Airport,35.0,METAR SBUF 1Z
+SJL  SBUA,São Gabriel da Cachoeira Airport,35.0,METAR SBUA 1Z
+GJM  SBGM,Guajará-Mirim Airport,35.0,METAR SBGM 1Z
+JDO  SBJU,Orlando Bezerra de Menezes Airport,35.0,METAR SBJU 1Z
+JJI  SPJI,Juanjui Airport,35.0,METAR SPJI 1Z
+PCL  SPCL,Cap FAP David Abenzur Rengifo International Airport,35.0,METAR SPCL 1Z
+MHCH,,35.0,METAR MHCH 1Z
+EJA  SKEJ,Yariguíes Airport,35.0,METAR SKEJ 1Z
+MVP  SKMU,Fabio Alberto Leon Bentley Airport,35.0,METAR SKMU 1Z
+VUP  SKVP,Alfonso López Pumarejo Airport,35.0,METAR SKVP 1Z
+RBR  SBRB,Rio Branco-Plácido de Castro International Airport,35.0,METAR SBRB 1Z
+GOOG,Linguère Airport,34.0,METAR GOOG 1Z
+POD  GOSP,Podor Airport,34.0,METAR GOSP 1Z
+GOOD,,34.0,METAR GOOD 1Z
+MGTU,,34.0,METAR MGTU 1Z
+OCC  SECO,Francisco De Orellana Airport,34.0,METAR SECO 1Z
+CUC  SKCC,Camilo Daza International Airport,34.0,METAR SKCC 1Z
+PSZ  SLPS,Capitán Av. Salvador Ogaya G. airport,34.0,METAR SLPS 1Z
+RCH  SKRH,Almirante Padilla Airport,34.0,METAR SKRH 1Z
+SJE  SKSJ,Jorge E. Gonzalez Torres Airport,34.0,METAR SKSJ 1Z
 RBQ  SLRQ,Rurrenabaque Airport,34.0,METAR SLRQ 1Z
-ITB  SBIH,Itaituba Airport,34.0,METAR SBIH 1Z
-ATM  SBHT,Altamira Interstate Airport,34.0,METAR SBHT 1Z
-CIJ  SLCO,Capitán Aníbal Arab Airport,34.0,METAR SLCO 1Z
-VVI  SLVR,Viru Viru International Airport,34.0,METAR SLVR 1Z
-CZS  SBCZ,Cruzeiro do Sul Airport,34.0,METAR SBCZ
-PAP  MTPP,Toussaint Louverture International Airport,34.0,METAR MTPP 1Z
+MNCH,Chinandega Germán Pomares Ordóñez Airport,34.0,METAR MNCH 1Z
+YMS  SPMS,Moises Benzaquen Rengifo Airport,34.0,METAR SPMS 1Z
+KMP  FYKT,Keetmanshoop Airport,34.0,METAR FYKT 1Z
+STM  SBSN,Santarém - Maestro Wilson Fonseca International Airport,34.0,METAR SBSN 1Z
+GIR  SKGI,Santiago Vila Airport,34.0,METAR SKGI 1Z
+MTR  SKMR,Los Garzones Airport,34.0,METAR SKMR 1Z
